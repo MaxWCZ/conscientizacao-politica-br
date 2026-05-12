@@ -32,3 +32,13 @@ O foco principal do projeto está:
 - nas instituições públicas;
 - nos mecanismos administrativos e eleitorais;
 - nas relações entre política, sociedade e estrutura estatal.
+
+---
+
+## Navegação
+
+- [Metodologia](metodologia.md)
+- [Objetivos](objetivos.md)
+- [Estrutura](estrutura.md)
+- [Limitações](limitacoes.md)
+- [Prompt da Camada 0](prompt-camada-0.md)

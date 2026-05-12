@@ -67,3 +67,13 @@ Conteúdos em desenvolvimento ou reorganização.
 
 ### documentos/
 Arquivos complementares relacionados ao projeto.
+
+---
+
+## Navegação
+
+- [Metodologia](metodologia.md)
+- [Objetivos](objetivos.md)
+- [Estrutura](estrutura.md)
+- [Limitações](limitacoes.md)
+- [Prompt da Camada 0](prompt-camada-0.md)
