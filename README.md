@@ -46,16 +46,16 @@ O projeto está organizado em camadas de informação.
 ### Camada 0 — Estrutura e Fundamentos
 Objetivos, metodologia, limitações e organização conceitual do projeto.
 
-### Camada 1 — 
+### Camada 1  
 em desenvolvimento
 
-### Camada 2 — 
+### Camada 2  
 em desenvolvimento
 
-### Camada 3 — 
+### Camada 3 
 em desenvolvimento
 
-### Camada 4 — 
+### Camada 4 
 em desenvolvimento
 
 ---
@@ -69,7 +69,7 @@ camada-2/
 camada-3/
 camada-4/
 
-refs/
-imgs/
+referencias/
+imagens/
 rascunhos/
-docs/
+documentos/
