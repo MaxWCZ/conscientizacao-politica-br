@@ -1,27 +1,75 @@
-# conscientizacao-politica-br
-Projeto de informação e conscientização política sobre o Brasil
+# Sobre o Brasil — Projeto de Informação e Conscientização Política
 
-# Projeto de Conscientização Política
+Projeto independente voltado à organização, análise e disseminação de informações relacionadas à estrutura política, institucional e administrativa brasileira.
 
-Este projeto tem como objetivo organizar conteúdos, reflexões e materiais voltados à informação e conscientização política no Brasil.
+---
 
 ## Objetivo
 
-Ajudar pessoas a compreenderem melhor cargos públicos, instituições, responsabilidades políticas, processos eleitorais, direitos, deveres e mecanismos de participação democrática.
+O projeto busca ampliar a compreensão estrutural sobre:
+- cargos públicos;
+- instituições;
+- responsabilidades políticas;
+- funcionamento do Estado;
+- processos eleitorais;
+- mecanismos de participação democrática;
+- impactos sociais e administrativos das decisões políticas.
 
-## Por que este projeto existe
+A proposta central não é promover partidos, candidatos ou ideologias específicas, mas sim incentivar compreensão crítica, contextualizada e estrutural sobre política brasileira.
 
-Porque boa parte do debate político brasileiro acontece de forma fragmentada, emocional, partidária ou pouco informada.
+---
 
-Este projeto busca criar uma base mais clara, didática e crítica para quem deseja entender melhor o funcionamento político do país.
+## Motivação
 
-## Estrutura inicial
+Grande parte da população brasileira interage com política de forma:
+- fragmentada;
+- emocional;
+- superficial;
+- altamente polarizada;
+- dependente de recortes informacionais;
+- distante de fontes institucionais e contextos históricos mais amplos.
 
-- `textos/`: textos e materiais principais
-- `referencias/`: fontes, links e documentos de apoio
-- `rascunhos/`: materiais em desenvolvimento
-- `imagens/`: elementos visuais do projeto
+Ao mesmo tempo, muitas pessoas:
+- não compreendem plenamente as atribuições dos cargos públicos;
+- confundem responsabilidades institucionais;
+- possuem pouco contato com fontes primárias;
+- têm dificuldade em interpretar impactos políticos de médio e longo prazo.
 
-## Estado atual
+Este projeto surge como tentativa de reduzir parte desse ruído informacional.
 
-Projeto em fase inicial de estruturação.
+---
+
+## Estrutura do Projeto
+
+O projeto está organizado em camadas de informação.
+
+### Camada 0 — Estrutura e Fundamentos
+Objetivos, metodologia, limitações e organização conceitual do projeto.
+
+### Camada 1 — 
+em desenvolvimento
+
+### Camada 2 — 
+em desenvolvimento
+
+### Camada 3 — 
+em desenvolvimento
+
+### Camada 4 — 
+em desenvolvimento
+
+---
+
+## Estrutura Inicial de Diretórios
+
+```text
+camada-0/
+camada-1/
+camada-2/
+camada-3/
+camada-4/
+
+refs/
+imgs/
+rascunhos/
+docs/
