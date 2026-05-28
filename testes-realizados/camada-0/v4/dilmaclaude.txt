@@ -1,0 +1,103 @@
+Aqui estão as informações organizadas conforme a estrutura solicitada:
+
+---
+
+## 🔹 1. IDENTIFICAÇÃO BÁSICA
+
+**Nome completo:** Dilma Vana Rousseff
+
+**Data de nascimento:** 14 de dezembro de 1947
+
+**Cargo atual:** Presidente do Novo Banco de Desenvolvimento (NBD), também conhecido como Banco do BRICS, com sede em Xangai, China.
+
+**Situação atual:** Dilma Rousseff foi reeleita para o comando do Novo Banco de Desenvolvimento, com mandato estendido por mais cinco anos, aprovado por unanimidade em março de 2025.
+
+---
+
+## 🔹 2. VÍNCULO POLÍTICO ATUAL
+
+**Partido:** PT — Partido dos Trabalhadores
+
+**Data de filiação ao PT:** Filiada ao PT desde 2001.
+
+**O que significa filiação partidária (em linguagem simples):**
+Filiar-se a um partido significa registrar formalmente que você faz parte daquele grupo político. Isso permite, por exemplo, ser candidato pelo partido e participar de suas decisões internas.
+
+**O que é o fundo partidário:**
+É dinheiro público (do governo federal) repassado aos partidos para que possam funcionar — pagar funcionários, manter estrutura, realizar atividades de formação política. Quanto mais votos o partido tem nas eleições, maior é a fatia que recebe.
+
+**O que é o fundo eleitoral:**
+É dinheiro público destinado especificamente para custear campanhas eleitorais. Os partidos distribuem esses recursos entre seus candidatos durante períodos de eleição.
+
+---
+
+## 🔹 3. HISTÓRICO PARTIDÁRIO
+
+| Partido | Período |
+|--------|---------|
+| PDT — Partido Democrático Trabalhista | 1980 – 2001 |
+| PT — Partido dos Trabalhadores | 2001 – atual |
+
+**Notas sobre as fontes:**
+
+- A filiação ao PDT a partir de 1980 é confirmada por fonte INDIRETA (site Memórias da Ditadura, que cita o período): "Em 1980, ela ajudou a fundar o Partido Democrático Trabalhista (PDT), legenda à qual permaneceu filiada até 2001, quando ingressou em seu atual partido."
+
+- A filiação ao PT desde 2001 consta em fonte INSTITUCIONAL (Portal da Câmara dos Deputados): "Filiada ao PT desde 2001, foi convidada por Lula no fim de 2002 para assumir o setor energético nacional."
+
+- O TSE (fonte OFICIAL) confirma sua candidatura e eleição pelo PT, mas não detalha o histórico de filiação anterior em seus comunicados consultados.
+
+---
+
+## 🔹 4. EXPLICAÇÃO CONTEXTUAL
+
+**Por que o partido é relevante:**
+O partido ao qual uma pessoa está filiada determina por qual legenda ela pode se candidatar a cargos eletivos. Também influencia com quem ela constrói alianças políticas e quais pautas tende a defender publicamente.
+
+**O que o partido influencia na prática:**
+- O acesso a recursos do fundo partidário e do fundo eleitoral
+- A formação de coligações com outros partidos
+- A base de apoio em câmaras e assembleias legislativas
+
+⚠️ *Esta seção apresenta apenas o funcionamento geral do sistema partidário, sem análise sobre a atuação específica de Dilma Rousseff.*
+
+---
+
+## 🔹 5. FONTES UTILIZADAS
+
+| Informação | Fonte | Classificação | Tipo | Data |
+|-----------|-------|--------------|------|------|
+| Data de nascimento, cargo no NBD | Wikipedia (EN) | INDIRETA | Enciclopédia online | Verificado em abr/2026 |
+| Reeleição no Banco do BRICS | Brasil de Fato | INDIRETA | Veículo de imprensa | Mar/2025 |
+| Reeleição no Banco do BRICS | CNN Brasil | INDIRETA | Veículo de imprensa | Mar/2025 |
+| Filiação ao PT desde 2001 | Portal da Câmara dos Deputados | INSTITUCIONAL | Biografia oficial | Sem data de atualização |
+| Eleição e reeleição à Presidência (PT) | TSE | OFICIAL | Comunicados do tribunal | Dez/2014 |
+| Fundação do PDT (1980) e saída em 2001 | Memórias da Ditadura | INDIRETA | Portal institucional educativo | Sem data específica |
+
+---
+
+## 🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA
+
+As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.
+
+---
+
+## 🔹 7. COMO USAR ESTA INFORMAÇÃO
+
+Você não precisa entender tudo de uma vez. Se algo parecer difícil, foque no que faz sentido agora.
+
+---
+
+## 🔹 8. SE QUISER IR MAIS FUNDO
+
+Sugestões de perguntas:
+- *"Explique melhor o histórico partidário"*
+- *"Explique os termos difíceis"*
+- *"O que é o Novo Banco de Desenvolvimento (Banco do BRICS)?"*
+
+---
+
+## 🔹 9. CONTROLE DE SAÍDA
+
+- **Alguma informação veio só de fonte indireta?** Sim — a data exata de saída do PDT e o período completo de filiação vieram de fontes INDIRETAS. Isso está explicitado na seção 3.
+- **Alguma informação foi assumida?** Não.
+- **Alguma fonte foi tratada como confirmação sem ser?** Não. As fontes indiretas estão classificadas como tal.

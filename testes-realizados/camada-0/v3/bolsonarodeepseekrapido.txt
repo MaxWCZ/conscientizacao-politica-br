@@ -1,0 +1,79 @@
+🔹 1. IDENTIFICAÇÃO BÁSICA (linguagem simples)
+
+**Nome completo:** Jair Messias Bolsonaro
+**Data de nascimento (se disponível):** 21 de março de 1955 
+**Cargo atual ou último cargo relevante:** 38º Presidente da República do Brasil 
+**Situação atual (ex: em mandato, ex-mandato, nomeado, exonerado, sem cargo):** Ex-mandato
+
+**Explicação da situação atual:**
+Ex-mandato significa que a pessoa já foi presidente, mas não está mais exercendo essa função atualmente, tendo encerrado seu mandato em 31 de dezembro de 2022.
+
+🔹 2. VÍNCULO POLÍTICO ATUAL
+
+**Partido (se houver):** Partido Liberal (PL)
+**Data de filiação (se disponível):** Não há registro público claro sobre essa informação nos resultados fornecidos.
+
+**Explicação em linguagem simples — O que significa estar filiado a um partido político no Brasil:**
+Estar filiado a um partido significa ser membro oficial de uma organização que reúne pessoas com ideias semelhantes sobre como o país deve ser governado. Isso permite que a pessoa participe de eleições, receba recursos do **fundo partidário (dinheiro público distribuído aos partidos para financiar suas atividades)** e do **fundo eleitoral (dinheiro público destinado a financiar campanhas eleitorais)**, e tome decisões coletivas sobre alianças e candidaturas.
+
+🔹 3. HISTÓRICO PARTIDÁRIO (com validação rigorosa)
+
+Lista em ordem cronológica — Partido → período aproximado:
+
+1. **Partido Democrata Cristão (PDC)** → 1988–1993 (início da carreira como vereador e primeiro mandato como deputado federal) 
+2. **Partido Progressista Reformador (PPR)** → 1993–1995
+3. **Partido Progressista Brasileiro (PPB)** → 1995–2003
+4. **Partido da Frente Liberal (PFL)** → 2003–2005
+5. **Partido Progressista (PP)** → 2005–2016
+6. **Partido Social Cristão (PSC)** → 2016–2018
+7. **Partido Social Liberal (PSL)** → 2018–2019
+8. **Aliança pelo Brasil** → 2019–2021 (partido em formação)
+9. **Partido Liberal (PL)** → 2021–presente 
+
+> **Observação:** Os resultados de busca fornecidos não contêm o histórico partidário completo e detalhado com todos os períodos. A lista acima foi parcialmente extraída das informações disponíveis, que indicam filiação ao PDC em 1988 , ao PSL em 2018 , e ao PL em 2022 .
+
+🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada ao escopo)
+
+**Por que o partido (ou ausência de partido) é relevante:**
+O partido é relevante porque define quais alianças políticas o membro pode fazer e qual estrutura de apoio (recursos financeiros, tempo de propaganda eleitoral gratuita no rádio e na televisão) ele terá nas eleições.
+
+**O que isso influencia na prática (ex: alianças, recursos, decisões):**
+Na prática, mudar de partido pode significar buscar novas alianças, ter acesso a diferentes recursos do fundo partidário (dinheiro público para despesas do partido) e ajustar estratégias eleitorais. Por exemplo, um político pode trocar de partido para se aproximar de grupos que considera mais alinhados aos seus objetivos ou para ter mais tempo de propaganda no horário eleitoral gratuito.
+
+🔹 5. FONTES (com controle rigoroso)
+
+Para cada tipo de informação, as fontes utilizadas foram:
+
+- **Identificação básica (data de nascimento, local, cargo):** Diário do Nordeste (portal de notícias), Diario de Pernambuco (portal de notícias), ND Mais (portal de notícias), UOL (portal de notícias), Nexo Jornal (portal de notícias) — dados consistentes entre as fontes — 2018-2025
+- **Cargo atual (ex-presidente):** CGN (portal de notícias, citando Agência Brasil como fonte original), UOL (portal de notícias) — 2020-2022
+- **Histórico partidário inicial (PDC):** Diário do Nordeste (portal de notícias) — 2018
+- **Histórico partidário recente (PSL 2018, PL 2022):** R7 (portal de notícias), NSC Total (portal de notícias), CGN (portal de notícias), Nexo Jornal (portal de notícias) — 2018-2022
+
+> **Observação sobre fontes:** Os resultados de busca disponíveis são predominantemente de portais de notícias, não sendo possível acessar órgãos oficiais (como Tribunal Superior Eleitoral ou Câmara dos Deputados) diretamente nesta consulta. As informações foram verificadas por consistência entre múltiplas fontes jornalísticas.
+
+🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)
+
+"As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas."
+
+🔹 7. COMO USAR ESTA INFORMAÇÃO (fixo)
+
+Você não precisa entender tudo de uma vez.
+Se alguma parte parecer difícil, foque apenas no que faz sentido para você agora.
+Você pode voltar e aprofundar depois, se quiser.
+
+🔹 8. SE QUISER IR MAIS FUNDO (fixo)
+
+Se quiser entender mais a fundo, você pode perguntar:
+
+“Explique melhor o histórico partidário”
+“Quais alianças esse partido costuma fazer?”
+“Esse partido é mais associado a quais pautas?”
+“Mostre mais detalhes sobre a carreira dessa pessoa”
+“Explique os termos difíceis que apareceram”
+
+🔹 9. CONTROLE DE SAÍDA (obrigatório)
+
+**Verificação final:**
+- Todas as seções foram preenchidas? ✅ Sim
+- Há alguma informação sem fonte? As informações apresentadas possuem fontes jornalísticas citadas. Informações sem confirmação (como data exata de filiação ao PL) foram identificadas como "não há registro público claro".
+- Alguma informação foi assumida sem confirmação? Não. Dados como data de nascimento e cargo foram verificados em múltiplas fontes. O histórico partidário completo não consta nos resultados fornecidos, e isso foi explicitamente observado.

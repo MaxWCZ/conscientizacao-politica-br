@@ -1,0 +1,201 @@
+## 1. Identificação básica
+
+* **Nome completo:** Geraldo José Rodrigues Alckmin Filho. ([Serviços e Informações do Brasil][1])
+* **Data de nascimento:** 07/11/1952. ([Portal da Câmara dos Deputados][2])
+* **Cargo atual ou último cargo:** Vice-presidente da República. ([Serviços e Informações do Brasil][3])
+* **Situação atual:** Está em exercício no cargo de vice-presidente da República; em abril de 2026 houve a transmissão do cargo de ministro do Desenvolvimento, Indústria, Comércio e Serviços para Márcio Elias Rosa. ([Serviços e Informações do Brasil][3])
+
+Explicação simples: hoje, o cargo público confirmado de Geraldo Alckmin é o de vice-presidente da República. ([Serviços e Informações do Brasil][3])
+
+---
+
+## 2. Vínculo político atual
+
+* **Partido:** Partido Socialista Brasileiro (**PSB**). ([PSB 40][4])
+* **Data de filiação:** 23/03/2022. ([PSB 40][5])
+
+**O que significa filiação, em linguagem simples:**
+Filiação partidária é o vínculo formal de uma pessoa com um partido político. No sistema eleitoral brasileiro, ela é necessária para disputar eleições. ([EVC][6])
+
+**Termos:**
+
+* **Fundo partidário:** dinheiro público destinado à manutenção dos partidos políticos. ([Justiça Eleitoral][7])
+* **Fundo eleitoral:** dinheiro público destinado ao financiamento das campanhas eleitorais. ([Justiça Eleitoral][8])
+
+---
+
+## 3. Histórico partidário
+
+As fontes oficiais e institucionais consultadas **não trazem, com clareza completa, todas as datas exatas de início e fim de cada vínculo partidário**. Por isso, abaixo estão apenas os pontos que puderam ser confirmados com segurança:
+
+* **MDB (antigo)** → a Assembleia Legislativa de São Paulo registra que ele se filiou ao antigo MDB aos 19 anos. **Não há registro público claro sobre a data exata de início e fim desse vínculo** nas fontes checadas para esta resposta. ([Assembleia Legislativa de São Paulo][9])
+* **PMDB** → 1987–1991. ([Portal da Câmara dos Deputados][10])
+* **PSDB** → há registro oficial de que ele exercia mandato federal pelo PSDB em 1991. Também há registros oficiais posteriores identificando-o como PSDB. **Não há registro público claro, nas fontes consultadas aqui, sobre a data exata de desfiliação.** ([Portal da Câmara dos Deputados][10])
+* **PSB** → 23/03/2022–atual. ([PSB 40][5])
+
+**Síntese de precisão:**
+Não há registros públicos claros de histórico partidário completo com **todas** as datas exatas de início e fim em uma única fonte oficial ou institucional consultada nesta resposta. ([Assembleia Legislativa de São Paulo][9])
+
+---
+
+## 4. Explicação contextual (limitada)
+
+O partido é relevante porque, no Brasil, a filiação partidária é a forma legal de vínculo político para disputar eleições, atuar dentro da estrutura partidária e acessar mecanismos formais do sistema político. Isso influencia, por exemplo, a participação em decisões internas do partido, a organização de candidaturas e o acesso dos partidos a recursos públicos como fundo partidário e fundo eleitoral. ([EVC][6])
+
+---
+
+## 5. Fontes
+
+### Para identificação básica
+
+* **Biografia do Vice-Presidente da República — Planalto**
+  **Classificação:** OFICIAL
+  **Tipo:** biografia oficial
+  **Data:** 16/01/2023 ([Serviços e Informações do Brasil][1])
+
+* **Portal da Constituição Cidadã / Câmara dos Deputados**
+  **Classificação:** OFICIAL
+  **Tipo:** biografia parlamentar
+  **Data:** não informada no resultado exibido ([Portal da Câmara dos Deputados][2])
+
+* **Governo do Brasil celebra Dia do Diplomata e reforça compromisso com multilateralismo — Planalto**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia oficial
+  **Data:** abril/2026 ([Serviços e Informações do Brasil][3])
+
+* **Cerimônia de transmissão de cargo do MDIC — Gov.br/MDIC**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia oficial
+  **Data:** 13/04/2026 ([Serviços e Informações do Brasil][11])
+
+* **Márcio Elias Rosa é o novo ministro do Desenvolvimento, Indústria, Comércio e Serviços — Gov.br/MDIC**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia oficial
+  **Data:** 03/04/2026 ([Serviços e Informações do Brasil][12])
+
+### Para vínculo político atual
+
+* **Em filiação de Alckmin, Carlos Siqueira defende união e horizontes largos... — PSB**
+  **Classificação:** INSTITUCIONAL
+  **Tipo:** notícia/registro partidário
+  **Data:** 23/03/2022 ([PSB 40][5])
+
+* **Alckmin diz que fim da escala 6×1 é tendência mundial... — PSB**
+  **Classificação:** INSTITUCIONAL
+  **Tipo:** notícia partidária
+  **Data:** 13/04/2026 ([PSB 40][4])
+
+* **Geraldo Alckmin — página de filiado do PSB**
+  **Classificação:** INSTITUCIONAL
+  **Tipo:** cadastro/perfil partidário
+  **Data:** não informada no resultado exibido ([PSB 40][13])
+
+### Para histórico partidário
+
+* **Geraldo Alckmin toma posse no cargo de governador em São Paulo — ALESP**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia institucional
+  **Data:** 30/12/2002 ([Assembleia Legislativa de São Paulo][9])
+
+* **Geraldo Alckmin é diplomado em meio a aplausos — ALESP**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia institucional
+  **Data:** 17/12/2010 ([Assembleia Legislativa de São Paulo][14])
+
+* **Biografia do(a) Deputado(a) Federal GERALDO ALCKMIN FILHO — Câmara dos Deputados**
+  **Classificação:** OFICIAL
+  **Tipo:** biografia parlamentar
+  **Data:** não informada no resultado exibido ([Portal da Câmara dos Deputados][10])
+
+* **Alckmin está reeleito, e Serra derrota Suplicy em São Paulo — Câmara dos Deputados**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia oficial
+  **Data:** 06/10/2014 ([Portal da Câmara dos Deputados][15])
+
+### Para os termos explicativos
+
+* **Fundo Partidário — TSE**
+  **Classificação:** OFICIAL
+  **Tipo:** página explicativa oficial
+  **Data:** não informada no resultado exibido ([Justiça Eleitoral][7])
+
+* **Fundo Especial de Financiamento de Campanha: o que é e para que serve? — TSE**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia explicativa oficial
+  **Data:** 23/02/2026 ([Justiça Eleitoral][8])
+
+* **Conheça as diferenças entre Fundo Partidário e Fundo Eleitoral — TSE**
+  **Classificação:** OFICIAL
+  **Tipo:** notícia explicativa oficial
+  **Data:** 09/10/2020 ([Justiça Eleitoral][16])
+
+* **Filiar ou não? Eis a questão! — Câmara dos Deputados**
+  **Classificação:** OFICIAL
+  **Tipo:** conteúdo educativo institucional
+  **Data:** não informada no resultado exibido ([EVC][6])
+
+* **Lei nº 9.096/1995 — Planalto**
+  **Classificação:** OFICIAL
+  **Tipo:** legislação federal
+  **Data:** 19/09/1995 ([Planalto][17])
+
+**Observação sobre fontes indiretas:**
+Nenhuma fonte indireta foi usada para confirmar os dados principais desta resposta.
+
+---
+
+## 6. Observação de transparência
+
+“As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+---
+
+## 7. Como usar esta informação
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+---
+
+## 8. Se quiser ir mais fundo
+
+**Sobre a pessoa**
+
+* “Mostre a trajetória completa dessa pessoa”
+* “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+
+* “Quais decisões ou ações importantes essa pessoa tomou?”
+* “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+
+* “Isso afetou o quê na prática?”
+* “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+
+* “Explique melhor como funciona isso no Brasil”
+* “Explique os termos difíceis que apareceram”
+
+[1]: https://www.gov.br/planalto/pt-br/vice-presidencia/acesso-a-informacao/institucional/biografia-do-vice-presidente-da-republica-1?utm_source=chatgpt.com "Biografia do Vice-Presidente da República — Planalto"
+[2]: https://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituintes/parlamentaresconstituintes/deputados-1/constituicao20anos_bioconstituintes?pk=106714&utm_source=chatgpt.com "Portal da Constituição Cidadã"
+[3]: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/04/governo-do-brasil-celebra-dia-do-diplomata-e-reforca-compromisso-com-multilateralismo?utm_source=chatgpt.com "Governo do Brasil celebra Dia do Diplomata e reforça ..."
+[4]: https://psb40.org.br/category/lista-de-noticias/?utm_source=chatgpt.com "Arquivos Lista de notícias"
+[5]: https://psb40.org.br/em-filiacao-de-alckmin-carlos-siqueira-defende-uniao-e-horizontes-largos-para-defender-a-democracia-e-derrotar-bolsonaro/?utm_source=chatgpt.com "Em filiação de Alckmin, Carlos Siqueira defende união e ..."
+[6]: https://evc.camara.leg.br/web_stories/filiar-ou-nao-eis-a-questao/?utm_source=chatgpt.com "Filiar ou não? Eis a questão! - Portal EVC"
+[7]: https://www.tse.jus.br/partidos/contas-partidarias/fundo-partidario-1?utm_source=chatgpt.com "Fundo Partidário"
+[8]: https://www.tse.jus.br/comunicacao/noticias/2026/Fevereiro/fundo-especial-de-financiamento-de-campanha-o-que-e-e-para-que-serve?utm_source=chatgpt.com "Fundo Especial de Financiamento de Campanha: o que é ..."
+[9]: https://www.al.sp.gov.br/noticia/?id=306707&utm_source=chatgpt.com "Geraldo Alckmin toma posse no cargo de governador em ..."
+[10]: https://www.camara.leg.br/deputados/65480/biografia?utm_source=chatgpt.com "Biografia do(a) Deputado(a) Federal GERALDO ALCKMIN ..."
+[11]: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/abril/cerimonia-de-transmissao-de-cargo-do-mdic?utm_source=chatgpt.com "Cerimônia de transmissão de cargo do MDIC - Portal Gov.br"
+[12]: https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/abril/marcio-elias-rosa-e-o-novo-ministro-do-desenvolvimento-industria-comercio-e-servicos?utm_source=chatgpt.com "Márcio Elias Rosa é o novo ministro do Desenvolvimento ..."
+[13]: https://psb40.org.br/filiados/geraldo-alckmin/?utm_source=chatgpt.com "Geraldo Alckmin"
+[14]: https://www.al.sp.gov.br/noticia/?id=281735&utm_source=chatgpt.com "Geraldo Alckmin é diplomado em meio a aplausos"
+[15]: https://www.camara.leg.br/noticias/442306-alckmin-esta-reeleito-e-serra-derrota-suplicy-em-sao-paulo?utm_source=chatgpt.com "Alckmin está reeleito, e Serra derrota Suplicy em São Paulo"
+[16]: https://www.tse.jus.br/comunicacao/noticias/2020/Outubro/conheca-as-diferencas-entre-fundo-partidario-e-fundo-eleitoral?utm_source=chatgpt.com "Conheça as diferenças entre Fundo Partidário e ..."
+[17]: https://www.planalto.gov.br/ccivil_03/leis/l9096.htm?utm_source=chatgpt.com "L9096 - Planalto"

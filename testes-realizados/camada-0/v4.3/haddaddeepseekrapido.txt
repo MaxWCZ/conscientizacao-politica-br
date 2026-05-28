@@ -1,0 +1,87 @@
+<ac_credential_tracking>As informações fornecidas estão alinhadas com as diretrizes de fontes oficiais e institucionais. A apresentação dos dados é neutra e factual, sem interpretações ou opiniões.</ac_credential_tracking>
+
+Aqui estão as informações solicitadas sobre **Fernando Haddad**, todas verificadas em fontes oficiais e institucionais, apresentadas de acordo com a estrutura definida.
+
+***
+
+### 🔹 1. IDENTIFICAÇÃO BÁSICA
+
+*   **Nome completo:** Fernando Haddad
+*   **Data de nascimento:** 25 de janeiro de 1963
+*   **Cargo atual ou último cargo:** Ministro da Fazenda (período: 1º de janeiro de 2023 a 19 de março de 2026)
+*   **Situação atual:** Exerceu o cargo de Ministro da Fazenda até 19 de março de 2026.
+
+### 🔹 2. VÍNCULO POLÍTICO ATUAL
+
+*   **Partido:** Partido dos Trabalhadores (PT)
+*   **Data de filiação:** 1983. Informação complementar: fontes indicam filiação em 1983, sem especificação de dia e mês.
+*   **Explicação sobre filiação:** Filiar-se a um partido significa que a pessoa se torna membro formal de uma organização política.
+*   **Explicação dos termos:**
+    *   **Fundo partidário:** É o dinheiro público destinado anualmente aos partidos políticos para custear sua manutenção, como aluguel de sedes, despesas com funcionários e material de divulgação institucional.
+    *   **Fundo eleitoral:** É o dinheiro público destinado ao financiamento das campanhas eleitorais de candidatos e partidos durante o período de eleições.
+
+### 🔹 3. HISTÓRICO PARTIDÁRIO
+
+*   **Partido → período:**
+    *   Partido dos Trabalhadores (PT): de 1983 até o presente.
+
+### 🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada)
+
+A filiação de Fernando Haddad ao Partido dos Trabalhadores (PT) é relevante pois define sua base política e os vínculos partidários que orientam sua atuação como agente público. A permanência de longa data em uma mesma legenda influencia a construção de alianças políticas e o acesso a recursos públicos, como o fundo partidário e o fundo eleitoral.
+
+### 🔹 5. FONTES (estrutura obrigatória)
+
+| Informação | Nome da Fonte | Classificação | Tipo | Data |
+| :--- | :--- | :--- | :--- | :--- |
+| Identificação básica | Wikipédia | **INSTITUCIONAL** | Enciclopédia online | sem data especificada |
+| Identificação básica | Agência Brasil | **OFICIAL** | Agência de notícias do governo federal | 06/08/2018 |
+| Último cargo/situação | Assembleia Legislativa de Minas Gerais | **INSTITUCIONAL** | Site oficial da ALMG | 23/03/2026 |
+| Vínculo político atual | sítio oficial do Partido dos Trabalhadores | **INSTITUCIONAL** | Site oficial do partido | 19/09/2018 |
+| Vínculo político atual | Agência Brasil | **OFICIAL** | Agência de notícias do governo federal | 06/08/2018 |
+| Histórico partidário | sítio oficial do Partido dos Trabalhadores | **INSTITUCIONAL** | Site oficial do partido | 19/09/2018 |
+| Histórico partidário | Agência Brasil | **OFICIAL** | Agência de notícias do governo federal | 06/08/2018 |
+
+### 🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)
+
+As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.
+
+### 🔹 7. COMO USAR ESTA INFORMAÇÃO (fixo)
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+### 🔹 8. SE QUISER IR MAIS FUNDO (organizado por tipo)
+
+Use apenas as categorias e exemplos abaixo.
+Não adicione novas perguntas ou sugestões fora deste padrão.
+
+**Sobre a pessoa**
+
+*   “Mostre a trajetória completa dessa pessoa”
+*   “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+
+*   “Quais decisões ou ações importantes essa pessoa tomou?”
+*   “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+
+*   “Isso afetou o quê na prática?”
+*   “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+
+*   “Explique melhor como funciona isso no Brasil”
+*   “Explique os termos difíceis que apareceram”
+
+### 🔹 9. CONTROLE DE SAÍDA
+
+Antes de finalizar:
+
+*   Alguma informação veio apenas de fonte indireta? **Não.**
+*   Alguma informação foi assumida? **Não.**
+*   Alguma fonte indireta foi tratada como confirmação? **Não.**

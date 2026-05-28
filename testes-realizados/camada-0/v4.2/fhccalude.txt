@@ -1,0 +1,112 @@
+## Fernando Henrique Cardoso — Informações com Classificação de Fontes
+
+---
+
+### 🔹 1. IDENTIFICAÇÃO BÁSICA
+
+- **Nome completo:** Fernando Henrique Cardoso
+- **Data de nascimento:** 18 de junho de 1931
+- **Último cargo:** Presidente da República Federativa do Brasil
+- **Situação atual:** Inativo na vida pública institucional; atua como intelectual e comentarista político ocasional.
+
+**Em uma frase:** Fernando Henrique Cardoso foi presidente do Brasil por dois mandatos consecutivos e atualmente não exerce cargo público.
+
+---
+
+### 🔹 2. VÍNCULO POLÍTICO ATUAL
+
+- **Partido:** PSDB — Partido da Social Democracia Brasileira
+- **Situação de filiação:** Conforme registros disponíveis até 2025, mantinha filiação ao PSDB, partido do qual é um dos fundadores.
+
+> **O que é filiação?** Filiação partidária significa que uma pessoa é membro formal de um partido político. Isso implica vínculo registrado na Justiça Eleitoral.
+
+> **Fundo partidário:** Dinheiro público repassado aos partidos para custear sua estrutura e funcionamento.
+> **Fundo eleitoral:** Dinheiro público destinado especificamente ao financiamento de campanhas eleitorais.
+
+⚠️ **Classificação de fonte:** A situação de filiação mais atualizada deve ser verificada diretamente no TSE (Tribunal Superior Eleitoral), fonte **OFICIAL**.
+
+---
+
+### 🔹 3. HISTÓRICO PARTIDÁRIO
+
+| Partido | Período |
+|---|---|
+| MDB (antigo PMDB) | Décadas de 1970–1980 (período de resistência ao regime militar) |
+| PSDB | 1988 — presente (partido fundado por ele e outros dissidentes do PMDB) |
+
+⚠️ As datas exatas de filiação e desfiliação do MDB não possuem registro público amplamente acessível em fonte oficial consolidada.
+→ "Não há registro público claro sobre as datas precisas de entrada e saída do MDB."
+
+**Fontes para o PSDB:** O PSDB registra FHC como um de seus fundadores em seus documentos institucionais — classificação: **INSTITUCIONAL**.
+
+---
+
+### 🔹 4. EXPLICAÇÃO CONTEXTUAL
+
+O PSDB foi fundado em 1988 por parlamentares que se separaram do PMDB. Ser um dos fundadores implica papel central na definição programática e histórica do partido.
+
+A filiação partidária é relevante porque:
+- Define acesso a **fundo partidário**
+- Determina possibilidade de candidaturas
+- Estabelece vínculos formais de representação e alianças
+
+Como FHC não exerce cargo eletivo ou executivo atualmente, sua filiação tem valor histórico e simbólico mais do que operacional.
+
+---
+
+### 🔹 5. FONTES
+
+| Informação | Fonte | Classificação | Tipo | Data |
+|---|---|---|---|---|
+| Data de nascimento | Biblioteca da Presidência da República | **OFICIAL** | Registro biográfico institucional | Disponível online |
+| Mandatos presidenciais | Presidência da República / Portal Gov.br | **OFICIAL** | Registro histórico | Disponível online |
+| Fundação do PSDB | PSDB — registro histórico do partido | **INSTITUCIONAL** | Documento partidário | 1988 |
+| Filiação atual | TSE — Tribunal Superior Eleitoral | **OFICIAL** | Cadastro eleitoral | Verificar data atual em domino.tse.jus.br |
+| Histórico no MDB | Fontes jornalísticas e biográficas | **INDIRETA** | Imprensa / biografias | Variável |
+
+⚠️ O histórico no MDB foi mencionado com base em fontes **indiretas** — não deve ser tratado como confirmado sem verificação em fonte oficial.
+
+---
+
+### 🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA
+
+As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.
+
+---
+
+### 🔹 7. COMO USAR ESTA INFORMAÇÃO
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas — especialmente o **TSE** para dados eleitorais e o **Portal Gov.br** para dados da Presidência.
+
+---
+
+### 🔹 8. SE QUISER IR MAIS FUNDO
+
+**Sobre a pessoa**
+- "Mostre a trajetória completa dessa pessoa"
+- "Quais cargos essa pessoa já ocupou?"
+
+**Sobre atuação política**
+- "Quais decisões ou ações importantes essa pessoa tomou?"
+- "Como essa pessoa atuou no cargo?"
+
+**Sobre impacto**
+- "Isso afetou o quê na prática?"
+- "Quem foi impactado por decisões dessa pessoa?"
+
+**Sobre o sistema**
+- "Explique melhor como funciona isso no Brasil"
+- "Explique os termos difíceis que apareceram"
+
+---
+
+### 🔹 9. CONTROLE DE SAÍDA
+
+- ✅ O histórico no MDB foi explicitamente marcado como **fonte indireta**
+- ✅ Nenhuma informação foi assumida sem indicação de origem
+- ✅ Filiação atual foi direcionada para verificação na fonte **oficial** (TSE)
+- ✅ Nenhuma fonte indireta foi tratada como confirmação

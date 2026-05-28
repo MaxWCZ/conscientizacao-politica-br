@@ -1,0 +1,104 @@
+Com base nas regras fornecidas, apresento as informações sobre Geraldo Alckmin, organizadas conforme a estrutura solicitada.
+
+---
+
+**🔹 1. IDENTIFICAÇÃO BÁSICA**
+
+*   **Nome completo:** Geraldo José Rodrigues Alckmin Filho
+*   **Data de nascimento:** 7 de novembro de 1952
+*   **Cargo atual ou último cargo:** 26º Vice-Presidente do Brasil e Ministro do Desenvolvimento, Indústria, Comércio e Serviços
+*   **Situação atual:** No exercício dos cargos, com mandato iniciado em 1º de janeiro de 2023.
+
+Em resumo: Geraldo Alckmin é o vice-presidente do Brasil e também acumula o cargo de ministro de estado.
+
+**🔹 2. VÍNCULO POLÍTICO ATUAL**
+
+*   **Partido:** Partido Socialista Brasileiro (PSB).
+*   **Data de filiação:** Não há registro público claro sobre a data exata de sua filiação ao PSB.
+
+**Filiação partidária** é o ato de se inscrever formalmente em um partido político, o que permite à pessoa concorrer a cargos eletivos e participar das decisões internas da legenda. A filiação é uma condição obrigatória para ser candidato no Brasil.
+
+**Termos e recursos explicados:**
+*   **Fundo partidário**: é uma verba pública repassada anualmente aos partidos para financiar suas atividades cotidianas, como contas de luz, água e funcionários.
+*   **Fundo eleitoral**: é um dinheiro público distribuído apenas em anos de eleição e usado especificamente para financiar as campanhas dos candidatos.
+
+**🔹 3. HISTÓRICO PARTIDÁRIO**
+
+A lista a seguir foi construída com base nos cargos ocupados e seus respectivos partidos, conforme registros oficiais da Câmara dos Deputados e fontes institucionais.
+
+*   **Movimento Democrático Brasileiro (MDB)**
+    *   Período: de 1972 a 1980 (como vereador e prefeito).
+
+*   **Partido do Movimento Democrático Brasileiro (PMDB)**
+    *   Período: de 1980 a 1988 (como deputado estadual e deputado federal constituinte).
+
+*   **Partido da Social Democracia Brasileira (PSDB)**
+    *   Período: de 1988 a 2021. Alckmin foi um dos fundadores do partido.
+    *   Registros na Câmara indicam sua atuação no partido de 1991 a 2018, como deputado federal, vice-governador e governador de São Paulo.
+
+*   **Partido Socialista Brasileiro (PSB)**
+    *   Período: de 2022 até o presente.
+
+**🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada)**
+
+O vínculo político-partidário é relevante para a organização do sistema democrático. No Brasil, a filiação é obrigatória para o exercício de qualquer mandato eletivo.
+
+*   **Influência em recursos**: Estar filiado a um partido com mais força no Congresso e maior acesso ao fundo partidário e ao fundo eleitoral pode ter mais estrutura e recursos para organizar campanhas e manter suas atividades.
+*   **Alianças**: A filiação determina o leque de alianças possíveis. A mudança de Alckmin do PSDB para o PSB viabilizou sua participação na chapa eleitoral ao lado de Luiz Inácio Lula da Silva (PT) em 2022.
+*   **Decisões**: Como vice-presidente, sua atuação é ligada às diretrizes do governo, mas sua trajetória partidária ajuda a entender a formação da base de apoio ao governo e as articulações no Ministério de Desenvolvimento, Indústria, Comércio e Serviços.
+
+---
+
+**🔹 5. FONTES**
+
+| Informação | Fonte | Classificação | Tipo | Data |
+| :--- | :--- | :--- | :--- | :--- |
+| Nome completo e data de nascimento | Site da Assembleia Legislativa do Estado de São Paulo | OFICIAL | Página de notícia | Desconhecida (o site não exibe data de publicação) |
+| Cargo de Vice-Presidente e filiação ao PSB | Câmara dos Deputados | OFICIAL | Biografia de ex-deputado | Desconhecida |
+| Cargo de Ministro e filiação ao PSB | Agência Brasil (EBC) | INSTITUCIONAL | Matéria jornalística | 01/01/2023 |
+| Histórico partidário (MDB e PMDB) | Câmara dos Deputados | OFICIAL | Biografia de ex-deputado | Desconhecida |
+| Histórico partidário (PSDB) | Partido da Social Democracia Brasileira (PSDB) | INSTITUCIONAL | Site oficial do partido | 06/10/2015 |
+
+---
+
+**🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA**
+
+> “As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+---
+
+**🔹 7. COMO USAR ESTA INFORMAÇÃO**
+
+Você não precisa entender tudo de uma vez. Se algo parecer difícil, foque no que faz sentido agora. Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+---
+
+**🔹 8. SE QUISER IR MAIS FUNDO**
+
+**Sobre a pessoa**
+*   “Mostre a trajetória completa dessa pessoa”
+*   “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+*   “Quais decisões ou ações importantes essa pessoa tomou?”
+*   “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+*   “Isso afetou o quê na prática?”
+*   “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+*   “Explique melhor como funciona isso no Brasil”
+*   “Explique os termos difíceis que apareceram”
+
+---
+
+**🔹 9. CONTROLE DE SAÍDA**
+
+Antes de finalizar, verifiquei as regras de validação:
+
+*   **A data de nascimento e o nome completo do vice-presidente, assim como seus cargos na Câmara dos Deputados, foram validados por fontes oficiais ou institucionais.** Para a data de filiação, a informação não pôde ser confirmada com clareza. Foi declarado que “não há registro público claro sobre essa informação”.
+*   **Nenhuma informação foi assumida ou inventada.** Para o histórico partidário, a lista se baseou estritamente nos dados eleitorais e institucionais disponíveis, sem estimar datas.
+*   **Fonte indireta não foi utilizada como confirmação.** Reportagens da imprensa e outras fontes indiretas foram mencionadas apenas como contexto complementar, quando apropriado, mas nunca como a fonte primária que comprova um fato.

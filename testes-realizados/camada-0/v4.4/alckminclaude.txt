@@ -1,0 +1,111 @@
+Aqui estão as informações sobre Geraldo Alckmin, organizadas conforme solicitado:
+
+---
+
+## 🔹 1. IDENTIFICAÇÃO BÁSICA
+
+- **Nome completo:** Geraldo José Rodrigues Alckmin Filho
+- **Data de nascimento:** 7 de novembro de 1952
+- **Cargo atual:** Vice-Presidente da República Federativa do Brasil (desde janeiro de 2023)
+- **Situação atual:** Alckmin exerce o cargo de Vice-Presidente e acumulava também o de Ministro do Desenvolvimento, Indústria, Comércio e Serviços. Em março de 2026, Lula confirmou Alckmin como candidato a vice-presidente novamente na chapa de reeleição.
+
+Em termos simples: Alckmin é o número dois do governo federal, substituindo o presidente quando necessário e coordenando áreas econômicas como ministro.
+
+---
+
+## 🔹 2. VÍNCULO POLÍTICO ATUAL
+
+- **Partido:** PSB – Partido Socialista Brasileiro
+- **Data de filiação formal:** 23 de março de 2022
+
+> **O que é filiação?** Filiação partidária significa que a pessoa é membro oficial de um partido. Isso é necessário para disputar eleições no Brasil. Sem filiação, não é possível ser candidato.
+
+> **Fundo partidário** → dinheiro público distribuído aos partidos para custear seu funcionamento regular (estrutura, pessoal, atividades).
+> **Fundo eleitoral** → dinheiro público distribuído aos partidos especificamente para financiar campanhas eleitorais.
+
+**Classificação das fontes:**
+- Anúncio da filiação (23/03/2022): CNN Brasil e Poder360 — **INDIRETA** (imprensa)
+- Nota: não foi localizado registro direto do TSE com a data exata de filiação nesta consulta. Os dados acima vêm de fontes indiretas (imprensa). Para confirmação oficial, recomenda-se consultar o portal do **TSE** (tse.jus.br → filiação partidária).
+
+---
+
+## 🔹 3. HISTÓRICO PARTIDÁRIO
+
+| Partido | Período |
+|---|---|
+| PSDB – Partido da Social Democracia Brasileira | 1988 – dezembro de 2021 |
+| Sem partido | Dezembro de 2021 – março de 2022 |
+| PSB – Partido Socialista Brasileiro | 23 de março de 2022 – presente |
+
+**Fontes e classificações:**
+- Alckmin é um dos fundadores do PSDB, mas deixou o partido no final de dezembro de 2021 e se filiou ao PSB, após mais de três décadas. → Fonte: **Gov.br/MDIC** — **OFICIAL**
+- Alckmin deixou o PSDB em 15 de dezembro de 2021 depois de ficar 33 anos no partido. → Fonte: CNN Brasil — **INDIRETA**
+- Filiação ao PSB em 23/03/2022 → Fonte: imprensa (CNN Brasil, Poder360) — **INDIRETA**
+
+⚠️ Para confirmação oficial das datas de filiação, consulte o **TSE** diretamente.
+
+---
+
+## 🔹 4. EXPLICAÇÃO CONTEXTUAL
+
+O partido de um político influencia diretamente o acesso a recursos públicos — como o **fundo partidário** e o **fundo eleitoral** — distribuídos proporcionalmente ao tamanho e ao desempenho eleitoral de cada legenda.
+
+A mudança do PSDB (partido fundado por Alckmin, de centro) para o PSB (de centro-esquerda) foi necessária para que ele pudesse compor a chapa eleitoral de 2022. No Brasil, a regra eleitoral exige que candidato e vice sejam filiados a partidos que formem coligação ou federação. O PSB integrou a aliança que elegeu Lula presidente.
+
+O vínculo partidário também define a bancada à qual o político está associado no Legislativo, influenciando negociações e votações.
+
+---
+
+## 🔹 5. FONTES
+
+| Informação | Fonte | Classificação | Tipo | Data |
+|---|---|---|---|---|
+| Cargo atual e ministério | Gov.br / MDIC | **OFICIAL** | Portal governamental | Sem data específica |
+| Confirmação como vice em 2026 | Agência Brasil (EBC) | **INDIRETA** | Imprensa pública | 31/03/2026 |
+| Saída do PSDB e fundação do partido | Gov.br / MDIC | **OFICIAL** | Portal governamental | Sem data |
+| Data de saída do PSDB (dez/2021) | CNN Brasil | **INDIRETA** | Imprensa | 22/03/2022 |
+| Filiação ao PSB (23/03/2022) | CNN Brasil, Poder360 | **INDIRETA** | Imprensa | Mar/2022 |
+| Data de nascimento e nome completo | Wikipedia (en) | **INDIRETA** | Enciclopédia colaborativa | — |
+
+---
+
+## 🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA
+
+As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas. Para confirmação oficial de dados eleitorais e partidários, recomenda-se acessar diretamente o **TSE** (tse.jus.br) e o **Gov.br**.
+
+---
+
+## 🔹 7. COMO USAR ESTA INFORMAÇÃO
+
+Você não precisa entender tudo de uma vez. Se algo parecer difícil, foque no que faz sentido agora. Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas — especialmente o TSE para dados de filiação.
+
+---
+
+## 🔹 8. SE QUISER IR MAIS FUNDO
+
+**Sobre a pessoa**
+- "Mostre a trajetória completa dessa pessoa"
+- "Quais cargos essa pessoa já ocupou?"
+
+**Sobre atuação política**
+- "Quais decisões ou ações importantes essa pessoa tomou?"
+- "Como essa pessoa atua no cargo?"
+
+**Sobre impacto**
+- "Isso afetou o quê na prática?"
+- "Quem foi impactado por decisões dessa pessoa?"
+
+**Sobre o sistema**
+- "Explique melhor como funciona isso no Brasil"
+- "Explique os termos difíceis que apareceram"
+
+---
+
+## 🔹 9. CONTROLE DE SAÍDA
+
+✅ As datas de filiação ao PSB vêm de fontes **INDIRETAS** (imprensa) — isso está explicitado.
+✅ A data de nascimento vem da Wikipedia (INDIRETA) — indicada como tal.
+✅ Nenhuma informação foi assumida sem registro.
+✅ A fonte oficial (Gov.br) confirma os dados centrais: cargo, fundação do PSDB e saída para o PSB.

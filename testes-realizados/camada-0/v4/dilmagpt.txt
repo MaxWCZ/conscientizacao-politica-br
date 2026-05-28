@@ -1,0 +1,83 @@
+## 1. Identificação básica
+
+* **Nome completo:** Dilma Vana Rousseff.
+* **Data de nascimento:** 14/12/1947.
+* **Cargo atual ou último cargo:** Presidente do New Development Bank.
+* **Situação atual:** Reeleita presidente do NDB em 2025.
+
+Dilma Rousseff é ex-presidente da República do Brasil e atualmente ocupa a presidência do New Development Bank. ([Serviços e Informações do Brasil][1])
+
+---
+
+## 2. Vínculo político atual
+
+* **Partido:** Partido dos Trabalhadores — PT.
+* **Data de filiação:** Não há registro público claro, em fonte oficial acessível, sobre essa informação.
+
+**Filiação partidária** é quando uma pessoa aceita o programa de um partido e passa a integrá-lo. ([Justiça Eleitoral][2])
+
+* **Fundo partidário:** dinheiro público e outras receitas legais usado para manter partidos políticos. ([Justiça Eleitoral][3])
+* **Fundo eleitoral:** dinheiro público destinado ao financiamento de campanhas eleitorais. ([Justiça Eleitoral][4])
+
+---
+
+## 3. Histórico partidário
+
+| Partido |                                                      Período | Confirmação                                                                                      |
+| ------- | -----------------------------------------------------------: | ------------------------------------------------------------------------------------------------ |
+| PDT     | Não há registros públicos claros em fonte oficial acessível. | Informação aparece em fontes indiretas, mas não foi tratada como confirmação.                    |
+| PT      |              Confirmado em registros eleitorais/candidatura. | O TSE e registros de candidatura indicam candidatura pelo PT. ([Observatório Social Maringá][5]) |
+
+---
+
+## 4. Explicação contextual
+
+O partido é relevante porque organiza candidaturas, define alianças eleitorais, participa da distribuição de recursos partidários e eleitorais e influencia decisões internas ligadas a campanhas e mandatos.
+
+---
+
+## 5. Fontes
+
+| Informação                              | Fonte                                       | Classificação          | Tipo                                        | Data                          |
+| --------------------------------------- | ------------------------------------------- | ---------------------- | ------------------------------------------- | ----------------------------- |
+| Nome, nascimento e mandato presidencial | Portal Gov.br / Biblioteca da Presidência   | **OFICIAL**            | Registro institucional de ex-presidente     | Página acessada em 27/04/2026 |
+| Cargo atual no NDB                      | New Development Bank                        | **INSTITUCIONAL**      | Biografia institucional                     | Página acessada em 27/04/2026 |
+| Reeleição no NDB em 2025                | New Development Bank                        | **INSTITUCIONAL**      | Linha do tempo institucional                | Página acessada em 27/04/2026 |
+| Filiação partidária — conceito          | TSE                                         | **OFICIAL**            | Página explicativa                          | Página acessada em 27/04/2026 |
+| Fundo partidário                        | TSE                                         | **OFICIAL**            | Página explicativa                          | Página acessada em 27/04/2026 |
+| Fundo eleitoral                         | TSE                                         | **OFICIAL**            | Página explicativa                          | Página acessada em 27/04/2026 |
+| Partido em candidatura                  | TSE / Divulgação de candidatura reproduzida | **OFICIAL / INDIRETA** | Registro eleitoral / reprodução de registro | 2014                          |
+
+---
+
+## 6. Observação de transparência
+
+“As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+---
+
+## 7. Como usar esta informação
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+
+---
+
+## 8. Se quiser ir mais fundo
+
+* “Explique melhor o histórico partidário”
+* “Explique os termos difíceis”
+
+---
+
+## 9. Controle de saída
+
+* **Alguma informação veio só de fonte indireta?** Sim: parte do histórico partidário anterior ao PT.
+* **Alguma informação foi assumida?** Não.
+* **Alguma fonte foi tratada como confirmação sem ser?** Não.
+
+[1]: https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/dilma-vana-rousseff?utm_source=chatgpt.com "Dilma Vana Rousseff - Dados ex-Presidente - Portal Gov.br"
+[2]: https://www.tse.jus.br/partidos/filiacao-partidaria?utm_source=chatgpt.com "Filiação partidária"
+[3]: https://www.tse.jus.br/partidos/contas-partidarias/fundo-partidario-1?utm_source=chatgpt.com "Fundo Partidário"
+[4]: https://www.tse.jus.br/eleicoes/eleicoes-2022/prestacao-de-contas/fundo-especial-de-financiamento-de-campanha-fefc?utm_source=chatgpt.com "Fundo Especial de Financiamento de Campanha (FEFC)"
+[5]: https://observatoriosocialmaringa.org.br/wp-content/uploads/2014/07/Dilma-Rousseff.pdf?utm_source=chatgpt.com "Sistema de divulgação de candidaturas"

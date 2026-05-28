@@ -1,0 +1,103 @@
+## 1. Identificação básica
+
+* **Nome completo:** Fernando Henrique Cardoso.
+* **Data de nascimento:** 18 de junho de 1931.
+* **Cargo atual ou último cargo:** presidente de honra do PSDB; último cargo público eletivo: Presidente da República Federativa do Brasil, 1995–2002.
+* **Situação atual:** ex-presidente da República e presidente de honra do PSDB.
+
+Fernando Henrique Cardoso é um ex-presidente brasileiro, atualmente registrado em fontes institucionais como presidente de honra do PSDB. ([Serviços e Informações do Brasil][1])
+
+---
+
+## 2. Vínculo político atual
+
+* **Partido:** PSDB — Partido da Social Democracia Brasileira.
+* **Data de filiação:** Não há registro público claro sobre essa informação.
+
+A fonte do PSDB o lista como **Presidente de Honra do PSDB** na Executiva eleita em 27/11/2025 para a gestão 2025/2027. A Academia Brasileira de Letras também o identifica como presidente de honra do Diretório Nacional do PSDB. ([PSDB][2])
+
+**Filiação partidária** significa o vínculo formal de uma pessoa com um partido político.
+
+**Fundo partidário** é dinheiro público e outros recursos previstos em lei usados para manutenção dos partidos. O TSE define o Fundo Partidário como composto por dotações orçamentárias da União, multas, penalidades, doações e outros recursos legais. ([Justiça Eleitoral][3])
+
+**Fundo eleitoral** é dinheiro público destinado ao financiamento de campanhas eleitorais; o TSE diferencia o Fundo Eleitoral do Fundo Partidário como duas fontes públicas de recursos para partidos e campanhas. ([Justiça Eleitoral][4])
+
+---
+
+## 3. Histórico partidário
+
+* **MDB → 1978**
+* **PMDB → 1980 a 1988**
+* **PSDB → desde 1988**
+
+A Academia Brasileira de Letras registra que ele foi eleito suplente de senador em 1978 pelo MDB; que foi membro fundador do PMDB em 1980, com filiação no diretório de Indianópolis, São Paulo, em 20/09; e que foi membro fundador do PSDB em 1988. ([Academia Brasileira de Letras][5])
+
+---
+
+## 4. Explicação contextual limitada
+
+O partido é relevante porque a filiação ou vínculo partidário organiza a atuação política formal de uma pessoa dentro do sistema eleitoral brasileiro. Isso pode influenciar acesso a recursos partidários, participação em alianças, definição de candidaturas e decisões internas do partido. O TSE informa que partidos políticos recebem e administram recursos como Fundo Partidário e Fundo Eleitoral conforme regras legais. ([Justiça Eleitoral][3])
+
+---
+
+## 5. Fontes
+
+* **Secretaria-Geral / Biblioteca da Presidência da República** — **OFICIAL** — Biografia de ex-presidente — Publicado em 05/01/2022, atualizado em 22/02/2022.
+* **Academia Brasileira de Letras** — **INSTITUCIONAL** — Biografia acadêmica e trajetória política — Data não indicada na página.
+* **PSDB — Membros da Executiva** — **INSTITUCIONAL** — Registro partidário / composição da Executiva — Gestão 2025/2027, eleita em 27/11/2025.
+* **Tribunal Superior Eleitoral — Fundo Partidário** — **OFICIAL** — Página explicativa e normativa — Atualizado em 27/03/2026.
+* **Tribunal Superior Eleitoral — Fundo Partidário x Fundo Eleitoral** — **OFICIAL** — Matéria explicativa — 09/10/2020.
+
+---
+
+## 6. Observação de transparência
+
+“As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+---
+
+## 7. Como usar esta informação
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+---
+
+## 8. Se quiser ir mais fundo
+
+**Sobre a pessoa**
+
+* “Mostre a trajetória completa dessa pessoa”
+* “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+
+* “Quais decisões ou ações importantes essa pessoa tomou?”
+* “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+
+* “Isso afetou o quê na prática?”
+* “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+
+* “Explique melhor como funciona isso no Brasil”
+* “Explique os termos difíceis que apareceram”
+
+---
+
+## 9. Controle de saída
+
+* Alguma informação veio apenas de fonte indireta? **Não.**
+* Alguma informação foi assumida? **Não.**
+* Alguma fonte indireta foi tratada como confirmação? **Não.**
+
+[1]: https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/fernando-henrique-cardoso/biografia-completa-fernando-henrique-cardoso "Biografia - Fernando Henrique Cardoso — Secretaria-Geral"
+[2]: https://www.psdb.org.br/conheca/quem-e-quem/membros-da-executiva/ "Membros da Executiva | PSDB – Partido da Social Democracia Brasileira"
+[3]: https://www.tse.jus.br/partidos/contas-partidarias/fundo-partidario-1 "Fundo Partidário — Tribunal Superior Eleitoral"
+[4]: https://www.tse.jus.br/comunicacao/noticias/2020/Outubro/conheca-as-diferencas-entre-fundo-partidario-e-fundo-eleitoral?utm_source=chatgpt.com "Conheça as diferenças entre Fundo Partidário e ..."
+[5]: https://www.academia.org.br/academicos/fernando-henrique-cardoso/biografia "Fernando Henrique Cardoso | Academia Brasileira de Letras"

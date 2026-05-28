@@ -1,0 +1,89 @@
+## 1. Identificação básica
+
+| Campo                       | Informação                                                                 |
+| --------------------------- | -------------------------------------------------------------------------- |
+| Nome completo               | Michel Miguel Elias Temer Lulia                                            |
+| Data de nascimento          | 23/09/1940                                                                 |
+| Cargo atual ou último cargo | Ex-presidente da República; último cargo eletivo: Presidente da República  |
+| Situação atual              | Não está em exercício de mandato na Câmara; é referido como ex-presidente. |
+
+Michel Temer é um político brasileiro, filiado historicamente ao PMDB/MDB, que ocupou a Presidência da República até 1º de janeiro de 2019. ([Portal da Câmara dos Deputados][1])
+
+## 2. Vínculo político atual
+
+| Campo            | Informação              |
+| ---------------- | ----------------------- |
+| Partido          | MDB, anteriormente PMDB |
+| Data de filiação | 1981                    |
+
+A fonte institucional do Arquivo Nacional registra filiação ao PMDB em 1981; a Câmara também informa que Temer era filiado ao PMDB. O partido voltou a usar a sigla MDB em 2018, segundo o próprio MDB. ([Presidentes][2])
+
+**Filiação partidária** significa que uma pessoa aceita o programa de um partido e passa a integrá-lo, conforme definição do TSE. ([Justiça Eleitoral][3])
+
+**Fundo partidário**: dinheiro público e outros recursos legais usados para manter partidos. **Fundo eleitoral**: dinheiro público voltado ao financiamento de campanhas eleitorais. ([Justiça Eleitoral][4])
+
+## 3. Histórico partidário
+
+| Partido    | Período                              |
+| ---------- | ------------------------------------ |
+| PMDB / MDB | 1981 até registro público disponível |
+
+Não há registros públicos claros de histórico partidário completo além da filiação ao PMDB/MDB confirmada por fontes institucionais/oficiais. ([Presidentes][2])
+
+## 4. Explicação contextual limitada
+
+O partido é relevante porque organiza a atuação política formal de seus filiados. Isso pode influenciar acesso a estrutura partidária, fundo partidário, fundo eleitoral, alianças eleitorais e decisões internas do partido.
+
+## 5. Fontes
+
+| Informação                                    | Fonte                                                              | Classificação | Tipo                                     | Data             |
+| --------------------------------------------- | ------------------------------------------------------------------ | ------------- | ---------------------------------------- | ---------------- |
+| Nome, nascimento, partido, situação na Câmara | Câmara dos Deputados                                               | OFICIAL       | Perfil parlamentar                       | Sem data visível |
+| Biografia e cargos                            | Arquivo Nacional / Centro de Informação de Acervos dos Presidentes | OFICIAL       | Registro de autoridade                   | Sem data visível |
+| Filiação ao PMDB em 1981                      | Arquivo Nacional                                                   | OFICIAL       | Registro biográfico institucional        | Sem data visível |
+| Filiação partidária: definição                | TSE                                                                | OFICIAL       | Página explicativa                       | Sem data visível |
+| Fundo partidário e fundo eleitoral            | TSE                                                                | OFICIAL       | Página explicativa/notícia institucional | 09/10/2020       |
+| Retorno da sigla MDB                          | MDB                                                                | INSTITUCIONAL | Página partidária                        | 27/03/2018       |
+
+## 6. Observação de transparência
+
+“As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+## 7. Como usar esta informação
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+## 8. Se quiser ir mais fundo
+
+**Sobre a pessoa**
+
+* “Mostre a trajetória completa dessa pessoa”
+* “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+
+* “Quais decisões ou ações importantes essa pessoa tomou?”
+* “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+
+* “Isso afetou o quê na prática?”
+* “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+
+* “Explique melhor como funciona isso no Brasil”
+* “Explique os termos difíceis que apareceram”
+
+## 9. Controle de saída
+
+Nenhuma informação foi assumida. Nenhuma fonte indireta foi tratada como confirmação. Não usei imprensa como base de confirmação.
+
+[1]: https://www.camara.leg.br/deputados/73552?utm_source=chatgpt.com "Deputado Federal MICHEL TEMER"
+[2]: https://presidentes.an.gov.br/index.php/arquivo-nacional/60-servicos/registro-de-autoridade/174-michel-temer?utm_source=chatgpt.com "Michel Miguel Elias Temer Lulia"
+[3]: https://www.tse.jus.br/partidos/filiacao-partidaria?utm_source=chatgpt.com "Filiação partidária"
+[4]: https://www.tse.jus.br/comunicacao/noticias/2020/Outubro/conheca-as-diferencas-entre-fundo-partidario-e-fundo-eleitoral?utm_source=chatgpt.com "Conheça as diferenças entre Fundo Partidário e ..."

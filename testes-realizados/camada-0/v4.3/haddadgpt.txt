@@ -1,0 +1,151 @@
+## 1. IDENTIFICAÇÃO BÁSICA
+
+**Nome completo:** Fernando Haddad. ([Serviços e Informações do Brasil][1])
+
+**Data de nascimento:** 25 de janeiro de 1963. ([Serviços e Informações do Brasil][1])
+
+**Cargo atual ou último cargo:** Há divergência entre páginas oficiais consultadas.
+
+* **Versão oficial mais recente encontrada:** **último cargo = Ministro da Fazenda**, com registro de que a vaga foi deixada por Fernando Haddad em **20 de março de 2026**. ([Serviços e Informações do Brasil][2])
+* **Versão oficial ainda ativa em outra página do governo:** Fernando Haddad aparece descrito como **Ministro da Fazenda** em página de convidados/seminário do Ministério da Fazenda. ([Serviços e Informações do Brasil][3])
+
+**Situação atual:** Há divergência em páginas oficiais do governo. O registro oficial mais recente localizado indica que ele **deixou o Ministério da Fazenda em 20 de março de 2026**; outras páginas oficiais ainda o apresentam como ministro. ([Serviços e Informações do Brasil][2])
+
+**Explicação em 1 frase simples:** Fernando Haddad é um político e professor brasileiro, filiado ao PT, que exerceu o cargo de ministro da Fazenda e cujo status mais recente encontrado em fonte oficial indica saída da pasta em março de 2026. ([Serviços e Informações do Brasil][1])
+
+---
+
+## 2. VÍNCULO POLÍTICO ATUAL
+
+**Partido:** Partido dos Trabalhadores (PT). ([Partido dos Trabalhadores][4])
+
+**Data de filiação:** 1983. ([Partido dos Trabalhadores][4])
+
+**Se não houver filiação, explique:** Não se aplica, porque há registro institucional de filiação ao PT. ([Partido dos Trabalhadores][4])
+
+**Em linguagem simples, o que significa filiação:**
+Filiação partidária é o vínculo formal de uma pessoa com um partido político. Esse vínculo permite atuar oficialmente pela legenda, como disputar eleições por ela e participar de sua estrutura interna.
+
+**Termos:**
+
+* **fundo partidário:** dinheiro público destinado à manutenção e ao funcionamento dos partidos políticos.
+* **fundo eleitoral:** dinheiro público destinado ao financiamento de campanhas eleitorais.
+
+---
+
+## 3. HISTÓRICO PARTIDÁRIO
+
+**Registro localizado nas fontes consultadas:**
+
+* **Partido dos Trabalhadores (PT) → desde 1983**. ([Partido dos Trabalhadores][4])
+
+**Observação:** Não localizei, nas fontes oficiais e institucionais consultadas, registro público claro de filiação anterior a outro partido. Para um histórico partidário completo com confirmação oficial centralizada, **não há registro público claro sobre essa informação** nas fontes verificadas. ([Partido dos Trabalhadores][4])
+
+---
+
+## 4. EXPLICAÇÃO CONTEXTUAL (limitada)
+
+O partido é relevante porque, no sistema político brasileiro, a filiação partidária conecta a pessoa a uma legenda com regras próprias, estrutura interna e possibilidade de participação eleitoral. Isso influencia acesso a **recursos partidários**, participação em **alianças** e atuação dentro das decisões formais do partido.
+
+Em termos práticos:
+
+* a filiação pode influenciar a possibilidade de candidatura;
+* pode influenciar o acesso do partido a recursos como fundo partidário e fundo eleitoral;
+* pode influenciar negociações e composições políticas feitas pela legenda.
+
+---
+
+## 5. FONTES
+
+### Para identificação básica
+
+1. **Fernando Haddad — Ministério da Educação / Gov.br**
+
+   * **Classificação:** OFICIAL
+   * **Tipo:** página institucional de ex-ministro
+   * **Data:** não indicada na página de perfil; listagem geral atualizada em 02/04/2026
+   * **Usada para:** nome completo, data de nascimento, trajetória básica. ([Serviços e Informações do Brasil][1])
+
+2. **Ministro da Fazenda reforça compromissos... — Ministério da Fazenda / Gov.br**
+
+   * **Classificação:** OFICIAL
+   * **Tipo:** notícia oficial do ministério
+   * **Data:** 31/03/2026
+   * **Usada para:** informação de que Dario Durigan assumiu o comando do ministério em 20/03/2026, ocupando a vaga deixada por Fernando Haddad. ([Serviços e Informações do Brasil][2])
+
+3. **Ministro da Fazenda assegura continuidade... — Ministério da Fazenda / Gov.br**
+
+   * **Classificação:** OFICIAL
+   * **Tipo:** notícia oficial do ministério
+   * **Data:** 20/03/2026
+   * **Usada para:** registro do sucessor e referência a Haddad como antecessor. ([Serviços e Informações do Brasil][5])
+
+4. **Palestrantes — Ministério da Fazenda / Gov.br**
+
+   * **Classificação:** OFICIAL
+   * **Tipo:** página institucional
+   * **Data:** não há data clara na página
+   * **Usada para:** registro divergente ainda ativo descrevendo Fernando Haddad como ministro da Fazenda. ([Serviços e Informações do Brasil][3])
+
+### Para vínculo político e histórico partidário
+
+5. **Conheça Fernando Haddad, o candidato do Lula — PT**
+
+   * **Classificação:** INSTITUCIONAL
+   * **Tipo:** biografia publicada no portal do partido
+   * **Data:** 19/09/2018
+   * **Usada para:** partido atual e data de filiação (“filiado ao Partido dos Trabalhadores em 1983”). ([Partido dos Trabalhadores][4])
+
+---
+
+## 6. OBSERVAÇÃO DE TRANSPARÊNCIA
+
+“As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+---
+
+## 7. COMO USAR ESTA INFORMAÇÃO
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+---
+
+## 8. SE QUISER IR MAIS FUNDO
+
+**Sobre a pessoa**
+
+* “Mostre a trajetória completa dessa pessoa”
+* “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+
+* “Quais decisões ou ações importantes essa pessoa tomou?”
+* “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+
+* “Isso afetou o quê na prática?”
+* “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+
+* “Explique melhor como funciona isso no Brasil”
+* “Explique os termos difíceis que apareceram”
+
+---
+
+## 9. CONTROLE DE SAÍDA
+
+* **Alguma informação veio apenas de fonte indireta?** Não.
+* **Alguma informação foi assumida?** Não; onde houve divergência oficial, as versões foram mostradas.
+* **Alguma fonte indireta foi tratada como confirmação?** Não.
+
+[1]: https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/galeria-de-ministros/ministro-fernando-haddad?utm_source=chatgpt.com "Fernando Haddad — Ministério da Educação - Portal Gov.br"
+[2]: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/abril/ministro-da-fazenda-reforca-compromissos-com-justica-social-estabilidade-fiscal-modernidade-grandeza-e-seguranca-para-o-brasil?utm_source=chatgpt.com "Ministro da Fazenda reforça compromissos com justiça social ..."
+[3]: https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/faz-grci/seminario/convidados?utm_source=chatgpt.com "Palestrantes — Ministério da Fazenda - Portal Gov.br"
+[4]: https://pt.org.br/conheca-fernando-haddad-o-candidato-do-lula/?utm_source=chatgpt.com "Conheça Fernando Haddad, o candidato do Lula"
+[5]: https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/marco/ministro-da-fazenda-assegura-continuidade-do-trabalho-de-consolidacao-fiscal-com-muita-justica-social?utm_source=chatgpt.com "Ministro da Fazenda assegura continuidade do trabalho de ..."

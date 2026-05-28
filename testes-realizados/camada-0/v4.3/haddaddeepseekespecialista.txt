@@ -1,0 +1,118 @@
+## 🔹 1. IDENTIFICAÇÃO BÁSICA
+
+* **Nome completo:** Fernando Haddad
+* **Data de nascimento:** 25 de janeiro de 1963
+* **Cargo atual ou último cargo:** Ministro da Fazenda (01/01/2023 a 20/03/2026)
+* **Situação atual:** Exonerado em 20 de março de 2026, é pré-candidato ao governo de São Paulo.
+
+Ex-ministro da Fazenda e atual pré-candidato ao governo de São Paulo.
+
+---
+
+## 🔹 2. VÍNCULO POLÍTICO ATUAL
+
+* **Partido:** Partido dos Trabalhadores (PT)
+* **Data de filiação:** 1983
+
+**O que significa filiação:** É o vínculo formal entre uma pessoa e um partido político, registrado na Justiça Eleitoral. Sem filiação, a pessoa não pode concorrer a cargos eletivos. A filiação permite participar das decisões internas do partido e ser candidato.
+
+**Termos explicados:**
+* **Fundo partidário:** Dinheiro público destinado à manutenção dos partidos políticos (sede, pessoal, etc.).
+* **Fundo eleitoral:** Dinheiro público destinado especificamente às campanhas eleitorais.
+
+---
+
+## 🔹 3. HISTÓRICO PARTIDÁRIO
+
+| Partido | Período |
+|---------|---------|
+| Partido dos Trabalhadores (PT) | 1983 – atual |
+
+⚠️ **Nota:** As fontes disponíveis indicam filiação exclusiva ao PT desde 1983, mas não foram localizados registros oficiais do TSE que detalhem todo o histórico. A informação baseia-se em fonte institucional do partido.
+
+---
+
+## 🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada)
+
+O PT é um dos maiores partidos do Brasil, tendo ocupado a Presidência da República por vários mandatos. A filiação de Fernando Haddad ao PT desde 1983 o vincula a essa estrutura partidária, o que influencia:
+
+* **Recursos:** Acesso aos fundos partidário e eleitoral proporcionais à representação do partido.
+* **Alianças:** Participação nas coligações e alianças estratégicas definidas pelo PT.
+* **Decisões:** Alinhamento com as diretrizes partidárias nas funções públicas que ocupa.
+
+---
+
+## 🔹 5. FONTES
+
+**Identificação básica:**
+* **Fonte:** Agência Brasil – Posse de Haddad na Fazenda (2023)
+  * Classificação: OFICIAL
+  * Tipo: Agência de notícias do governo federal
+  * Data: 02/01/2023
+* **Fonte:** GP1 – Exoneração de Haddad (2026)
+  * Classificação: INDIRETA (cita o Diário Oficial da União)
+  * Tipo: Portal de notícias
+  * Data: 20/03/2026
+
+**Vínculo político:**
+* **Fonte:** Site do Partido dos Trabalhadores (pt.org.br)
+  * Classificação: INSTITUCIONAL (fonte oficial do partido)
+  * Tipo: Biografia institucional
+  * Data: Publicação de 2018
+
+**Histórico partidário:**
+* **Fonte:** Site do PT (pt.org.br)
+  * Classificação: INSTITUCIONAL
+  * Tipo: Biografia institucional
+
+**Confirmação de cargo atual (à época):**
+* **Fonte:** Agência Brasil
+  * Classificação: OFICIAL
+  * Tipo: Agência de notícias do governo federal
+
+---
+
+## 🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)
+
+“As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
+
+---
+
+## 🔹 7. COMO USAR ESTA INFORMAÇÃO (fixo)
+
+Você não precisa entender tudo de uma vez. Se algo parecer difícil, foque no que faz sentido agora. Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+---
+
+## 🔹 8. SE QUISER IR MAIS FUNDO
+
+**Sobre a pessoa**
+* “Mostre a trajetória completa dessa pessoa”
+* “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+* “Quais decisões ou ações importantes essa pessoa tomou?”
+* “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+* “Isso afetou o quê na prática?”
+* “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+* “Explique melhor como funciona isso no Brasil”
+* “Explique os termos difíceis que apareceram”
+
+---
+
+## 🔹 9. CONTROLE DE SAÍDA
+
+**Verificação final:**
+* ✅ Alguma informação veio apenas de fonte indireta? Sim – a exoneração (fonte INDIRETA GP1 que cita o DOU). A informação foi apresentada com essa ressalva.
+* ✅ Alguma informação foi assumida? Não – todos os dados foram extraídos de fontes citadas.
+* ✅ Alguma fonte indireta foi tratada como confirmação? Não – a fonte indireta foi identificada como tal e complementada por fonte oficial (Agência Brasil) para o cargo.
+
+---
+
+**Resumo final:** Fernando Haddad, nascido em 25/01/1963, é filiado ao PT desde 1983. Foi Ministro da Fazenda de 01/01/2023 a 20/03/2026 e atualmente é pré-candidato ao governo de São Paulo.

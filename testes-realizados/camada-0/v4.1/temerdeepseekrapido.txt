@@ -1,0 +1,94 @@
+Aqui está a organização das informações solicitadas sobre Michel Temer, conforme as regras estabelecidas.
+
+---
+
+### 🔹 1. IDENTIFICAÇÃO BÁSICA
+
+*   **Nome completo:** Michel Miguel Elias Temer Lulia .
+*   **Data de nascimento:** 23 de setembro de 1940 .
+*   **Cargo atual ou último cargo:** 37.º Presidente da República do Brasil (último cargo público ocupado) .
+*   **Situação atual:** Ex-presidente da República, sem ocupar atualmente um cargo público eletivo ou de chefia no Poder Executivo.
+
+### 🔹 2. VÍNCULO POLÍTICO ATUAL
+
+*   **Partido:** Movimento Democrático Brasileiro (MDB) .
+*   **Data de filiação:** **Não há registro público claro sobre essa informação.** Embora haja registros de que a filiação ocorreu em 1981, a data exata (dia e mês) não foi encontrada nos registros oficiais consultados .
+
+**Explicação de termos:**
+*   **Filiação partidária:** É o vínculo formal de um cidadão a um partido político, registrado na Justiça Eleitoral. Essa ligação permite que a pessoa participe das decisões internas da legenda e seja escolhida como candidata em eleições.
+*   **Fundo Partidário:** É o dinheiro público destinado anualmente aos partidos políticos para manter suas atividades do dia a dia, como pagamento de contas, aluguel de sedes e manutenção de seus quadros de filiados.
+*   **Fundo Eleitoral (ou Fundo Especial de Financiamento de Campanha):** É o dinheiro público usado exclusivamente para financiar as campanhas eleitorais dos candidatos, cobrindo despesas como comícios, propaganda na televisão e material de divulgação.
+
+### 🔹 3. HISTÓRICO PARTIDÁRIO
+
+*   **Partido → período**
+
+| Partido | Período (Fonte) |
+| :--- | :--- |
+| **PMDB (Partido do Movimento Democrático Brasileiro)** | 1981 até 2017 (data da mudança de nome)  |
+| **MDB (Movimento Democrático Brasileiro)** | Desde 2017 (o partido alterou sua denominação para o nome original) . |
+
+### 🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada)
+
+A trajetória de Michel Temer está historicamente ligada ao PMDB/MDB, partido com a maior bancada no Congresso Nacional por vários anos. O controle ou a influência sobre essa legenda é relevante porque ela tem acesso a uma grande fatia dos recursos do fundo partidário e do fundo eleitoral, além de formar alianças estratégicas que podem definir a governabilidade e o apoio a projetos de lei no Legislativo.
+
+### 🔹 5. FONTES (estrutura obrigatória)
+
+*   **Nome da fonte:** Portal da Câmara dos Deputados - Biografia do Deputado Michel Temer
+    *   **Classificação:** OFICIAL
+    *   **Tipo:** Registro institucional de mandato parlamentar
+    *   **Data:** Acesso em 2024 (conteúdo histórico)
+*   **Nome da fonte:** Portal da Câmara dos Deputados - Galeria de Presidentes
+    *   **Classificação:** OFICIAL
+    *   **Tipo:** Biografia oficial
+    *   **Data:** Acesso em 2024 (conteúdo histórico)
+*   **Nome da fonte:** Wikipédia
+    *   **Classificação:** INDIRETA
+    *   **Tipo:** Enciclopédia colaborativa
+    *   **Data:** Conteúdo variável, consultado em outubro de 2023
+*   **Nome da fonte:** ND+ (Portal de notícias)
+    *   **Classificação:** INDIRETA
+    *   **Tipo:** Imprensa
+    *   **Data:** 19 de abril de 2025
+
+### 🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)
+
+"As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas."
+
+### 🔹 7. COMO USAR ESTA INFORMAÇÃO (fixo)
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+### 🔹 8. SE QUISER IR MAIS FUNDO (organizado por tipo)
+
+Se quiser explorar mais, você pode seguir por diferentes caminhos:
+
+**Sobre a pessoa**
+
+*   “Mostre a trajetória completa dessa pessoa”
+*   “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+
+*   “Quais decisões ou ações importantes essa pessoa tomou?”
+*   “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+
+*   “Isso afetou o quê na prática?”
+*   “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+
+*   “Explique melhor como funciona isso no Brasil”
+*   “Explique os termos difíceis que apareceram”
+
+### 🔹 9. CONTROLE DE SAÍDA
+
+*   Alguma informação veio apenas de fonte indireta? **Sim. A informação sobre a filiação em 1981 e a mudança de nome do partido de PMDB para MDB em 2017 foram validadas por fontes indiretas, pois os registros oficiais (Câmara dos Deputados) não foram atualizados com essa transição .**
+*   Alguma informação foi assumida? **Não.**
+*   Alguma fonte indireta foi tratada como confirmação? **Não. As informações foram apresentadas como registros históricos ou identificando a fonte.**

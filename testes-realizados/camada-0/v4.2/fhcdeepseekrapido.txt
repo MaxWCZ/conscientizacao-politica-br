@@ -1,0 +1,61 @@
+### **🔹 1. IDENTIFICAÇÃO BÁSICA**
+
+*   **Nome completo:** Fernando Henrique Cardoso .
+*   **Data de nascimento:** 18 de junho de 1931 .
+*   **Cargo atual ou último cargo:** 34º Presidente da República Federativa do Brasil .
+*   **Situação atual:** Ex-presidente da República, sem exercício de mandato eletivo ou cargo público no momento .
+
+### **🔹 2. VÍNCULO POLÍTICO ATUAL**
+
+*   **Partido:** Partido da Social Democracia Brasileira (PSDB) .
+*   **Data de filiação:** Não há registro público claro sobre essa informação.
+*   **Explicação:** A filiação partidária é o vínculo formal entre um cidadão e um partido político, permitindo que ele participe de processos internos e seja candidato a cargos eletivos. O **fundo partidário** é o dinheiro público destinado ao custeio das atividades dos partidos. O **fundo eleitoral** é o dinheiro público destinado a financiar as campanhas eleitorais dos candidatos.
+
+### **🔹 3. HISTÓRICO PARTIDÁRIO**
+
+*   Movimento Democrático Brasileiro (MDB) → A partir de 1978 (como suplente de senador)  *(Fonte: INDIRETA)*.
+*   Partido do Movimento Democrático Brasileiro (PMDB) → A partir de 1979  *(Fonte: INDIRETA)*.
+*   Partido da Social Democracia Brasileira (PSDB) → Desde 1988 (membro fundador)  *(Fonte: OFICIAL para o PSDB, INDIRETA para a data)*.
+
+### **🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada)**
+
+O histórico partidário de Fernando Henrique Cardoso mostra sua transição do MDB/PMDB, principais partidos de oposição ao regime militar na época, para o PSDB, que ele ajudou a fundar. A filiação a um partido define quais recursos de fundo partidário e eleitoral o político e seus aliados podem acessar, além de influenciar a formação de alianças e o apoio a determinadas pautas legislativas.
+
+### **🔹 5. FONTES (estrutura obrigatória)**
+
+*   **Senado Federal:** **OFICIAL** (Fonte institucional primária). Tipo: Portal de conteúdo institucional. Data de acesso: 2024 .
+*   **Fundação FHC:** **INSTITUCIONAL** (Fonte ligada à pessoa). Tipo: Biografia institucional em site de acervo. Data: 8 de maio de 2024 .
+*   **Wikipédia:** **INDIRETA** (Fonte de terceiros). Tipo: Enciclopédia colaborativa. Data: 1 de março de 2016 .
+*   **Acervo Estadão:** **INDIRETA** (Fonte de terceiros). Tipo: Portal de notícias/acervo jornalístico. Data: 6 de dezembro de 2011 .
+
+### **🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)**
+
+"As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas."
+
+### **🔹 7. COMO USAR ESTA INFORMAÇÃO (fixo)**
+
+Você não precisa entender tudo de uma vez.
+Se algo parecer difícil, foque no que faz sentido agora.
+Você pode aprofundar depois, se quiser.
+Se diferentes fontes apresentarem versões diferentes, considere verificar diretamente nas fontes oficiais indicadas.
+
+### **🔹 8. SE QUISER IR MAIS FUNDO (organizado por tipo)**
+
+Use apenas as categorias e exemplos abaixo.
+Não adicione novas perguntas ou sugestões fora deste padrão.
+
+**Sobre a pessoa**
+* “Mostre a trajetória completa dessa pessoa”
+* “Quais cargos essa pessoa já ocupou?”
+
+**Sobre atuação política**
+* “Quais decisões ou ações importantes essa pessoa tomou?”
+* “Como essa pessoa atua no cargo?”
+
+**Sobre impacto**
+* “Isso afetou o quê na prática?”
+* “Quem foi impactado por decisões dessa pessoa?”
+
+**Sobre o sistema**
+* “Explique melhor como funciona isso no Brasil”
+* “Explique os termos difíceis que apareceram”
