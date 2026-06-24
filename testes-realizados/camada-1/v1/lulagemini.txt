@@ -1,0 +1,164 @@
+# Criando o conteúdo do arquivo txt
+conteúdo = """🔹 1. VALIDAÇÃO DO CARGO ANALISADO
+
+Luiz Inácio Lula da Silva exerce o cargo de Presidente da República Federativa do Brasil no período de 2023 até a atualidade. 
+
+* Pessoa analisada: Luiz Inácio Lula da Silva
+* Cargo/função analisado: Presidente da República
+* Período analisado: 2023-atual
+* Confirmação do cargo: Confirmado publicamente
+* Fonte de vínculo: Senado Federal e Diário Oficial da União
+* Esfera: Federal
+* Poder ou estrutura: Executivo
+* Tipo de cargo: Eleito
+
+Luiz Inácio Lula da Silva foi eleito por voto direto e empossado pelo Congresso Nacional.
+
+---
+
+🔹 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para chefiar o Poder Executivo Federal. A pessoa nesta função acumula os papéis de chefe de Estado e chefe de Governo. Sua atribuição central é administrar a federação e representar o país externamente.
+
+---
+
+🔹 3. O QUE ESSE CARGO PODE FAZER
+
+---------------------------------------------------------------------------------------------------------
+
+| O cargo pode                       | O que isso significa na prática                    | Fonte       |
+---------------------------------------------------------------------------------------------------------
+
+| Nomear e exonerar Ministros        | Escolher auxiliares para chefiar pastas da         | Art. 84, I  |
+|                                    | administração pública.                             | da CF       |
+|------------------------------------|----------------------------------------------------|-------------|
+| Dirigir a administração federal    | Comandar órgãos do governo com auxílio dos         | Art. 84, II |
+|                                    | ministros.                                         | da CF       |
+|------------------------------------|----------------------------------------------------|-------------|
+| Iniciar o processo legislativo     | Enviar propostas de leis ao Congresso Nacional.    | Art. 84, III|
+|                                    |                                                    | da CF       |
+|------------------------------------|----------------------------------------------------|-------------|
+| Sancionar e promulgar leis         | Aprovar e oficializar as leis validadas pelo       | Art. 84, IV |
+|                                    | Legislativo.                                       | da CF       |
+|------------------------------------|----------------------------------------------------|-------------|
+| Vetar projetos de lei              | Recusar propostas de lei do parlamento de forma   | Art. 84, V  |
+|                                    | total ou parcial.                                  | da CF       |
+|------------------------------------|----------------------------------------------------|-------------|
+| Expedir decretos e regulamentos    | Editar normas complementares para a fiel           | Art. 84, IV |
+|                                    | execução de leis vigentes.                         | da CF       |
+|------------------------------------|----------------------------------------------------|-------------|
+| Editar medidas provisórias         | Adotar regras imediatas em casos urgentes e        | Art. 84,    |
+|                                    | relevantes.                                        | XXVI da CF  |
+---------------------------------------------------------------------------------------------------------
+
+---
+
+🔹 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+---------------------------------------------------------------------------------------------------------
+
+| O cargo não pode sozinho           | Por quê                                            | Quem/o que  |
+|                                    |                                                    | participa   |
+---------------------------------------------------------------------------------------------------------
+
+| Criar leis definitivas sozinho     | A função legislativa principal pertence ao         | Congresso   |
+|                                    | parlamento brasileiro.                             | Nacional    |
+|------------------------------------|----------------------------------------------------|-------------|
+| Alterar a Constituição Federal     | Alterações à Carta Magna exigem rito legislativo   | Congresso   |
+|                                    | qualificado.                                       | Nac. (PEC)  |
+|------------------------------------|----------------------------------------------------|-------------|
+| Nomear ministros do STF            | Indicações presidenciais exigem aprovação prévia   | Senado      |
+|                                    | do Senado.                                         | Federal     |
+|------------------------------------|----------------------------------------------------|-------------|
+| Ratificar tratados internacionais  | Acordos com o exterior dependem de aprovação       | Congresso   |
+|                                    | parlamentar.                                       | Nacional    |
+|------------------------------------|----------------------------------------------------|-------------|
+| Executar gastos sem orçamento      | Toda despesa pública exige prévia autorização      | Leis orça-  |
+|                                    | em lei.                                            | mentárias   |
+---------------------------------------------------------------------------------------------------------
+
+---
+
+🔹 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do cargo depende diretamente do Congresso Nacional para aprovação de medidas e verbas. Depende do cumprimento estrito da Constituição Federal e das leis vigentes. Depende de um orçamento público aprovado anualmente. Depende do suporte técnico dos ministérios de Estado estruturados.
+
+---
+
+🔹 6. TRADUÇÃO PRÁTICA
+
+Na prática, isso significa que a liderança do país compartilha decisões com outros poderes. Esse cargo pode influenciar uma decisão, mas nem sempre decide sozinho. Para saber se a pessoa era responsável por algo, é preciso verificar se o cargo tinha competência direta sobre aquele tema. Uma decisão pública pode depender de proposta, aprovação, execução, fiscalização e orçamento.
+
+---
+
+🔹 7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+
+---------------------------------------------------------------------------------------------------------
+
+| Tipo de relação                | O que significa                                                      |
+---------------------------------------------------------------------------------------------------------
+
+| Responsabilidade direta        | Quando o cargo detém poder formal isolado para assinar decretos ou   |
+|                                | nomear pessoas.                                                      |
+|--------------------------------|----------------------------------------------------------------------|
+| Responsabilidade compartilhada | Quando a medida exige voto, aprovação parlamentar ou adequação ao     |
+|                                | orçamento fixado.                                                    |
+|--------------------------------|----------------------------------------------------------------------|
+| Influência política            | Quando a pessoa pode articular e defender prioridades sem ditar a    |
+|                                | palavra final.                                                       |
+|--------------------------------|----------------------------------------------------------------------|
+| Ausência de competência        | Quando o tema é atribuição exclusiva de estados, municípios ou       |
+|                                | outros poderes.                                                      |
+---------------------------------------------------------------------------------------------------------
+
+---
+
+🔹 8. FONTES
+
+## A) Fontes para confirmar vínculo pessoa-cargo
+* Nome da fonte: Senado Federal do Brasil / Diário Oficial da União
+* Classificação: OFICIAL
+* Tipo: Termo de Posse e Publicação de Decretos Executivos
+* Data: Janeiro de 2023
+* Informação confirmada: Posse e exercício do cargo de Presidente da República em 2023.
+
+## B) Fontes para explicar competências do cargo
+* Nome da fonte: Constituição da República Federativa do Brasil (Art. 84) via Portal de Normas do Executivo
+* Classificação: OFICIAL
+* Tipo: Texto Constitucional Federal
+* Data: Promulgada em 1988 com emendas subsequentes
+* Competência ou limite explicado: Atribuições privativas do Chefe do Executivo e controle orçamentário.
+
+---
+
+🔹 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não diz se a pessoa foi boa ou ruim. Esta camada mostra o que o cargo permitia ou não permitia fazer. Para avaliar atuação, será necessário consultar atos, votos, decisões, projetos ou resultados em outras camadas. Antes de atribuir culpa ou mérito, verifique se o cargo tinha poder direto sobre o tema.
+
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+---
+
+🔹 10. SE QUISER IR MAIS FUNDO
+
+Se desejar aprofundar, envie uma das opções exatas abaixo:
+
+Sobre o cargo
+* “Explique melhor as atribuições desse cargo”
+* “Compare esse cargo com outro cargo parecido”
+
+Sobre dependências
+* “Quais decisões dependem de outros órgãos?”
+* “Quem mais participa dessas decisões?”
+
+Sobre responsabilidade
+* “Como saber se a responsabilidade era direta ou compartilhada?”
+* “Como diferenciar poder formal de influência política?”
+
+Sobre exemplos práticos
+* “Dê exemplos simples de decisões que esse cargo pode tomar”
+* “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”"""
+
+with open("analise_cargo_presidente.txt", "w", encoding="utf-8") as f:
+    f.write(conteúdo)
+print("Arquivo criado com sucesso.")

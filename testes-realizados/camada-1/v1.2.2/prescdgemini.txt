@@ -1,0 +1,71 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Presidente da Câmara dos Deputados do Brasil
+* Pessoa, se houver: Não informada
+* Período, se houver: Não informado
+* A pessoa exerceu esse cargo no período indicado? Não informado
+* Esfera: Federal
+* Poder ou estrutura: Poder Legislativo (Câmara dos Deputados)
+* Tipo de cargo: Mandato eletivo interno (escolhido pelos próprios deputados federais)
+
+O Presidente da Câmara dos Deputados é o representante máximo da instituição e o responsável por dirigir os seus trabalhos legislativos e administrativos.
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para coordenar, pautar e supervisionar as atividades da Câmara dos Deputados. Quem ocupa essa função atua como o condutor do processo de votação das leis, o gestor administrativo da Casa e o segundo na linha de substituição da Presidência da República.
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Definir a pauta de votações | Decide quais projetos de lei e propostas de emenda à Constituição serão votados no Plenário e quando isso ocorrerá. | OFICIAL: Regimento Interno da Câmara dos Deputados (Art. 17, I, "v") |
+| Decidir sobre o recebimento de denúncias por crime de responsabilidade | Analisa se os pedidos de impeachment contra o Presidente da República preenchem os requisitos legais para serem formalmente abertos e tramitarem. | OFICIAL: Lei nº 1.079/1950 (Art. 19) e Regimento Interno |
+| Substituir o Presidente da República | Assume temporariamente a chefia do Poder Executivo Federal em caso de impedimento ou vacância do Presidente e do Vice-Presidente da República. | OFICIAL: Constituição Federal (Art. 80) |
+| Presidir as sessões do Plenário | Abre, suspende e encerra as sessões, concede a palavra aos deputados, mantém a ordem no recinto e proclama os resultados das votações. | OFICIAL: Regimento Interno da Câmara dos Deputados (Art. 17, I) |
+| Supervisionar a administração da Casa | Exerce o poder hierárquico sobre os serviços administrativos da Câmara dos Deputados e assina a folha de pagamentos e contratos institucionais. | OFICIAL: Regimento Interno da Câmara dos Deputados (Art. 17, II) |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar ou rejeitar um projeto de lei | O voto do Presidente da Câmara é restrito e ele não possui o poder de aprovar leis de forma monocrática. | O Plenário de deputados federais (maioria dos votos) e o Senado Federal. |
+| Destituir o Presidente da República (impeachment) | O cargo apenas autoriza a abertura do processo; ele não julga nem condena. | O Plenário da Câmara (voto de 2/3 dos deputados) e o Senado Federal (que realiza o julgamento). |
+| Alterar o Regimento Interno da Casa | O Presidente deve seguir as normas estabelecidas e não pode mudar as regras de funcionamento por decisão própria. | A Mesa Diretora e o Plenário da Câmara dos Deputados via projeto de resolução. |
+| Afastar um deputado federal do mandato | O Presidente não pode cassar mandatos de parlamentares por ato unilateral. | O Conselho de Ética e Decoro Parlamentar e o voto secreto do Plenário. |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do Presidente da Câmara dos Deputados é rigidamente limitada pela Constituição Federal e pelo Regimento Interno da Câmara. Embora detenha o poder de definir o que vai a voto (pauta), ele depende do Colégio de Líderes (reunião dos líderes dos blocos partidários) para construir consensos políticos. Além disso, as decisões de caráter administrativo e financeiro da Casa frequentemente demandam a aprovação colegiada da Mesa Diretora, composta por outros deputados eleitos para a administração do órgão.
+## 6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o Presidente da Câmara funciona como o "árbitro" e o "gerente" da assembleia de deputados. Ele escolhe quais assuntos e problemas do país entrarão na fila para serem debatidos e votados, mas ele próprio não dita o resultado final das leis; esse resultado depende do voto da maioria dos deputados.
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o Presidente decide aceitar ou arquivar provisoriamente um pedido de impeachment, ou quando define a data de votação de uma matéria. |
+| Responsabilidade compartilhada | Quando um projeto de lei é pautado, mas a sua aprovação final, rejeição ou modificação depende expressamente do voto coletivo dos parlamentares. |
+| Influência política | Quando o Presidente atua nos bastidores para acelerar ou atrasar debates, articulando com partidos para construir maiorias. |
+| Ausência de competência direta | O cargo não possui poder formal para executar obras públicas, aplicar verbas de ministérios ou interferir em decisões judiciais de outros Poderes. |
+
+## 8. FONTES
+A) Fontes para confirmar vínculo pessoa-cargo:
+Não aplicável (nenhuma pessoa foi informada no comando da pesquisa).
+B) Fontes para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+   * Tipo: Texto Constitucional
+   * Data: 05 de outubro de 1988 (com emendas atualizadas)
+   * Informação confirmada: Regras de substituição do Presidente da República (Art. 80).
+* Nome: Regimento Interno da Câmara dos Deputados (RICD)
+* Classificação: OFICIAL
+   * Tipo: Ato Normativo Interno (Resolução nº 17 de 1989 e atualizações)
+   * Data: Acesso em junho de 2026
+   * Informação confirmada: Atribuições do Presidente da Câmara de pautar projetos, conduzir sessões e administrar a Casa (Art. 17).
+* Nome: Lei do Impeachment (Lei nº 1.079)
+* Classificação: OFICIAL
+   * Tipo: Lei Federal Ordinária
+   * Data: 10 de abril de 1950
+   * Informação confirmada: Competência do Presidente da Câmara para receber formalmente a denúncia de crime de responsabilidade (Art. 19).
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise apresenta estritamente os limites jurídicos e regimentais do cargo de Presidente da Câmara dos Deputados do Brasil, sem avaliar o mérito de gestões específicas ou contextos políticos históricos.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+Se você quiser analisar as atribuições de outro cargo ou de uma pessoa específica que exerceu essa função, me informe o nome completo ou o período desejado para que eu possa verificar o vínculo nas bases oficiais.
+

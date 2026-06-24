@@ -1,0 +1,169 @@
+**1. VALIDAÇÃO DO CARGO ANALISADO**
+
+- **Pessoa analisada:** Geraldo José Rodrigues Alckmin Filho
+- **Cargo/função analisado:** Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços (a pergunta refere-se a “Ministro do Desenvolvimento”, nome simplificado que corresponde a essa pasta)
+- **Período analisado:** 2023-2026 (até a data desta consulta, 3 de junho de 2026)
+- **Confirmação de que a pessoa exerceu o cargo/função:** Sim. Geraldo Alckmin foi nomeado para o cargo em 1º de janeiro de 2023 e permanece no exercício da função.
+- **Fonte usada para confirmar o vínculo pessoa-cargo:** Decreto de nomeação publicado no Diário Oficial da União (DOU) de 1º/1/2023 e página oficial do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC).
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Executivo Federal – Ministério de Estado
+- **Tipo de cargo:** Cargo político, de livre nomeação (comissionado).
+
+**Explicação simples:** Geraldo Alckmin ocupa o cargo de ministro dessa pasta desde 1º de janeiro de 2023, nomeado pelo Presidente da República, e o período analisado (2023-2026) corresponde integralmente ao exercício desse cargo até o momento.
+
+---
+
+**2. FUNÇÃO PRINCIPAL DO CARGO**
+
+O Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços é o responsável máximo pela pasta. A função principal do cargo é **formular, coordenar e executar políticas públicas nacionais voltadas ao desenvolvimento da indústria, do comércio e dos serviços**, promovendo a competitividade, a inovação, o comércio exterior, a defesa comercial e a propriedade intelectual, conforme as diretrizes do Presidente da República.
+
+Em termos simples, o cargo existe para:
+- Impulsionar o crescimento da indústria, do comércio e do setor de serviços no Brasil.
+- Cuidar das regras e negociações do comércio internacional (em parceria com o Itamaraty).
+- Administrar órgãos como o INPI (marcas e patentes) e a Apex-Brasil (promoção de exportações).
+- Propor medidas que melhorem o ambiente de negócios e a produtividade.
+
+---
+
+**3. O QUE ESSE CARGO PODE FAZER**
+
+As competências do cargo decorrem da Lei nº 14.600/2023 (que organiza os ministérios) e do Decreto nº 11.391/2023 (estrutura regimental do MDIC). Eis as principais:
+
+| O cargo pode | O que isso significa na prática | Fonte |
+| :--- | :--- | :--- |
+| Coordenar a formulação da política de desenvolvimento da indústria, comércio e serviços | Dirigir a criação de planos e programas governamentais para esses setores | Decreto nº 11.391/2023, art. 1º |
+| Supervisionar o Instituto Nacional da Propriedade Industrial (INPI) e a Agência Brasileira de Promoção de Exportações e Investimentos (Apex-Brasil) | Orientar e cobrar resultados dos órgãos que concedem patentes/marcas e promovem exportações | Lei nº 14.600/2023; Decreto nº 11.391/2023, anexo I |
+| Participar de negociações internacionais de comércio e definir políticas de defesa comercial (antidumping, salvaguardas) | Atuar em parceria com o Itamaraty em acordos comerciais e aplicar medidas contra importações desleais | Decreto nº 11.391/2023, art. 1º, III e IV |
+| Propor atos normativos (decretos, projetos de lei) ao Presidente da República | Sugerir novas regras que afetam a indústria, o comércio e os serviços | Constituição Federal, art. 87, parágrafo único, I |
+| Nomear e exonerar ocupantes de cargos de confiança na estrutura do ministério | Montar sua equipe direta (secretários, assessores) para implementar as políticas | Lei nº 14.600/2023; Decreto nº 11.391/2023 |
+| Administrar o Fundo de Desenvolvimento da Indústria e outros fundos vinculados à pasta | Gerir recursos destinados a financiar projetos de desenvolvimento industrial, dentro das regras orçamentárias | Decreto nº 11.391/2023, art. 17 |
+| Representar o Brasil em fóruns e organismos internacionais na área de comércio e desenvolvimento industrial | Ser a voz oficial do país em reuniões da OMC, OCDE, G20 e outras, seguindo orientações do Presidente | Decreto nº 11.391/2023, art. 1º, VI |
+
+---
+
+**4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO**
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+| :--- | :--- | :--- |
+| Alterar alíquotas do imposto de importação | A alteração de tarifas externas é decidida em colegiado (Camex), com participação de outros ministérios | Câmara de Comércio Exterior (Camex), Ministério da Fazenda, Ministério das Relações Exteriores, Casa Civil etc. |
+| Assinar tratados ou acordos comerciais internacionais em nome do Brasil | A celebração de tratados é competência do Presidente da República, sujeita a referendo do Congresso Nacional | Presidência da República; Congresso Nacional (CF, art. 84, VIII e art. 49, I) |
+| Criar autarquias, fundos ou empresas públicas sem lei | Apenas o Congresso pode aprovar lei que autorize a criação de novas entidades ou fundos | Congresso Nacional (CF, art. 48, XI e art. 163, II) |
+| Gastar recursos do orçamento sem autorização legal e sem dotação orçamentária aprovada | Todo gasto público exige previsão no Orçamento Geral da União, votado pelo Congresso | Congresso Nacional; Lei Orçamentária Anual |
+| Definir a política monetária ou controlar a inflação | Essa é uma competência exclusiva do Banco Central, que é independente do ministério | Banco Central do Brasil (autarquia com autonomia operacional) |
+| Obrigar empresas a adotar determinadas práticas de preço ou produção (fora de regulação legal existente) | A liberdade econômica é protegida por lei; a imposição de obrigações a empresas depende de lei ou de regulação específica de órgãos competentes | Legislação setorial; agências reguladoras; Congresso Nacional |
+
+---
+
+**5. DO QUE ESSE CARGO DEPENDE**
+
+A atuação do Ministro do Desenvolvimento é condicionada por várias instituições e regras:
+
+- **Presidência da República:** O ministro executa as diretrizes presidenciais, não define a política macroeconômica do governo sozinho.
+- **Congresso Nacional:** Projetos de lei, mudanças de fundos e aprovação do orçamento (LOA) dependem do parlamento.
+- **Câmara de Comércio Exterior (Camex):** Colegiado que reúne vários ministérios para decisões sobre tarifas de importação, defesa comercial e regras de origem.
+- **Ministério das Relações Exteriores (Itamaraty):** A condução diplomática das negociações internacionais de comércio é compartilhada.
+- **Ministério da Fazenda e Ministério do Planejamento:** Decisões que envolvem incentivos fiscais, gastos tributários ou impacto no orçamento são negociadas com essas pastas.
+- **Banco Central:** A política de juros e câmbio afeta a competitividade da indústria, mas escapa à alçada direta do ministério.
+- **Agências reguladoras (Anvisa, Aneel, Anatel etc.):** Regulação técnica de setores específicos cabe a essas autarquias, que têm independência.
+- **Orçamento aprovado:** Programas e ações do ministério dependem da disponibilidade de recursos financeiros autorizados na Lei Orçamentária Anual.
+
+---
+
+**6. TRADUÇÃO PRÁTICA**
+
+Na prática, isso significa que o titular da pasta pode liderar a criação de um programa de incentivo à indústria automotiva, mas **não pode, sozinho, reduzir impostos, baixar juros ou obrigar bancos a oferecer crédito barato**. Ele pode defender uma posição brasileira na OMC, mas **a decisão final sobre um acordo comercial exige alinhamento com o Itamaraty e a Presidência**, e depois aprovação do Congresso.
+
+Para uma pessoa comum, isso quer dizer que as políticas industriais e de comércio exterior têm um comandante, mas esse comandante atua dentro de um sistema em que muitas decisões são tomadas em grupo (como na Camex) ou por outros poderes (Congresso, Banco Central). Portanto, antes de atribuir a ele a responsabilidade por uma medida econômica, é preciso verificar se aquele tema era de competência direta do ministério ou se dependia de um conjunto de órgãos.
+
+---
+
+**7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE**
+
+| Tipo de relação | O que significa |
+| :--- | :--- |
+| **Responsabilidade direta** | Formular e executar a política de desenvolvimento industrial, comercial e de serviços; administrar o INPI e a Apex-Brasil; propor orçamento do ministério; coordenar programas de competitividade. |
+| **Responsabilidade compartilhada** | Alterar tarifas de importação (Camex); negociar acordos comerciais (com Itamaraty e Presidência); conceder incentivos fiscais setoriais (depende de Lei e da Fazenda); definir a política de comércio exterior em sua totalidade. |
+| **Influência política** | O ministro pode articular dentro do governo para que suas prioridades tenham espaço no orçamento, defender pautas junto ao Congresso e influenciar o debate público sobre a indústria. |
+| **Ausência de competência direta** | Definir a taxa básica de juros, controlar o câmbio, fixar metas de inflação, autorizar licenças ambientais para grandes obras ou interferir em decisões do Judiciário. |
+
+---
+
+**8. FONTES**
+
+### A) Fontes para confirmar vínculo pessoa-cargo
+
+- **Nome da fonte:** Diário Oficial da União – Edição de 1º/1/2023, Seção 2, Decretos de nomeação
+- **Classificação:** OFICIAL
+- **Tipo:** Publicação oficial do governo federal
+- **Data:** 1º/1/2023
+- **Informação confirmada:** Nomeação de Geraldo José Rodrigues Alckmin Filho para o cargo de Ministro de Estado do Desenvolvimento, Indústria, Comércio e Serviços.
+
+- **Nome da fonte:** Página institucional do MDIC – “O Ministro”
+- **Classificação:** OFICIAL
+- **Tipo:** Portal governamental (.gov.br)
+- **Data:** Consultado em 3/6/2026, com conteúdo vigente
+- **Informação confirmada:** Geraldo Alckmin é o atual ministro da pasta, assumindo em janeiro de 2023.
+
+### B) Fontes para explicar competências do cargo
+
+- **Nome da fonte:** Lei nº 14.600, de 19 de junho de 2023
+- **Classificação:** OFICIAL
+- **Tipo:** Lei ordinária federal que dispõe sobre a organização básica da Presidência da República e dos Ministérios
+- **Data:** 19/6/2023
+- **Competência ou limite explicado:** Estabelece as áreas de competência do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (art. 39).
+
+- **Nome da fonte:** Decreto nº 11.391, de 24 de janeiro de 2023
+- **Classificação:** OFICIAL
+- **Tipo:** Decreto que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do MDIC
+- **Data:** 24/1/2023
+- **Competência ou limite explicado:** Detalha as competências do ministro, dos órgãos específicos e a vinculação de entidades como INPI e Apex-Brasil.
+
+- **Nome da fonte:** Constituição da República Federativa do Brasil de 1988
+- **Classificação:** OFICIAL
+- **Tipo:** Norma constitucional
+- **Data:** 5/10/1988, com atualizações
+- **Competência ou limite explicado:** Atribuições gerais dos ministros de Estado (art. 87) e separação de competências com o Presidente e o Congresso.
+
+---
+
+**9. COMO USAR ESTA INFORMAÇÃO**
+
+Esta camada não diz se a pessoa foi boa ou ruim no cargo. Ela mostra quais eram os poderes e os limites formais do cargo de Ministro do Desenvolvimento, Indústria, Comércio e Serviços no período indicado. Para avaliar a atuação concreta, será necessário consultar atos, decisões, projetos, resultados ou outras camadas de informação, como a implementação de programas específicos, o uso do orçamento do ministério e os resultados de negociações comerciais.
+
+Antes de atribuir culpa ou mérito, verifique se o cargo tinha poder direto sobre o tema.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+---
+
+**10. SE QUISER IR MAIS FUNDO**
+
+**Sobre o cargo**
+- “Explique melhor as atribuições desse cargo”
+- “Compare esse cargo com outro cargo parecido”
+
+**Sobre dependências**
+- “Quais decisões dependem de outros órgãos?”
+- “Quem mais participa dessas decisões?”
+
+**Sobre responsabilidade**
+- “Como saber se a responsabilidade era direta ou compartilhada?”
+- “Como diferenciar poder formal de influência política?”
+
+**Sobre exemplos práticos**
+- “Dê exemplos simples de decisões que esse cargo pode tomar”
+- “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”
+
+---
+
+**11. CONTROLE DE SAÍDA**
+
+- A pessoa exerceu de fato o cargo/função informado? **Sim.**
+- O período informado foi confirmado ou tratado como incerto? **Confirmado (2023 até o presente).**
+- A fonte usada para confirmar o vínculo pessoa-cargo é adequada? **Sim (DOU e página oficial do MDIC).**
+- A fonte usada para explicar competências do cargo corresponde ao cargo analisado? **Sim (Lei 14.600/2023 e Decreto 11.391/2023).**
+- Alguma fonte de outro Poder, esfera ou órgão foi usada de forma indevida? **Não.**
+- Alguma informação veio apenas de fonte indireta? **Não; as informações centrais vêm de fontes oficiais.**
+- Alguma fonte indireta foi tratada como confirmação? **Não.**
+- Alguma competência foi atribuída ao cargo sem base oficial ou institucional? **Não.**
+- A resposta avaliou desempenho, ideologia ou intenção da pessoa? **Não.**

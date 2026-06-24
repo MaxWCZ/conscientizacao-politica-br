@@ -1,0 +1,152 @@
+**Validação inicial**
+
+- **Pessoa analisada:** Fernando Haddad
+- **Cargo/função analisado:** Senador
+- **Período analisado:** 2018
+- **Confirmação de que a pessoa exerceu o cargo/função:** Não há registro público de que Fernando Haddad tenha exercido o mandato de senador em 2018. Em 2018, ele foi candidato ao cargo de presidente da República, conforme registros oficiais da Justiça Eleitoral.
+- **Fonte usada para confirmar o vínculo pessoa-cargo:** Tribunal Superior Eleitoral (TSE) – DivulgaCand 2018; Senado Federal – relação de senadores da 55ª legislatura (2015-2019).
+- **Esfera:** Federal (o cargo de senador é da esfera federal, mas a pessoa não o exerceu).
+- **Poder ou estrutura:** Legislativo (Senado Federal).
+- **Tipo de cargo:** Eleito (cargo eletivo, mas não ocupado por Fernando Haddad).
+
+Portanto, **não há registro público claro de que essa pessoa tenha exercido esse cargo/função no período informado**. A análise a seguir descreve, de forma geral e sem vínculo com Fernando Haddad, as funções do cargo de senador da República no Brasil, conforme a legislação vigente em 2018.
+
+---
+
+## 🔹 1. FUNÇÃO PRINCIPAL DO CARGO (Senador da República)
+
+O senador é um representante dos estados e do Distrito Federal no Congresso Nacional. A função principal do cargo é participar da elaboração das leis federais, fiscalizar o Poder Executivo e representar os interesses das unidades da Federação.  
+O cargo existe para que cada estado e o DF tenham voz proporcional no Legislativo federal, equilibrando a representação popular (deputados federais) com a representação federativa (senadores).
+
+---
+
+## 🔹 2. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Propor leis complementares e ordinárias federais | Apresentar projetos de lei que, se aprovados, valem para todo o país | Constituição Federal, art. 48; Regimento Interno do Senado Federal (RISF) |
+| Votar projetos de lei, medidas provisórias e emendas constitucionais | Participar das deliberações que criam ou alteram leis nacionais | CF, art. 47, 60, 62; RISF |
+| Convocar ministros de Estado para prestar informações | Fiscalizar o Executivo, exigindo explicações sobre a condução de políticas públicas | CF, art. 50; RISF |
+| Autorizar operações financeiras dos estados e municípios | Aprovar ou rejeitar endividamentos e garantias da União a entes federativos | CF, art. 52, V a IX; RISF |
+| Julgar autoridades nos crimes de responsabilidade (em conjunto com a Câmara) | Atuar como tribunal político em processos de impeachment de presidente, ministros do STF, entre outros | CF, art. 52, I e II; Lei 1.079/1950 |
+| Aprovar indicações de autoridades | Sabatinar e votar nomes para ministros de tribunais superiores, diretores do Banco Central, embaixadores, entre outros | CF, art. 52, III e IV; RISF |
+| Criar comissões parlamentares de inquérito (CPI) | Investigar fato determinado, com poderes de investigação próprios das autoridades judiciais | CF, art. 58, § 3º; RISF |
+
+---
+
+## 🔹 3. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar uma lei federal | O processo legislativo exige aprovação das duas Casas (Câmara e Senado) e sanção presidencial (ou veto) | Câmara dos Deputados, Presidência da República |
+| Alterar a Constituição | É preciso aprovação em dois turnos, em cada Casa, por 3/5 dos membros | Câmara dos Deputados (além do Senado) |
+| Autorizar gastos públicos não previstos no orçamento | A execução financeira depende de lei orçamentária aprovada pelo Congresso e sancionada | Congresso Nacional (Câmara + Senado), Presidência, leis orçamentárias |
+| Condenar criminalmente alguém | Senador não exerce função jurisdicional penal; o julgamento de crimes comuns de autoridades é feito pelo STF | Supremo Tribunal Federal (STF) |
+| Convocar plebiscito ou referendo nacional | A convocação é de competência exclusiva do Congresso Nacional, mediante decreto legislativo aprovado pelas duas Casas | Câmara dos Deputados, Congresso Nacional |
+| Interferir na administração direta de um estado ou município | A organização político-administrativa é autônoma; a atuação do Senado se restringe a autorizações financeiras e intervenção federal em hipóteses constitucionais | Constituição Federal, arts. 18, 25; intervenção depende de lei complementar e procedimentos específicos |
+
+---
+
+## 🔹 4. DO QUE ESSE CARGO DEPENDE
+
+O exercício das competências de senador depende de:
+
+- **Quórum e deliberação colegiada:** a maioria das decisões é tomada pelo Plenário ou pelas comissões, exigindo presença mínima e votação.
+- **Aprovação da Câmara dos Deputados:** projetos de lei e emendas constitucionais precisam ser aprovados nas duas Casas.
+- **Sanção ou veto do presidente da República:** após aprovação no Congresso, o projeto vai à Presidência.
+- **Orçamento aprovado:** iniciativas que envolvem gastos precisam estar de acordo com a lei orçamentária e a Lei de Responsabilidade Fiscal.
+- **Indicações do Executivo:** as sabatinas dependem de o presidente da República enviar os nomes.
+- **Regimento Interno do Senado:** define prazos, ritos e procedimentos que moldam a atuação de cada parlamentar.
+- **Sistema de freios e contrapesos:** decisões legislativas podem ser questionadas no Judiciário, e o Executivo pode vetar projetos (veto que pode ser derrubado pelo Congresso).
+
+---
+
+## 🔹 5. TRADUÇÃO PRÁTICA
+
+Para a vida cotidiana, isso significa que um senador:
+
+- Pode propor ou votar leis que afetam impostos, saúde, educação, segurança e direitos, mas **não decide sozinho**.
+- Faz parte de um colegiado de 81 senadores; sua influência depende de articulação política e de consenso.
+- Não administra diretamente nada – não executa obras, não contrata servidores públicos federais, não gere o dinheiro do Tesouro.
+- Pode fiscalizar como o governo federal usa os recursos e como as políticas públicas estão sendo conduzidas, mas não pode ordenar despesas nem substituir ministros.
+- Nas sabatinas e votações de autoridades, ajuda a definir quem ocupará cargos importantes no Judiciário, no Banco Central e em embaixadas, mas a escolha inicial é do presidente da República.
+
+Na prática, o poder do cargo é **compartilhado** e **condicionado** por múltiplas instituições.
+
+---
+
+## 🔹 6. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+
+| Tipo de relação | O que significa no cargo de senador |
+|---|---|
+| Responsabilidade direta | Voto em projetos e indicações; atuação em CPIs; apresentação de propostas legislativas. |
+| Responsabilidade compartilhada | Aprovação de leis (depende da Câmara e da Presidência); julgamento de impeachment (dividido com a Câmara e presidido pelo STF). |
+| Influência política | Pode articular emendas ao orçamento, pressionar o Executivo por políticas públicas, negociar apoio a projetos. |
+| Ausência de competência direta | Não executa políticas, não gere ministérios, não define taxa de juros, não julga ações judiciais comuns. |
+
+---
+
+## 🔹 7. FONTES
+
+### A) Fontes para confirmar vínculo pessoa-cargo (no caso, a inexistência do vínculo)
+
+- **Nome da fonte:** DivulgaCand 2018 – Tribunal Superior Eleitoral  
+  **Classificação:** OFICIAL  
+  **Tipo:** Banco de dados de candidaturas  
+  **Data:** 2018  
+  **Informação confirmada:** Fernando Haddad foi candidato a presidente da República em 2018; não há registro de candidatura ao Senado naquele ano.
+
+- **Nome da fonte:** Senado Federal – Senadores da 55ª Legislatura (2015-2019)  
+  **Classificação:** OFICIAL  
+  **Tipo:** Relação nominal de senadores  
+  **Data:** 2015-2019  
+  **Informação confirmada:** O nome de Fernando Haddad não consta na lista de senadores em exercício em 2018.
+
+### B) Fontes para explicar competências do cargo de Senador
+
+- **Nome da fonte:** Constituição da República Federativa do Brasil (1988) – Capítulo I do Poder Legislativo (arts. 44 a 58)  
+  **Classificação:** OFICIAL  
+  **Tipo:** Texto constitucional  
+  **Data:** 1988 (com emendas posteriores)  
+  **Competências explicadas:** Funções do Senado, processo legislativo, competências privativas, fiscalização, CPIs, autorizações financeiras.
+
+- **Nome da fonte:** Regimento Interno do Senado Federal (Resolução nº 93/1970, atualizado)  
+  **Classificação:** OFICIAL  
+  **Tipo:** Norma interna da Casa Legislativa  
+  **Data:** 1970 (com atualizações)  
+  **Competências explicadas:** Organização dos trabalhos, tramitação de proposições, comissões, sabatinas, quóruns.
+
+---
+
+## 🔹 8. COMO USAR ESTA INFORMAÇÃO
+
+- Esta camada **não diz se a pessoa foi boa ou ruim**; diz quais eram os limites e as possibilidades formais do cargo.
+- Mostra que, mesmo se a pessoa tivesse exercido o cargo, ela não teria poderes absolutos: nenhuma decisão relevante depende de um único parlamentar.
+- Para avaliar a atuação de alguém, é necessário consultar atos concretos (votos, projetos apresentados, relatorias), e não apenas a descrição do cargo.
+- Antes de atribuir culpa ou mérito, verifique se o cargo tinha poder direto sobre o tema.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+---
+
+## 🔹 9. SE QUISER IR MAIS FUNDO
+
+**Sobre o cargo**
+- “Explique melhor as atribuições desse cargo”
+- “Compare esse cargo com outro cargo parecido”
+
+**Sobre dependências**
+- “Quais decisões dependem de outros órgãos?”
+- “Quem mais participa dessas decisões?”
+
+**Sobre responsabilidade**
+- “Como saber se a responsabilidade era direta ou compartilhada?”
+- “Como diferenciar poder formal de influência política?”
+
+**Sobre exemplos práticos**
+- “Dê exemplos simples de decisões que esse cargo pode tomar”
+- “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”
+
+---
+
+> **Nota de controle de saída:** Todas as informações sobre competências do cargo foram baseadas em fontes oficiais (Constituição e Regimento Interno do Senado). Não houve emissão de opinião, avaliação de desempenho ou atribuição de conduta ao político mencionado. A validação do vínculo indicou que a pessoa não exerceu o cargo no período, e a resposta foi adaptada para descrever o cargo de forma geral, conforme as regras estabelecidas.

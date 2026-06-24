@@ -1,0 +1,93 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** Prefeito
+- **Pessoa, se houver:** Não informada
+- **Período, se houver:** Não informado
+- **A pessoa exerceu esse cargo no período indicado?** Não informado
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Executivo
+- **Tipo de cargo:** Cargo eletivo, chefe do Poder Executivo municipal.
+
+O Prefeito é a autoridade máxima do Poder Executivo no âmbito do município, eleito pelo voto direto para mandato de quatro anos.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O Prefeito existe para administrar o município, representando o Poder Executivo local, com a função de zelar pela boa gestão da cidade, aplicar os recursos públicos conforme a lei e garantir a prestação dos serviços públicos de interesse da população.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Organizar e prestar serviços públicos de interesse local | Administrar serviços como transporte coletivo, limpeza urbana, iluminação pública e saneamento básico | Constituição Federal, art. 30; TSE |
+| Elaborar e executar o orçamento municipal | Propor a lei orçamentária anual e aplicar os recursos arrecadados com impostos municipais (IPTU, ISS) e repasses da União e do Estado | TSE |
+| Sancionar, vetar e propor projetos de lei | Aprovar ou rejeitar leis aprovadas pela Câmara de Vereadores e apresentar propostas legislativas de sua iniciativa | TSE |
+| Administrar e arrecadar impostos municipais | Gerir a arrecadação de tributos como IPTU e ISS, aplicando-os em obras e serviços | TSE |
+| Promover desenvolvimento urbano e ordenamento territorial | Planejar o uso e a ocupação do solo urbano, pavimentar ruas e construir espaços públicos | TSE; Câmara dos Deputados |
+| Proteger o patrimônio histórico-cultural local | Preservar bens culturais e históricos do município | Câmara dos Deputados |
+| Firmar convênios com União e Estados | Buscar repasses de verbas e parcerias para obras e programas sociais | TSE |
+| Manter escolas e creches municipais | Garantir educação infantil e ensino fundamental, com cooperação técnica e financeira da União e do Estado | Câmara dos Deputados; TSE |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis | A iniciativa e aprovação de leis municipais dependem da Câmara de Vereadores; o Prefeito apenas sanciona ou veta | Câmara Municipal (Poder Legislativo) |
+| Fixar o próprio salário | Os subsídios do Prefeito são fixados por lei de iniciativa da Câmara Municipal | Câmara Municipal |
+| Decidir sobre a criação ou extinção de cargos públicos | Matérias sobre servidores públicos dependem de lei aprovada pela Câmara | Câmara Municipal |
+| Alterar a estrutura administrativa do município sem lei | A organização da administração municipal exige lei de iniciativa do Prefeito, mas aprovada pela Câmara | Câmara Municipal |
+| Gastar recursos públicos fora do orçamento | A execução orçamentária deve seguir a lei orçamentária anual, aprovada pela Câmara | Lei de Responsabilidade Fiscal |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O Prefeito depende de **leis e regras** estabelecidas pela Constituição Federal, pela Constituição Estadual e pela Lei Orgânica do Município. Seu orçamento e gastos são condicionados à Lei Orçamentária Anual (LOA), aprovada pela Câmara de Vereadores, e à Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000). Sua atuação também depende da **cooperação técnica e financeira** da União e do Estado para áreas como saúde e educação, além do **apoio político** da Câmara de Vereadores para aprovação de projetos e convênios.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o Prefeito é a principal autoridade da cidade. Ele é responsável por cuidar do que é público no município: ruas, escolas, postos de saúde, transporte, limpeza, iluminação e planejamento urbano. Ele propõe o orçamento e administra o dinheiro dos impostos municipais, mas **não pode fazer tudo sozinho**: as leis precisam ser aprovadas pelos vereadores, e muitas obras e serviços dependem de verba e autorização dos governos estadual e federal.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Administração direta da cidade, execução orçamentária, aplicação de recursos municipais, gestão de serviços públicos locais (limpeza, iluminação, transporte, saúde, educação) |
+| **Responsabilidade compartilhada** | Elaboração de leis (depende da Câmara), fixação de subsídios (Câmara), definição do orçamento (Câmara aprova), gestão de saúde e educação (com União e Estados) |
+| **Influência política** | Articulação com vereadores para aprovar projetos, negociação de convênios com governos estadual e federal, defesa de interesses do município junto a outras esferas |
+| **Ausência de competência direta** | Criação de tributos estaduais ou federais, legislação sobre matérias de competência da União ou dos Estados, julgamento de contas (competência do Tribunal de Contas) |
+
+---
+
+## 8. FONTES
+
+**A) Fontes para confirmar vínculo pessoa-cargo**  
+*Não há pessoa informada.*
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo**
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Constituição da República Federativa do Brasil de 1988 | OFICIAL | Texto constitucional | 1988 | Define as competências dos municípios e a estrutura do Poder Executivo municipal |
+| Tribunal Superior Eleitoral – "Conheça as principais atribuições do prefeito" | INSTITUCIONAL | Portal institucional | Set/2016 | Lista das principais atribuições do Prefeito, com base na Constituição |
+| Tribunal Superior Eleitoral – "Tire suas dúvidas sobre as funções do prefeito e do vereador" | INSTITUCIONAL | Portal institucional | Jun/2024 | Explica as funções do Prefeito e sua relação com a Câmara |
+| Tribunal Superior Eleitoral – "Eleições 2024: você conhece as funções do prefeito de seu município?" | INSTITUCIONAL | Portal institucional | Fev/2024 | Detalha as competências do Prefeito |
+| Câmara dos Deputados – "Constituição define competências de prefeito e vereador" | INSTITUCIONAL | Portal institucional | Out/2004 | Resume as competências municipais previstas na Constituição |
+| Lei Orgânica do Município (exemplo) | OFICIAL | Lei municipal | Variável | Cada município tem sua Lei Orgânica, que detalha as atribuições específicas do Prefeito |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia o desempenho, a ideologia ou a intenção de qualquer pessoa que tenha ocupado ou venha a ocupar o cargo. Ela apenas descreve, com base em fontes oficiais e institucionais, o que o cargo de Prefeito **permite** ou **não permite** fazer do ponto de vista formal e legal.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

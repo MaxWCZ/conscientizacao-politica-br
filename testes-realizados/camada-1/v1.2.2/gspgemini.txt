@@ -1,0 +1,100 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Governador do Estado
+* Pessoa, se houver: Paulo Maluf
+* Período, se houver: 2015
+* A pessoa exerceu esse cargo no período indicado?: Não.
+* Esfera: Estadual
+* Poder ou estrutura: Poder Executivo
+* Tipo de cargo: Eletivo (Majoritário)
+
+O Governador do Estado é o chefe máximo da administração pública e do Poder Executivo na esfera estadual. [1, 2] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de Governador do Estado existe para chefiar a administração pública estadual, dirigir a execução das leis, planejar políticas públicas de competência do Estado e gerir o orçamento estadual destinado a áreas como segurança pública, saúde e educação básica e secundária. [2, 3] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode [4, 5] | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar e promulgar leis | Aprovar formalmente os projetos de lei que foram votados e aprovados pelos deputados estaduais, transformando-os em leis vigentes. | OFICIAL: Artigo 47, III da Constituição do Estado de São Paulo[](https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/compilacao-constituicao-0-05.10.1989.html) |
+| Vetar projetos de lei | Rejeitar total ou parcialmente projetos de lei aprovados pelo Legislativo que considerar inconstitucionais ou contrários ao interesse público. | OFICIAL: Artigo 47, III da Constituição do Estado de São Paulo |
+| Expedir decretos e regulamentos | Editar atos normativos para detalhar a aplicação prática das leis existentes, garantindo sua fiel execução. | OFICIAL: Artigo 47, III da Constituição do Estado de São Paulo |
+| Nomear e exonerar secretários | Escolher e destituir livremente os Secretários de Estado que comandarão as pastas estratégicas do governo. | OFICIAL: Artigo 47, I da Constituição do Estado de São Paulo |
+| Exercer o comando das forças policiais | Exercer a chefia suprema da Polícia Militar e da Polícia Civil do respectivo estado. | OFICIAL: Artigo 144, § 6º da Constituição Federal |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho [2, 6, 7] | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar o orçamento anual | O plano orçamentário exige validação legislativa formal antes de ser executado pelo governo estadual. | A Assembleia Legislativa Estadual deve debater, emendar e votar a lei orçamentária. |
+| Criar ou extinguir cargos por decreto | O aumento de despesas fixas ou criação de novos postos públicos permanentes exige processo legislativo estrito. | A Assembleia Legislativa Estadual precisa aprovar o projeto de lei correspondente. |
+| Alienar ou ceder bens imóveis do Estado | Bens públicos estaduais requerem autorização expressa dos representantes eleitos para controle patrimonial. | A Assembleia Legislativa Estadual deve deliberar e autorizar a operação. |
+| Julgar a legalidade de seus próprios atos | O controle jurisdicional e a fiscalização de contas obedecem ao princípio da separação de poderes. | O Tribunal de Justiça e o Tribunal de Contas do Estado fiscalizam e julgam a validade legal dos atos. |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+
+* Poder Legislativo Estadual: O Governador necessita da aprovação dos deputados para converter seus projetos em lei e validar o Plano Plurianual e as Diretrizes Orçamentárias. [6] 
+* Tribunal de Contas do Estado (TCE): Órgão autônomo que fiscaliza a aplicação do dinheiro público e emite parecer prévio sobre as contas anuais do Executivo. [7] 
+* Lei de Responsabilidade Fiscal (LRF): Norma federal que estabelece limites rígidos para gastos com pessoal e endividamento do Estado.
+* Arrecadação de Impostos: O volume real de ações públicas executadas é condicionado à receita efetivamente arrecadada por tributos como o ICMS e IPVA.
+
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, o Governador atua como o "diretor-geral" do Estado. É ele quem define as diretrizes para o policiamento nas ruas, dita as regras administrativas das escolas de ensino médio e decide quais rodovias estaduais receberão manutenção, operando sempre dentro do limite de dinheiro autorizado pelos deputados estaduais. [2, 6] 
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação [4, 5, 6] | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o Governador assina um decreto regulamentar, nomeia secretários ou define a distribuição do policiamento estadual. |
+| Responsabilidade compartilhada | Quando necessita do voto da Assembleia Legislativa para criar novos órgãos públicos ou para aprovar as verbas que financiarão as obras estaduais. |
+| Influência política | Quando o Governador propõe projetos, negocia repasses de recursos com o Governo Federal ou articula alianças com prefeitos. |
+| Ausência de competência direta | O Governador não tem poder sobre decisões judiciais, leis de trânsito nacionais, tributos federais ou serviços estritamente municipais (como o lixo ou o IPTU). |
+
+------------------------------
+## 8. FONTES## A) Fontes para confirmar vínculo pessoa-cargo
+
+* Nome: Biografia de Paulo Maluf / História Eleitoral de SP
+* Classificação: INDIRETA
+* Tipo: Verbete biográfico / Acervo Histórico da Imprensa Oficial
+* Data: Consulta realizada em junho de 2026.
+* Informação confirmada: Paulo Maluf exerceu o cargo de Governador do Estado de São Paulo de 15 de março de 1979 a 14 de maio de 1982. No ano solicitado (2015), o cargo era ocupado por Geraldo Alckmin, inviabilizando qualquer atribuição de competências do período a Paulo Maluf. [8, 9, 10, 11, 12] 
+
+## B) Fontes para explicar competências do cargo
+
+* Nome: Constituição do Estado de São Paulo de 1989
+* Classificação: OFICIAL
+* Tipo: Texto Constitucional Estadual Compilado
+* Data: Publicação original em 05/10/1989 (Texto atualizado).
+* Informação confirmada: Atribuições privativas do Governador (Art. 47), competências da Assembleia Legislativa (Arts. 19 e 20) e estrutura do Executivo.
+* Nome: [Constituição da República Federativa do Brasil de 1988](https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirBase=CF&abrirArtigo=42)
+* Classificação: OFICIAL
+* Tipo: Texto Constitucional Federal
+* Data: Publicação original em 05/10/1988.
+* Informação confirmada: Subordinação das forças de segurança pública estaduais ao Governador (Art. 144, § 6º). [3, 5, 6] 
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise serve como uma matriz técnica estruturada e não emite julgamento sobre a qualidade da gestão de qualquer ocupante do cargo. Ela descreve os limites institucionais e operacionais desenhados pela legislação vigente.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+Se você quiser avançar na análise, informe:
+
+* Um projeto de lei específico ou política pública estadual para verificar o trâmite formal.
+* Um órgão específico da estrutura do Estado para detalharmos o nível de subordinação ao Executivo.
+
+
+[1] [https://www.youtube.com](https://www.youtube.com/watch?v=KtR9C9zWJsM&t=42)
+[2] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Governo_do_Estado_de_S%C3%A3o_Paulo)
+[3] [https://www.al.sp.gov.br](https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/compilacao-constituicao-0-05.10.1989.html)
+[4] [https://www.al.sp.gov.br](https://www.al.sp.gov.br/leis/constituicoes/constituicoes-anteriores/constituicao-estadual-1967/)
+[5] [https://portal.stf.jus.br](https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirBase=CF&abrirArtigo=42)
+[6] [https://pesquisanacionaldefensoria.com.br](https://pesquisanacionaldefensoria.com.br/legislacao-consolidada/legislacao-dos-estados-e-distrito-federal/constituicao-do-estado-de-sao-paulo/)
+[7] [https://bd.camara.leg.br](https://bd.camara.leg.br/bd/bitstreams/69f9ea3f-031f-47df-b977-9eae003f8dc4/download)
+[8] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Paulo_Maluf)
+[9] [https://www1.folha.uol.com.br](https://www1.folha.uol.com.br/folha/eleicoes/sp_maluf_biografia.shtml)
+[10] [https://g1.globo.com](https://g1.globo.com/jornal-nacional/noticia/2015/01/geraldo-alckmin-assume-governo-de-sao-paulo-pela-quarta-vez.html)
+[11] [https://www.bibliotecajuridica.sp.gov.br](https://www.bibliotecajuridica.sp.gov.br/discursos_de_posse_g/governador-geraldo-alckmin-2015/)
+[12] [https://datafolha.folha.uol.com.br](https://datafolha.folha.uol.com.br/opiniaopublica/2015/12/1714940-governo-geraldo-alckmin-tem-sua-pior-avaliacao-no-estado-de-sao-paulo.shtml)

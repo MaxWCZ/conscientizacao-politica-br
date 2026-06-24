@@ -1,0 +1,84 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Cargo de Natureza Especial (CNE)
+* Pessoa, se houver: Kim Kataguiri
+* Período, se houver: 2020
+* Contexto informado ou identificado: Câmara dos Deputados, Brasília
+* A pessoa exerceu esse cargo no período indicado? Não
+* Houve exercício interino, substituto ou provisório? Não
+* Esfera: Federal
+* Poder ou estrutura: Poder Legislativo (Câmara dos Deputados)
+* Tipo de cargo: Cargo de provimento em comissão (livre nomeação e exoneração) [1] 
+
+O Cargo de Natureza Especial (CNE) é uma função pública de livre nomeação e exoneração destinada à prestação de serviços de assessoramento, chefia ou assistência direta às estruturas internas, lideranças e órgãos administrativos do Poder Legislativo.
+Nota de validação: Kim Kataguiri não exerceu o cargo de CNE; no período indicado de 2020, ele ocupava o cargo político-eletivo de Deputado Federal. O CNE, por sua vez, constitui a categoria dos servidores nomeados para prestar assessoria às estruturas da Câmara, inclusive aos gabinetes e lideranças. [2, 3] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para garantir o suporte técnico, administrativo e político especializado indispensável ao funcionamento da atividade legislativa. Seu papel geral é executar atribuições de direção, chefia, assistência ou assessoramento direto à Mesa Diretora, às Comissões, às Lideranças Partidárias e aos órgãos administrativos da instituição. [2] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode [1, 2, 4] | O que isso significa na prática | Fonte |
+|---|---|---|
+| Prestar assessoramento técnico | Elaborar notas técnicas, minutas de relatórios, pesquisas jurídicas e pareceres para subsidiar a atuação dos parlamentares e órgãos da Casa. | Resolução da Câmara dos Deputados nº 1/2007 |
+| Exercer chefia e coordenação | Dirigir equipes de apoio administrativo, gerenciar fluxos de documentos e supervisionar rotinas de gabinetes ou lideranças. | Resolução da Câmara dos Deputados nº 1/2007 |
+| Prestar assistência direta | Auxiliar autoridades na organização de agendas oficiais, triagem de correspondências e acompanhamento de reuniões institucionais. | Resolução da Câmara dos Deputados nº 1/2007 |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho [1, 5, 6, 7, 8] | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Apresentar Projetos de Lei ou votar matérias | A atividade parlamentar (voto, relatoria e proposição legislativa) é restrita e exclusiva aos deputados eleitos. | Deputados Federais titulares do mandato legislativo. |
+| Ordenar despesas orçamentárias gerais da Casa | A gestão dos recursos e a autorização de gastos dependem de delegação formal interna ou competência da Mesa Diretora. | Diretoria-Geral e Mesa Diretora da Câmara dos Deputados. |
+| Garantir estabilidade no serviço público | Por se tratar de um cargo em comissão, a permanência é precária e depende da confiança da autoridade nomeante. | Autoridade titular do órgão ou gabinete responsável pela indicação. |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação e a própria permanência do ocupante do CNE dependem integralmente do ato de indicação e manutenção emitido pelo titular do órgão, gabinete ou liderança partidária responsável. Sua estrutura remuneratória e a criação de vagas dependem de lei federal específica e estão estritamente vinculadas aos limites do orçamento anual da Câmara dos Deputados e às diretrizes fixadas pela Mesa Diretora por meio de atos regimentais. [8, 9] 
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, o ocupante de um Cargo de Natureza Especial (CNE) funciona como um assessor técnico ou político de alto nível dentro do parlamento. Ele é o profissional que trabalha nos bastidores redigindo textos, analisando dados, organizando reuniões e prestando apoio operacional para que as comissões e os deputados consigam desempenhar suas funções de legislar e fiscalizar.
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Restrita à execução das tarefas administrativas internas e técnicas delegadas pela chefia imediata, além do cumprimento das normas funcionais do estatuto do servidor. |
+| Responsabilidade compartilhada | Na elaboração de minutas de pareceres ou relatórios, cujo conteúdo final é chancelado e assumido pela autoridade política ou colegiado técnico. |
+| Influência política | Subserviente à linha de atuação da liderança, bancada ou parlamentar ao qual o assessor está subordinado, auxiliando na articulação de dados e informações. |
+| Ausência de competência direta | Não detém poder político de decisão votante, não assina atos de governo, leis ou decretos e não possui representação popular própria. |
+
+------------------------------
+## 8. FONTES
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:
+
+* Nome: Portal da Transparência / Pessoal de Gabinete da Câmara dos Deputados
+* Classificação: OFICIAL
+* Tipo: Registro funcional e biográfico
+* Data: Consulta realizada em junho de 2026
+* Informação confirmada: Kim Kataguiri tomou posse como Deputado Federal em 1º de fevereiro de 2019, mantendo-se no mandato parlamentar (cargo político-eletivo) ao longo de 2020, sem registros de atuação como servidor CNE. [3, 5, 10] 
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+
+* Nome: Resolução da Câmara dos Deputados nº 1, de 2007
+* Classificação: OFICIAL
+* Tipo: Ato normativo interno / Regimento de Pessoal
+* Data: Publicada em 7 de janeiro de 2007 (Texto atualizado)
+* Informação confirmada: Define a finalidade dos Cargos de Natureza Especial (CNE) voltados ao assessoramento, chefia e assistência, além dos critérios de livre provimento e proibição de nepotismo. [2, 8] 
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise delimita os aspectos puramente institucionais e as atribuições legais fixadas para a função descrita, sem julgar o mérito da atuação de qualquer cidadão que a ocupe ou tenha ocupado. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.
+Se você desejar, posso detalhar as diferenças de remuneração entre os níveis de CNE, explicar o funcionamento dos cargos de Secretário Parlamentar (SP) ou demonstrar como funciona o processo de nomeação eletrônica na Câmara dos Deputados.
+
+[1] [https://www2.camara.leg.br](https://www2.camara.leg.br/legin/int/portar/2024/portaria-25-13-maio-2024-795631-publicacaooriginal-171776-cd-dg.html)
+[2] [https://www2.camara.leg.br](https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-publicacaooriginal-68191-pl.html)
+[3] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Kim_Kataguiri)
+[4] [https://www.sinj.df.gov.br](https://www.sinj.df.gov.br/sinj/Norma/273873c6502e4445bb052e0c479e4d1f/Ato_da_Mesa_Diretora_48_14_06_2016.html)
+[5] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/204536)
+[6] [https://repositorio.ufmg.br](https://repositorio.ufmg.br/bitstream/1843/BUOS-99RK4Z/1/arquiteturaorganizacaoinformacao_sandrabarbosabarretosmoraes_monografia.pdf)
+[7] [https://wiki.saude.df.gov.br](https://wiki.saude.df.gov.br/index.php/Cargos_em_comiss%C3%A3o)
+[8] [https://www2.camara.leg.br](https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-normaatualizada-pl.html)
+[9] [https://www.planalto.gov.br](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12777.htm)
+[10] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/204536/pessoal-gabinete?ano=2022)

@@ -1,0 +1,85 @@
+1. CARGO ANALISADO  
+- Cargo: Cargo de Natureza Especial  
+- Pessoa, se houver: Kim Kataguiri  
+- Período, se houver: 2020  
+- Contexto informado ou identificado: Brasília  
+- A pessoa exerceu esse cargo no período indicado? **Não confirmado**  
+- Houve exercício interino, substituto ou provisório? **Não confirmado**  
+- Esfera: Não identificada (o contexto “Brasília” sugere vínculo federal, mas não há confirmação)  
+- Poder ou estrutura: Não identificado  
+- Tipo de cargo: Não identificado  
+
+Em 2020, Kim Kataguiri exercia o mandato de deputado federal, que é um cargo eletivo e não se classifica como Cargo de Natureza Especial; não foi encontrado registro oficial ou institucional de nomeação para um Cargo de Natureza Especial nesse período.
+
+2. FUNÇÃO PRINCIPAL DO CARGO  
+Um Cargo de Natureza Especial é um posto de alto nível, de livre nomeação e exoneração, destinado a funções de direção superior ou assessoramento direto a autoridades máximas na administração pública (como ministros, secretários-executivos, presidentes de autarquias, diretores-gerais de casas legislativas ou de tribunais). Existe para que o governante possa contar com colaboradores de sua confiança em posições estratégicas, sem as exigências de concurso público ou estabilidade do servidor de carreira.
+
+3. O QUE ESSE CARGO PODE FAZER  
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|--------------------------------|-------|
+| Dirigir, coordenar ou supervisionar unidades administrativas | Comandar equipes, definir prioridades operacionais e gerir recursos do órgão ou da unidade sob sua responsabilidade | Lei nº 8.112/1990, art. 2º, I (conceito de cargo de natureza especial como de provimento em comissão); Decreto-Lei nº 200/1967, art. 12 (direção superior) |
+| Assessorar diretamente a autoridade que o nomeou | Fornecer subsídios técnicos ou políticos para decisões, preparar despachos, representar a autoridade em reuniões ou atos | Regra geral de cargos comissionados de assessoramento superior |
+| Praticar atos de gestão delegados pela autoridade superior | Assinar portarias, autorizar despesas, celebrar contratos ou nomear servidores nos limites da delegação estabelecida por lei, decreto ou regimento | Art. 84, VI e parágrafo único, da Constituição Federal (possibilidade de delegação) |
+| Representar o órgão ou entidade em atos externos | Falar em nome da instituição, participar de audiências, firmar acordos de cooperação quando autorizado | Normas regimentais típicas de cada órgão |
+
+Nota: As atribuições exatas de um Cargo de Natureza Especial variam conforme o órgão e a lei de criação do cargo. A tabela reflete as competências gerais comuns a esses postos na administração pública brasileira.
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO  
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|--------------------------|---------|-------------------------------|
+| Criar ou alterar leis | A função legislativa é privativa do Poder Legislativo (Congresso Nacional, assembleias, câmaras) ou excepcionalmente do chefe do Executivo via medida provisória, dentro dos limites constitucionais | O Parlamento; o chefe do Executivo |
+| Definir políticas públicas que exijam aprovação colegiada | Decisões estratégicas de governo frequentemente dependem de conselhos, comitês ou deliberação conjunta de ministérios | Colegiados interministeriais, conselhos de políticas públicas, chefe do Executivo |
+| Autorizar despesas além do orçamento aprovado | Os gastos públicos estão vinculados à lei orçamentária anual e a leis de diretrizes orçamentárias | Congresso Nacional (aprovação do orçamento); ordenador de despesas com delegação específica |
+| Nomear ou exonerar ocupantes de outros cargos de natureza especial ou de direção superior sem a anuência da autoridade máxima | A prerrogativa de nomeação para os escalões mais altos costuma ser reservada ao chefe do Poder ou ao ministro de Estado | Ministro de Estado, Presidente da República, Mesa Diretora, dependendo do órgão |
+| Editar atos normativos gerais (decretos, regulamentos) | Somente o chefe do Executivo pode editar decretos e regulamentos para fiel execução das leis, podendo delegar a ministros ou secretários executivos apenas em hipóteses limitadas | Chefe do Executivo; possibilidade de delegação restrita (Constituição, art. 84, VI) |
+
+5. DO QUE ESSE CARGO DEPENDE  
+O exercício de um Cargo de Natureza Especial depende de:  
+- **Ato de nomeação da autoridade competente** (Presidente da República, ministro, presidente de tribunal etc.) e permanência da confiança, pois é um cargo de livre exoneração.  
+- **Estrutura do órgão e definição legal do cargo**: as competências, limites e subordinação estão no regimento interno, lei de criação ou estatuto do órgão, que não foram identificados neste caso.  
+- **Disponibilidade orçamentária e financeira**: a execução de projetos depende do orçamento aprovado pelo Legislativo e da liberação de recursos pelo Executivo.  
+- **Delegação de autoridade superior**: muitas ações dependem de autorização expressa do superior hierárquico ou de decisão colegiada.  
+- **Observância da Constituição, leis e normas internas**: qualquer ato deve respeitar o ordenamento jurídico e pode ser revisto pelo Judiciário ou por órgãos de controle (Tribunal de Contas, Controladoria-Geral).  
+
+6. TRADUÇÃO PRÁTICA  
+Para uma pessoa comum, um Cargo de Natureza Especial é como um posto de gerência de confiança em um grande órgão público. A pessoa que ocupa esse cargo não foi escolhida por concurso, mas sim por indicação política ou técnica de quem governa. Ela pode ajudar a executar políticas, gerir equipes e orientar decisões, mas não tem poder para criar leis, gastar sem limite ou decidir tudo sozinha — está sempre ligada ao chefe que a nomeou e às regras do serviço público.
+
+7. RESPONSABILIDADE  
+
+| Tipo de relação | O que significa |
+|-----------------|-----------------|
+| Responsabilidade direta | Quando o ocupante pratica atos de gestão, assina documentos ou toma decisões operacionais dentro de sua competência, responde administrativa, civil e penalmente por esses atos. |
+| Responsabilidade compartilhada | Quando a decisão depende de aprovação colegiada, orçamento aprovado por outro poder ou autorização superior; a responsabilidade é dividida com os demais participantes do processo decisório. |
+| Influência política | O ocupante pode articular, sugerir, defender ideias e influenciar a autoridade máxima ou outros setores, mas não tem poder formal para decidir sozinho sobre temas que exijam aprovação de terceiros. |
+| Ausência de competência direta | Quando o tema foge completamente das atribuições do cargo (ex.: legislar, julgar causas judiciais), o cargo não detém nenhum poder formal sobre ele. |
+
+8. FONTES  
+
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo  
+- Não foi localizado nenhum ato de nomeação, exoneração ou registro institucional que comprove que Kim Kataguiri tenha ocupado um Cargo de Natureza Especial em 2020. Pesquisa em portais oficiais (Diário Oficial da União, Portal da Transparência) não retornou confirmação. A condição pública conhecida no período é a de deputado federal, mandato que não se enquadra nessa categoria.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo  
+- **Nome:** Lei nº 8.112, de 11 de dezembro de 1990  
+  - Classificação: OFICIAL  
+  - Tipo: Lei federal  
+  - Data: 1990  
+  - Informação confirmada: Art. 2º, I — define que “cargo de provimento em comissão” inclui os de natureza especial, de livre nomeação e exoneração, destinados a funções de direção, chefia e assessoramento.  
+
+- **Nome:** Constituição da República Federativa do Brasil de 1988  
+  - Classificação: OFICIAL  
+  - Tipo: Constituição federal  
+  - Data: 1988  
+  - Informação confirmada: Art. 84, VI — possibilidade de delegação de atribuições; art. 37, V — previsão de cargos em comissão e funções de confiança para direção, chefia e assessoramento.  
+
+- **Nome:** Decreto-Lei nº 200, de 25 de fevereiro de 1967  
+  - Classificação: OFICIAL  
+  - Tipo: Decreto-lei federal  
+  - Data: 1967  
+  - Informação confirmada: Art. 12 — conceitua a direção superior no âmbito da administração federal, à qual se vinculam cargos de natureza especial.
+
+Nota: As atribuições específicas de um Cargo de Natureza Especial dependem do órgão, da lei de criação e do regimento interno. Como o órgão ou entidade não foi identificado, a descrição permaneceu genérica, baseada no regime jurídico comum desses cargos.
+
+9. COMO USAR ESTA INFORMAÇÃO  
+Esta análise mostra apenas o que o cargo permite ou não fazer em termos de competências formais, sem avaliar o desempenho de quem o ocupou ou ocupa. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

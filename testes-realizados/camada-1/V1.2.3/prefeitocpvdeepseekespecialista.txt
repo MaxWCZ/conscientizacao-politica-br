@@ -1,0 +1,84 @@
+1. CARGO ANALISADO
+- Cargo: Prefeito
+- Pessoa, se houver: Juliana Aparecida Gomes de Freitas
+- Período, se houver: [não informado]
+- A pessoa exerceu esse cargo no período indicado? **não confirmado**
+- Se exerceu apenas de forma interina, substituta ou provisória, indique isso claramente: [não se aplica]
+- Esfera: Municipal
+- Poder ou estrutura: Executivo
+- Tipo de cargo: Cargo político eletivo, de chefia do Poder Executivo municipal.
+
+Não há registro público claro, de fonte oficial ou institucional, que confirme que Juliana Aparecida Gomes de Freitas exerceu o cargo de prefeito.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de prefeito existe para ser o chefe da administração pública municipal. Seu papel geral é governar a cidade, executando leis e serviços públicos locais, e representando o município nas suas relações jurídicas, políticas e administrativas. A função central é gerir os interesses locais diretamente ligados à vida cotidiana da população.
+
+3. O QUE ESSE CARGO PODE FAZER
+| O cargo pode | O que isso significa na prática | Fonte |
+| :--- | :--- | :--- |
+| Expedir decretos e regulamentos para fiel execução das leis municipais | Detalhar as leis aprovadas pela Câmara para que possam ser aplicadas no dia a dia da administração. | Constituição Federal de 1988, art. 84, IV, por simetria constitucional com o chefe do Executivo. |
+| Sancionar, promulgar ou vetar projetos de lei aprovados pela Câmara Municipal | Transformar projetos em leis ou rejeitá-los total ou parcialmente, justificando o veto. | Constituição Federal, art. 66, por simetria. |
+| Iniciar o processo legislativo de leis sobre orçamento, criação de cargos e organização administrativa | Propor à Câmara as leis que definem como o dinheiro será gasto e como a prefeitura será estruturada. | Constituição Federal, art. 61, § 1º, II, e art. 165, por simetria. |
+| Nomear e exonerar secretários municipais e ocupantes de cargos de confiança | Formar sua equipe de governo para executar o plano de governo e administrar as secretarias. | Constituição Federal, art. 84, I e II, por simetria. |
+| Administrar o orçamento municipal, autorizando despesas, licitações e contratos | Decidir como e quando gastar os recursos da cidade, sempre dentro do que a lei orçamentária e a Lei de Responsabilidade Fiscal permitem. | Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal). |
+| Executar os serviços públicos municipais (saúde, educação infantil e fundamental, coleta de lixo, iluminação, etc.) | Garantir que postos de saúde funcionem, que escolas municipais tenham professores, que o lixo seja coletado e as ruas iluminadas. | Constituição Federal, art. 30, V, VI e VII. |
+| Prestar contas anualmente à Câmara de Vereadores e ao Tribunal de Contas | Demonstrar, de forma detalhada, quanto arrecadou, quanto gastou e em quê. | Constituição Federal, art. 31, § 1º. |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+| :--- | :--- | :--- |
+| Criar leis ou aumentar tributos | A função de legislar é da Câmara de Vereadores (princípio da separação dos poderes). | Câmara Municipal (aprovação do projeto de lei). |
+| Aprovar o orçamento anual (LOA) ou o plano de governo de longo prazo (PPA) | O prefeito propõe, mas quem define o destino final dos recursos é a Câmara. | Câmara Municipal (votação e aprovação). |
+| Contrair empréstimos ou financiamentos sem autorização | A dívida vincula o futuro do município e depende de aprovação legislativa e federal. | Câmara Municipal, Banco Central e, em alguns casos, o Senado Federal. |
+| Gastar mais do que a arrecadação permite ou criar despesa nova sem fonte de custeio | A Lei de Responsabilidade Fiscal impõe equilíbrio nas contas públicas para evitar crises. | Limite imposto pela Lei Complementar nº 101/2000 e fiscalização do Tribunal de Contas. |
+| Realizar obras e compras de grande valor sem licitação (exceto em emergências) | Garantir a impessoalidade e a melhor oferta para o dinheiro público. | Procedimento licitatório (Lei nº 14.133/2021), órgãos de controle e fiscalização. |
+| Conceder aumento salarial para si mesmo ou para o vice-prefeito | Seria um conflito de interesses; a definição dos subsídios é feita por lei, pela legislatura anterior. | Câmara Municipal (deve fixar o subsídio para a legislatura seguinte). |
+
+5. DO QUE ESSE CARGO DEPENDE
+A atuação do prefeito é condicionada por várias estruturas:
+- **Câmara Municipal**: Para aprovar leis, o orçamento, autorizar empréstimos e fiscalizar os atos do Executivo. Sem maioria política, o prefeito tem grande dificuldade de governar.
+- **Leis e regras fiscais**: A Lei de Responsabilidade Fiscal (LC 101/2000) impõe teto de gastos com pessoal, regras para endividamento e exige metas fiscais. O orçamento municipal também vincula gastos mínimos em saúde (15% da receita) e educação (25% da receita), conforme a Constituição Federal.
+- **Tribunal de Contas do Estado**: Analisa a prestação de contas anual e emite parecer que pode levar à rejeição das contas pela Câmara, além de fiscalizar licitações e atos de pessoal.
+- **Transferências de outras esferas**: Muitos serviços municipais (como saúde e assistência social) dependem de repasses federais e estaduais, cuja execução segue regras estritas definidas por esses governos.
+- **Conselhos Municipais**: Políticas como saúde, educação e assistência social são geridas com a participação obrigatória de conselhos, que controlam fundos e aprovam planos de ação.
+- **Justiça e Ministério Público**: Decisões judiciais e recomendações do Ministério Público podem determinar ações ou impedir atos do prefeito, como em casos de irregularidades em contratos ou políticas públicas.
+
+6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o prefeito funciona como o "gerente" da cidade. Ele é o principal responsável por fazer os serviços públicos funcionarem no dia a dia: a ambulância do posto de saúde, a merenda na escola, o ônibus, a rua asfaltada, o lixo recolhido.
+
+No entanto, esse gerente não tem um cheque em branco. Ele não pode, por exemplo, aumentar o IPTU sozinho (depende de uma lei aprovada pelos vereadores) nem decidir, sem planejamento, gastar o dinheiro que quiser (depende de um orçamento aprovado, de licitações e da fiscalização do Tribunal de Contas). Ele governa com autoridade para executar, mas suas iniciativas estão limitadas por leis e pela necessidade de aprovação da Câmara.
+
+7. RESPONSABILIDADE
+| Tipo de relação | O que significa |
+| :--- | :--- |
+| Responsabilidade direta | Quando o cargo tinha poder formal para decidir ou executar. Ex: nomear um secretário, expedir um decreto regulamentar, determinar o cronograma de obras de um serviço já orçado. |
+| Responsabilidade compartilhada | Quando dependia de outros órgãos, votação, colegiado ou orçamento. Ex: aprovar a lei do orçamento, criar um novo imposto municipal, construir um hospital com verba de empréstimo federal. |
+| Influência política | Quando podia articular ou defender algo, mas não decidir sozinho. Ex: liderar uma negociação com o governo do estado por mais repasses para a saúde, incentivar vereadores de sua base a aprovar um projeto prioritário. |
+| Ausência de competência direta | Quando o cargo não tinha poder formal sobre o tema. Ex: julgar um crime ocorrido no município, autorizar o funcionamento de uma emissora de rádio (concessão federal), modificar a grade curricular das escolas estaduais. |
+
+8. FONTES
+
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo, se houver pessoa informada.
+Não foram localizadas fontes oficiais ou institucionais que confirmem o vínculo da pessoa Juliana Aparecida Gomes de Freitas com o cargo de prefeito. Não foi possível identificar em qual município ou período esse cargo teria sido exercido. Portanto, a informação sobre o vínculo é tratada como "não confirmada".
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo.
+- **Nome:** Constituição da República Federativa do Brasil de 1988
+  **Classificação:** OFICIAL
+  **Tipo:** Texto constitucional
+  **Data:** 5 de outubro de 1988
+  **Informação confirmada:** Define as competências do município (art. 30), a estrutura do Poder Executivo (arts. 76, 84 por simetria), o processo legislativo (art. 66), a iniciativa de leis orçamentárias (art. 165) e a prestação de contas municipal (art. 31).
+- **Nome:** Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal)
+  **Classificação:** OFICIAL
+  **Tipo:** Lei Complementar
+  **Data:** 4 de maio de 2000
+  **Informação confirmada:** Estabelece as normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, com limites e condições para despesas com pessoal, dívida pública e operações de crédito, aplicáveis a todos os prefeitos.
+- **Nome:** Lei nº 14.133, de 1º de abril de 2021 (Nova Lei de Licitações e Contratos Administrativos)
+  **Classificação:** OFICIAL
+  **Tipo:** Lei Ordinária Federal
+  **Data:** 1º de abril de 2021
+  **Informação confirmada:** Define as regras para compras, obras e contratações de serviços pela administração pública, que os prefeitos são obrigados a seguir.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada de informação não avalia o desempenho de uma gestão, nem a idoneidade ou a capacidade de um político. Ela serve exclusivamente para esclarecer o desenho institucional do cargo: seus poderes formais, suas limitações e suas dependências.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

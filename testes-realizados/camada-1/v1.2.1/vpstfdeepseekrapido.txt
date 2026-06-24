@@ -1,0 +1,104 @@
+Como não é possível gerar um link de download direto neste ambiente, copie o conteúdo abaixo e cole em um editor de texto simples (como Bloco de Notas). Salve o arquivo com o nome `vice-presidente_stf.txt`, escolhendo a codificação UTF-8 para preservar caracteres especiais.
+
+O conteúdo está exatamente igual à resposta anterior, com a formatação original (cabeçalhos com `#`, tabelas com `|` e listas) — tudo perfeitamente legível em qualquer visualizador de texto.
+
+---
+
+```
+1. CARGO ANALISADO
+
+- Cargo: Vice-presidente do Supremo Tribunal Federal do Brasil
+- Pessoa, se houver: Não informada
+- Período, se houver: Não informado
+- A pessoa exerceu esse cargo no período indicado? Não informado
+- Esfera: Federal
+- Poder ou estrutura: Poder Judiciário – Supremo Tribunal Federal (STF)
+- Tipo de cargo: Cargo de direção no âmbito do Poder Judiciário, de mandato bienal, ocupado por um dos Ministros do Tribunal.
+
+O Vice-presidente do STF é um Ministro da Corte eleito pelos pares para exercer funções administrativas e de substituição da Presidência, sem prejuízo de suas atribuições como julgador.
+
+---
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para assegurar a continuidade administrativa do Supremo Tribunal Federal, garantindo que haja uma autoridade imediatamente apta a substituir o Presidente em suas ausências, licenças ou impedimentos eventuais, bem como para assumir a Presidência em caso de vaga, até a posse do novo titular. O Vice-presidente também auxilia na organização dos trabalhos da Corte, conforme definido no Regimento Interno do STF.
+
+---
+
+3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Substituir o Presidente nas licenças, ausências e impedimentos eventuais | Quando o Presidente do STF se afasta temporariamente (férias, licença médica, etc.), o Vice-presidente assume suas funções administrativas e de presidência das sessões. | Regimento Interno do STF, art. 14; notícia institucional do STF |
+| Assumir a Presidência em caso de vaga | Se o cargo de Presidente ficar vago (por morte, renúncia ou aposentadoria), o Vice-presidente assume interinamente até a eleição e posse do novo Presidente. | Regimento Interno do STF, art. 14 |
+| Praticar atos de urgência como Presidente, quando autorizado | Em situações de urgência, o Vice-presidente pode atuar no exercício da Presidência com base em dispositivos regimentais (ex.: art. 13, VIII, c.c. art. 14 do RISTF), decidindo medidas cautelares ou questões urgentes. | Despachos oficiais do STF que mencionam o art. 13, VIII, c.c. art. 14 do RISTF |
+| Exercer atribuições delegadas pelo Presidente | O Presidente pode delegar ao Vice-presidente a prática de atos processuais não decisórios ou outras tarefas administrativas. | Regimento Interno do STF, art. 13, VI (redação dada pela Emenda Regimental nº 41/2010) |
+| Integrar o Plenário e as Turmas como Ministro | O Vice-presidente não deixa de ser Ministro do STF; continua participando dos julgamentos como relator ou revisor, salvo quando estiver no exercício da Presidência. | Regimento Interno do STF, art. 3º e art. 4º |
+
+---
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Decidir o mérito de ações de competência do Plenário | As decisões finais sobre constitucionalidade, ações penais contra autoridades com foro privilegiado e outros feitos de competência originária do STF cabem ao colegiado Plenário (11 Ministros), não a um único Ministro. | Plenário do STF (todos os Ministros) |
+| Decidir o mérito de feitos de competência das Turmas | Processos de competência das Turmas (5 Ministros cada) são julgados pelo colegiado da Turma, não pelo Vice-presidente individualmente. | Turmas do STF (5 Ministros cada) |
+| Alterar o Regimento Interno ou a legislação | O Regimento Interno é aprovado pelo Plenário do STF, e alterações dependem de emendas regimentais aprovadas pela Corte. | Plenário do STF |
+| Nomear ou exonerar Ministros | A nomeação de Ministros do STF é privativa do Presidente da República, com aprovação do Senado Federal (art. 101 da CF/88). | Presidente da República e Senado Federal |
+| Praticar atos que exijam deliberação do Conselho Nacional de Justiça (CNJ) | O Vice-presidente do STF, mesmo quando no exercício da Presidência do STF, não pode decidir sozinho matérias de competência do CNJ, que é um órgão colegiado. | Conselho Nacional de Justiça (CNJ) |
+
+---
+
+5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Vice-presidente do STF está condicionada por:
+
+- Regimento Interno do STF (RISTF): É o principal normativo que define suas atribuições, forma de eleição, mandato e limites de atuação.
+- Constituição Federal: A CF/88 estabelece a composição do STF (art. 101), a competência do Tribunal (art. 102) e as regras gerais do Poder Judiciário, que vinculam a atuação de todos os Ministros.
+- Eleição pelo Tribunal: O Vice-presidente é eleito pelos demais Ministros do STF, em voto secreto, para um mandato de dois anos, vedada a reeleição para o período imediato.
+- Disponibilidade orçamentária e administrativa: A execução de atos administrativos depende do orçamento do Tribunal e da estrutura da Secretaria do STF.
+- Colegiado: Decisões de mérito dependem de votação no Plenário ou nas Turmas; o Vice-presidente, como regra, não decide sozinho questões que são da competência do colegiado.
+- Presidente da República e Senado Federal: Para a nomeação de novos Ministros, que podem eventualmente ocupar a Vice-Presidência no futuro, depende de indicação do Presidente e aprovação do Senado (art. 101 da CF/88).
+
+---
+
+6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o Vice-presidente do STF é como um “substituto do chefe” do Tribunal. Ele assume as funções do Presidente quando este está ausente (de férias, doente ou em viagem) e, se o Presidente sair definitivamente, ele fica no lugar até que um novo Presidente seja escolhido. Além disso, ele continua sendo um dos 11 juízes que decidem os casos mais importantes do país, participando dos julgamentos junto com os demais Ministros. Mas ele não pode, sozinho, decidir os grandes temas que vão ao Plenário — isso é feito em conjunto por todos os Ministros.
+
+---
+
+7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | O Vice-presidente tem poder formal para substituir o Presidente em ausências eventuais, assumir a Presidência em caso de vaga, e praticar atos administrativos e processuais delegados ou de urgência, nos termos do Regimento Interno. |
+| Responsabilidade compartilhada | As decisões de mérito sobre processos de competência do Plenário ou das Turmas são tomadas em colegiado, com a participação de todos os Ministros. O Vice-presidente não decide sozinho o mérito desses feitos. |
+| Influência política | Como Ministro do STF, o Vice-presidente pode influenciar a pauta de julgamentos e a interpretação da Constituição por meio de seus votos e relatorias, mas sempre no âmbito do colegiado. |
+| Ausência de competência direta | O Vice-presidente não tem poder para nomear Ministros, alterar leis ou o Regimento Interno, nem para decidir matérias de competência exclusiva de outros Poderes (Executivo, Legislativo) ou do CNJ. |
+
+---
+
+8. FONTES
+
+A) Fontes para confirmar vínculo pessoa-cargo, se houver pessoa informada
+
+Não há pessoa informada. Portanto, esta seção não se aplica.
+
+B) Fontes para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Regimento Interno do Supremo Tribunal Federal (RISTF) – texto consolidado até a Emenda Regimental nº 51/2016 | OFICIAL | Regimento interno do Tribunal, disponível no portal do STF | Junho/2016 | Estabelece a eleição, o mandato e as atribuições do Presidente e do Vice-Presidente (arts. 12 a 14). |
+| Notícia institucional “Regimento Interno disciplina normas de tramitação e de julgamento de processos e serviços do STF” | INSTITUCIONAL | Página oficial do STF | 23/01/2019 | Confirma que o RISTF disciplina a organização, composição e competência dos órgãos da Corte, incluindo o Presidente. |
+| Notícia “STF escolhe seu presidente e vice nesta quarta-feira (10)” | INDIRETA | Site do Tribunal de Justiça da Paraíba, citando o STF | 2010 | Menciona o art. 14 do RISTF, que define a substituição do Presidente pelo Vice. |
+| Despachos oficiais do STF com referência ao art. 13, VIII, c.c. art. 14 do RISTF | OFICIAL | Diário da Justiça Eletrônico do STF | 2010 | Mostram o Vice-presidente atuando com base nesses dispositivos regimentais. |
+
+---
+
+9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia o desempenho, a ideologia ou a intenção de qualquer ocupante do cargo. Ela descreve apenas o que o cargo de Vice-presidente do STF pode e não pode fazer, com base em fontes oficiais (Constituição e Regimento Interno). Não há juízo de valor sobre a qualidade da atuação de quem ocupa ou ocupou a função.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.
+```

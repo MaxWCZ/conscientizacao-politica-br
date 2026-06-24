@@ -1,0 +1,129 @@
+Os resultados confirmam que em 2015, Ricardo Nunes era **vereador** da Câmara Municipal de São Paulo (eleito em 2012), não prefeito. A pergunta indica "Cargo: Prefeito / Período: 2015". Vou agora buscar a fonte oficial da Lei Orgânica do Município de São Paulo para explicar as competências do cargo de Prefeito.Tenho informações suficientes para compor a resposta completa. Em 2015, Ricardo Nunes era vereador (eleito em 2012), não prefeito. O vínculo pessoa-cargo (Prefeito / 2015) não é confirmado. Vou estruturar a resposta.
+
+---
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Prefeito
+- **Pessoa, se houver:** Ricardo Nunes
+- **Período, se houver:** 2015
+- **A pessoa exerceu esse cargo no período indicado? NÃO**
+
+Ricardo Nunes foi eleito vereador da Câmara Municipal de São Paulo em 2012 e reeleito em 2016. Em 2015, ocupava o cargo de vereador, não de prefeito. O vínculo Ricardo Nunes – cargo de Prefeito – no ano de 2015 não é confirmado por fonte oficial ou institucional; ao contrário, é contrariado por fontes institucionais da Câmara Municipal de São Paulo e da Prefeitura de São Paulo, que registram sua primeira vinculação ao Executivo Municipal apenas a partir de 2021, como vice-prefeito e depois como prefeito.
+
+Como o vínculo pessoa-cargo no período informado **não se confirma**, as seções seguintes explicam o cargo de Prefeito em geral, sem atribuir suas competências a Ricardo Nunes no período de 2015.
+
+- **Esfera:** Municipal – Município de São Paulo (SP)
+- **Poder ou estrutura:** Poder Executivo Municipal
+- **Tipo de cargo:** Cargo eletivo, mandato de 4 anos, eleição direta por maioria simples (ou segundo turno)
+
+O Prefeito é o chefe do Poder Executivo do município, responsável pela administração pública local.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo de Prefeito existe para dirigir a administração pública municipal, executar as leis e políticas no âmbito local, e garantir a prestação de serviços públicos à população do município. O prefeito representa o município nas relações jurídicas e políticas e responde pelo planejamento, orçamento e execução das atividades governamentais no nível municipal.
+
+*(Fonte: Lei Orgânica do Município de São Paulo – LOMSP – Art. 56, Art. 69)*
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Representar o município nas relações jurídicas e políticas | Assinar contratos, celebrar convênios e representar a cidade perante outros entes e instituições | LOMSP, Art. 69, I |
+| Expedir decretos, portarias e outros atos administrativos | Regulamentar leis, organizar a administração e praticar atos executivos com força normativa interna | LOMSP, Art. 69 |
+| Nomear e exonerar Secretários Municipais e Subprefeitos | Definir quem compõe o primeiro escalão da administração direta | LOMSP, Art. 56 e Art. 75 |
+| Sancionar, promulgar ou vetar projetos de lei aprovados pela Câmara | Participar do processo legislativo municipal como instância final antes da vigência da lei | LOMSP, Art. 41 |
+| Encaminhar projetos de lei de iniciativa privativa | Propor ao Legislativo matérias que somente o Executivo pode iniciar (orçamento, criação de cargos, estrutura administrativa) | LOMSP, Art. 37, §2º e Art. 69, X |
+| Propor e encaminhar o orçamento anual, o PPA e a LDO à Câmara | Definir as prioridades de gasto público e submetê-las à aprovação legislativa | LOMSP, Art. 69, X e Art. 137 |
+| Nomear conselheiros do Tribunal de Contas do Município (TCM-SP) | Indicar parte dos membros do órgão fiscalizador, observados os critérios legais | LOMSP, Art. 50 |
+| Decretar estado de calamidade ou emergência no âmbito municipal | Adotar medidas excepcionais em situações de crise, nos limites da legislação | LOMSP, Art. 69 |
+| Convocar extraordinariamente a Câmara Municipal | Solicitar sessão legislativa fora do período ordinário | LOMSP, Art. 31, I |
+| Apresentar Programa de Metas da gestão | Publicar, em até 90 dias após a posse, as prioridades e indicadores da administração | LOMSP, Art. 69-A |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar, extinguir ou alterar tributos municipais | Tributos dependem de lei aprovada pela Câmara | Câmara Municipal – LOMSP, Art. 13, III |
+| Aprovar o orçamento anual, o PPA e a LDO | São leis de votação obrigatória pelo Legislativo | Câmara Municipal, por maioria absoluta – LOMSP, Art. 13, §3º, IX e Art. 138 |
+| Editar leis | A função legislativa é da Câmara Municipal; o prefeito participa com iniciativa e sanção, mas não legisla sozinho | Câmara Municipal – LOMSP, Art. 12 e Art. 13 |
+| Contrair empréstimos e operações de crédito | Dependem de autorização legislativa | Câmara Municipal – LOMSP, Art. 13 |
+| Alienar bens imóveis municipais | Requer autorização da Câmara | Câmara Municipal – LOMSP, Art. 13 |
+| Ser julgado por crime de responsabilidade | O julgamento político cabe à Câmara | Câmara Municipal – LOMSP, Art. 35 |
+| Fiscalizar suas próprias contas | A fiscalização externa é atribuição do TCM-SP, com auxílio da Câmara | Tribunal de Contas do Município e Câmara Municipal – LOMSP, Art. 49 |
+| Promulgar emendas à Lei Orgânica | Emendas são competência exclusiva da Câmara, com quórum qualificado de 2/3 | Câmara Municipal – LOMSP, Art. 36 |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O exercício do cargo de Prefeito está condicionado por um conjunto de instâncias e normas:
+
+**Câmara Municipal:** aprova ou rejeita projetos de lei, o orçamento e as contas do prefeito; pode abrir processo de cassação de mandato.
+
+**Tribunal de Contas do Município (TCM-SP):** fiscaliza a legalidade e regularidade dos atos financeiros e orçamentários da administração municipal.
+
+**Lei Orgânica do Município de São Paulo:** é a norma fundamental que define competências, limites e responsabilidades do prefeito.
+
+**Constituição Federal e Constituição Estadual de São Paulo:** estabelecem os limites federativos da atuação municipal, inclusive quanto ao que cabe ao município legislar e executar.
+
+**Orçamento aprovado pela Câmara:** o prefeito não pode realizar despesas fora do que foi autorizado na Lei Orçamentária Anual (LOA) e nos créditos adicionais aprovados.
+
+**Legislação eleitoral e partidária:** regula o mandato e as condições de elegibilidade e reeleição.
+
+**Ministério Público e Judiciário:** podem questionar e anular atos do Executivo municipal por ilegalidade ou inconstitucionalidade.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Prefeito é quem manda na prefeitura do seu município — é ele quem decide como usar o dinheiro público local, quem nomeia os secretários, quem assina os contratos e quem dá as ordens para que os serviços de saúde, educação, limpeza, transporte e obras aconteçam. Mas ele não faz tudo sozinho: para gastar dinheiro precisa de orçamento aprovado pelos vereadores; para criar imposto precisa de lei; e suas contas são fiscalizadas pelo Tribunal de Contas. Na prática, o prefeito tem muito poder de decisão no dia a dia, mas depende do Legislativo para as decisões mais importantes e está sujeito a controle externo.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Quando o cargo tinha poder formal para decidir ou executar — ex.: nomear secretários, expedir decretos, firmar contratos dentro do orçamento aprovado, organizar a máquina administrativa |
+| **Responsabilidade compartilhada** | Quando dependia de outros órgãos, votação, colegiado ou orçamento — ex.: aprovação do orçamento, criação de tributos, alienação de bens, contratação de empréstimos, todos dependentes da Câmara |
+| **Influência política** | Quando podia articular ou defender algo, mas não decidir sozinho — ex.: indicação de nomes para cargos que dependem de aprovação, negociação de votações na Câmara |
+| **Ausência de competência direta** | Quando o cargo não tinha poder formal sobre o tema — ex.: julgamento de constitucionalidade de leis (Judiciário), controle externo das contas (TCM-SP), matérias de competência estadual ou federal |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Câmara Municipal de São Paulo – Portal do Vereador Ricardo Nunes | INSTITUCIONAL | Página oficial da Câmara Municipal de SP | Disponível publicamente | Ricardo Nunes exerceu o cargo de **vereador**, eleito em 2012. Em 2015, era vereador, não prefeito |
+| Prefeitura de São Paulo – Secretaria Especial de Comunicação – Perfil do prefeito Ricardo Nunes | INSTITUCIONAL | Página oficial da Prefeitura de SP | Disponível publicamente | Confirma que Nunes foi eleito vereador em 2012 e reeleito em 2016; não registra exercício da prefeitura em 2015 |
+
+**Conclusão sobre o vínculo:** Ricardo Nunes **não exerceu o cargo de Prefeito em 2015**. As competências do cargo de Prefeito descritas nesta análise **não se aplicam a ele no período indicado**.
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Lei Orgânica do Município de São Paulo (LOMSP) – Art. 56, 69, 69-A, 70, 75, 77 | OFICIAL | Lei fundamental municipal, publicada pela Câmara Municipal de SP | Promulgada em 04/04/1990, com emendas posteriores | Estrutura do Poder Executivo municipal; atribuições privativas do Prefeito; programa de metas |
+| LOMSP – Art. 12, 13, 14, 31, 35, 36, 37, 38, 41 | OFICIAL | Lei fundamental municipal | Idem | Competências da Câmara Municipal; processo legislativo; sanção e veto; convocação extraordinária |
+| LOMSP – Art. 49, 50 | OFICIAL | Lei fundamental municipal | Idem | Tribunal de Contas do Município: composição, atribuições, nomeação de conselheiros |
+| LOMSP – Art. 137, 138 | OFICIAL | Lei fundamental municipal | Idem | Orçamento municipal; iniciativa privativa do Executivo para PPA, LDO e LOA; votação pela Câmara |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia se Ricardo Nunes foi um bom ou mau gestor, não interpreta suas intenções, não examina seus votos como vereador e não emite juízo sobre seu desempenho em qualquer cargo. O objetivo é exclusivamente descrever o que o cargo de Prefeito permite e não permite fazer, com base nas normas formais vigentes.
+
+Neste caso específico, a verificação do vínculo pessoa-cargo é parte essencial da análise: como Ricardo Nunes **não era prefeito em 2015**, atribuir-lhe as competências desse cargo naquele ano seria um erro factual.
+
+> **"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."**

@@ -19,6 +19,12 @@ v4.2	- ajuste em regra "ir mais fundo"
 v4.3	- ajuste em exemplos de fontes
 v4.4	- ajuste fino em fontes
 
-A versão oficial vigente encontra-se em:
 
-- [prompt-camada-0.md](../prompt-camada-0.md)
+---
+A versão oficial vigente encontra-se em:
+- [Prompt da Camada 0](../camada-0/prompt-camada-0.md)
+
+---
+## Navegação
+- [Testes realizados](../testes-realizados/README.md)
+- [Voltar ao Projeto](../README.md)

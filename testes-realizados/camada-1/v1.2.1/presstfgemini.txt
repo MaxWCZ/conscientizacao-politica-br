@@ -1,0 +1,96 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Presidente do Supremo Tribunal Federal do Brasil (STF).
+* Pessoa, se houver: Alexandre de Moraes.
+* Período, se houver: Não informado na consulta.
+* A pessoa exerceu esse cargo no período indicado?: não.
+* Esfera: Federal.
+* Poder ou estrutura: Poder Judiciário.
+* Tipo de cargo: Cargo diretivo e de representação institucional da Suprema Corte brasileira, eleito de forma colegiada entre seus membros. [1, 2, 3, 4, 5] 
+
+O Presidente do Supremo Tribunal Federal é o chefe administrativo e o representante legal da mais alta corte do Poder Judiciário brasileiro, além de acumular a presidência do Conselho Nacional de Justiça (CNJ). [4, 6] 
+(Nota de validação: O ministro Alexandre de Moraes não exerceu o cargo de Presidente do STF; ele exerce atualmente a função de Vice-Presidente da instituição no biênio 2025-2027, sendo o atual presidente o ministro Edson Fachin. Portanto, as competências listadas abaixo dizem respeito exclusivamente ao cargo em geral e não ao histórico de atuação da pessoa mencionada). [7] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de Presidente do STF existe para dirigir administrativamente o tribunal, gerir suas sessões coletivas, definir a ordem do que será julgado no Plenário e representar institucionalmente a Suprema Corte e o Poder Judiciário perante os demais Poderes da República e autoridades internacionais. [2, 4] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode [2, 4, 6, 8, 9, 10] | O que isso significa na prática | Fonte |
+|---|---|---|
+| Definir a pauta de julgamentos | Decide quais processos serão discutidos e votados pelo Plenário em cada sessão. | Regimento Interno do STF, Art. 13[](https://www.stf.jus.br/arquivo/cms/legislacaoRegimentoInterno/anexo/RISTF_integral.pdf) |
+| Presidir o Conselho Nacional de Justiça | Acumula a liderança do órgão que fiscaliza a atuação administrativa e financeira de todo o Judiciário. | Constituição Federal, Art. 103-B, I |
+| Decidir medidas urgentes no recesso | Julga pedidos de liminar imediatos durante as férias e o recesso judiciário. | Regimento Interno do STF, Art. 13, VIII |
+| Proferir voto de desempate | Emite o voto decisivo para desempatar julgamentos de relevância no Plenário. | Regimento Interno do STF, Art. 13, IX |
+| Substituir o Presidente da República | Integra a linha sucessória nacional em caso de ausência simultânea do Executivo. | Constituição Federal, Art. 80[](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho [2, 3, 5, 6, 9, 11, 12, 13, 14] | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Declarar uma lei inconstitucional | Decisões definitivas de controle constitucional são sempre coletivas. | O Plenário do STF, exigindo a presença de pelo menos 8 ministros e maioria absoluta de votos. |
+| Aprovar o orçamento do tribunal | A proposta financeira necessita de concordância interna e validação externa. | O conjunto de ministros do STF aprova a proposta, e o Congresso Nacional vota a Lei Orçamentária Anual. |
+| Alterar o Regimento Interno | Normas de organização interna dependem de deliberação administrativa colegiada. | O Plenário Administrativo do STF, com o voto dos demais ministros. |
+| Nomear novos ministros para a Corte | O tribunal não possui interferência sobre suas próprias vagas de reposição. | O Presidente da República indica, e o Senado Federal aprova por maioria absoluta. |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do Presidente do STF é limitada por mecanismos institucionais rígidos. Suas decisões administrativas e jurisdicionais estão sujeitas à Constituição Federal e ao Regimento Interno do STF. [8, 10] 
+No âmbito jurisdicional, qualquer decisão monocrática tomada em plantão pode ser revogada ou modificada pelos demais membros através de recursos levados ao colegiado. Financeiramente, o orçamento gerido pelo cargo depende das diretrizes fixadas pela Lei de Diretrizes Orçamentárias (LDO) editada pelo Poder Legislativo. [4, 11] 
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, o Presidente do STF atua como o "coordenador e porta-voz" do tribunal. Ele não dita sozinho as decisões da Justiça, nem pode criar penas ou leis por conta própria. O seu poder prático mais visível é organizar a fila de processos: ele decide se um assunto de grande repercussão nacional vai a julgamento hoje, no mês seguinte ou em outra ocasião. [2, 3, 4] 
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação [2, 3, 4, 6, 9, 15] | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o Presidente assina portarias administrativas internas, decide liminares de urgência nos plantões ou concede licenças a servidores da corte. |
+| Responsabilidade compartilhada | No julgamento de ações de inconstitucionalidade e recursos extraordinários, onde o voto do Presidente possui o mesmo peso que o dos outros 10 ministros. |
+| Influência política | Ao sugerir melhorias na gestão do Judiciário durante reuniões do CNJ ou dialogar com os chefes do Senado e da Câmara. |
+| Ausência de competência direta | O cargo não possui poder formal para interferir em investigações de instâncias inferiores, prefeituras ou na condução de políticas públicas do Executivo. |
+
+------------------------------
+## 8. FONTES## A) Fontes para confirmar vínculo pessoa-cargo:
+
+* Nome: Portal Institucional do Supremo Tribunal Federal (Composição Atual).
+* Classificação: OFICIAL.
+   * Tipo: Plataforma Web de Tribunal Superior.
+   * Data: Consulta realizada em junho de 2026 (atualizado conforme composição vigente).
+   * Informação confirmada: Alexandre de Moraes é listado como Ministro e Vice-Presidente da Corte, enquanto a Presidência é de Edson Fachin. [7] 
+
+## B) Fontes para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil de 1988.
+* Classificação: OFICIAL.
+   * Tipo: Texto Constitucional / Legislação Federal.
+   * Data: Promulgada em 1988 (com emendas vigentes).
+   * Informação confirmada: Artigos 80, 101, 102 e 103-B (Linha sucessória da Presidência, composição da Corte e comando do CNJ). [6, 9, 10, 11] 
+* Nome: Regimento Interno do Supremo Tribunal Federal (RISTF).
+* Classificação: OFICIAL.
+   * Tipo: Ato Normativo Interno com status de Lei.
+   * Data: Publicação oficial consolidada.
+   * Informação confirmada: Artigo 13 (Competências completas do Presidente da Corte, incluindo condução de sessões e despacho de expedientes). [3, 4, 8] 
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Este resumo técnico descreve estritamente as regras que delimitam o cargo, servindo como uma folha de especificações jurídicas e funcionais da cadeira de Presidente do STF. Ela não analisa o mérito, acerto, erro ou popularidade das decisões tomadas pelos ministros que passam pela função.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+Se você quiser avançar na compreensão do Judiciário, pode me pedir para detalhar como funciona o processo de escolha dos ministros pelo Senado ou qual é a diferença exata entre decisões monocráticas e colegiadas.
+
+[1] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Alexandre_de_Moraes)
+[2] [https://www.stf.jus.br](https://www.stf.jus.br/arquivo/cms/sobreStfCooperacaoInternacional/anexo/STF__Brasil__Estrutura_e_Atribuicoes.pdf)
+[3] [https://www.instagram.com](https://www.instagram.com/reel/DYrvsrEx3E-/)
+[4] [https://www.migalhas.com.br](https://www.migalhas.com.br/coluna/federalismo-a-brasileira/300032/o-papel-do-presidente-do-supremo-tribunal-federal)
+[5] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Supremo_Tribunal_Federal)
+[6] [https://portal.stf.jus.br](https://portal.stf.jus.br/textos/verTexto.asp?servico=sobreStfConhecaStfInstitucional)
+[7] [https://portal.stf.jus.br](https://portal.stf.jus.br/textos/verTexto.asp?servico=bibliotecaConsultaProdutoBibliotecaPastaMinistro&pagina=ComposicaoAtual)
+[8] [https://www.stf.jus.br](https://www.stf.jus.br/arquivo/cms/legislacaoRegimentoInterno/anexo/RISTF_integral.pdf)
+[9] [https://brasil.justia.com](https://brasil.justia.com/nacionales/constituicao-da-republica-federativa-do-brasil-de-1988/titulo-iv/capitulo-iii/secao-ii/)
+[10] [https://www.planalto.gov.br](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+[11] [https://www.migalhas.com.br](https://www.migalhas.com.br/depeso/434072/regimento-interno-do-stf-e-separacao-de-poderes)
+[12] [https://www.youtube.com](https://www.youtube.com/watch?v=tfi3Jtq53J8)
+[13] [https://www.stf.jus.br](https://www.stf.jus.br/arquivo/cms/publicacaoCatalogoProdutoConteudoTextual/anexo/regimentoInterno.epub)
+[14] [https://www.jusbrasil.com.br](https://www.jusbrasil.com.br/doutrina/secao/art-101-secao-ii-do-supremo-tribunal-federal-constituicao-federal-comentada/1196976674)
+[15] [https://www.mpba.mp.br](https://www.mpba.mp.br/sites/default/files/biblioteca/procuradoria-civel/legislacao/regimento_interno_stf.pdf)

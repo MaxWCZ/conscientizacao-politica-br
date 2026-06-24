@@ -1,0 +1,131 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Prefeito municipal / Prefeita municipal
+* **Pessoa, se houver:** Juliana Aparecida Gomes de Freitas
+* **Período, se houver:** não informado
+* **A pessoa exerceu esse cargo no período indicado?** **não confirmado**. O período não foi informado, e as fontes oficiais localizadas indicam Juliana Aparecida Gomes de Freitas como **vice-prefeita/candidata a vice-prefeita de Caçapava/SP**, não como prefeita titular. O documento da Justiça Eleitoral lista Yan Lopes como candidato a prefeito e Juliana Freitas como vice-prefeita; a Prefeitura de Caçapava também relata a posse de Yan Lopes como prefeito e Juliana como sua vice. 
+* **Exercício interino, substituto ou provisório:** não confirmado por fonte oficial/institucional nas fontes consultadas.
+* **Esfera:** municipal
+* **Poder ou estrutura:** Poder Executivo municipal / Prefeitura
+* **Tipo de cargo:** cargo político eletivo, chefe do Executivo municipal
+
+**Explicação simples:** o prefeito é a autoridade eleita para chefiar a administração do município, executar políticas públicas locais e administrar os serviços municipais dentro da lei e do orçamento.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+A função principal do prefeito é administrar o município: executar leis municipais, organizar serviços públicos locais, gerir a máquina administrativa da prefeitura, aplicar recursos públicos municipais e conduzir políticas públicas em áreas como saúde, educação infantil, ensino fundamental, transporte local, obras, limpeza urbana, planejamento urbano e outros temas de interesse local. A Constituição define competências dos Municípios, como organizar serviços públicos de interesse local, arrecadar tributos municipais, manter programas educacionais com cooperação de União e Estado, prestar atendimento à saúde com cooperação federativa e ordenar o uso do solo urbano. ([Repositório DSpace][1])
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                               | O que isso significa na prática                                                                                                                                 | Fonte                                                                                              |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Administrar a Prefeitura                                   | Coordenar secretarias municipais, serviços, servidores e políticas públicas locais.                                                                             | Constituição Federal, arts. 29 e 30; Lei Orgânica municipal. ([Portal da Câmara dos Deputados][2]) |
+| Organizar e prestar serviços públicos de interesse local   | Cuidar de serviços municipais, diretamente ou por concessão/permissão, como transporte coletivo local, limpeza urbana e outros serviços de interesse municipal. | Constituição Federal, art. 30, V. ([Repositório DSpace][1])                                        |
+| Arrecadar e aplicar receitas municipais                    | Administrar tributos e receitas municipais, respeitando prestação de contas, orçamento e publicação de balancetes.                                              | Constituição Federal, art. 30, III. ([Repositório DSpace][1])                                      |
+| Atuar na educação infantil e no ensino fundamental         | Manter programas educacionais municipais, com cooperação técnica e financeira da União e do Estado.                                                             | Constituição Federal, art. 30, VI. ([Repositório DSpace][1])                                       |
+| Atuar na saúde municipal                                   | Prestar serviços de atendimento à saúde da população, com cooperação técnica e financeira da União e do Estado.                                                 | Constituição Federal, art. 30, VII. ([Repositório DSpace][1])                                      |
+| Planejar o uso do solo urbano                              | Promover ordenamento territorial, planejamento urbano e controle do uso, parcelamento e ocupação do solo urbano, dentro da legislação aplicável.                | Constituição Federal, art. 30, VIII. ([Portal da Câmara dos Deputados][3])                         |
+| Sancionar, promulgar e publicar leis aprovadas pela Câmara | Depois que a Câmara Municipal aprova uma lei, o prefeito pode sancionar, promulgar e fazer publicar, conforme regras da Lei Orgânica local.                     | Lei Orgânica do Município de Caçapava/SP. ([Câmara Sem Papel][4])                                  |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                                     | Por quê                                                                                                                                                          | Quem ou o que também participa                                                                 |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Criar leis municipais sem participação da Câmara                             | Leis municipais dependem do processo legislativo municipal; o prefeito pode propor, sancionar ou vetar, mas não substitui a Câmara.                              | Câmara Municipal, Lei Orgânica e Constituição.                                                 |
+| Gastar livremente fora do orçamento                                          | O uso de dinheiro público depende de orçamento, regras fiscais, licitação quando cabível, prestação de contas e controle.                                        | Câmara Municipal, orçamento, controle interno e Tribunal de Contas.                            |
+| Atuar fora das competências municipais                                       | O município tem competências próprias e de interesse local; temas federais ou estaduais não passam automaticamente ao prefeito.                                  | União, Estado, Judiciário, Legislativo e órgãos competentes.                                   |
+| Resolver sozinho áreas que dependem de cooperação federativa                 | Saúde e educação, por exemplo, envolvem cooperação técnica e financeira da União e do Estado.                                                                    | União, Estado, SUS, sistemas de ensino, legislação nacional e local.                           |
+| Impedir fiscalização                                                         | A fiscalização do município é feita pelo Legislativo municipal, com controle externo auxiliado pelos Tribunais de Contas, além do controle interno do Executivo. | Câmara Municipal, Tribunal de Contas e controle interno. ([Portal da Câmara dos Deputados][5]) |
+| Transformar o vice-prefeito em prefeito titular sem fato jurídico confirmado | Vice-prefeitura não é o mesmo que titularidade de prefeito. Substituição ou interinidade precisa estar formalmente confirmada.                                   | Lei Orgânica, atos oficiais de posse/substituição e registros institucionais.                  |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O prefeito depende da **Constituição Federal**, da **Constituição Estadual**, da **Lei Orgânica do Município**, das **leis municipais**, do **orçamento aprovado**, da atuação da **Câmara Municipal**, dos **órgãos de controle**, dos **Tribunais de Contas**, de regras de licitação e contratação pública, e, em algumas áreas, de cooperação com **União e Estado**.
+
+Na prática, isso significa que o prefeito tem poder executivo municipal, mas esse poder é limitado por leis, orçamento, fiscalização, competências de outros entes federativos e pela separação entre Executivo, Legislativo e órgãos de controle.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o prefeito é quem administra a cidade no dia a dia: cuida da estrutura da prefeitura, dos serviços públicos municipais, de políticas locais e da execução do orçamento. Porém, ele não decide tudo sozinho. Muitas decisões precisam de lei aprovada pela Câmara, dinheiro previsto no orçamento, convênios com Estado ou União, pareceres técnicos, licitações, fiscalização e respeito às competências de cada órgão.
+
+No caso de **Juliana Aparecida Gomes de Freitas**, as fontes oficiais localizadas **não confirmam titularidade como prefeita**. Elas indicam vínculo com a **vice-prefeitura de Caçapava/SP**, ao lado de Yan Lopes, identificado como prefeito. Portanto, as competências de prefeito descritas aqui são explicadas **como função geral do cargo**, não atribuídas a ela como prefeita titular.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o cargo tinha poder formal para decidir ou executar.                                             |
+| Responsabilidade compartilhada | Quando dependia de outros órgãos, votação, colegiado, orçamento, cooperação federativa ou fiscalização. |
+| Influência política            | Quando podia articular, defender, negociar ou propor algo, mas não decidir sozinho.                     |
+| Ausência de competência direta | Quando o cargo não tinha poder formal sobre o tema.                                                     |
+
+Como o vínculo de Juliana Aparecida Gomes de Freitas com o cargo de **prefeita titular** não foi confirmado por fonte oficial/institucional, não é correto atribuir a ela, nessa condição, as responsabilidades diretas do cargo de prefeita.
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+**Fonte 1**
+
+* **Nome:** Justiça Eleitoral / TSE — Lista dos Partidos, Federações, Coligações e Candidatos Concorrentes, Eleições Municipais 2024, Caçapava/SP
+* **Classificação:** OFICIAL
+* **Tipo:** documento eleitoral oficial
+* **Data:** Eleições Municipais 2024 — 1º turno
+* **Informação confirmada:** o documento lista o cargo em disputa como “Prefeito / Vice-Prefeito” em Caçapava/SP; identifica Yan Lopes de Almeida como candidato a prefeito e Juliana Aparecida Gomes de Freitas como vice-prefeita. 
+
+**Fonte 2**
+
+* **Nome:** Prefeitura de Caçapava — “Transmissão de cargo ao prefeito eleito de Caçapava e posse do novo secretariado”
+* **Classificação:** OFICIAL
+* **Tipo:** publicação no portal oficial da Prefeitura
+* **Data:** 01/01/2025
+* **Informação confirmada:** a publicação informa a transmissão de cargo para o prefeito eleito Yan Lopes de Almeida e menciona Juliana Aparecida Gomes de Freitas como sua vice; também afirma que Yan Lopes foi declarado investido no cargo de Prefeito Municipal. ([Prefeitura de Caçapava][6])
+
+**Conclusão sobre vínculo:** não há confirmação oficial/institucional, nas fontes consultadas, de que Juliana Aparecida Gomes de Freitas tenha exercido o cargo de prefeita titular. Há confirmação de vínculo com a vice-prefeitura/candidatura a vice-prefeita de Caçapava/SP.
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+**Fonte 1**
+
+* **Nome:** Constituição da República Federativa do Brasil de 1988 — texto oficial disponível pela Câmara dos Deputados
+* **Classificação:** OFICIAL
+* **Tipo:** Constituição Federal
+* **Data:** 05/10/1988; texto atualizado
+* **Informação confirmada:** organização dos Municípios, eleição de prefeito e vice-prefeito, competências municipais e fiscalização do Município pelo Legislativo municipal e órgãos de controle. ([Portal da Câmara dos Deputados][2])
+
+**Fonte 2**
+
+* **Nome:** Lei Orgânica do Município de Caçapava/SP — Câmara Municipal de Caçapava
+* **Classificação:** OFICIAL
+* **Tipo:** Lei Orgânica municipal
+* **Data:** lei orgânica municipal; compilação disponibilizada pela Câmara
+* **Informação confirmada:** atribuições locais do prefeito, incluindo sancionar, promulgar e fazer publicar leis aprovadas pela Câmara e expedir regulamentos para execução. ([Câmara Sem Papel][4])
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, qualidade de governo, ideologia, intenção, caráter, popularidade ou impacto concreto de uma pessoa. Ela apenas mostra o que o cargo permite, limita ou exige juridicamente.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://bd.camara.leg.br/bd/items/78152736-8c46-49a5-a10b-8bbf405a20b0?utm_source=chatgpt.com "Quadro Histórico dos Dispositivos Constitucionais : Art. 30"
+[2]: https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988/arquivos/ConstituicaoTextoAtualizado_EC%20139.html?utm_source=chatgpt.com "constituição da república federativa do brasil"
+[3]: https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html?utm_source=chatgpt.com "constituição da república federativa do brasil"
+[4]: https://camarasempapel.camaracacapava.sp.gov.br/Arquivo/Documents/EXT/202209201327275592.pdf?identificador=320036003600350034003A005000&utm_source=chatgpt.com "LEI ORGÂNICA DO MUNICÍPIO DE CAÇAPAVA/SP."
+[5]: https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html?utm_source=chatgpt.com "CONSTITUIÇÃO DE 1988 - Publicação Original"
+[6]: https://cacapava.sp.gov.br/transmissao-de-cargo-do-prefeito-eleito-de-cacapava-e-posse-do-novo-secretariado-aconteceu-no-paco-municipal "Transmissão de cargo ao prefeito eleito de Caçapava e posse do novo secretariado - Prefeitura de Caçapava"

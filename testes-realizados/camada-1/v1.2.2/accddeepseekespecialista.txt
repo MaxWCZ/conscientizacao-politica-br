@@ -1,0 +1,89 @@
+1. CARGO ANALISADO
+- **Cargo:** Presidente da Câmara dos Deputados
+- **Pessoa, se houver:** Altineu Côrtes
+- **Período, se houver:** não informado
+- **A pessoa exerceu esse cargo no período indicado?** Não confirmado
+- **Se exerceu apenas de forma interina, substituta ou provisória, indique isso claramente.** Não há registro público de exercício interino ou substituto confirmado para Altineu Côrtes.
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Legislativo – Câmara dos Deputados
+- **Tipo de cargo:** Cargo eletivo da Mesa Diretora, eleito pelos deputados federais para mandato de dois anos, permitida uma reeleição.
+
+*O Presidente da Câmara é o deputado federal escolhido por seus pares para dirigir os trabalhos legislativos e representar a Casa, não havendo confirmação de que Altineu Côrtes tenha ocupado tal função.*
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para assegurar a direção, a ordem e a representação institucional da Câmara dos Deputados. Cabe ao seu titular presidir as sessões plenárias, coordenar a Mesa Diretora, dar andamento à pauta legislativa e exercer o papel de porta-voz da Casa perante os demais Poderes e a sociedade. Na ordem constitucional, é o segundo na linha de sucessão da Presidência da República.
+
+3. O QUE ESSE CARGO PODE FAZER
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|----------------------------------|-------|
+| Presidir as sessões do Plenário e as reuniões da Mesa Diretora | Conduzir os debates, conceder a palavra, manter a ordem e colher as votações | Regimento Interno da Câmara dos Deputados (RICD), art. 17, I |
+| Decidir questões de ordem e reclamações regimentais | Interpretar o Regimento durante as sessões, resolvendo dúvidas e controvérsias sobre procedimentos | RICD, art. 17, I, “e”; art. 95 |
+| Distribuir proposições (projetos, requerimentos) às comissões temáticas | Dar o encaminhamento inicial da matéria, definindo qual comissão analisará o tema, salvo regra específica | RICD, art. 17, I, “g” |
+| Organizar a Ordem do Dia (pauta de votações) com colaboração dos Líderes | Montar a lista de projetos a serem votados em cada sessão, ouvido o Colégio de Líderes | RICD, art. 17, I, “l” |
+| Promulgar emendas constitucionais, leis (quando o Presidente da República não o faz), decretos legislativos e resoluções da Câmara | Tornar pública e oficial uma norma aprovada, garantindo sua entrada em vigor | CF, art. 66 §7º; RICD, art. 17, II, “h” e art. 200, I |
+| Representar a Câmara dos Deputados judicial e extrajudicialmente | Agir em nome da instituição em ações judiciais, acordos e comunicações oficiais | RICD, art. 17, III, “a” |
+| Convocar, por delegação da Mesa, Ministro de Estado para prestar informações (ato da Mesa, comunicado por ele) | Formalizar o chamado de um ministro quando a Câmara ou comissão aprova a convocação | CF, art. 50; RICD, art. 219 |
+| Receber denúncia contra o Presidente da República por crime comum e dar-lhe o devido andamento regimental | Iniciar o rito de autorização de processo, que será votado pelo Plenário (não decide sozinho) | CF, art. 51, I; art. 86; RICD, art. 217 |
+| Assumir interinamente a Presidência da República na ausência do Presidente, do Vice e do Presidente do Senado | Exercer temporariamente a chefia do Executivo federal na ordem de sucessão constitucional | CF, art. 80 |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|--------------------------|---------|-------------------------------|
+| Autorizar a abertura de processo contra o Presidente da República | A decisão é do Plenário, por voto de dois terços dos deputados | Plenário da Câmara (CF, art. 51, I; art. 86) |
+| Aprovar projetos de lei ou medidas provisórias | A deliberação legislativa exige quórum e votação em Plenário | Plenário (maioria simples ou qualificada, conforme o caso) |
+| Criar cargos, aumentar despesas ou modificar o orçamento por ato próprio | Depende de lei formal, aprovada pelas duas Casas e sancionada pelo Executivo | Congresso Nacional e Presidência da República |
+| Convocar unilateralmente Ministro de Estado sem decisão anterior da Casa | A convocação é ato do Plenário ou de comissão; o Presidente apenas formaliza o ato | Plenário ou Comissão (CF, art. 50; RICD, art. 219) |
+| Editar medidas provisórias ou vetar projetos de lei | Essas são competências privativas do Presidente da República | Presidência da República (CF, art. 62 e 84) |
+| Alterar o Regimento Interno ou a Constituição sozinho | Exige aprovação qualificada do Plenário e, no caso da Constituição, também do Senado | Plenário da Câmara (e Senado, para emendas constitucionais) |
+
+5. DO QUE ESSE CARGO DEPENDE
+A atuação do Presidente da Câmara é fortemente condicionada por regras colegiadas e pela própria composição política da Casa. Ele depende:
+- **Do Plenário:** a imensa maioria das decisões substantivas (aprovação de leis, autorização de processos, julgamento de contas, etc.) é tomada por votação dos 513 deputados.
+- **Da Mesa Diretora:** composta por Vice-Presidentes e Secretários, decide colegiadamente sobre administração, orçamento interno e serviços da Câmara.
+- **Do Colégio de Líderes:** a pauta de votações é construída em conjunto com os líderes partidários; embora o Presidente tenha papel central na montagem, não a impõe sozinho.
+- **Da Constituição e do Regimento Interno:** todos os seus atos devem observar esses marcos normativos; questões de ordem são decididas com base neles, e suas decisões podem ser contestadas no Plenário.
+- **De recursos orçamentários aprovados pelo Congresso:** a gestão administrativa da Câmara tem seu orçamento definido na lei orçamentária anual, votada pelo Congresso Nacional.
+- **Do Poder Judiciário:** decisões do Presidente podem ser submetidas a controle judicial, especialmente no Supremo Tribunal Federal, quando afrontam a Constituição.
+
+6. TRADUÇÃO PRÁTICA
+Na vida de uma pessoa comum, o Presidente da Câmara não é quem cria as leis que afetam o cotidiano (como valores de impostos, regras trabalhistas ou aposentadorias). Essas mudanças dependem de votação dos 513 deputados. O que ele faz é organizar quais projetos serão votados e quando, além de garantir que as sessões ocorram de forma ordenada. Se um projeto importante para o cidadão está parado, muitas vezes é o Presidente que define se ele entrará ou não na pauta — mas essa definição também sofre pressão do conjunto de líderes partidários. É uma posição de enorme influência sobre a agenda, porém sem poder individual de aprovar ou rejeitar uma lei.
+
+7. RESPONSABILIDADE
+| Tipo de relação | O que significa |
+|------------------|-----------------|
+| Responsabilidade direta | Quando o cargo tinha poder formal para decidir ou executar (ex.: promulgar uma lei quando o Presidente da República se omite; decidir uma questão de ordem; assinar atos da Mesa; presidir sessões) |
+| Responsabilidade compartilhada | Quando dependia de outros órgãos, votação, colegiado ou orçamento (ex.: definir a pauta de votações junto ao Colégio de Líderes; administrar a Câmara com a Mesa Diretora; autorizar despesas com base em orçamento aprovado) |
+| Influência política | Quando podia articular ou defender algo, mas não decidir sozinho (ex.: negociar prioridades com líderes; declarar apoio ou resistência a determinada proposta; representar a Câmara em reuniões com outros Poderes) |
+| Ausência de competência direta | Quando o cargo não tinha poder formal sobre o tema (ex.: aprovar ou rejeitar projeto de lei por ato próprio; vetar ou sancionar lei; criar tributos; editar medida provisória) |
+
+8. FONTES
+**A) Fontes para confirmar vínculo pessoa-cargo, se houver pessoa informada:**
+- **Nome:** Página institucional do Deputado Altineu Côrtes na Câmara dos Deputados (biografia e cargos exercidos)  
+  **Classificação:** OFICIAL  
+  **Tipo:** Portal da Câmara dos Deputados  
+  **Data:** Acesso em 2026 (registros atualizados)  
+  **Informação confirmada:** A biografia e o histórico funcional não incluem o cargo de Presidente da Câmara.  
+- **Nome:** Relação oficial de Presidentes da Câmara dos Deputados (1826–atual)  
+  **Classificação:** OFICIAL  
+  **Tipo:** Sítio eletrônico da Câmara dos Deputados (Conheça a Câmara – Presidentes)  
+  **Data:** Acesso em 2026  
+  **Informação confirmada:** Altineu Côrtes não consta na lista de presidentes titulares.  
+
+Diante disso, não há registro público claro de que Altineu Côrtes tenha exercido o cargo de Presidente da Câmara dos Deputados, seja em caráter titular, interino ou substituto confirmado. Por essa razão, as competências do cargo não são atribuídas a ele.
+
+**B) Fontes para explicar competências do cargo:**
+- **Nome:** Constituição da República Federativa do Brasil de 1988  
+  **Classificação:** OFICIAL  
+  **Tipo:** Texto constitucional (art. 51, art. 57, art. 66 §7º, art. 80, art. 86)  
+  **Data:** Promulgada em 05/10/1988, com emendas posteriores  
+  **Informação confirmada:** Estabelece as bases das competências da Câmara, da Mesa e do seu Presidente.  
+- **Nome:** Regimento Interno da Câmara dos Deputados (Resolução nº 17, de 1989, e alterações)  
+  **Classificação:** OFICIAL  
+  **Tipo:** Ato normativo da Câmara dos Deputados (arts. 17, 95, 200, 217, 219, entre outros)  
+  **Data:** Aprovado em 1989, consolidado até 2025  
+  **Informação confirmada:** Detalha as atribuições do Presidente, seus limites e a forma de organização dos trabalhos legislativos.  
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada de análise não avalia o desempenho de qualquer pessoa. Ela mostra, com base em fontes oficiais e institucionais, o que o cargo formalmente permite ou não permite fazer. No caso de Altineu Côrtes, como não foi confirmado vínculo com a presidência da Câmara, as faculdades do cargo não lhe dizem respeito. Saber isso evita que se cobre de alguém algo que não estava em sua alçada, ou que se ignore o papel exato de quem realmente ocupa a função.  
+
+*Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.*

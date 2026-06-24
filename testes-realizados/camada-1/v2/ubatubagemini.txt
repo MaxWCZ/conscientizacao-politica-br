@@ -1,0 +1,80 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Prefeito
+* Pessoa, se houver: Custódio Alves Barreto Neto
+* Período, se houver: Não informado / Não confirmado para o cargo de Prefeito
+* Contexto informado ou identificado: Município de Ubatuba - SP
+* A pessoa exerceu esse cargo no período indicado? Não confirmado
+* Houve exercício interino, substituto ou provisório? Não confirmado
+* Esfera: Municipal
+* Poder ou estrutura: Poder Executivo
+* Tipo de cargo: Cargo político eletivo (Chefe do Executivo Municipal)
+
+O prefeito é o chefe do Poder Executivo municipal, responsável pela administração geral, execução de leis e prestação de serviços públicos locais.
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de prefeito existe para dirigir a administração do município, planejar o desenvolvimento urbano, aplicar o orçamento público e garantir os serviços básicos de competência local (como educação infantil, atenção básica à saúde, transporte coletivo e coleta de lixo). Seu papel geral é executar as leis aprovadas pela Câmara Municipal e gerir os recursos financeiros da cidade.
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar e promulgar leis | Assinar e validar as leis aprovadas pela Câmara Municipal para que entrem em vigor. | Constituição Federal, Art. 29 |
+| Vetar projetos de lei | Rejeitar, total ou parcialmente, projetos de lei aprovados pelos vereadores que considere inconstitucionais ou contrários ao interesse público. | Constituição Federal, Art. 29 |
+| Nomear e exonerar secretários | Escolher e destituir livremente os ocupantes de cargos de confiança na administração direta (como secretários municipais). | Constituição Federal, Art. 29 / Prática Administrativa |
+| Decretar desapropriações | Declarar utilidade pública para fins de desapropriação de bens privados necessários a obras ou serviços municipais. | Constituição Federal, Art. 30 |
+| Arrecadar tributos municipais | Cobrar e gerenciar impostos de competência local, como o IPTU, ISS e ITBI. | Constituição Federal, Art. 30, III |
+| Prestar serviços locais | Organizar e executar, diretamente ou por concessão, serviços de interesse local, como o transporte coletivo. | Constituição Federal, Art. 30, V |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar ou aumentar impostos | Qualquer alteração tributária exige previsão expressa em lei em sentido estrito. | Câmara Municipal (aprovação dos vereadores) |
+| Aprovar o orçamento anual | O plano plurianual, as diretrizes orçamentárias e o orçamento anual necessitam de autorização legislativa. | Câmara Municipal (votação das leis orçamentárias) |
+| Alienar bens imóveis públicos | A venda ou doação de patrimônio imobiliário do município depende de autorização prévia e licitação. | Câmara Municipal e legislação de licitações |
+| Contratar pessoal permanente | O provimento de cargos públicos efetivos exige prévia aprovação e critérios impessoais. | Concurso Público de Provas ou de Provas e Títulos |
+| Firmar certos convênios | Compromissos financeiros de longo prazo ou que exijam contrapartida legal carecem de aval do Legislativo. | Câmara Municipal |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do Prefeito é limitada e condicionada por:
+
+* Leis Federais e Estaduais: Deve respeito estrito à [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) e à Lei de Responsabilidade Fiscal (LRF), que limita os gastos com pessoal e endividamento.
+* Câmara Municipal: Depende da aprovação dos vereadores para obter o orçamento anual e criar leis de interesse da gestão.
+* Tribunal de Contas: Suas contas anuais são fiscalizadas e julgadas com o auxílio do Tribunal de Contas do Estado (TCE).
+* Poder Judiciário: Seus atos administrativos podem ser anulados pela Justiça se violarem a legislação vigente.
+
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, o prefeito atua de forma semelhante a um diretor-executivo de uma grande empresa pública (a cidade). Ele não dita as regras sozinho (precisa dos vereadores) e não pode gastar o dinheiro público como quiser (precisa seguir o orçamento aprovado). Sua função é garantir que a estrutura urbana funcione, desde tapar buracos na rua até manter médicos nos postos de saúde da Prefeitura.
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o prefeito decide por meio de decretos, nomeia auxiliares diretos ou ordena despesas previstas no orçamento municipal. |
+| Responsabilidade compartilhada | Quando a execução de uma política pública depende de repasses e convênios com o Governo Estadual ou Federal, ou de autorização da Câmara. |
+| Influência política | Quando o prefeito busca recursos junto a deputados, senadores e governos para obras locais, sem ter o poder de impor a liberação dessa verba. |
+| Ausência de competência direta | O prefeito não tem poder formal sobre serviços de competência dos estados ou da União, como segurança pública (Polícia Civil/Militar) ou expedição de documentos federais. |
+
+------------------------------
+## 8. FONTES
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:
+
+* Não há registro oficial de que Custódio Alves Barreto Neto tenha exercido a titularidade do cargo de Prefeito de Ubatuba. Conforme os registros do [Portal Oficial da Prefeitura de Ubatuba](https://www.ubatuba.sp.gov.br/administracao-direta/vice-prefeito/) e o termo de posse da [Câmara Municipal de Ubatuba](https://www.ubatuba.sp.gov.br/diariooficial/termo-de-posse_2_de_2025/), o cidadão em tela foi diplomado e empossado no cargo de Vice-Prefeito (mandato 2025–2028), figurando também como Secretário Municipal de Saúde por meio da Portaria nº 835/2024. Uma vez que o vínculo com a titularidade do cargo consultado (Prefeito) não foi confirmado oficialmente, as competências do chefe do Executivo não são atribuídas à sua pessoa nesta análise.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil (Artigos 29, 30 e 31)
+* Classificação: OFICIAL
+   * Tipo: Norma Constitucional Federal
+   * Data: 05 de outubro de 1988
+   * Informação confirmada: Competências legislativas, administrativas, tributárias e dever de fiscalização inerentes aos Municípios e seus prefeitos.
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise serve exclusivamente para descrever a moldura legal e as atribuições formais definidas pela estrutura jurídica brasileira para o cargo de Prefeito. Ela não faz juízo de valor sobre o desempenho administrativo, eficiência ou escolhas políticas de qualquer gestão pública.
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.
+

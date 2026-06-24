@@ -1,0 +1,91 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Presidente da Câmara dos Deputados do Brasil
+* Pessoa, se houver: Altineu Côrtes
+* Período, se houver: Não informado
+* A pessoa exerceu esse cargo no período indicado?: Não. Altineu Côrtes exerce formalmente o cargo de 1º Vice-Presidente da Câmara dos Deputados (eleito para o biênio 2025–2026), enquanto a titularidade da Presidência da Casa é exercida por Hugo Motta. Não há registro de exercício da titularidade da Presidência por Altineu Côrtes.
+* Esfera: Federal
+* Poder ou estrutura: Poder Legislativo (Câmara dos Deputados)
+* Tipo de cargo: Eletivo político-institucional (escolhido por votação entre os pares da Casa) [1, 2, 3, 4] 
+
+O Presidente da Câmara dos Deputados é o representante máximo da instituição e o responsável por gerir as atividades legislativas e administrativas da Casa. [2, 5] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para dirigir os trabalhos legislativos, supervisionar a ordem interna e administrar a estrutura interna da Câmara dos Deputados, servindo também como o segundo integrante na linha de substituição da Presidência da República. [2, 5] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode [5] | O que isso significa na prática | Fonte |
+|---|---|---|
+| Definir a pauta de votações | Determina quais projetos e propostas de lei serão discutidos e votados nas sessões do Plenário. | OFICIAL: Portal da Câmara dos Deputados (Atribuições da Presidência). |
+| Presidir as sessões plenárias | Convoca as reuniões dos deputados, abre e encerra os trabalhos e coordena os debates e votações. | OFICIAL: Portal da Câmara dos Deputados (Atribuições da Presidência). |
+| Decidir sobre admissibilidade de impeachment | Analisa se as denúncias por crime de responsabilidade contra o Presidente da República cumprem os requisitos legais para serem abertas. | OFICIAL: Constituição Federal, Art. 51, I. |
+| Distribuir proposições legislativas | Encaminha os projetos de lei apresentados para as comissões temáticas adequadas para análise. | OFICIAL: Portal da Câmara dos Deputados (Atribuições da Presidência). |
+| Votar para desempatar | Exerce o voto apenas em situações de empate nas decisões do Plenário. | OFICIAL: Portal da Câmara dos Deputados (Atribuições da Presidência). |
+| Integrar conselhos institucionais | Participa ativamente do Conselho da República e do Conselho de Defesa Nacional. | OFICIAL: Portal da Câmara dos Deputados (Atribuições da Presidência). |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho [5, 6] | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis definitivamente | O papel do presidente é coordenar o processo; o mérito exige aprovação da maioria dos deputados e senadores. | O colegiado de Deputados Federais e o Senado Federal. |
+| Alterar o Regimento Interno | Normas de funcionamento interno dependem de projetos de resolução debatidos e aprovados coletivamente. | O Plenário da Câmara dos Deputados. |
+| Convocar o Congresso Nacional em urgência | A convocação extraordinária do Congresso fora do período legislativo normal demanda ato conjunto. | O Presidente do Senado Federal. |
+| Destituir o Presidente da República | A função do cargo limita-se a autorizar a abertura do processo de impeachment; o julgamento cabe a outra instância. | O Plenário da Câmara dos Deputados (votação) e o Senado Federal (julgamento). |
+| Executar orçamento federal | Não possui competência de gestão administrativa de bens e serviços públicos da União, limitando-se ao orçamento da própria Casa. | O Poder Executivo Federal. |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+As ações do Presidente da Câmara são diretamente limitadas e condicionadas pelo Regimento Interno da Câmara dos Deputados e pela Constituição Federal. Para estabelecer a pauta de votações no Plenário, ele depende de reuniões e acordos com o Colégio de Líderes Partidários. Adicionalmente, as decisões administrativas e a execução orçamentária interna dependem da deliberação colegiada da Mesa Diretora. [3, 5] 
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, o Presidente da Câmara funciona como o "gerente" ou "árbitro" da assembleia de deputados. Ele não dita as leis individualmente, mas tem o poder de escolher quais assuntos e projetos vão para a votação rápida ou quais ficarão guardados na gaveta esperando análise. [2, 5, 7] 
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação [3, 5, 6] | O que significa |
+|---|---|
+| Responsabilidade direta | Pela pauta de votações do Plenário, condução das sessões diárias e distribuição dos projetos de lei às comissões. |
+| Responsabilidade compartilhada | Pela administração orçamentária da Casa (com a Mesa Diretora) e elaboração da agenda legislativa (com os líderes de partidos). |
+| Influência política | Na articulação e convencimento de bancadas para aprovar ou rejeitar matérias, sem poder decisório isolado sobre os votos. |
+| Ausência de competência direta | Na sanção de leis de âmbito nacional, gestão de serviços públicos ordinários da população e aplicação de punições judiciais. |
+
+------------------------------
+## 8. FONTES## A) Fontes para confirmar vínculo pessoa-cargo
+
+* Nome: Ficha Parlamentar e Noticiário Institucional da Câmara dos Deputados
+* Classificação: OFICIAL
+* Tipo: Portal da Casa Legislativa Federal
+* Data: Consulta realizada em junho de 2026
+* Informação confirmada: Altineu Côrtes é Deputado Federal e foi eleito 1º Vice-Presidente da Câmara dos Deputados para o biênio 2025–2026; o titular da Presidência é Hugo Motta. [1, 8, 9] 
+
+## B) Fontes para explicar competências do cargo
+
+* Nome: Constituição da República Federativa do Brasil de 1988 (Artigos 51 e 80)
+* Classificação: OFICIAL
+* Tipo: Legislação Constitucional Federal
+* Data: Acessado em junho de 2026
+* Informação confirmada: Atribuições constitucionais sobre linha de substituição e competências da Câmara dos Deputados.
+* Nome: Portal Institucional da Câmara dos Deputados - Atribuições da Presidência e Mesa Diretora
+* Classificação: OFICIAL
+* Tipo: Regimento e descrição de funções administrativas/legislativas
+* Data: Atualizado de acordo com a estrutura da legislatura vigente em 2026
+* Informação confirmada: Atribuições regimentais do cargo de Presidente da Câmara dos Deputados. [3, 5] 
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Este documento apresenta exclusivamente o desenho institucional e as atribuições normativas previstas na legislação para o cargo. Ele não realiza avaliação de desempenho político, ideologia ou histórico pessoal.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+------------------------------
+Se desejar, informe qual o projeto de lei específico ou ato administrativo você gostaria de conferir para sabermos se ele passou pelas competências descritas acima.
+
+[1] [https://www.camara.leg.br](https://www.camara.leg.br/noticias/1128935-hugo-motta-e-o-novo-presidente-da-camara-dos-deputados/)
+[2] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Presidente_da_C%C3%A2mara_dos_Deputados_do_Brasil)
+[3] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/mesa-diretora)
+[4] [https://oglobo.globo.com](https://oglobo.globo.com/politica/noticia/2025/02/01/camara-dos-deputados-confirma-pl-e-pt-na-mesa-diretora-veja-a-composicao.ghtml)
+[5] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/presidencia)
+[6] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/178937)
+[7] [https://agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/politica/noticia/2025-02/hugo-motta-e-eleito-presidente-da-camara-dos-deputados)
+[8] [https://www.camara.leg.br](https://www.camara.leg.br/noticias/1129341-deputado-altineu-cortes-e-o-novo-1o-vice-presidente-da-camara/)
+[9] [https://www.instagram.com](https://www.instagram.com/altineucortesrj/)

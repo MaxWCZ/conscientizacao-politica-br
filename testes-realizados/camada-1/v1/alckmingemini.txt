@@ -1,0 +1,149 @@
+==============================================================================
+🔹 1. VALIDAÇÃO DO CARGO ANALISADO
+==============================================================================
+
+* Pessoa analisada: Geraldo Alckmin
+* Cargo/função analisado: Ministro do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)
+* Período analisado: 2023–2026
+* Confirmação de que a pessoa exerceu o cargo/função: Sim
+* Fonte usada para confirmar o vínculo pessoa-cargo: Canal Gov / Ministério do Desenvolvimento, Indústria, Comércio e Serviços
+* Esfera: Federal
+* Poder ou estrutura: Executivo
+* Tipo de cargo: Político (Nomeado)
+
+Geraldo Alckmin exerceu formalmente as funções do cargo de ministro de janeiro de 2023 até se afastar para desincompatibilização eleitoral em março de 2026.
+
+==============================================================================
+🔹 2. FUNÇÃO PRINCIPAL DO CARGO
+==============================================================================
+
+A função principal do cargo é formular, supervisionar e coordenar as políticas federais voltadas para o avanço da indústria nacional, o comércio exterior, o setor produtivo de serviços e a inovação tecnológica. O posto existe para estruturar estratégias de competitividade comercial, fomento a novos mercados e articulação com cadeias de suprimentos globais. Cabe ao titular orientar as secretarias internas do órgão e fixar prioridades normativas de apoio ao desenvolvimento econômico sustentável.
+
+==============================================================================
+🔹 3. O QUE ESSE CARGO PODE FAZER
+==============================================================================
+
+* O cargo pode: Dirigir e expedir atos normativos
+  - O que isso significa na prática: Assinar portarias organizacionais, resoluções internas e instruções regulamentares para o funcionamento de toda a estrutura do ministério.
+  - Fonte: Art. 87 da Constituição Federal / Portarias GM/MDIC
+
+* O cargo pode: Presidir órgãos de governança
+  - O que isso significa na prática: Liderar conselhos colegiados, como as reuniões de ministros e comitês técnicos integrantes da Câmara de Comércio Exterior (Camex).
+  - Fonte: Resoluções e Regulamento Interno da Camex / MDIC
+
+* O cargo pode: Propor projetos ao Executivo
+  - O que isso significa na prática: Encaminhar propostas de decretos, medidas provisórias e subsidiar projetos de lei de interesse do setor produtivo e industrial para a Presidência.
+  - Fonte: Art. 87, parágrafo único, inciso III da Constituição Federal
+
+* O cargo pode: Celebrar acordos e parcerias
+  - O que isso significa na prática: Firmar convênios, protocolos e termos de fomento técnico com agências internacionais, autarquias vinculadas e entidades do setor comercial.
+  - Fonte: Atos normativos e registros formais do MDIC
+
+==============================================================================
+🔹 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+==============================================================================
+
+* O cargo não pode sozinho: Aprovar ou criar novas leis
+  - Por quê: A função exclusiva de legislar, debater e aprovar leis de incentivo econômico pertence à estrutura do Poder Legislativo.
+  - Quem ou o que também participa: Congresso Nacional (Câmara dos Deputados e Senado Federal)
+
+* O cargo não pode sozinho: Fixar o orçamento da pasta
+  - Por quê: A destinação e liberação de recursos federais dependem da aprovação de leis orçamentárias anuais e do fluxo financeiro do governo.
+  - Quem ou o que também participa: Ministério do Planejamento e Orçamento, Ministério da Fazenda e Congresso Nacional
+
+* O cargo não pode sozinho: Conceder isenções de tributos
+  - Por quê: Modificações estruturais em alíquotas fiscais exigem adequação às diretrizes macroeconômicas gerais estabelecidas pela pasta da Fazenda.
+  - Quem ou o que também participa: Ministério da Fazenda e marcos normativos legais
+
+* O cargo não pode sozinho: Aprovar tarifas aduaneiras unilateralmente
+  - Por quê: Definições sobre direitos antidumping e Nomenclatura Comum do Mercosul dependem da manifestação obrigatória de órgãos e comitês integrados.
+  - Quem ou o que também participa: Conselho Estratégico da Camex e ministérios associados
+
+==============================================================================
+🔹 5. DO QUE ESSE CARGO DEPENDE
+==============================================================================
+
+A atuação do cargo depende diretamente do Congresso Nacional para a aprovação das regras legais de funcionamento do mercado e segurança jurídica de investimentos. Depende do Ministério da Fazenda e do Ministério do Planejamento e Orçamento para a descentralização de dotações orçamentárias e alinhamento de metas macroeconômicas. Depende também de agentes financeiros públicos, como o BNDES, para operacionalizar linhas específicas de crédito voltadas à modernização industrial.
+
+==============================================================================
+🔹 6. TRADUÇÃO PRÁTICA
+==============================================================================
+
+Na prática, isso significa que o Ministro do Desenvolvimento pode elaborar diretrizes e desenhar estratégias públicas para aquecer as exportações ou modernizar indústrias, mas ele não tem poderes autônomos para gerir a economia do país à sua escolha. Cada nova iniciativa de grande escala precisa de dotação financeira aprovada por outras pastas econômicas, suporte de bancos parceiros ou submissão a regras legislativas votadas pelos parlamentares.
+
+==============================================================================
+🔹 7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+==============================================================================
+
+* Responsabilidade direta:
+  - O que significa: Quando o ocupante do cargo assina portarias administrativas exclusivas da pasta ou realiza despachos internos vinculantes.
+
+* Responsabilidade compartilhada:
+  - O que significa: Quando a criação de um plano nacional industrial ou creditício demanda a aprovação coordenada de múltiplos ministérios e conselhos federais.
+
+* Influência política:
+  - O que significa: Quando o titular dialoga com associações industriais e manifesta a oposição institucional do governo em relação a propostas legislativas em andamento.
+
+* Ausência de competência direta:
+  - O que significa: Quando os assuntos referem-se a ações de competência municipal ou estadual, sem prerrogativa de intervenção da autoridade federal.
+
+==============================================================================
+🔹 8. FONTES
+==============================================================================
+
+## A) Fontes para confirmar vínculo pessoa-cargo
+
+* Nome da fonte: Portal Eletrônico Oficial do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Gov.br / MDIC)
+  - Classificação: OFICIAL
+  - Tipo: Portal oficial da Administração Pública Federal
+  - Data: Notícias emitidas em fevereiro e março de 2026
+  - Informação confirmada: Confirma o exercício simultâneo de Geraldo Alckmin como vice-presidente e chefe da pasta ministerial.
+
+* Nome da fonte: Canal Gov (Secretaria de Comunicação Social da Presidência)
+  - Classificação: OFICIAL
+  - Tipo: Comunicado público oficial em reunião governamental
+  - Data: 31 de março de 2026
+  - Informação confirmada: Divulgação do encerramento oficial do exercício no cargo de ministro por motivo de desincompatibilização eleitoral.
+
+------------------------------------------------------------------------------
+
+## B) Fontes para explicar competências do cargo
+
+* Nome da fonte: Constituição da República Federativa do Brasil de 1988 (Artigo 87)
+  - Classificação: OFICIAL
+  - Tipo: Texto Constitucional do Estado brasileiro
+  - Data: Promulgação em 5 de outubro de 1988 (texto vigente)
+  - Competência ou limite explicado: Delimita a competência formal e os deveres conferidos aos Ministros de State para fins de direção, submissão de propostas legislativas e expedição de instruções.
+
+* Nome da fonte: Atos Normativos, Atribuições Institucionais e Manuais do MDIC (Gov.br)
+  - Classificação: OFICIAL
+  - Tipo: Repositório oficial de decretos organizacionais e portarias setoriais
+  - Data: Vigentes entre 2023 e 2026
+  - Competência ou limite explicado: Estabelece a estrutura das secretarias do MDIC e o escopo de atuação técnica em comércio exterior, patentes e governança de câmaras de regulação comercial.
+
+==============================================================================
+🔹 9. COMO USAR ESTA INFORMAÇÃO
+==============================================================================
+
+Esta descrição não analisa as decisões pessoais da autoridade, não avalia a qualidade de sua gestão e não realiza julgamentos ideológicos sobre a condução da pasta. O intuito deste painel é apenas detalhar os contornos e limites legais do cargo público ocupado no Brasil. Para emitir juízos de valor sobre o mandato, é fundamental investigar as entregas técnicas, a execução de orçamentos e as agendas legislativas em instâncias analíticas complementares.
+
+> "Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+==============================================================================
+🔹 10. SE QUISER IR MAIS FUNDO
+==============================================================================
+
+Sobre o cargo
+* "Explique melhor as atribuições desse cargo"
+* "Compare esse cargo com outro cargo parecido"
+
+Sobre dependências
+* "Quais decisões dependem de outros órgãos?"
+* "Quem mais participa dessas decisões?"
+
+Sobre responsabilidade
+* "Como saber se a responsabilidade era direta ou compartilhada?"
+* "Como diferenciar poder formal de influência política?"
+
+Sobre exemplos práticos
+* "Dê exemplos simples de decisões que esse cargo pode tomar"

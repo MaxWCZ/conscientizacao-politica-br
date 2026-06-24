@@ -1,0 +1,84 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Prefeito
+* Pessoa, se houver: Juliana Aparecida Gomes de Freitas
+* Período, se houver: Não informado pelo usuário
+* A pessoa exerceu esse cargo no período indicado?: Não confirmado por fonte oficial ou institucional. Registros da [Prefeitura de Caçapava](https://cacapava.sp.gov.br/transmissao-de-cargo-do-prefeito-eleito-de-cacapava-e-posse-do-novo-secretariado-aconteceu-no-paco-municipal) indicam que ela exerce o cargo de Vice-Prefeita do município para o mandato iniciado em 2025. Não há registro de titularidade ou exercício interino/substituto dela como Prefeita.
+* Esfera: Municipal
+* Poder ou estrutura: Poder Executivo
+* Tipo de cargo: Político (Eletivo) [1] 
+
+O Prefeito é o chefe do Poder Executivo Municipal, responsável pela administração geral da cidade, aplicação das leis locais e condução dos serviços públicos municipais.
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de Prefeito existe para chefiar, planejar e executar a gestão administrativa, orçamentária e de serviços de um município. Seu papel geral é gerir os recursos arrecadados (impostos e repasses) e aplicá-los no desenvolvimento local, na manutenção da infraestrutura urbana e em áreas básicas como saúde, educação fundamental e saneamento.
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar e promulgar leis | Aprovar em definitivo e publicar as leis que foram votadas e aprovadas pelos vereadores. | Constituição Federal (Art. 29) e Lei Orgânica do Município |
+| Vetar projetos de lei | Rejeitar, total ou parcialmente, projetos de lei aprovados pela Câmara Municipal que considerar inconstitucionais ou contrários ao interesse público. | Constituição Federal (Art. 29) e Lei Orgânica do Município |
+| Nomear e exonerar secretários | Escolher e destituir livremente os auxiliares diretos e secretários municipais para chefiar as pastas administrativas (Saúde, Educação, Obras, etc.). | Constituição Federal (Art. 29) e Lei Orgânica do Município |
+| Decretar desapropriações | Declarar a utilidade pública de bens imóveis particulares para fins de desapropriação e execução de obras públicas. | Decreto-Lei nº 3.365/1941 e Legislação Municipal |
+| Expedir decretos e regulamentos | Editar atos normativos para detalhar e garantir a correta execução das leis aprovadas no município. | Constituição Federal (Art. 78/84 por simetria) e Lei Orgânica |
+| Administrar os bens municipais | Gerir, alienar ou conceder o uso de bens móveis e imóveis pertencentes ao patrimônio público municipal, conforme os limites legais. | Lei Orgânica do Município |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar ou aumentar impostos | Exige a edição de lei em sentido estrito e aprovação prévia do Poder Legislativo. | Câmara Municipal (Vereadores) |
+| Aprovar o Orçamento Anual | O prefeito elabora a proposta (PPA, LDO e LOA), mas a destinação oficial e autorização de gastos dependem de votação parlamentar. | Câmara Municipal (Vereadores) |
+| Alienar ou doar imóveis públicos | A venda ou doação de bens imóveis do patrimônio municipal exige autorização em lei específica e, em regra, licitação. | Câmara Municipal e Legislação Eleitoral/Administrativa |
+| Contratar empréstimos públicos | Operações de crédito de grande porte demandam autorização legislativa expressa e conformidade com normas federais. | Câmara Municipal e Senado Federal (normas gerais) |
+| Contratar servidores permanentes | A admissão em cargos públicos permanentes não pode ser feita por livre escolha; exige aprovação em concurso público de provas ou de provas e títulos. | Constituição Federal (Art. 37, II) |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do Prefeito é limitada e condicionada por uma série de fatores institucionais e normativos:
+
+* Câmara Municipal: Necessita da aprovação dos vereadores para aprovar o orçamento do município, criar cargos públicos, alterar a estrutura administrativa e aprovar o Plano Diretor Urbano.
+* Orçamento Local: Fica restrito às metas e tetos fixados no Plano Plurianual (PPA), na Lei de Diretrizes Orçamentárias (LDO) e na Lei Orçamentária Anual (LOA).
+* Leis Federais e Estaduais: Deve obediência estrita às regras gerais da [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm), da Lei de Responsabilidade Fiscal (LRF) e da Lei de Licitações e Contratos.
+* Fiscalização Externa: Seus atos financeiros e administrativos são auditados e julgados pelo Tribunal de Contas (do Estado ou dos Municípios, conforme a região) e pela própria Câmara Municipal.
+
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, o Prefeito atua como o "diretor-geral" ou o administrador da cidade. É quem decide quais ruas receberão asfalto primeiro, como as secretarias de saúde gerenciarão os postos de atendimento locais e como serão coordenadas as creches e escolas de ensino fundamental do município. No entanto, ele não pode agir como se a cidade fosse sua propriedade privada; cada centavo gasto deve seguir o orçamento aprovado pelos vereadores e as regras estipuladas pelas leis federais.
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Na execução diária do orçamento, ordenamento de despesas, nomeação de assessores e assinatura de contratos administrativos ou convênios do município. |
+| Responsabilidade compartilhada | No planejamento urbano (Plano Diretor) e nas leis orçamentárias (LOA, LDO, PPA), que exigem coautoria e aprovação da Câmara de Vereadores. |
+| Influência política | Na captação de recursos voluntários junto ao Governador do Estado ou aos Ministérios do Governo Federal, e na articulação com deputados para o envio de emendas parlamentares. |
+| Ausência de competência direta | Na criação de leis penais, emissão de moeda, segurança pública de caráter ostensivo militar (competência estadual) ou prestação de serviços de competência da União (como emissão de passaportes). |
+
+------------------------------
+## 8. FONTES## A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+* Nome: Portal Oficial da Prefeitura Municipal de Caçapava/SP
+* Classificação: OFICIAL
+* Tipo: Notícia de Transmissão de Cargo Institucional e Posse
+* Data: 01/01/2025
+* Informação confirmada: Juliana Aparecida Gomes de Freitas tomou posse como Vice-Prefeita de Caçapava/SP em 1º de janeiro de 2025 (mandato ao lado do prefeito eleito Yan Lopes). Não há registro nessa fonte de exercício no cargo titular de Prefeito. [1] 
+
+## B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+* Tipo: Legislação Constitucional Federal
+* Data: 05/10/1988 (com emendas posteriores)
+* Informação confirmada: Fixa as competências estruturais dos Municípios (Art. 30), a autonomia e organização do Poder Executivo municipal e o princípio da simetria na repartição das competências públicas (Art. 29).
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise explica de maneira abstrata e legal os limites e obrigações conferidos ao cargo de Prefeito. Ela não faz avaliações sobre a qualidade da gestão de qualquer ocupante, nem julga intenções ou escolhas de cunho partidário.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+------------------------------
+Se desejar analisar os limites e funções de outro cargo da estrutura pública municipal, estadual ou federal, sinta-se à vontade para informar o posto correspondente.
+
+[1] [https://cacapava.sp.gov.br](https://cacapava.sp.gov.br/transmissao-de-cargo-do-prefeito-eleito-de-cacapava-e-posse-do-novo-secretariado-aconteceu-no-paco-municipal)

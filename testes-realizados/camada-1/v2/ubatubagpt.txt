@@ -1,0 +1,129 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Prefeito municipal
+* **Pessoa, se houver:** Custódio Alves Barreto Neto
+* **Período, se houver:** não informado
+* **Contexto informado ou identificado:** Ubatuba/SP
+* **A pessoa exerceu esse cargo no período indicado?** **não confirmado como Prefeito**. As fontes oficiais localizadas indicam Custódio Alves Barreto Neto como **Vice-Prefeito de Ubatuba**, não como Prefeito. ([Prefeitura Municipal de Ubatuba][1])
+* **Houve exercício interino, substituto ou provisório?** não confirmado
+* **Esfera:** municipal
+* **Poder ou estrutura:** Poder Executivo municipal
+* **Tipo de cargo:** cargo político eletivo, chefe do Executivo municipal
+
+**Em 1 frase:** o prefeito é o chefe do Poder Executivo do município, responsável por administrar a prefeitura e executar políticas públicas locais dentro dos limites da Constituição, da lei orgânica, do orçamento e da fiscalização institucional.
+
+Como o vínculo de **Custódio Alves Barreto Neto como Prefeito** não foi confirmado por fonte oficial ou institucional, as competências abaixo são explicadas **para o cargo de Prefeito em geral**, não atribuídas a ele pessoalmente.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O prefeito existe para chefiar a administração municipal: organizar serviços públicos locais, executar leis e políticas públicas do município, propor medidas à Câmara Municipal, administrar receitas e despesas autorizadas em orçamento e prestar contas. A Constituição define competências municipais como legislar sobre interesse local, organizar serviços públicos locais, atuar em educação e saúde com cooperação da União e do Estado, ordenar o território urbano e proteger o patrimônio histórico-cultural local. ([Portal da Câmara dos Deputados][2])
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                             | O que isso significa na prática                                                                                                                                         | Fonte                                                                                                                         |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Administrar a prefeitura e os serviços municipais        | Coordenar secretarias, programas e serviços públicos municipais dentro da estrutura legal do município                                                                  | Constituição, art. 30; Lei Orgânica de Ubatuba em vigor no portal legislativo municipal ([Portal da Câmara dos Deputados][2]) |
+| Organizar e prestar serviços públicos de interesse local | Cuidar de serviços municipais, diretamente ou por concessão/permissão, quando forem de interesse local                                                                  | Constituição, art. 30, V ([Portal da Câmara dos Deputados][2])                                                                |
+| Propor e executar políticas públicas municipais          | Atuar em áreas de competência municipal, como ordenamento urbano, serviços locais, educação infantil/fundamental e saúde, conforme regras e cooperação com outros entes | Constituição, art. 30, VI, VII e VIII ([Portal da Câmara dos Deputados][2])                                                   |
+| Arrecadar e aplicar receitas municipais                  | Cobrar tributos municipais, aplicar recursos públicos e prestar contas nos prazos legais                                                                                | Constituição, art. 30, III ([Portal da Câmara dos Deputados][2])                                                              |
+| Elaborar propostas orçamentárias pelo Executivo          | Enviar propostas como PPA, LDO e orçamento anual, que dependem de tramitação e aprovação legislativa                                                                    | Constituição, art. 165 ([Portal da Câmara dos Deputados][2])                                                                  |
+| Prestar contas da gestão                                 | Apresentar contas que serão fiscalizadas pela Câmara Municipal, com auxílio do Tribunal de Contas competente                                                            | Constituição, art. 31 ([Portal da Câmara dos Deputados][2])                                                                   |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                                            | Por quê                                                                                                                  | Quem ou o que também participa                                                                                       |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Criar leis municipais de forma unilateral                                           | Leis passam pelo processo legislativo municipal; a Câmara tem função legislativa                                         | Câmara Municipal                                                                                                     |
+| Gastar livremente fora do orçamento                                                 | A execução de despesas depende de previsão orçamentária e regras de finanças públicas                                    | Lei orçamentária, Câmara Municipal, controle interno e Tribunal de Contas                                            |
+| Assumir competências estaduais ou federais                                          | O município tem competências próprias; áreas estaduais ou federais dependem da repartição constitucional de competências | Estado, União, órgãos federais ou estaduais                                                                          |
+| Fiscalizar sozinho as próprias contas                                               | A fiscalização do município cabe ao Legislativo municipal, com auxílio do Tribunal de Contas                             | Câmara Municipal e Tribunal de Contas                                                                                |
+| Decidir sozinho temas que exigem lei, votação, licença, convênio ou decisão técnica | Muitas ações dependem de lei, orçamento, ato administrativo regular, estudo técnico ou cooperação institucional          | Câmara, secretarias, conselhos, órgãos técnicos, Judiciário, Ministério Público, Tribunal de Contas, Estado ou União |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O prefeito depende da **Constituição Federal**, da **Lei Orgânica do Município**, das leis municipais, do orçamento aprovado, da estrutura administrativa da prefeitura, da Câmara Municipal e dos órgãos de controle. Em temas como saúde e educação, a Constituição prevê cooperação técnica e financeira da União e do Estado, então a atuação municipal não ocorre isoladamente. ([Portal da Câmara dos Deputados][2])
+
+Também depende de fiscalização: a Constituição diz que a fiscalização do município é exercida pelo Poder Legislativo municipal, com controle externo e auxílio dos Tribunais de Contas, além do controle interno do Executivo. ([Portal da Câmara dos Deputados][2])
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, isso significa que o prefeito é a autoridade que lidera a prefeitura, mas não tem poder ilimitado. Ele pode organizar serviços municipais, propor políticas e executar ações locais, mas precisa seguir leis, orçamento, regras administrativas e fiscalização.
+
+No caso informado, as fontes oficiais encontradas não confirmam Custódio Alves Barreto Neto como Prefeito de Ubatuba; confirmam sua condição de **Vice-Prefeito**. O termo de posse de 01/01/2025 registra expressamente o cargo de **Vice-Prefeito Municipal de Ubatuba** e o período da legislatura de 2025 a 2028. ([Prefeitura Municipal de Ubatuba][3])
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                                                                                 |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | quando o cargo tinha poder formal para decidir, executar ou administrar determinado ato dentro da competência municipal                                         |
+| Responsabilidade compartilhada | quando a ação dependia de Câmara Municipal, orçamento, secretarias, conselhos, Estado, União, Tribunal de Contas, Ministério Público, Judiciário ou outro órgão |
+| Influência política            | quando podia articular, defender, negociar ou apoiar uma pauta, mas sem poder formal de decidir sozinho                                                         |
+| Ausência de competência direta | quando o cargo não tinha poder formal sobre o tema, por ser assunto de outro Poder, esfera federativa, órgão autônomo ou autoridade específica                  |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+**Nome:** Página “Vice-Prefeito” — Prefeitura Municipal de Ubatuba
+**Classificação:** OFICIAL
+**Tipo:** portal oficial do Poder Executivo municipal
+**Data:** sem data de publicação visível; página consultada em 19/06/2026
+**Informação confirmada:** identifica Custódio Alves Barreto Neto como Vice-Prefeito/“Coronel Barreto”, não como Prefeito. ([Prefeitura Municipal de Ubatuba][1])
+
+**Nome:** Termo de Posse — Câmara Municipal de Ubatuba
+**Classificação:** OFICIAL
+**Tipo:** termo oficial de posse em PDF
+**Data:** 01/01/2025
+**Informação confirmada:** Custódio Alves Barreto Neto tomou posse para o cargo de **Vice-Prefeito Municipal de Ubatuba**, no contexto da legislatura de 01/01/2025 a 31/12/2028. ([Prefeitura Municipal de Ubatuba][3])
+
+**Nome:** Página “Sobre Ubatuba” — Secretaria Municipal de Turismo / Prefeitura de Ubatuba
+**Classificação:** OFICIAL / INSTITUCIONAL municipal
+**Tipo:** página institucional municipal
+**Data:** sem data de publicação visível; página consta com rodapé de 2026
+**Informação confirmada:** lista Flavia Pascoal como Prefeita e Custódio Alves Barreto Neto como Vice-Prefeito. ([Turismo][4])
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+**Nome:** Constituição Federal de 1988 — Câmara dos Deputados
+**Classificação:** OFICIAL
+**Tipo:** texto constitucional em portal oficial legislativo
+**Data:** 05/10/1988
+**Informação confirmada:** organização municipal, eleição de prefeito e vice, competências municipais e fiscalização do município. ([Portal da Câmara dos Deputados][2])
+
+**Nome:** Lei Orgânica do Município de Ubatuba — Legislação Online da Câmara Municipal de Ubatuba
+**Classificação:** OFICIAL
+**Tipo:** lei orgânica municipal compilada
+**Data:** 04/04/1990; situação: em vigor
+**Informação confirmada:** existência da Lei Orgânica de Ubatuba como norma municipal vigente de administração municipal. ([Legislação Compilada Ubatuba][5])
+
+**Fontes indiretas:** imprensa, Wikipedia, redes sociais, blogs, vídeos, agregadores e terceiros não foram usados como base para confirmar vínculo pessoa-cargo, titularidade, interinidade ou competência formal.
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, qualidade de gestão, intenção, ideologia ou caráter. Ela apenas mostra o que o cargo de prefeito permite ou não permite fazer, e separa isso da situação específica da pessoa informada.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://www.ubatuba.sp.gov.br/administracao-direta/vice-prefeito/ "Vice-Prefeito – Prefeitura Municipal de Ubatuba"
+[2]: https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-publicacaooriginal-1-pl.html "Portal da Câmara dos Deputados"
+[3]: https://www.ubatuba.sp.gov.br/diariooficial/termo-de-posse_2_de_2025/ "Imagem digitalizada"
+[4]: https://turismo.ubatuba.sp.gov.br/sobre/ "Sobre Ubatuba – Turismo"
+[5]: https://cmubatuba.legislacaocompilada.com.br/norma.aspx?id=4413 "
+	LEGISLAÇÃO ONLINE | UBATUBA - SP
+"

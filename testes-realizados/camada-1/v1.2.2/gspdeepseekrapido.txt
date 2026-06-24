@@ -1,0 +1,97 @@
+1. CARGO ANALISADO
+- Cargo: Governador do Estado de São Paulo
+- Pessoa, se houver: Paulo Maluf
+- Período, se houver: 2015
+- A pessoa exerceu esse cargo no período indicado? **não**
+- Se exerceu apenas de forma interina, substituta ou provisória, indique isso claramente: **não se aplica** – Paulo Maluf não exerceu o cargo de Governador do Estado de São Paulo em 2015.
+- Esfera: estadual
+- Poder ou estrutura: Poder Executivo
+- Tipo de cargo: cargo político eletivo (chefe do Poder Executivo estadual)
+
+**Explicação em 1 frase:** O Governador do Estado de São Paulo é a autoridade máxima do Poder Executivo estadual, eleito pelo voto popular para um mandato de quatro anos, sendo responsável pela administração superior do estado.
+
+---
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de Governador do Estado de São Paulo existe para chefiar o Poder Executivo estadual, executar as leis federais e estaduais, administrar os serviços públicos estaduais, representar o estado nas relações jurídicas, políticas e administrativas, e zelar pelo cumprimento da Constituição Estadual e das leis.
+
+---
+
+3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Iniciar o processo legislativo, sancionar, promulgar e vetar leis | O Governador pode propor projetos de lei à Assembleia Legislativa, aprovar (sancionar) ou rejeitar (vetar) leis aprovadas pelos deputados estaduais | Constituição do Estado de São Paulo, Art. 47 |
+| Nomear e exonerar Secretários de Estado e outros cargos de confiança | O Governador escolhe os titulares das pastas estaduais (Saúde, Educação, Segurança, etc.) e pode substituí-los | Constituição do Estado de São Paulo, Art. 47 |
+| Decretar regulamentos para fiel execução das leis | O Governador pode editar decretos e regulamentos que detalhem como as leis devem ser aplicadas na prática | Constituição do Estado de São Paulo, Art. 47 |
+| Administrar as finanças públicas estaduais | O Governador elabora o orçamento anual, arrecada tributos estaduais e autoriza despesas, dentro dos limites legais | Constituição do Estado de São Paulo, Art. 47 |
+| Representar o Estado em juízo e fora dele | O Governador é o representante legal do estado em negociações, acordos e ações judiciais | Constituição do Estado de São Paulo, Art. 47 |
+| Prover e extinguir cargos públicos estaduais | O Governador pode criar, transformar ou extinguir cargos, empregos e funções públicas, observadas as leis orçamentárias | Constituição do Estado de São Paulo, Art. 47, inc. XIX, “b” |
+| Conceder indulto e comutar penas | O Governador pode perdoar ou reduzir penas de condenados criminais, em certos casos | Constituição do Estado de São Paulo, Art. 47 |
+| Solicitar intervenção federal | Em situações de grave comprometimento da ordem pública, o Governador pode pedir ao Governo Federal que intervenha no estado | Constituição do Estado de São Paulo, Art. 47 |
+
+---
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar ou aumentar despesas públicas sem previsão orçamentária | A lei orçamentária é aprovada pela Assembleia Legislativa; o Governador não pode gastar além do autorizado | Assembleia Legislativa |
+| Aprovar leis | O Governador pode propor e vetar leis, mas a aprovação final depende dos deputados estaduais | Assembleia Legislativa |
+| Alterar a Constituição Estadual | Emendas constitucionais exigem aprovação da Assembleia Legislativa em dois turnos, com quórum qualificado | Assembleia Legislativa |
+| Julgar crimes ou conflitos de competência | Essa é função do Poder Judiciário, não do Executivo | Poder Judiciário |
+| Alienar bens imóveis do Estado sem autorização | A venda ou doação de bens públicos exige autorização legislativa | Assembleia Legislativa |
+| Contratar empréstimos externos sem aprovação | Operações de crédito externo precisam de autorização da Assembleia Legislativa | Assembleia Legislativa |
+
+---
+
+5. DO QUE ESSE CARGO DEPENDE
+A atuação do Governador do Estado de São Paulo depende de:
+- **Constituição Federal e Constituição Estadual**: definem os limites e as competências do cargo.
+- **Assembleia Legislativa**: aprova leis, o orçamento, autoriza operações financeiras e fiscaliza os atos do Executivo.
+- **Tribunal de Contas do Estado**: fiscaliza a execução orçamentária e as contas do governo.
+- **Poder Judiciário**: controla a legalidade dos atos administrativos.
+- **Orçamento estadual**: o Governador só pode gastar dentro dos limites aprovados.
+- **Secretários de Estado**: executam as políticas públicas nas respectivas áreas, sob supervisão do Governador.
+- **Leis federais e estaduais**: o Governador deve obedecer à legislação vigente.
+
+---
+
+6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o Governador do Estado de São Paulo é o “chefe do governo estadual”. Ele é responsável por decidir como o dinheiro público do estado será gasto (saúde, educação, segurança, transporte, etc.), nomear os secretários que vão administrar cada área, sancionar ou vetar leis aprovadas pelos deputados estaduais e representar o estado em negociações com o Governo Federal, outros estados e outros países. No entanto, ele não governa sozinho: precisa da aprovação da Assembleia Legislativa para criar leis, gastar dinheiro fora do orçamento e fazer grandes operações financeiras.
+
+---
+
+7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Quando o Governador tinha poder formal para decidir ou executar, como: sancionar ou vetar leis, nomear secretários, editar decretos, administrar o orçamento dentro dos limites legais, representar o estado. |
+| **Responsabilidade compartilhada** | Quando dependia de outros órgãos, votação, colegiado ou orçamento, como: aprovação de leis (depende da Assembleia), aprovação do orçamento (depende da Assembleia), alienação de bens (depende da Assembleia), contratação de empréstimos (depende da Assembleia). |
+| **Influência política** | Quando podia articular ou defender algo, mas não decidir sozinho, como: orientar sua base aliada na Assembleia para aprovar projetos, negociar com o Governo Federal recursos para o estado, influenciar a opinião pública. |
+| **Ausência de competência direta** | Quando o cargo não tinha poder formal sobre o tema, como: julgar processos criminais (competência do Judiciário), legislar sobre matéria federal (competência da União), tributar bens e serviços de competência municipal. |
+
+---
+
+8. FONTES
+
+**A) Fontes para confirmar vínculo pessoa-cargo:**
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Lista de Ex-Governadores do Estado de São Paulo – Assembleia Legislativa do Estado de São Paulo | **OFICIAL** | PDF institucional | não informada | Paulo Salim Maluf exerceu o cargo de Governador do Estado de São Paulo no período de 15/03/1979 a 14/05/1982. Não consta exercício do cargo em 2015. |
+
+**B) Fontes para explicar competências do cargo:**
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Constituição do Estado de São Paulo (Atualizada até a Emenda nº 53, de 19/12/2023) – site legislação.sp.gov.br | **OFICIAL** | Legislação estadual | 2023 | Define a estrutura do Poder Executivo estadual e as atribuições privativas do Governador (Art. 47 e seguintes) |
+| Constituição Estadual de 1967 – site da Assembleia Legislativa de São Paulo | **OFICIAL** | Legislação estadual (histórica) | 1967 | Define que o Poder Executivo é exercido pelo Governador e estabelece suas atribuições básicas |
+| Constituição do Estado de São Paulo – site da Imprensa Oficial | **OFICIAL** | Legislação estadual | 2019 | Texto consolidado da Constituição Estadual, incluindo as disposições sobre o Poder Executivo |
+
+---
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer. As informações acima descrevem as competências formais do cargo de Governador do Estado de São Paulo, com base na Constituição Estadual e em fontes oficiais. Não há qualquer juízo sobre a atuação de Paulo Maluf ou de qualquer outra pessoa, uma vez que Paulo Maluf não exerceu o cargo no período informado (2015). Em 2015, o Governador do Estado de São Paulo era Geraldo Alckmin.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**

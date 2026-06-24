@@ -1,0 +1,98 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** Vereador
+- **Pessoa, se houver:** Não informado
+- **Período, se houver:** Não informado
+- **Contexto informado ou identificado:** Não informado
+- **A pessoa exerceu esse cargo no período indicado?** Não informado
+- **Houve exercício interino, substituto ou provisório?** Não informado
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Legislativo Municipal (Câmara Municipal ou Câmara de Vereadores)
+- **Tipo de cargo:** Agente político eletivo
+
+O vereador é um agente político eleito pelo voto direto e secreto da população para exercer o Poder Legislativo no âmbito do município.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O vereador existe para representar a população municipal no Poder Legislativo, atuando principalmente na elaboração de leis municipais e na fiscalização da atuação do Poder Executivo (Prefeito e secretários). O cargo integra a Câmara Municipal, órgão colegiado onde os vereadores discutem e votam matérias de interesse da cidade.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Elaborar, discutir e votar projetos de lei municipal | Propor textos normativos sobre temas locais (transporte, educação, saneamento, impostos municipais etc.) e submetê-los à votação na Câmara | Tribunal Superior Eleitoral; Câmara dos Deputados |
+| Fiscalizar a atuação do Poder Executivo municipal | Acompanhar se o Prefeito e seus secretários cumprem as leis e aplicam corretamente os recursos públicos | Tribunal Superior Eleitoral; Câmara Municipal de Jandira |
+| Analisar, alterar e acompanhar o orçamento do município | Participar da discussão e votação da Lei Orçamentária Anual, que define onde serão aplicados os recursos arrecadados | Tribunal Superior Eleitoral; EVC/Câmara dos Deputados |
+| Julgar as contas públicas do município | Anualmente, com auxílio do tribunal de contas, analisar e votar as contas apresentadas pelo Prefeito | Tribunal Superior Eleitoral |
+| Representar os interesses da população | Ouvir demandas dos eleitores e atuar como canal entre a comunidade e o governo municipal | Tribunal Superior Eleitoral; EVC/Câmara dos Deputados |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar uma lei | A aprovação de projetos depende da deliberação do Plenário da Câmara Municipal, composto por todos os vereadores | Plenário da Câmara Municipal (demais vereadores) |
+| Transformar um projeto aprovado em lei | Após aprovação na Câmara, o projeto precisa ser sancionado (ou pode ser vetado) pelo Prefeito | Prefeito |
+| Executar obras ou políticas públicas | A função do vereador é legislar e fiscalizar; a execução cabe ao Poder Executivo municipal | Prefeito e secretários municipais |
+| Definir o orçamento municipal | O orçamento é proposto pelo Prefeito; a Câmara pode alterá-lo, mas a decisão final é colegiada | Prefeito (proposição) e Plenário da Câmara (deliberação) |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do vereador é condicionada por diversas estruturas e normas:
+
+- **Constituição Federal**: estabelece as regras gerais para o funcionamento dos municípios e para o exercício do mandato de vereador (art. 29)
+- **Lei Orgânica do Município**: espécie de "Constituição" de cada município, votada pela Câmara Municipal, que define as regras específicas de organização e funcionamento do Poder Legislativo local
+- **Regimento Interno da Câmara Municipal**: norma interna que detalha os procedimentos, prazos e regras para tramitação de projetos e funcionamento das sessões
+- **Plenário da Câmara**: o vereador depende da deliberação coletiva para aprovar projetos e decisões
+- **Orçamento municipal**: a atuação fiscalizadora e legislativa está vinculada aos recursos disponíveis e à Lei Orçamentária Anual
+- **Tribunal de Contas**: órgão auxiliar na análise das contas públicas, cujo parecer subsidia a decisão dos vereadores
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o vereador é o representante eleito da sua cidade no Legislativo municipal. Ele propõe leis sobre assuntos do dia a dia (como transporte, escolas, postos de saúde, limpeza urbana), vota essas leis junto com os outros vereadores e fiscaliza se o Prefeito está realmente aplicando o dinheiro público nas áreas que prometeu. O vereador sozinho não pode aprovar uma lei nem executar obras — ele depende do voto dos colegas e da sanção do Prefeito.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | O vereador tem poder formal para propor projetos de lei, apresentar emendas, participar de votações em Plenário e fazer pedidos de fiscalização ao Poder Executivo |
+| **Responsabilidade compartilhada** | A aprovação de leis, a alteração do orçamento e o julgamento das contas públicas dependem da deliberação do Plenário (todos os vereadores) e, no caso das leis, da sanção ou veto do Prefeito |
+| **Influência política** | O vereador pode articular com outros parlamentares, defender pautas e negociar apoio para projetos, mas não decide sozinho o resultado das votações |
+| **Ausência de competência direta** | O vereador não pode executar obras, contratar servidores, administrar recursos públicos ou realizar políticas públicas — essas funções são do Poder Executivo municipal |
+
+---
+
+## 8. FONTES
+
+### A) Fontes para confirmar vínculo pessoa-cargo
+
+Não há pessoa informada. Portanto, esta seção não se aplica.
+
+### B) Fontes para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Tribunal Superior Eleitoral – "Vereador: conheça o papel e as funções desse representante político" | OFICIAL | Portal institucional do TSE | 2016 | Funções legislativa e fiscalizadora do vereador; tramitação de projetos; papel no orçamento e nas contas públicas |
+| Câmara dos Deputados – "Conheça as funções de prefeitos e vereadores e como fiscalizá-los" | OFICIAL | Portal institucional da Câmara dos Deputados | 2024 | Elaboração de projetos de lei; fiscalização do Executivo; papel na Lei Orçamentária Anual |
+| EVC/Câmara dos Deputados – "O que faz o vereador e a vereadora?" | OFICIAL | Portal institucional da Câmara dos Deputados | Não informado | Representação do cidadão; elaboração de leis; análise e acompanhamento do orçamento; fiscalização de políticas públicas |
+| Câmara Municipal de Jandira – "Da função do vereador e suas prerrogativas" | OFICIAL | Portal institucional da Câmara Municipal | Não informado | Fiscalização da administração; acompanhamento do Executivo; imunidade parlamentar do vereador (art. 29, VIII, CF) |
+| Senado Federal – "Cartilha do Vereador" | OFICIAL | Publicação institucional do Senado Federal | 2025 | Funções do vereador: legislar, fiscalizar, administrar (internamente a Câmara) e julgar agentes públicos em casos de quebra de decoro |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise descreve a função do cargo de vereador com base em fontes oficiais, sem avaliar desempenho, ideologia, intenção ou caráter de qualquer ocupante. O foco está no que o cargo permite ou não permite fazer formalmente, e não no que uma pessoa específica fez ou deixou de fazer.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

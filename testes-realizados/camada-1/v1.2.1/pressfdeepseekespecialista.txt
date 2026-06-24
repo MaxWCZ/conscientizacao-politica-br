@@ -1,0 +1,82 @@
+1. CARGO ANALISADO
+- Cargo: Presidente do Senado Federal do Brasil
+- Pessoa, se houver: Davi Alcolumbre
+- Período, se houver: 2009-2010
+- A pessoa exerceu esse cargo no período indicado? Não
+- Esfera: Federal
+- Poder ou estrutura: Legislativo
+- Tipo de cargo: Cargo de direção da Mesa do Senado, eleito pelos senadores
+
+Davi Alcolumbre não exerceu a Presidência do Senado no período de 2009–2010, pois tomou posse como senador apenas em 2015, e a presidência da Casa é privativa de senador no exercício do mandato.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O Presidente do Senado Federal dirige os trabalhos legislativos e administrativos da Casa, representa o Senado perante os demais Poderes e, por força da Constituição, também preside o Congresso Nacional em determinadas sessões e ocupa o terceiro lugar na linha de sucessão da Presidência da República.
+
+3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+| :--- | :--- | :--- |
+| Convocar e presidir as sessões do Senado | Define a pauta de votações e conduz os debates, com poder de polícia sobre a ordem dos trabalhos | Regimento Interno do Senado Federal (RISF), arts. 46 e 48; Constituição Federal (CF), art. 57, § 5º |
+| Definir a ordem do dia das sessões | Seleciona quais projetos e requerimentos serão submetidos à deliberação dos senadores | RISF, art. 46, II, e art. 162 |
+| Representar o Senado perante os outros Poderes | Atua como porta-voz oficial da instituição em relações com Presidência da República, Supremo Tribunal Federal e Câmara dos Deputados | RISF, art. 46, VII; CF, art. 57, § 5º |
+| Presidir sessões do Congresso Nacional | Comanda sessões conjuntas da Câmara e do Senado (ex.: para análise de vetos presidenciais e do orçamento) | CF, art. 57, § 5º, e art. 66, § 4º |
+| Exercer a Presidência da República interinamente | Assume o cargo de Presidente da República na ausência do titular e do Vice-Presidente, e do Presidente da Câmara (terceiro na linha de sucessão) | CF, art. 80 |
+| Autorizar a instalação de Comissões Parlamentares de Inquérito (CPIs) | Após leitura de requerimento com assinaturas suficientes, determina a criação da CPI, desde que cumpridos os requisitos constitucionais | CF, art. 58, § 3º; RISF, art. 145 |
+| Distribuir matérias às comissões permanentes | Decide qual comissão analisará cada projeto de lei, emenda ou requerimento, influenciando o trâmite legislativo | RISF, art. 48, III |
+| Decidir questões de ordem | Interpreta o Regimento Interno durante as sessões, esclarecendo dúvidas sobre procedimentos legislativos, cabendo recurso ao Plenário | RISF, art. 48, I, e art. 408 |
+| Nomear e exonerar servidores do Senado | Exerce a direção administrativa da Casa, gerindo recursos humanos e materiais | RISF, art. 46, XIV; Ato da Mesa nº 1/2019 |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+| :--- | :--- | :--- |
+| Aprovar leis ou emendas constitucionais | A função legislativa é do Plenário; o voto do presidente só é exercido em caso de empate ou votação secreta | Maioria dos senadores (quórum conforme a matéria) |
+| Convocar Ministros de Estado ou autoridades | Depende de deliberação do Plenário do Senado ou de comissão, não de decisão individual da presidência | Plenário ou Comissão do Senado (CF, art. 50) |
+| Autorizar operações financeiras da União, estados ou municípios | Competência privativa do Senado como colegiado, não de seu presidente isoladamente | Plenário do Senado (CF, art. 52, V a IX) |
+| Instaurar processo contra o Presidente da República por crime de responsabilidade | O presidente do Senado apenas instaura o processo após autorização da Câmara dos Deputados; o julgamento cabe ao colegiado | Câmara dos Deputados (admissibilidade) e Plenário do Senado (julgamento, CF, art. 86) |
+| Alterar o Regimento Interno do Senado | A competência para modificar as regras de funcionamento da Casa é do Plenário, mediante projeto de resolução | Maioria dos senadores (projeto de resolução) |
+| Declarar inconstitucionalidade de lei ou ato normativo | Cabe ao Poder Judiciário, não ao Legislativo, o controle de constitucionalidade | Supremo Tribunal Federal |
+| Criar ou extinguir cargos públicos no Senado | Depende de aprovação de projeto de resolução pelo Plenário | Maioria dos senadores (projeto de resolução) |
+
+5. DO QUE ESSE CARGO DEPENDE
+A atuação do Presidente do Senado é condicionada principalmente pelo Regimento Interno da Casa, que estabelece os ritos processuais e os limites de suas atribuições. Decisões legislativas e muitas administrativas dependem de deliberação da maioria dos senadores em Plenário, e o orçamento do Senado precisa ser aprovado pelo Congresso Nacional. Além disso, a Mesa Diretora, composta por outros senadores eleitos (Vice-Presidentes e Secretários), divide responsabilidades de gestão. A relação com a Câmara dos Deputados e com o Poder Executivo também impõe limites políticos e formais, pois a produção legislativa final exige concordância da outra Casa ou sanção presidencial.
+
+6. TRADUÇÃO PRÁTICA
+O Presidente do Senado é a pessoa que organiza a fila de projetos que os senadores vão discutir e votar, controla o microfone e o tempo de fala nas sessões, e fala em nome da instituição. É uma posição de liderança e coordenação, mas sem poder individual para decidir o conteúdo das leis – que sempre dependem dos votos dos 81 senadores. Para o cidadão comum, isso significa que o presidente da Casa pode acelerar ou atrasar a tramitação de um projeto, mas não pode, sozinho, aprovar ou rejeitar nada.
+
+7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+| :--- | :--- |
+| Responsabilidade direta | Dirigir as sessões, manter a ordem, decidir sobre a pauta, representar o Senado e gerir administrativamente a Casa. |
+| Responsabilidade compartilhada | Aprovar a pauta legislativa (depende do Colégio de Líderes e das deliberações do Plenário) e conduzir processos de impeachment (depende da Câmara e do Plenário do Senado). |
+| Influência política | Articular prioridades com líderes partidários, influenciar a tramitação de matérias e negociar com os outros Poderes, sem poder decisório isolado sobre o mérito. |
+| Ausência de competência direta | Criar leis ou modificar a Constituição, declarar inconstitucionalidade, julgar autoridades e alterar unilateralmente o regimento da Casa. |
+
+8. FONTES
+A) Fontes para confirmar vínculo pessoa-cargo
+- Nome: Senadores – Biografia (Senado Federal)
+  Classificação: INSTITUCIONAL
+  Tipo: Portal institucional do Senado (registro biográfico de Davi Alcolumbre)
+  Data: Registro histórico permanente (posse como senador em 01/02/2015)
+  Informação confirmada: Davi Alcolumbre não era senador no período 2009–2010, portanto, não poderia exercer a Presidência do Senado nesse período.
+- Nome: Mesa do Senado – Presidentes (Senado Federal)
+  Classificação: INSTITUCIONAL
+  Tipo: Portal institucional do Senado (relação histórica de presidentes)
+  Data: Dados históricos (Presidente no biênio 2009–2010: José Sarney)
+  Informação confirmada: O Presidente do Senado no período indicado era José Sarney, não Davi Alcolumbre.
+
+B) Fontes para explicar competências do cargo
+- Nome: Constituição da República Federativa do Brasil de 1988
+  Classificação: OFICIAL
+  Tipo: Texto constitucional
+  Data: 05/10/1988 (com atualizações posteriores)
+  Informação confirmada: Artigos 52, 57, 58, 66, 80 e 86, que definem atribuições do Senado, do Presidente do Senado e do Congresso Nacional.
+- Nome: Regimento Interno do Senado Federal (Resolução nº 93/1970)
+  Classificação: INSTITUCIONAL
+  Tipo: Ato normativo interno do Senado
+  Data: Publicação original em 1970, com atualizações (consolidado até 2023)
+  Informação confirmada: Artigos 46, 48, 145, 162 e 408, que detalham as competências do Presidente do Senado na condução dos trabalhos.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta análise descreve as atribuições formais e os limites do cargo, sem avaliar o desempenho de qualquer pessoa que o tenha ocupado. Serve para deixar claro o que o cargo permite ou não permite fazer. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

@@ -1,0 +1,117 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** Prefeito
+- **Pessoa, se houver:** Juliana Aparecida Gomes de Freitas
+- **Período, se houver:** Não informado
+- **A pessoa exerceu esse cargo no período indicado?** Não informado / não confirmado
+- **Exercício interino, substituto ou provisório:** Não há registro público claro de que Juliana Aparecida Gomes de Freitas tenha exercido o cargo de prefeita, ainda que de forma interina, substituta ou provisória. As referências encontradas a indicam como candidata a vice-prefeita ou a vereadora, não como prefeita.
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Executivo
+- **Tipo de cargo:** Cargo eletivo (chefe do Poder Executivo municipal)
+
+O prefeito é a autoridade máxima do Poder Executivo em cada município, eleito pelo voto direto para um mandato de quatro anos.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O prefeito existe para dirigir a administração pública municipal, executar as leis e políticas públicas aprovadas pela Câmara de Vereadores, e representar o município nas relações com outros entes federativos e com a sociedade. É o responsável pela gestão dos serviços públicos locais, como saúde, educação, transporte, planejamento urbano e infraestrutura, sempre dentro das regras estabelecidas pela Constituição, pela Lei Orgânica do município e pelas demais leis.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Legislar sobre assuntos de interesse local | Propor e sancionar leis municipais que tratem de temas específicos da cidade, como organização administrativa, tributos, uso do solo e serviços públicos | Constituição Federal, art. 30, I |
+| Instituir e arrecadar tributos municipais | Criar impostos municipais (como IPTU, ISS) e cobrá-los, dentro dos limites da lei | Constituição Federal, art. 30, III |
+| Organizar e prestar serviços públicos locais | Gerir diretamente ou por concessão serviços como transporte coletivo, coleta de lixo, abastecimento de água e iluminação pública | Constituição Federal, art. 30, V |
+| Manter programas de educação infantil e ensino fundamental | Administrar creches, pré-escolas e escolas municipais, com cooperação técnica e financeira da União e do Estado | Constituição Federal, art. 30, VI |
+| Promover atendimento à saúde da população | Gerir postos de saúde, hospitais municipais e programas de atenção básica, com cooperação da União e do Estado | Constituição Federal, art. 30, VII |
+| Planejar e controlar o uso e ocupação do solo urbano | Definir regras para loteamento, zoneamento e construção na cidade | Constituição Federal, art. 30, VIII |
+| Proteger o patrimônio histórico-cultural local | Preservar prédios, sítios e manifestações culturais de importância para o município | Constituição Federal, art. 30, IX |
+| Nomear e exonerar servidores municipais | Escolher secretários municipais e ocupantes de cargos em comissão, e demiti-los quando necessário | Lei Orgânica Municipal (regra geral) |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis municipais | A iniciativa pode ser do prefeito, mas a aprovação depende da Câmara de Vereadores | Câmara Municipal (Poder Legislativo) |
+| Autorizar despesas ou contrair empréstimos | Depende de autorização legislativa e de limites da Lei de Responsabilidade Fiscal | Câmara Municipal, Lei de Responsabilidade Fiscal |
+| Fixar o próprio salário | O subsídio do prefeito é definido por lei de iniciativa da Câmara Municipal | Câmara Municipal |
+| Alterar a Lei Orgânica do município | A Lei Orgânica é votada e aprovada pela Câmara, com quórum qualificado | Câmara Municipal |
+| Julgar as próprias contas | As contas do prefeito são analisadas pela Câmara Municipal e pelo Tribunal de Contas competente | Câmara Municipal, Tribunal de Contas |
+| Criar tributos sem lei | A criação de tributos exige lei municipal aprovada pela Câmara | Câmara Municipal |
+| Mudar o orçamento sem aprovação | O orçamento municipal é aprovado pela Câmara; o prefeito executa, mas não pode alterá-lo sozinho | Câmara Municipal |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do prefeito é limitada e condicionada por diversos fatores:
+
+- **Constituição Federal**: estabelece as regras gerais da organização municipal e os limites de atuação.
+- **Lei Orgânica do Município**: funciona como uma "constituição" da cidade, definindo a estrutura do Executivo e suas relações com o Legislativo.
+- **Câmara de Vereadores**: aprova leis, o orçamento, autoriza despesas e fiscaliza os atos do prefeito.
+- **Tribunal de Contas (estadual ou municipal)**: fiscaliza a execução orçamentária e as contas do prefeito.
+- **Lei de Responsabilidade Fiscal**: impõe limites para gastos com pessoal, endividamento e outras despesas.
+- **Orçamento municipal**: o prefeito só pode gastar o que foi previsto e aprovado no orçamento anual.
+- **Legislação federal e estadual**: o prefeito deve obedecer a leis de âmbito nacional e estadual, especialmente nas áreas de educação, saúde e meio ambiente.
+- **Recursos financeiros**: depende de repasses da União e do Estado, além da arrecadação própria.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o prefeito é como o "gerente" da cidade. Ele é o responsável por fazer a cidade funcionar no dia a dia: cuidar das escolas municipais, dos postos de saúde, da coleta de lixo, do transporte público, do asfalto e do planejamento urbano. Mas ele não manda sozinho: as leis que a cidade segue precisam ser aprovadas pelos vereadores, e o dinheiro público é fiscalizado pelo Tribunal de Contas e pela Câmara Municipal. O prefeito propõe, executa e administra, mas sempre dentro das regras e com o controle de outros órgãos.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | O prefeito tem poder formal para nomear e exonerar secretários, assinar contratos, editar decretos, executar o orçamento aprovado, representar o município e administrar os serviços públicos municipais |
+| **Responsabilidade compartilhada** | Aprovação de leis, autorização de despesas, fixação de subsídios, aprovação do orçamento e julgamento de contas dependem da Câmara de Vereadores e/ou do Tribunal de Contas |
+| **Influência política** | O prefeito pode articular, negociar e defender projetos junto à Câmara, ao governo estadual e à União, mas a decisão final sobre muitos temas não é dele sozinho |
+| **Ausência de competência direta** | O prefeito não pode legislar sem a Câmara, não pode criar tributos sem lei, não pode alterar o orçamento aprovado, não pode julgar as próprias contas e não pode fixar o próprio salário |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+**Não há confirmação oficial ou institucional de que Juliana Aparecida Gomes de Freitas tenha exercido o cargo de prefeita.**
+
+As referências encontradas em fontes indiretas a indicam como candidata a vice-prefeita ou vereadora, não como prefeita. Nenhuma fonte oficial (Diário Oficial, site da prefeitura, TSE, Justiça Eleitoral) foi localizada confirmando o exercício do cargo de prefeita por esta pessoa.
+
+- **Nome:** Não se aplica
+- **Classificação:** Não se aplica
+- **Tipo:** Não se aplica
+- **Data:** Não se aplica
+- **Informação confirmada:** Não confirmado
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+- **Nome:** Constituição da República Federativa do Brasil de 1988
+- **Classificação:** OFICIAL
+- **Tipo:** Lei fundamental (Constituição Federal)
+- **Data:** 5 de outubro de 1988
+- **Informação confirmada:** Artigos 29, 30 e 31 estabelecem a autonomia municipal, a competência dos municípios e as regras de fiscalização
+
+- **Nome:** Câmara dos Deputados – Agência Câmara de Notícias
+- **Classificação:** INSTITUCIONAL
+- **Tipo:** Portal institucional do Poder Legislativo federal
+- **Data:** 3 de outubro de 2004
+- **Informação confirmada:** Síntese das competências do prefeito e dos vereadores com base na Constituição Federal
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer. Não há juízo sobre a qualidade da gestão, sobre decisões específicas ou sobre a atuação de qualquer pessoa.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

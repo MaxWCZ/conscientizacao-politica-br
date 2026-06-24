@@ -1,0 +1,68 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Vereador
+* Pessoa, se houver: Não informado
+* Período, se houver: Não informado
+* Contexto informado ou identificado: Geral (Análise geral devido à ausência de localidade específica)
+* A pessoa exerceu esse cargo no período indicado? Não informado
+* Houve exercício interino, substituto ou provisório? Não informado
+* Esfera: Municipal
+* Poder ou estrutura: Poder Legislativo Municipal
+* Tipo de cargo: Cargo político eletivo (parlamentar)
+
+O vereador é um representante do povo eleito localmente para atuar na Câmara Municipal de sua respectiva cidade.
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para representar os cidadãos no âmbito municipal, tendo como papéis gerais a elaboração, discussão e votação de leis de interesse local, além da fiscalização político-administrativa dos atos e das contas do Poder Executivo (Prefeitura).
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Propor projetos de lei | Apresentar propostas de novas normas municipais sobre temas de interesse local, desde que não invadam a competência exclusiva do Prefeito. | Art. 29 e Art. 30 da Constituição Federal |
+| Fiscalizar o Poder Executivo | Controlar os atos da Prefeitura, acompanhar a execução do orçamento e zelar pelo patrimônio público municipal. | Art. 31 da Constituição Federal |
+| Votar o orçamento municipal | Analisar, emendar e votar as leis orçamentárias (PPA, LDO e LOA) enviadas pelo Prefeito, que definem onde o dinheiro público será aplicado. | Art. 29 e Art. 30 da Constituição Federal |
+| Julgar as contas da Prefeitura | Avaliar e votar o parecer emitido pelo Tribunal de Contas sobre a gestão financeira anual do Prefeito. | Art. 31 da Constituição Federal |
+| Apresentar requerimentos | Solicitar informações oficiais por escrito ao Prefeito e às secretarias municipais sobre a administração da cidade. | Dispositivos gerais de Regimentos Internos e Leis Orgânicas |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar e promulgar uma lei | Um vereador individualmente apenas propõe; a aprovação depende do voto do colegiado e a sanção depende do Prefeito. | Plenário da Câmara Municipal e Prefeito Municipal |
+| Executar obras ou serviços públicos | O Poder Legislativo não administra o município; a execução de asfalto, reformas, contratações e serviços é ato de gestão. | Prefeito e Secretários Municipais (Poder Executivo) |
+| Criar despesas ou cargos na Prefeitura | Projetos que geram custos administrativos ou organizam a estrutura interna da Prefeitura são de iniciativa exclusiva do Executivo. | Prefeito Municipal |
+| Rejeitar as contas do Prefeito | O parecer prévio do Tribunal de Contas sobre as contas anuais só deixa de prevalecer por decisão de dois terços dos membros da Câmara. | Plenário da Câmara Municipal (quórum qualificado) |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do vereador é limitada e condicionada pela Constituição Federal, pela Constituição Estadual e, especificamente, pela Lei Orgânica do Município e pelo Regimento Interno da Câmara Municipal. Suas propostas dependem do voto da maioria dos membros do Plenário da Câmara para serem aprovadas. Além disso, as demandas de zeladoria urbana levantadas pelo parlamentar dependem da disponibilidade de orçamento e da decisão administrativa do Prefeito.
+## 6. TRADUÇÃO PRÁTICA
+Para o cidadão comum, isso significa que o vereador cria as regras da cidade (leis) e vigia como o Prefeito gasta o dinheiro dos impostos. O vereador não tem o poder de mandar asfaltar uma rua, construir um posto de saúde ou contratar guardas municipais; ele pode apenas sugerir essas ações ao Prefeito ou fiscalizar por que elas não foram feitas.
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o vereador apresenta propostas de leis dentro de sua competência, vota em plenário, expõe requerimentos de informação ou fiscaliza órgãos municipais. |
+| Responsabilidade compartilhada | Na aprovação do orçamento, na alteração do plano diretor e na rejeição ou aprovação de contas públicas, onde a decisão é sempre coletiva (do Plenário). |
+| Influência política | Ao encaminhar "indicações" pedindo melhorias em bairros (como iluminação ou limpeza), articulando demandas da comunidade junto às secretarias da Prefeitura. |
+| Ausência de competência direta | No ordenamento de despesas da Prefeitura, na execução direta de obras, na nomeação de cargos do Executivo e na prestação direta de serviços de saúde, educação ou segurança. |
+
+## 8. FONTES
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+* Tipo: Norma Constitucional (Artigos 29, 30 e 31)
+* Data: 05 de outubro de 1988
+* Informação confirmada: Competências legislativas dos Municípios, fiscalização financeira e orçamentária, e o papel de controle externo das Câmaras Municipais auxiliadas pelos Tribunais de Contas.
+
+Limitação declarada: Devido à ausência de uma localidade específica informada pelo usuário, não foram citadas Leis Orgânicas Municipais ou Regimentos Internos específicos, mantendo-se a análise balizada pelas regras gerais da Constituição Federal aplicadas a todos os municípios brasileiros.
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise foca exclusivamente na estrutura técnica e legal do cargo, sem avaliar o desempenho político, posicionamentos ideológicos ou condutas pessoais de qualquer mandatário.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+------------------------------
+Para detalhar o funcionamento desse cargo em uma localidade real, você pode informar:
+
+* A cidade e o estado de interesse (para análise da Lei Orgânica específica)
+* O nome do parlamentar e o período do mandato (para verificação de vínculo oficial)
+
+Dessa forma, é possível levantar os atos normativos regionais correspondentes.
+

@@ -1,0 +1,124 @@
+Agora busco as disposições constitucionais relevantes sobre a Câmara dos Deputados e a linha de sucessão presidencial:Tenho fontes suficientes — portal oficial da Câmara e o Regimento Interno (Resolução nº 17/1989) — para responder com precisão. Sigo a estrutura solicitada.
+
+---
+
+# Análise do Cargo: Presidente da Câmara dos Deputados
+
+---
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Presidente da Câmara dos Deputados
+- **Pessoa, se houver:** Não informada
+- **Período, se houver:** Não informado
+- **A pessoa exerceu esse cargo no período indicado?** Não informado
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Legislativo — Câmara dos Deputados
+- **Tipo de cargo:** Cargo de direção interna da Casa Legislativa, eleito pelos próprios deputados federais, com mandato vinculado à legislatura
+
+**Em uma frase:** O Presidente da Câmara dos Deputados é o dirigente máximo da Casa e seu representante institucional, responsável por organizar e conduzir os trabalhos legislativos, nos termos do Regimento Interno.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para dirigir os trabalhos da Câmara dos Deputados — uma das duas casas do Congresso Nacional. O presidente da Câmara é o representante da Câmara quando ela se pronuncia coletivamente e o supervisor dos seus trabalhos e da sua ordem. Cabe a ele garantir o funcionamento regular das sessões, organizar a pauta legislativa e presidir os órgãos internos da Casa. Além disso, ocupa posição na linha de sucessão presidencial e integra órgãos consultivos do Estado.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Presidir as sessões do Plenário | Conduzir os debates e votações da Câmara | OFICIAL — RICD, Art. 17, I, "a" |
+| Definir a Ordem do Dia | Escolher quais propostas serão discutidas e votadas em cada sessão, organizando a agenda mensal | OFICIAL — RICD, Art. 17, I, "s" e "t" |
+| Convocar as sessões da Câmara | Determinar quando a Câmara se reunirá | OFICIAL — RICD, Art. 17, I, "u" |
+| Desempatar votações ostensivas | Em caso de empate em votação aberta, o voto do Presidente é o desempate | OFICIAL — RICD, Art. 17, I, "v" |
+| Nomear comissões especiais | Constituir grupos de deputados para analisar matérias específicas | OFICIAL — RICD, Art. 17, I, "m" |
+| Designar membros das comissões | Distribuir deputados titulares e suplentes nas comissões, após indicação dos líderes | OFICIAL — RICD, Art. 17, III, "a" |
+| Julgar recursos em questões de ordem | Decidir contestações sobre procedimentos no âmbito das comissões | OFICIAL — RICD, Art. 17, III, "f" |
+| Distribuir propostas às comissões | Encaminhar projetos às comissões competentes para análise | OFICIAL — RICD, Art. 17, II, "a" |
+| Arquivar proposições, nos termos regimentais | Determinar o arquivamento de matérias conforme o Regimento | OFICIAL — RICD, Art. 17, II, "d" |
+| Promulgar resoluções da Câmara | Formalizar e assinar as resoluções aprovadas pela Casa | OFICIAL — RICD, Art. 17, VI, "m" |
+| Substituir o Presidente da República | Em caso de impedimento ou vacância do Presidente e do Vice-Presidente | OFICIAL — CF/1988, Art. 80; RICD, Art. 17, VI, "a" |
+| Integrar o Conselho da República e o Conselho de Defesa Nacional | Participar de órgãos consultivos superiores do Estado | OFICIAL — RICD, Art. 17, VI, "b" |
+| Decidir, junto com o Presidente do Senado, convocação extraordinária do Congresso | Convocar o Congresso em casos de urgência ou interesse público relevante | OFICIAL — RICD, Art. 17, VI, "c" |
+| Manter a ordem e suspender sessões | Garantir o funcionamento regular dos trabalhos | OFICIAL — RICD, Art. 17, I, "b" e "j" |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis, emendas constitucionais ou projetos | A aprovação depende de votação do Plenário ou das comissões, por maioria legal ou constitucional | Deputados em Plenário; em alguns casos, também o Senado Federal e a sanção do Presidente da República |
+| Autorizar processo de impeachment do Presidente da República | Compete à Câmara como colegiado, por dois terços dos seus membros | Votação do Plenário da Câmara (CF/1988, Art. 51, I) |
+| Julgar o Presidente da República em processo de impeachment | Compete ao Senado Federal | Senado Federal (CF/1988, Art. 52, I) |
+| Promulgar emendas à Constituição | A promulgação é conjunta com a Mesa do Senado | Mesa do Senado Federal (CF/1988, Art. 60; RICD, Art. 15, III) |
+| Alterar o Regimento Interno da Câmara | Mudanças dependem de resolução da Câmara, aprovada pelo Plenário | Plenário da Câmara dos Deputados |
+| Definir sozinho a pauta sem qualquer consulta | A agenda mensal é organizada após ouvir o Colégio de Líderes | Colégio de Líderes (RICD, Art. 17, I, "s") |
+| Votar em Plenário em votações ostensivas, salvo desempate | O Regimento restringe o voto do Presidente em Plenário | RICD, Art. 17, §1º |
+| Propor legislação como membro individual | Nessa qualidade, não pode oferecer proposição individualmente; apenas como membro da Mesa | RICD, Art. 17, §1º |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+- **Plenário da Câmara:** A maioria das decisões de conteúdo legislativo (aprovação de projetos, emendas, autorizações constitucionais) depende de votação dos 513 deputados federais. O Presidente organiza e conduz, mas não delibera sozinho.
+- **Colégio de Líderes:** É o presidente quem organiza, após ouvir o Colégio de Líderes, a agenda com a previsão das propostas que serão discutidas e votadas no Plenário. A consulta ao Colégio de Líderes é requisito regimental para a organização da agenda mensal.
+- **Mesa Diretora:** Órgão colegiado do qual o Presidente faz parte. Diversas atribuições administrativas e institucionais são da Mesa como colegiado, não do Presidente individualmente.
+- **Regimento Interno (Resolução nº 17/1989):** Todas as atribuições do cargo estão delimitadas por esse instrumento normativo. O Presidente deve cumprir e fazer cumprir o Regimento.
+- **Constituição Federal de 1988:** Define as competências privativas da Câmara como instituição (Art. 51) e fixa a posição do Presidente da Câmara na linha de substituição presidencial (Art. 80).
+- **Senado Federal:** Para atos que envolvem o Congresso Nacional como um todo (emendas constitucionais, convocações extraordinárias, certas promulgações), a atuação conjunta com o Senado é necessária.
+- **Indicação dos líderes partidários:** A designação de deputados para as comissões depende de comunicação dos líderes das bancadas.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Presidente da Câmara é como o "árbitro e organizador" do trabalho dos 513 deputados federais. Ele decide *quando* e *em que ordem* os projetos de lei são discutidos e votados — o que dá ao cargo influência real sobre o ritmo da legislação. Mas ele não aprova leis sozinho: isso depende do voto da maioria dos deputados. Em situações extremas, como ausência simultânea do Presidente e do Vice-Presidente da República, é ele quem assume interinamente a Presidência da República. No dia a dia, é quem mantém a ordem nas sessões, distribui os projetos entre as comissões e representa a Câmara institucionalmente.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Quando o cargo tinha poder formal para decidir ou executar — ex.: definir a Ordem do Dia, convocar sessões, distribuir propostas às comissões, nomear comissões especiais, manter a ordem, arquivar proposições nos termos regimentais, aplicar censura verbal a deputado |
+| **Responsabilidade compartilhada** | Quando dependia de outros órgãos, votação, colegiado ou orçamento — ex.: organização da agenda mensal (depende de ouvir o Colégio de Líderes); designação de membros de comissões (depende de indicação dos líderes); promulgação de emendas constitucionais (depende da Mesa do Senado) |
+| **Influência política** | Quando podia articular ou defender algo, mas não decidir sozinho — ex.: priorização de temas na pauta; articulação com lideranças partidárias; convocação extraordinária do Congresso (decidida em conjunto com o Presidente do Senado) |
+| **Ausência de competência direta** | Quando o cargo não tinha poder formal sobre o tema — ex.: aprovação ou rejeição de projetos de lei (competência do Plenário); julgamento de impeachment (competência do Senado); sanção ou veto de lei (competência do Presidente da República) |
+
+---
+
+## 8. FONTES
+
+**A) Fontes para confirmar vínculo pessoa-cargo:** Não se aplica — nenhuma pessoa foi informada.
+
+**B) Fontes para explicar competências do cargo:**
+
+| # | Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|---|
+| 1 | Portal da Câmara dos Deputados — Página "Atribuições" (Presidência) | OFICIAL | Portal institucional do próprio órgão | Acesso em jun/2026 | Atribuições do cargo listadas com transcrição integral dos Arts. 16 e 17 do RICD |
+| 2 | Resolução nº 17, de 21 de setembro de 1989 — Regimento Interno da Câmara dos Deputados (RICD) | OFICIAL | Norma da própria Casa Legislativa | 1989, com atualizações posteriores | Arts. 15, 16, 17 e 18 — competências da Mesa e do Presidente |
+| 3 | Constituição Federal de 1988 — Art. 51 e Art. 80 | OFICIAL | Norma constitucional | 1988, com emendas | Art. 51: competências privativas da Câmara; Art. 80: linha de substituição presidencial |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia se qualquer ocupante do cargo atuou bem ou mal, se tomou decisões corretas, nem qual foi o impacto de suas escolhas. O que está descrito aqui é o que o cargo **permite fazer**, o que **não pode ser feito unilateralmente** e de quem ou de quê o cargo **depende** para agir.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+Por exemplo: o Presidente da Câmara tem poder direto sobre a pauta — o que é uma responsabilidade real. Mas não tem poder de aprovar ou rejeitar leis por conta própria — atribuir isso ao cargo seria incorreto. Da mesma forma, o fato de ele substituir o Presidente da República é uma competência constitucional formal, não uma escolha ou prerrogativa pessoal.
+
+---
+
+**CONTROLE FINAL — VERIFICAÇÃO:**
+- ✅ Cargo explicado com fonte compatível (portal oficial da própria Câmara e RICD)
+- ✅ Fonte original do órgão utilizada (camara.leg.br e Resolução nº 17/1989)
+- ✅ Nenhuma pessoa informada — vínculo não se aplica
+- ✅ Nenhuma fonte indireta tratada como confirmação de competência formal
+- ✅ Nenhuma competência atribuída por analogia
+- ✅ Nenhuma avaliação de desempenho, ideologia ou intenção

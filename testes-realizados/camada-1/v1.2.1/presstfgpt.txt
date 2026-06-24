@@ -1,0 +1,93 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Presidente do Supremo Tribunal Federal do Brasil
+* **Pessoa:** Alexandre de Moraes
+* **Período:** não informado
+* **A pessoa exerceu esse cargo no período indicado?** não confirmado como titular; confirmado como **Vice-Presidente** e em exercício interino em situações específicas
+* **Esfera:** federal
+* **Poder ou estrutura:** Poder Judiciário
+* **Tipo de cargo:** direção institucional de tribunal
+
+Em 1 frase: o Presidente do STF dirige administrativamente o Tribunal, representa a Corte e conduz sessões, mas não substitui sozinho o Plenário nem decide todas as matérias do STF.
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para coordenar o funcionamento institucional do Supremo Tribunal Federal, representar o Tribunal perante outros Poderes e autoridades, dirigir trabalhos administrativos e sessões, além de exercer atribuições previstas no Regimento Interno do STF. A Constituição permite aos tribunais eleger seus órgãos diretivos e elaborar seus regimentos internos. ([Planalto][1])
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                   | O que isso significa na prática                                             | Fonte                                                                                                                       |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Representar o STF                                              | Falar institucionalmente pelo Tribunal perante autoridades e outros Poderes | Regimento Interno do STF, art. 13 ([STF][2])                                                                                |
+| Dirigir os trabalhos do Tribunal                               | Organizar e conduzir sessões e atividades formais da Corte                  | Regimento Interno do STF ([STF][2])                                                                                         |
+| Velar pelas prerrogativas do Tribunal                          | Atuar para preservar a autoridade institucional do STF                      | Regimento Interno do STF ([STF][2])                                                                                         |
+| Exercer funções administrativas                                | Coordenar a administração interna do Tribunal, conforme o regimento         | Constituição, art. 96; Regimento Interno do STF ([Planalto][1])                                                             |
+| Atuar em regime de substituição/interinidade, quando aplicável | O Vice-Presidente pode responder pela Presidência em situações específicas  | STF confirmou Alexandre de Moraes como Vice-Presidente e em exercício da Presidência em janeiro de 2026 ([Notícias STF][3]) |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                        | Por quê                                                                            | Quem ou o que também participa                              |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Decidir todas as causas do STF como se fosse o Tribunal inteiro | O STF atua por Plenário, Turmas e ministros relatores, conforme regras processuais | Plenário, Turmas, relator e regras processuais              |
+| Alterar a Constituição                                          | Mudança constitucional depende do processo legislativo próprio                     | Congresso Nacional                                          |
+| Criar leis gerais para o país                                   | Legislar não é função do Presidente do STF                                         | Poder Legislativo                                           |
+| Executar políticas públicas do Executivo                        | O STF é órgão do Judiciário                                                        | Executivo, Legislativo e órgãos administrativos competentes |
+| Ignorar o Regimento Interno                                     | A atuação da Presidência é limitada pelas regras internas e pela Constituição      | Constituição, Regimento Interno, Plenário                   |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Presidente do STF depende principalmente da Constituição Federal, do Regimento Interno do STF, das competências do Plenário e das Turmas, das regras processuais e da estrutura administrativa do Tribunal. O Presidente pode coordenar, representar e conduzir, mas muitas decisões relevantes pertencem ao colegiado ou ao ministro relator do caso.
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Presidente do STF é como o dirigente institucional do Tribunal. Ele organiza, representa e conduz parte do funcionamento da Corte, mas não “manda sozinho” no Supremo. Muitas decisões dependem de julgamento colegiado, regras processuais e competências constitucionais.
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                   |
+| ------------------------------ | ----------------------------------------------------------------- |
+| Responsabilidade direta        | quando o cargo tinha poder formal para decidir ou executar        |
+| Responsabilidade compartilhada | quando dependia de outros órgãos, votação, colegiado ou orçamento |
+| Influência política            | quando podia articular ou defender algo, mas não decidir sozinho  |
+| Ausência de competência direta | quando o cargo não tinha poder formal sobre o tema                |
+
+## 8. FONTES
+
+### A) Fontes para confirmar vínculo pessoa-cargo
+
+* **Nome:** STF — Posse gestão 2025/2027
+  **Classificação:** OFICIAL
+  **Tipo:** notícia institucional do STF
+  **Data:** 29/09/2025
+  **Informação confirmada:** Edson Fachin assumiu a Presidência do STF; Alexandre de Moraes foi empossado Vice-Presidente. ([Notícias STF][3])
+
+* **Nome:** STF — Nota da Presidência
+  **Classificação:** OFICIAL
+  **Tipo:** nota institucional
+  **Data:** 22/01/2026
+  **Informação confirmada:** Alexandre de Moraes estava no exercício da Presidência na condição de Vice-Presidente. ([Notícias STF][4])
+
+### B) Fontes para explicar competências do cargo
+
+* **Nome:** Constituição Federal de 1988, art. 96
+  **Classificação:** OFICIAL
+  **Tipo:** Constituição
+  **Data:** texto constitucional vigente
+  **Informação confirmada:** tribunais elegem seus órgãos diretivos e elaboram seus regimentos internos. ([Planalto][1])
+
+* **Nome:** Regimento Interno do Supremo Tribunal Federal
+  **Classificação:** OFICIAL
+  **Tipo:** regimento interno do tribunal
+  **Data:** versão oficial do STF
+  **Informação confirmada:** atribuições formais do Presidente do STF. ([STF][2])
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, qualidade, ideologia, intenção, votos, polêmicas ou impactos concretos. Ela apenas mostra o que o cargo permite ou não permite fazer.
+
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+[1]: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm?utm_source=chatgpt.com "Constituicao-Compilado - Planalto"
+[2]: https://www.stf.jus.br/arquivo/cms/legislacaoRegimentoInterno/anexo/RISTF.pdf?utm_source=chatgpt.com "Regimento Interno do Supremo Tribunal Federal"
+[3]: https://noticias.stf.jus.br/postsnoticias/ministro-edson-fachin-assume-hoje-29-a-presidencia-do-stf/?utm_source=chatgpt.com "Ministro Edson Fachin assume hoje (29) a Presidência do ..."
+[4]: https://noticias.stf.jus.br/postsnoticias/nota-da-presidencia-do-supremo-tribunal-federal/?utm_source=chatgpt.com "Nota da Presidência do Supremo Tribunal Federal"

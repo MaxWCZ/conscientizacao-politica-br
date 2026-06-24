@@ -1,0 +1,71 @@
+1. CARGO ANALISADO
+- Cargo: Prefeito
+- Pessoa, se houver: Ricardo Nunes
+- Período, se houver: 2015
+- A pessoa exerceu esse cargo no período indicado? Não.
+- Esfera: Municipal
+- Poder ou estrutura: Executivo
+- Tipo de cargo: Eletivo
+
+Ricardo Nunes não era prefeito em 2015; naquele ano, ele exercia o cargo de vereador na Câmara Municipal de São Paulo, conforme registros institucionais.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de prefeito existe para chefiar a administração pública municipal, executar as leis e políticas locais, gerir os serviços públicos da cidade e representar o município, sempre dentro dos limites da Constituição Federal, da Constituição Estadual e da Lei Orgânica do Município.
+
+3. O QUE ESSE CARGO PODE FAZER
+| O cargo pode | O que isso significa na prática | Fonte |
+| :--- | :--- | :--- |
+| Sancionar, promulgar e vetar leis | Aprovar um projeto de lei aprovado pela Câmara, transformando-o em lei, ou rejeitá-lo total ou parcialmente. | Lei Orgânica do Município de São Paulo, art. 69, I e art. 42. |
+| Expedir decretos e regulamentos | Criar regras detalhadas para a correta aplicação das leis, sem alterar seu conteúdo. | Constituição Federal de 1988, art. 84, IV (por simetria) e Lei Orgânica do Município de São Paulo, art. 69, III. |
+| Representar o município | Agir em nome da cidade em atos jurídicos, contratos, convênios e relações com outros entes federativos. | Lei Orgânica do Município de São Paulo, art. 69, XVI. |
+| Nomear e exonerar secretários municipais | Escolher livremente os auxiliares diretos que chefiarão as secretarias e implementarão as políticas públicas. | Lei Orgânica do Município de São Paulo, art. 69, XV. |
+| Elaborar e enviar a proposta de orçamento | Planejar as receitas e despesas anuais da cidade e submetê-la à aprovação da Câmara Municipal. | Lei Orgânica do Município de São Paulo, art. 69, VI e IX. |
+| Prestar contas anualmente | Apresentar relatórios financeiros e de execução orçamentária ao Poder Legislativo e à sociedade. | Lei Orgânica do Município de São Paulo, art. 69, XVIII e art. 8º. |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+| :--- | :--- | :--- |
+| Criar ou alterar leis | A função de legislar é primariamente do Poder Legislativo. | Câmara Municipal (vereadores). |
+| Aprovar o orçamento municipal | A peça orçamentária precisa ser analisada e aprovada pelo Poder Legislativo. | Câmara Municipal (vereadores). |
+| Contratar servidores públicos | Depende de aprovação em concurso público, com exceção de cargos comissionados. | Constituição Federal, regras de concurso e legislação municipal. |
+| Gastar dinheiro público sem autorização | Toda despesa precisa de autorização legislativa e previsão orçamentária. | Câmara Municipal (Lei Orçamentária Anual). |
+| Endividar o município sem aprovação | Operações de crédito de longo prazo dependem de aval. | Câmara Municipal e, em certos casos, do Senado Federal. |
+
+5. DO QUE ESSE CARGO DEPENDE
+O prefeito depende politicamente da Câmara Municipal para aprovar leis, orçamento e autorizações de gastos. Sua atuação administrativa é subordinada à Constituição Federal, às leis federais e estaduais, e especialmente à Lei Orgânica do Município, que é a "Constituição da Cidade". Financeiramente, depende da arrecadação municipal e de repasses de outros entes. Seus atos estão sujeitos ao controle externo da Câmara, com auxílio do Tribunal de Contas, e ao controle judicial.
+
+6. TRADUÇÃO PRÁTICA
+O prefeito é como o principal administrador de um condomínio muito grande: a cidade. Ele não pode mudar as regras do condomínio (leis) sozinho, isso precisa da assembleia de moradores (Câmara de Vereadores). Para fazer uma obra grande, ele precisa que a assembleia autorize o gasto (orçamento). Ele pode contratar funcionários para a administração, mas deve seguir as leis trabalhistas e do funcionalismo público. No dia a dia, é ele quem decide onde uma nova praça será construída, como o lixo será coletado, se um posto de saúde funcionará 24 horas e como o transporte público será organizado, mas sempre usando o dinheiro autorizado e respeitando as leis existentes.
+
+7. RESPONSABILIDADE
+| Tipo de relação | O que significa |
+| :--- | :--- |
+| Responsabilidade direta | Nomear e dirigir os secretários municipais; executar as políticas de saúde, educação e transporte; apresentar o orçamento. |
+| Responsabilidade compartilhada | Aprovar leis e o orçamento (junto com a Câmara); realizar obras e serviços com verbas de convênios (junto com Estado ou União). |
+| Influência política | Articular e pressionar a Câmara para aprovar projetos de seu interesse; negociar com outras esferas de governo por investimentos. |
+| Ausência de competência direta | Criar leis; julgar contas do próprio governo (função do Tribunal de Contas e da Câmara); legislar sobre matéria penal ou civil (competência da União). |
+
+8. FONTES
+
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo, se houver pessoa informada.
+- Nome: Câmara Municipal de São Paulo — Vereadores da 17ª Legislatura
+- Classificação: INSTITUCIONAL
+- Tipo: Página institucional de biografia de vereador
+- Data: [Acesso em 18 jun. 2026]
+- Informação confirmada: Ricardo Nunes foi vereador no município de São Paulo entre 2013 e 2016, com mandato ativo em 2015. Ele não ocupava o cargo de prefeito nesse período.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo.
+- Nome: Constituição da República Federativa do Brasil de 1988
+- Classificação: OFICIAL
+- Tipo: Norma constitucional
+- Data: 1988
+- Informação confirmada: Estabelece a estrutura dos poderes municipais e o princípio da simetria para atribuições do chefe do executivo.
+- Nome: Lei Orgânica do Município de São Paulo
+- Classificação: OFICIAL
+- Tipo: Norma municipal
+- Data: 1990
+- Informação confirmada: Detalha as competências e vedações do cargo de prefeito de São Paulo.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer.
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

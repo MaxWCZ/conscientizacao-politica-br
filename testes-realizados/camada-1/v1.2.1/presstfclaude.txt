@@ -1,0 +1,120 @@
+Tenho informações suficientes para montar a resposta completa. Vou compilá-la agora com base nas fontes coletadas (Constituição Federal, RISTF e portal oficial do STF).
+
+---
+
+# ANÁLISE DO CARGO: Presidente do Supremo Tribunal Federal do Brasil
+**Pessoa informada: Alexandre de Moraes**
+
+---
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Presidente do Supremo Tribunal Federal (STF)
+- **Pessoa informada:** Alexandre de Moraes
+- **Período informado:** não informado
+- **A pessoa exerceu esse cargo?** Confirmado parcialmente. O ministro Alexandre de Moraes tomou posse como Ministro do STF em 22 de março de 2017, e foi eleito vice-presidente do STF para o biênio 2025–2027, com posse em 29 de setembro de 2025. Na condição de vice-presidente, Moraes substituiu o presidente Edson Fachin em períodos de recesso e ausência, exercendo a presidência em caráter interino. Não há registro oficial de que ele tenha exercido a **presidência titular** do STF — o cargo titular no biênio 2025–2027 pertence ao ministro Edson Fachin.
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Judiciário
+- **Tipo de cargo:** Dirigente de tribunal — eleito pelos próprios ministros para mandato de dois anos
+
+**Em uma frase:** O Presidente do STF é o ministro eleito pelos pares para dirigir os trabalhos administrativos e as sessões do tribunal mais alto do Brasil, representando-o perante os demais Poderes e instituições.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para organizar e presidir o funcionamento do Supremo Tribunal Federal. O Presidente dirige as sessões do Plenário, representa o tribunal externamente, garante o cumprimento do Regimento Interno e coordena os serviços administrativos da Corte. Compete ao Presidente dirigir os trabalhos do Tribunal e representá-lo nas relações externas. O cargo não confere ao ocupante poder de decidir sozinho as matérias de competência do Plenário — esse poder pertence ao colegiado.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Presidir as sessões do Plenário | Conduzir os julgamentos coletivos, dar a palavra, organizar a ordem de votação | RISTF, art. 13, III |
+| Representar o STF perante os demais Poderes e autoridades | Participar de atos institucionais em nome do tribunal | RISTF, art. 13, II |
+| Decidir pedidos urgentes durante o recesso e as férias forenses | Durante o recesso e as férias forenses, cabe ao Presidente analisar os pedidos urgentes encaminhados à Corte, conforme previsto no artigo 13, inciso VIII, do RISTF. | RISTF, art. 13, VIII |
+| Negar seguimento a recursos manifestamente inadmissíveis, como relator provisório | Despachar recursos ineptos ou sem preliminar de repercussão geral antes da distribuição ao relator definitivo | RISTF, art. 13, V, "c" |
+| Executar e fazer cumprir seus próprios despachos e decisões monocráticas | Dar efetividade às determinações da Presidência nos processos de sua competência | RISTF, art. 13, VI |
+| Dirigir os serviços administrativos do tribunal | Superintender a secretaria e os gabinetes conforme o Regimento | RISTF, arts. 355–356 |
+| Presidir as sessões administrativas | Conduzir reuniões que deliberam sobre matérias internas do tribunal | RISTF, art. 151 |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Julgar ações de controle de constitucionalidade (ADI, ADC, ADPF etc.) | São competências do Plenário, órgão colegiado | Todos os onze ministros, com quórum mínimo exigido pelo RISTF e pela CF |
+| Julgar autoridades com foro por prerrogativa de função | Competência do Plenário ou das Turmas, conforme o caso | Plenário (para Presidente da República, Senado, Câmara, PGR) ou Turma |
+| Aprovar enunciados de Súmula Vinculante | Exige deliberação do Plenário | Plenário, com aprovação de 2/3 dos ministros (CF, art. 103-A) |
+| Editar emendas ao Regimento Interno | Requer aprovação em sessão administrativa | Plenário em sessão administrativa (RISTF, art. 361) |
+| Eleger ou nomear ministros | A nomeação compete ao Presidente da República, com aprovação do Senado | Presidente da República + Senado Federal (CF, art. 101, parágrafo único) |
+| Decidir questões que não estejam em recesso ou que não sejam urgentes fora do Plenário | Fora dos períodos previstos, a decisão cabe ao colegiado ou ao relator do processo | Turmas ou Plenário, conforme a matéria |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O Presidente do STF atua dentro de um conjunto de restrições formais:
+
+**Constituição Federal (art. 92, 96, 101 e 102):** Define a composição, as competências originárias e recursais do STF, além de estabelecer que a eleição do Presidente cabe aos próprios ministros.
+
+**Regimento Interno do STF (RISTF):** O RISTF possui 369 artigos e 51 emendas, que estabelecem a organização, a composição e a competência dos órgãos da Corte — o Presidente, o Plenário e as Turmas —, definem os serviços administrativos, dispõem sobre sessões, audiências, edição de súmulas vinculantes, distribuição de processos e atribuições dos relatores.
+
+**O Plenário:** A maioria das decisões de maior relevância do STF exige deliberação colegiada. O Presidente não substitui o Plenário nem pode antecipar ou vetar decisões coletivas.
+
+**Mandato com vedação de reeleição:** O Presidente do STF é eleito pelos próprios ministros para mandato de dois anos, vedada a reeleição.
+
+**Orçamento e administração:** O STF tem orçamento próprio aprovado pelo Congresso Nacional, limitando a capacidade de iniciativa administrativa do Presidente.
+
+**Lei nº 8.038/1990:** Regula procedimentos nos tribunais superiores, incluindo normas processuais que condicionam atos da Presidência.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Presidente do STF é como um coordenador do tribunal — ele organiza as reuniões, representa o STF em eventos e assina comunicações institucionais. Mas não tem poder de decidir sozinho os grandes casos: as decisões que afetam leis, direitos fundamentais ou autoridades importantes são tomadas em conjunto pelos onze ministros, como uma espécie de votação colegiada. Durante as férias do tribunal, o Presidente pode atender casos urgentes, mas isso também é limitado pelo regimento. Ou seja: o cargo tem autoridade real de gestão e representação, mas não tem poder unilateral sobre os julgamentos mais importantes do país.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Quando o Presidente dirige sessões, despacha processos urgentes no recesso, representa o tribunal ou pratica atos administrativos previstos no RISTF — há poder formal e responsabilidade direta pelo ato |
+| **Responsabilidade compartilhada** | Quando participa como um dos onze ministros do Plenário: o resultado depende da maioria do colegiado, não da vontade isolada do Presidente |
+| **Influência política** | O Presidente pode articular pautas, definir a ordem de julgamentos no Plenário e representar o STF em fóruns institucionais — o que confere visibilidade e capacidade de influência, mas não poder de decidir sozinho |
+| **Ausência de competência direta** | O Presidente não tem poder formal sobre matérias de competência exclusiva do Plenário ou das Turmas, nem sobre a nomeação de ministros, nem sobre o orçamento do tribunal, que depende de aprovação congressual |
+
+---
+
+## 8. FONTES
+
+### A) Fontes para confirmar o vínculo pessoa-cargo (Alexandre de Moraes)
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Portal STF — Dados e Datas do Ministro Alexandre de Moraes | OFICIAL | Documento institucional do STF | Publicado em 2017, atualizado em 2025 | Nomeação como ministro em 22/02/2017; posse em 22/03/2017; posse como vice-presidente em 29/09/2025 |
+| Portal de Notícias STF — Plantão de Moraes (jan. 2026) | OFICIAL | Nota do STF | 12/01/2026 | Moraes exerceu a presidência em exercício (interina) durante o recesso forense, até 31/01/2026 |
+| Notícia STF — Eleição biênio 2025–2027 | INSTITUCIONAL | Notícia do portal do STF | 2025 | Fachin eleito presidente; Moraes eleito vice-presidente para o biênio 2025–2027 |
+
+> **Observação:** Não há registro de que Alexandre de Moraes tenha exercido a **presidência titular** do STF. O vínculo confirmado é: ministro desde 2017 e vice-presidente a partir de 29/09/2025, com exercício interino da presidência em períodos de ausência do titular.
+
+### B) Fontes para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Constituição Federal de 1988, arts. 92, 96, 101 e 102 | OFICIAL | Texto constitucional | 1988 (com emendas) | Composição do STF, processo de nomeação de ministros, competências originárias e recursais |
+| Regimento Interno do STF (RISTF), especialmente arts. 2º, 3º, 12, 13, 14 e 143 | OFICIAL | Regimento interno aprovado pelo próprio STF | Publicado em 1980; atualizado até ER n. 57/2020 | Eleição do Presidente, mandato de 2 anos, vedação de reeleição, atribuições do Presidente, presidência das sessões plenárias |
+| RISTF, art. 13, VIII | OFICIAL | Regimento interno do STF | Idem | Competência do Presidente para decidir pedidos urgentes no recesso e nas férias |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia desempenho, qualidade ou resultado da gestão de qualquer pessoa. Ela apenas mapeia o que o cargo de Presidente do STF permite ou não permite fazer, com base na Constituição Federal e no Regimento Interno do tribunal.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**
+
+Ao analisar qualquer ato relacionado ao STF, é necessário verificar: (1) se o ato era de competência da Presidência ou do Plenário/Turma; (2) se o período era de recesso ou de funcionamento regular; (3) se a decisão era monocrática (do relator ou do Presidente) ou colegiada. Sem essa distinção, é fácil atribuir responsabilidade excessiva ou insuficiente a quem ocupa a presidência.

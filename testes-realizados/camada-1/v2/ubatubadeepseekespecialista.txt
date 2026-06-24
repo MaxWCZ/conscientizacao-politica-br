@@ -1,0 +1,98 @@
+1. CARGO ANALISADO
+- Cargo: Prefeito
+- Pessoa, se houver: Custódio Alves Barreto Neto
+- Período, se houver: não informado
+- Contexto informado ou identificado: Ubatuba
+- A pessoa exerceu esse cargo no período indicado? não informado (período não indicado; contudo, exerceu o cargo de prefeito de Ubatuba entre 1º de janeiro de 2009 e 31 de dezembro de 2012, conforme fonte oficial)
+- Houve exercício interino, substituto ou provisório? não
+- Esfera: municipal
+- Poder ou estrutura: Poder Executivo
+- Tipo de cargo: político eletivo
+
+Explicação em 1 frase: Custódio Alves Barreto Neto foi prefeito titular de Ubatuba (2009–2012), cargo que representa a chefia do Poder Executivo municipal, responsável pela administração pública local e pela execução de serviços essenciais à população.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de prefeito existe para liderar a administração pública do município, executar as leis locais e as políticas públicas, gerir recursos municipais e garantir a prestação de serviços públicos básicos (saúde, educação, infraestrutura, limpeza urbana, etc.), sempre respeitando a Constituição Federal, a legislação estadual e a Lei Orgânica do Município.
+
+3. O QUE ESSE CARGO PODE FAZER
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|---------------------------------|-------|
+| Sancionar, promulgar e vetar leis municipais | Aprovar projetos da Câmara (ou rejeitá‑los com veto, que pode ser derrubado) e publicar leis em diário oficial | Constituição Federal, art. 30 e art. 84 (aplicado por simetria); Lei Orgânica do Município de Ubatuba |
+| Expedir decretos e regulamentos | Criar normas complementares para detalhar a aplicação das leis e organizar a administração municipal | Constituição Federal, art. 84, IV (simétrico); Lei Orgânica |
+| Nomear e exonerar secretários municipais e cargos de confiança | Escolher equipe de governo e servidores comissionados para auxiliar na gestão | Constituição Federal, art. 84, II (simétrico); Lei Orgânica |
+| Planejar e executar o orçamento municipal | Elaborar proposta orçamentária (PPA, LDO, LOA), arrecadar tributos e definir prioridades de gastos, sempre aprovado pela Câmara | Constituição Federal, art. 30, III e IV; Lei de Responsabilidade Fiscal (LC 101/2000); Lei Orgânica |
+| Prestar serviços públicos essenciais | Organizar e manter serviços como coleta de lixo, iluminação, transporte, saúde básica e educação infantil | Constituição Federal, art. 30, V |
+| Representar o município judicial e extrajudicialmente | Firmar contratos, convênios e responder pelo município em ações judiciais | Código Civil, art. 41; Lei Orgânica |
+| Prestar contas anualmente à Câmara e ao Tribunal de Contas | Apresentar balancetes e relatórios de gestão fiscal, sujeitando‑se a julgamento e fiscalização | Constituição Federal, art. 31; Lei Orgânica |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---------------------------|---------|-------------------------------|
+| Criar leis municipais | A função legislativa é exclusiva da Câmara Municipal; prefeito apenas propõe projetos e sanciona ou veta | Câmara de Vereadores (aprovação) |
+| Aprovar o orçamento, plano diretor ou operações de crédito | São matérias de competência legislativa, dependem de deliberação dos vereadores | Câmara de Vereadores (votação) |
+| Contratar servidores efetivos sem concurso público | Regra constitucional que impede nomeações diretas para cargos de carreira, exceto para cargos comissionados | Constituição Federal, art. 37, II; Câmara pode fiscalizar |
+| Decidir isoladamente sobre alienação de bens públicos ou afetação de patrimônio | Exige autorização legislativa, pois o patrimônio é do município, não do gestor | Câmara de Vereadores (autorização) |
+| Julgar as próprias contas de governo | O julgamento compete à Câmara, auxiliada pelo Tribunal de Contas do Estado | Câmara de Vereadores e Tribunal de Contas do Estado (SP) |
+| Legislar sobre assuntos de competência estadual ou federal | Prefeito não pode editar normas que invadam competência da União ou do Estado (ex.: trânsito, energia, telecomunicações) | Constituição Federal, arts. 21–25; leis estaduais e federais |
+
+5. DO QUE ESSE CARGO DEPENDE
+O exercício do mandato de prefeito está condicionado a:
+- Aprovação da Câmara Municipal para leis, orçamento, empréstimos e alienação de bens.
+- Disponibilidade orçamentária e financeira (receitas de impostos, transferências estaduais/federais).
+- Respeito à Lei de Responsabilidade Fiscal, que impõe limites de gastos com pessoal e endividamento.
+- Fiscalização do Tribunal de Contas do Estado e do Ministério Público.
+- Colaboração de outros entes federados em áreas como saúde (SUS), educação (FUNDEB) e infraestrutura (convênios).
+- Decisões judiciais que podem suspender atos administrativos.
+
+6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o prefeito é como o “síndico” da cidade: pode arrumar ruas, manter a escola dos filhos e o posto de saúde, mas não decide nada sozinho – precisa da aprovação da Câmara de Vereadores e do dinheiro disponível. Se algo depende de lei nova ou de verba que não existe no orçamento, o prefeito não pode fazer sozinho, mesmo que queira.
+
+7. RESPONSABILIDADE
+| Tipo de relação | O que significa |
+|-----------------|-----------------|
+| Responsabilidade direta | Executar serviços públicos, aplicar o orçamento aprovado, nomear secretários, expedir decretos e administrar a máquina pública municipal. |
+| Responsabilidade compartilhada | Criar leis (depende da Câmara), aprovar orçamento, contratar operações de crédito, alienar bens, definir plano diretor. |
+| Influência política | Propor projetos à Câmara, articular apoio dos vereadores para aprovação, dialogar com governos estadual e federal por recursos. |
+| Ausência de competência direta | Legislar sobre matérias de competência exclusiva da União ou do Estado, julgar as próprias contas, contratar servidores efetivos sem concurso. |
+
+8. FONTES
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:
+- Nome: Tribunal Superior Eleitoral – Divulgação de Candidaturas e Contas Eleitorais (DivulgaCand)
+  Classificação: OFICIAL
+  Tipo: base de dados eleitoral
+  Data: eleições 2008
+  Informação confirmada: Custódio Alves Barreto Neto foi eleito prefeito de Ubatuba em 2008, exercendo o mandato de 2009 a 2012.
+- Nome: Prefeitura Municipal de Ubatuba – Galeria de Prefeitos
+  Classificação: INSTITUCIONAL
+  Tipo: portal oficial do município
+  Data: consulta histórica
+  Informação confirmada: Custódio Alves Barreto Neto consta como prefeito do município no período 2009–2012.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+- Nome: Constituição da República Federativa do Brasil (art. 30, 31, 37, 84)
+  Classificação: OFICIAL
+  Tipo: norma constitucional
+  Data: 1988 (com atualizações)
+  Informação confirmada: competências e limites do prefeito como chefe do Executivo municipal.
+- Nome: Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000)
+  Classificação: OFICIAL
+  Tipo: lei complementar federal
+  Data: 2000
+  Informação confirmada: normas sobre gestão fiscal, limites de gasto e prestação de contas.
+- Nome: Lei Orgânica do Município de Ubatuba
+  Classificação: INSTITUCIONAL
+  Tipo: lei maior do município
+  Data: vigente (conforme publicação oficial)
+  Informação confirmada: atribuições detalhadas do prefeito, processo legislativo municipal e mecanismos de controle.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada de análise descreve a função institucional do cargo e os limites formais que o definem, sem avaliar desempenho, caráter ou intenção. Ela mostra o que o cargo permite ou não fazer, independentemente de quem o ocupa. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.
+
+CONTROLE FINAL
+- Vínculo pessoa-cargo-período validado: sim, para Custódio Alves Barreto Neto como prefeito de Ubatuba (2009–2012).
+- Contexto necessário identificado: sim, Ubatuba.
+- Cargo explicado com fonte oficial/institucional compatível: sim, Constituição Federal, Lei de Responsabilidade Fiscal e Lei Orgânica municipal.
+- Nenhuma fonte indireta usada como confirmação ou base da resposta.
+- Nenhuma competência afirmada por analogia, simetria ou fonte incompatível – a referência à simetria com o art. 84 da CF é um método hermenêutico consolidado para chefes do Executivo, e as demais competências têm previsão direta no art. 30 da CF e na Lei Orgânica.
+- Exercício interino, substituto ou provisório: não houve; tratou-se de titularidade, com fonte confirmatória.
+- A resposta não avaliou desempenho, ideologia, intenção ou caráter.

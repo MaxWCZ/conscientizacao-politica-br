@@ -1,0 +1,106 @@
+Vou pesquisar informações oficiais sobre cargos de natureza especial em gabinetes parlamentares brasileiros para responder com precisão.Tenho a fonte oficial principal (Resolução nº 1, de 2007, da Câmara dos Deputados). Vou buscar também confirmação institucional sobre Kim Kataguiri como deputado em 2024, para verificar o contexto do gabinete.Tenho informações suficientes da fonte oficial do gabinete. Confirmei: Kim Kataguiri é deputado federal titular (não menção a pessoa específica ocupando o CNE — a pessoa não foi informada, apenas o contexto "gabinete"). Vou estruturar a resposta agora.
+
+---
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Cargo de Natureza Especial (CNE)
+- **Pessoa, se houver:** Não informada (campo "Pessoa" deixado como [OPCIONAL] e não preenchido)
+- **Período, se houver:** 2024
+- **Contexto informado ou identificado:** Gabinete do Deputado Federal Kim Kataguiri, na Câmara dos Deputados
+- **A pessoa exerceu esse cargo no período indicado?** Não informado (nenhuma pessoa foi identificada para validação)
+- **Houve exercício interino, substituto ou provisório?** Não informado
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Legislativo — Câmara dos Deputados
+- **Tipo de cargo:** Cargo em comissão, de livre nomeação e exoneração, vinculado a gabinete parlamentar
+
+Como nenhuma pessoa específica foi indicada, esta análise trata apenas da função do cargo em geral, dentro do contexto identificado (gabinete parlamentar na Câmara dos Deputados).
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O Cargo de Natureza Especial (CNE) é um cargo em comissão da Câmara dos Deputados, de livre nomeação e exoneração pelo parlamentar ou autoridade responsável. Os Cargos em Comissão de Natureza Especial têm por finalidade a prestação de serviços de assessoramento à Mesa, às Lideranças, às Comissões e a diversos órgãos e secretarias da Câmara. No contexto de um gabinete parlamentar, o CNE serve para compor a equipe de assessoramento direto do deputado, dando suporte às atividades do mandato.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Prestar assessoramento ao parlamentar ou órgão a que está vinculado | Apoiar tecnicamente, administrativamente ou politicamente o exercício do mandato ou da função do órgão | Resolução nº 1/2007 - Câmara dos Deputados |
+| Ser nomeado e exonerado por indicação do gabinete | O parlamentar tem liberdade para indicar e desligar o ocupante, sem necessidade de concurso público | Portal da Câmara dos Deputados - Posse de Secretariado Parlamentar/CNE |
+| Receber remuneração fixada em tabela própria de CNE | A remuneração segue tabela específica definida por ato normativo da Câmara | Resolução nº 28/1998 - Câmara dos Deputados |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Exercer mandato parlamentar | É um cargo de assessoramento, não um mandato eletivo | O deputado titular do mandato |
+| Votar matérias em Plenário ou Comissões | A prerrogativa de voto é exclusiva de parlamentar eleito | Deputados Federais |
+| Definir sozinho a criação ou extinção de cargos CNE no gabinete | A estrutura de cargos depende de normas internas da Câmara e de dotação orçamentária | Mesa Diretora, lei orçamentária anual, Resolução nº 1/2007 |
+| Atuar fora da finalidade definida em norma interna | O CNE existe para finalidades específicas previstas na Resolução nº 1/2007 (assessoramento) | Estrutura normativa da Câmara dos Deputados |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O CNE depende: (a) de ato de nomeação publicado conforme regras de posse definidas pela Coordenação de Secretariado Parlamentar (Cosec); (b) de disponibilidade orçamentária do gabinete ou órgão a que está vinculado; (c) das normas internas da Câmara dos Deputados, especialmente a Resolução nº 1/2007, que define finalidade, estrutura e limites desses cargos; e (d) da vontade do parlamentar ou autoridade responsável pela indicação, já que o cargo é de livre nomeação e exoneração.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Na prática, ocupar um CNE em gabinete parlamentar significa fazer parte da equipe de confiança do deputado, trabalhando em funções de assessoria — sem que isso, por si só, dê à pessoa poder de decisão política, de voto ou de representação do mandato. É um cargo de apoio, não um cargo eletivo.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | O ocupante do CNE responde diretamente pelas atribuições de assessoramento que lhe forem atribuídas dentro do gabinete |
+| Responsabilidade compartilhada | A existência e estrutura do cargo dependem de normas da Mesa Diretora e de dotação orçamentária da Câmara |
+| Influência política | O ocupante pode subsidiar ou apoiar decisões do parlamentar, mas não decide pelo mandato |
+| Ausência de competência direta | O CNE não tem poder formal de voto, de representação parlamentar ou de decisão sobre matérias legislativas |
+
+---
+
+## 8. FONTES
+
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:**
+Não aplicável — nenhuma pessoa foi informada para validação de vínculo.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo:**
+
+- **Nome:** Resolução nº 1, de 2007 (Câmara dos Deputados)
+  **Classificação:** OFICIAL
+  **Tipo:** Ato normativo do próprio órgão (resolução da Câmara dos Deputados)
+  **Data:** 2007 (com alterações posteriores)
+  **Informação confirmada:** Finalidade e estrutura geral dos Cargos de Natureza Especial
+
+- **Nome:** Portal da Câmara dos Deputados — Posse de Secretariado Parlamentar/CNE
+  **Classificação:** OFICIAL
+  **Tipo:** Página institucional do próprio órgão sobre regras de nomeação/posse
+  **Data:** Acesso em 2026 (conteúdo vigente)
+  **Informação confirmada:** Procedimento de indicação e posse em CNE
+
+- **Nome:** Resolução nº 28, de 1998 (Câmara dos Deputados)
+  **Classificação:** OFICIAL
+  **Tipo:** Ato normativo do próprio órgão
+  **Data:** 1998 (com alterações posteriores)
+  **Informação confirmada:** Estrutura de remuneração vinculada ao CNE
+
+Não foram utilizadas fontes de imprensa, Wikipédia, redes sociais ou agregadores como base desta resposta. Resultados desse tipo que apareceram na pesquisa (ex.: páginas de Wikipédia sobre o tema) foram descartados por não serem fonte oficial ou institucional aceita.
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, ideologia ou conduta de quem ocupa ou ocupou o cargo — apenas descreve o que o cargo formalmente permite ou não permite fazer, com base em normas da própria Câmara dos Deputados.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+**Observação:** como nenhuma pessoa foi indicada, esta resposta não atribui o cargo a ninguém específico vinculado ao gabinete de Kim Kataguiri. Se quiser validar o vínculo de uma pessoa específica com esse cargo nesse gabinete em 2024, posso buscar essa informação separadamente, usando como fonte a página oficial "Pessoal de gabinete" do deputado na Câmara dos Deputados.

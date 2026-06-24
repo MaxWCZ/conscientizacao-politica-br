@@ -1,0 +1,87 @@
+Vou verificar as informações sobre essa pessoa e seu vínculo com o cargo de Deputado antes de estruturar a resposta.Não encontrei nenhuma fonte oficial ou institucional que confirme essa pessoa como ocupante do cargo de Deputado(a). Vou checar diretamente o portal da Câmara dos Deputados para confirmar.Confirmado: não há registro oficial encontrando essa pessoa como ocupante do cargo de Deputado(a). O único resultado oficial-adjacente relacionado a "Alinne Ferraz Bandeira Martins" é um registro de empresa (CNPJ), não um mandato eletivo. Vou estruturar a resposta conforme as regras, declarando a não confirmação.
+
+---
+
+## 1. CARGO ANALISADO
+- **Cargo:** Deputado
+- **Pessoa, se houver:** Alinne Ferraz Bandeira Martins
+- **Período, se houver:** Não informado
+- **Contexto informado ou identificado:** Foi mencionado "Boulos" como contexto, mas não há fonte oficial ou institucional que relacione esse contexto a esta pessoa nem que confirme algum vínculo formal entre ambos para fins deste cargo.
+- **A pessoa exerceu esse cargo no período indicado?** Não confirmado
+- **Houve exercício interino, substituto ou provisório?** Não informado
+- **Esfera:** Não identificada (Federal ou Estadual — não há base para definir, pois não há confirmação de mandato)
+- **Poder ou estrutura:** Legislativo (em geral, para o cargo de "Deputado")
+- **Tipo de cargo:** Cargo eletivo
+
+**Resumo em 1 frase:** Não há registro público claro, em fonte oficial ou institucional, de que Alinne Ferraz Bandeira Martins tenha exercido o cargo de Deputado(a).
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+De forma geral (sem vínculo a uma esfera específica, já que não há confirmação de mandato), um Deputado é um membro do Poder Legislativo, eleito pelo voto popular, cuja função é representar os cidadãos de sua base eleitoral (estadual ou federal, conforme o caso) na elaboração, discussão e votação de leis, na fiscalização do Poder Executivo e na defesa de interesses de seus eleitores dentro do processo legislativo.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Apresentar projetos de lei | Pode propor novas normas para análise da casa legislativa | Constituição Federal, art. 61 |
+| Votar proposições legislativas | Participa das votações de leis, emendas e outras matérias em Plenário e comissões | Regimento Interno da respectiva Casa Legislativa |
+| Fiscalizar o Poder Executivo | Pode requerer informações, convocar autoridades e integrar Comissões Parlamentares de Inquérito (CPIs) | Constituição Federal, art. 49 e 58 |
+| Integrar comissões temáticas | Participa de comissões permanentes ou temporárias para análise de temas específicos | Regimento Interno da respectiva Casa Legislativa |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar uma lei individualmente | Aprovação depende de votação colegiada em Plenário (e, em geral, sanção do Executivo) | Demais parlamentares, Mesa Diretora, Chefe do Executivo |
+| Executar políticas públicas | Cargo legislativo não tem função executiva | Poder Executivo (Presidência, Governo, ministérios ou secretarias) |
+| Determinar gastos do orçamento público sozinho | Orçamento depende de aprovação do Legislativo como colegiado e de execução pelo Executivo | Congresso/Assembleia como um todo, Poder Executivo |
+| Julgar ou aplicar sanções judiciais | Função não pertence ao Legislativo | Poder Judiciário |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+De forma geral, o exercício do mandato de Deputado depende: do regimento interno da Casa Legislativa à qual pertence; da composição e correlação de forças entre os demais parlamentares (já que decisões relevantes exigem maioria em votação colegiada); do orçamento da própria Casa Legislativa para sua atuação; das normas constitucionais e legais que delimitam as competências do Legislativo; e, quando se trata de matérias que necessitam de sanção, da participação do Poder Executivo correspondente.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+Em termos simples: um Deputado, de forma geral, não pode "fazer leis sozinho" nem "executar" decisões por conta própria — ele propõe, debate e vota, mas depende do apoio de outros parlamentares e, em muitos casos, da participação do Executivo. Como não há confirmação pública de que Alinne Ferraz Bandeira Martins tenha ocupado esse cargo, não é possível atribuir a ela, de forma fundamentada, nenhuma dessas competências.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o cargo tinha poder formal para decidir ou executar |
+| Responsabilidade compartilhada | Quando dependia de outros órgãos, votação, colegiado, orçamento, autoridade ou estrutura |
+| Influência política | Quando podia articular ou defender algo, mas não decidir sozinho |
+| Ausência de competência direta | Quando o cargo não tinha poder formal sobre o tema |
+
+*Não é possível classificar a relação de Alinne Ferraz Bandeira Martins com essas categorias, pois não há confirmação de que ela tenha exercido o cargo de Deputado.*
+
+---
+
+## 8. FONTES
+
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:**
+Não foi localizada nenhuma fonte oficial (ex.: Câmara dos Deputados, Assembleia Legislativa, TSE/DivulgaCand) ou institucional que confirme que Alinne Ferraz Bandeira Martins tenha exercido o cargo de Deputado(a), em qualquer esfera ou período. A única correspondência encontrada para esse nome em fontes públicas refere-se a registro de empresa (CNPJ) — informação não relacionada a mandato eletivo e que não serve como base para este tipo de confirmação.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo:**
+- **Nome:** Constituição Federal de 1988 (arts. 44 a 58 — Capítulo do Poder Legislativo)
+- **Classificação:** OFICIAL
+- **Tipo:** Norma constitucional
+- **Data:** Promulgada em 05/10/1988
+- **Informação confirmada:** Competências gerais do Poder Legislativo e dos parlamentares
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta camada não avalia desempenho, nem confirma ou nega qualquer atuação específica; ela apenas mostra o que o cargo, em geral, permite ou não permite fazer — e, neste caso, indica que **não há registro público claro sobre o vínculo entre a pessoa informada e o cargo de Deputado**.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."

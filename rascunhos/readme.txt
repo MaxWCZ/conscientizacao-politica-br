@@ -43,7 +43,7 @@ Este projeto surge como tentativa de reduzir parte desse ruído informacional.
 
 O projeto está organizado em camadas de informação.
 
-### [Fundamentos do Projeto](_fundamentos/)
+### [Fundamentos do Projeto] (_fundamentos/)
 Sobre Estrutura, Limitações, Metodologia e Objetivos.
 
 ### [Camada 0 — Quem é esta pessoa?](camada-0/)
@@ -61,7 +61,7 @@ em desenvolvimento
 ### Camada 4 
 em desenvolvimento
 
-### [Testes realizados](testes-realizados/)
+### [Testes realizados] (testes-realizados/)
 Prompts em todas as suas versões com seus respectivos testes.
 
 ---

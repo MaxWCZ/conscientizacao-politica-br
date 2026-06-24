@@ -1,0 +1,115 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Cargo de Natureza Especial — CNE, no contexto da Câmara dos Deputados.
+* **Pessoa, se houver:** não informada.
+* **Período:** 2024.
+* **Contexto informado ou identificado:** pessoal de gabinete do deputado federal Kim Kataguiri, na Câmara dos Deputados. A página oficial da Câmara para 2024 lista ocupantes de **Cargo de Natureza Especial** no pessoal de gabinete de Kim Kataguiri, como CNE10 e CNE13. ([Portal da Câmara dos Deputados][1])
+* **A pessoa exerceu esse cargo no período indicado?** não informado. Kim Kataguiri aparece como **deputado federal titular em exercício 2023–2027**, não como ocupante de CNE. ([Portal da Câmara dos Deputados][2])
+* **Houve exercício interino, substituto ou provisório?** não informado.
+* **Esfera:** federal.
+* **Poder ou estrutura:** Poder Legislativo, Câmara dos Deputados.
+* **Tipo de cargo:** cargo em comissão/de assessoramento, sem mandato eletivo próprio.
+
+Em frase simples: **um Cargo de Natureza Especial na Câmara dos Deputados é um cargo comissionado voltado a atividades de assessoramento dentro da estrutura da Câmara, não um cargo eletivo nem um mandato parlamentar.**
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+Na Câmara dos Deputados, os **Cargos em Comissão de Natureza Especial — CNE** existem para prestar serviços de **assessoramento** a estruturas internas da Casa. A Resolução da Câmara nº 1/2007 define que esses cargos têm finalidade de assessoramento e integram o quadro de pessoal da Câmara. 
+
+Na prática, isso significa auxiliar tecnicamente, administrativamente ou politicamente uma estrutura parlamentar ou administrativa, conforme a lotação e o nível do cargo, mas **sem substituir o deputado, sem votar, sem apresentar proposições em nome próprio e sem ter poder decisório autônomo de mandato parlamentar**.
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                         | O que isso significa na prática                                                                                                                                       | Fonte                                                               |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Prestar assessoramento                                               | Auxiliar uma estrutura da Câmara com tarefas de apoio, análise, organização, acompanhamento de temas, preparação de informações ou suporte ao trabalho institucional. | Resolução da Câmara nº 1/2007, art. 1º.                             |
+| Integrar o quadro de pessoal da Câmara como CNE                      | O ocupante é registrado como servidor vinculado diretamente à Câmara, com cargo e lotação disponibilizados no Portal da Câmara.                                       | Resolução nº 1/2007, art. 4º; Portal da Transparência da Câmara.    |
+| Ser indicado para nomeação pelo titular do órgão correspondente      | A nomeação para CNE ocorre por indicação do titular do órgão, não por eleição popular.                                                                                | Resolução nº 1/2007, art. 8º. ([Portal da Câmara dos Deputados][3]) |
+| Exercer função de direção, chefia ou assessoramento, conforme o caso | Cargos em comissão, pela Constituição, destinam-se apenas a atribuições de direção, chefia e assessoramento.                                                          | Constituição Federal, art. 37, V.                                   |
+| Receber remuneração pelo exercício do cargo                          | A Lei nº 8.112/1990 prevê retribuição pelo exercício de cargo de provimento em comissão ou de Natureza Especial.                                                      | Lei nº 8.112/1990, art. 62. ([Portal da Câmara dos Deputados][4])   |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                   | Por quê                                                                                                                                 | Quem ou o que também participa                                                                           |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Votar como deputado                                        | CNE não é mandato parlamentar; é cargo de assessoramento.                                                                               | Deputados federais eleitos.                                                                              |
+| Apresentar projeto de lei em nome próprio como parlamentar | A atribuição legislativa pertence aos parlamentares e aos legitimados previstos na Constituição e no Regimento, não ao ocupante de CNE. | Deputado, comissão, Mesa, Senado, Executivo ou outros legitimados, conforme o caso.                      |
+| Decidir sozinho a posição política de um gabinete          | O cargo assessora; a decisão política formal cabe ao parlamentar ou à autoridade responsável.                                           | Deputado ou titular da estrutura.                                                                        |
+| Nomear, exonerar ou criar cargos por conta própria         | A Resolução trata a nomeação de CNE como decorrente de indicação do titular do órgão, e a estrutura de cargos depende de norma própria. | Titular do órgão, administração da Câmara, Mesa e normas internas. ([Portal da Câmara dos Deputados][3]) |
+| Autorizar gasto público livremente                         | Despesas, remuneração e estrutura de pessoal dependem de previsão legal, orçamentária e administrativa.                                 | Câmara, orçamento, Mesa, normas de pessoal e controle administrativo.                                    |
+| Substituir o deputado federal                              | O CNE não recebe mandato popular e não assume as prerrogativas constitucionais do parlamentar.                                          | Deputado eleito e suplente, conforme regras eleitorais e parlamentares.                                  |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O CNE depende da **estrutura da Câmara dos Deputados**, da **lotação definida internamente**, da **indicação do titular do órgão**, das regras constitucionais sobre cargos em comissão e das normas administrativas da Casa.
+
+Também depende de controle funcional: a Resolução nº 1/2007 prevê divulgação de dados funcionais dos ocupantes de CNE no Portal da Câmara, e a Constituição limita cargos em comissão a funções de direção, chefia e assessoramento. 
+
+No contexto informado, a página oficial de 2024 do gabinete de Kim Kataguiri confirma que havia pessoas listadas como **Cargo de Natureza Especial**, como Danilo do Prado Geber em CNE10, Dennys de Souza Miranda Sobrinho em CNE13 e Pedro Ottoni Salomão em CNE10, em períodos que alcançam 2024. ([Portal da Câmara dos Deputados][1])
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, isso significa que um ocupante de **Cargo de Natureza Especial** na Câmara é alguém que trabalha em função de confiança ou assessoramento dentro da estrutura parlamentar ou administrativa.
+
+Ele pode ajudar a preparar informações, acompanhar assuntos, organizar trabalho interno e dar suporte ao funcionamento político-administrativo. Mas ele **não é deputado**, **não vota leis**, **não decide sozinho políticas públicas** e **não tem os poderes de um mandato eletivo**.
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                                                                      |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o ocupante do CNE tinha atribuição formal para executar uma tarefa administrativa ou de assessoramento dentro de sua função.                  |
+| Responsabilidade compartilhada | Quando a atuação dependia do deputado, do titular do órgão, da Mesa, da administração da Câmara, de normas internas, orçamento ou outras instâncias. |
+| Influência política            | Quando podia auxiliar, articular, preparar informações ou apoiar uma posição, mas sem decidir sozinho em nome do mandato parlamentar.                |
+| Ausência de competência direta | Quando o tema exigia poder de deputado, votação, ato da Mesa, decisão administrativa superior, lei, orçamento ou competência de outro órgão.         |
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+* **Nome:** Portal da Câmara dos Deputados — Pessoal de gabinete do Deputado Federal Kim Kataguiri, ano 2024
+  **Classificação:** OFICIAL
+  **Tipo:** página oficial da Câmara dos Deputados
+  **Data:** ano-base 2024
+  **Informação confirmada:** a página lista, no pessoal de gabinete de Kim Kataguiri em 2024, pessoas com grupo funcional **Cargo de Natureza Especial**, incluindo CNE10 e CNE13. ([Portal da Câmara dos Deputados][1])
+
+* **Nome:** Portal da Câmara dos Deputados — página do Deputado Federal Kim Kataguiri
+  **Classificação:** OFICIAL
+  **Tipo:** página institucional de parlamentar no Portal da Câmara
+  **Data:** legislatura 2023–2027
+  **Informação confirmada:** Kim Kataguiri aparece como **deputado federal titular em exercício 2023–2027**, não como ocupante de Cargo de Natureza Especial. ([Portal da Câmara dos Deputados][2])
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+* **Nome:** Resolução da Câmara dos Deputados nº 1, de 2007
+  **Classificação:** OFICIAL
+  **Tipo:** resolução da Câmara dos Deputados
+  **Data:** 7 de janeiro de 2007, com alterações posteriores
+  **Informação confirmada:** dispõe sobre os Cargos em Comissão de Natureza Especial do quadro de pessoal da Câmara; define finalidade de assessoramento, divulgação de dados funcionais e regras de indicação. 
+
+* **Nome:** Constituição da República Federativa do Brasil de 1988
+  **Classificação:** OFICIAL
+  **Tipo:** Constituição Federal
+  **Data:** 1988, texto atualizado
+  **Informação confirmada:** cargos em comissão destinam-se apenas a atribuições de direção, chefia e assessoramento. 
+
+* **Nome:** Lei nº 8.112, de 11 de dezembro de 1990
+  **Classificação:** OFICIAL
+  **Tipo:** lei federal sobre regime jurídico dos servidores públicos civis da União
+  **Data:** 1990, texto atualizado
+  **Informação confirmada:** trata de nomeação em comissão, exoneração de cargo em comissão e retribuição pelo exercício de cargo de Natureza Especial. ([Portal da Câmara dos Deputados][5])
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia desempenho, intenção, ideologia, mérito político ou conduta de ninguém. Ela apenas mostra o que o cargo permite ou não permite fazer dentro da estrutura pública.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://www.camara.leg.br/deputados/204536/pessoal-gabinete?ano=2024 "
+      Pessoal de gabinete do Deputado(a) Federal Kim Kataguiri - Portal da Câmara dos Deputados
+  "
+[2]: https://www.camara.leg.br/deputados/204536 "
+      Deputado Federal Kim Kataguiri - Portal da Câmara dos Deputados
+  "
+[3]: https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-publicacaooriginal-68191-pl.html "Portal da Câmara dos Deputados"
+[4]: https://www2.camara.leg.br/legin/fed/lei/1990/lei-8112-11-dezembro-1990-322161-republicacaoatualizada-26751-pl.html?utm_source=chatgpt.com "LEI Nº 8.112, DE 11 DE DEZEMBRO DE 1990"
+[5]: https://www2.camara.leg.br/legin/fed/lei/1990/lei-8112-11-dezembro-1990-322161-publicacaooriginal-1-pl.html?utm_source=chatgpt.com "LEI Nº 8.112, DE 11 DE DEZEMBRO DE 1990"

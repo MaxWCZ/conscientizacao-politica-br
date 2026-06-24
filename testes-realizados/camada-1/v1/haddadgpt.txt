@@ -1,0 +1,190 @@
+# 1. VALIDAÇÃO DO CARGO ANALISADO
+
+**Pessoa analisada:** Fernando Haddad
+**Cargo/função analisado:** Senador
+**Período analisado:** 2018
+
+**Confirmação de que a pessoa exerceu o cargo/função:**
+**Não há registro público claro de que essa pessoa tenha exercido o cargo de Senador em 2018.** Em 2018, Fernando Haddad foi candidato à Presidência da República pelo PT, disputando o segundo turno das eleições presidenciais. ([Senado][1])
+
+**Fonte usada para confirmar o vínculo pessoa-cargo:**
+Não foi localizada fonte oficial ou institucional que confirme Fernando Haddad como senador em 2018. As fontes encontradas indicam candidatura presidencial naquele ano. ([Senado][1])
+
+**Esfera:** Federal (caso fosse Senador)
+**Poder ou estrutura:** Legislativo Federal (caso fosse Senador)
+**Tipo de cargo:** Eletivo
+
+**Explicação simples:**
+Não há confirmação de que Fernando Haddad tenha exercido o cargo de senador em 2018; portanto, não é possível vincular as competências de senador a ele nesse período. ([Senado][1])
+
+---
+
+## Observação importante
+
+Como o vínculo **Fernando Haddad → Senador → 2018** não foi confirmado, as competências abaixo serão descritas **apenas de forma geral sobre o cargo de Senador da República**, sem atribuí-las a Fernando Haddad.
+
+---
+
+# 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O senador representa os estados e o Distrito Federal no Congresso Nacional.
+
+O cargo existe para:
+
+* participar da elaboração das leis federais;
+* fiscalizar ações do governo federal;
+* analisar e votar matérias de competência do Senado;
+* participar de decisões constitucionais atribuídas exclusivamente ao Senado Federal.
+
+Fonte: Constituição Federal de 1988. ([Senado][1])
+
+---
+
+# 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                                       | O que isso significa na prática                                | Fonte                |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------- |
+| Propor leis                                                                        | Apresentar projetos de lei ao Congresso Nacional               | Constituição Federal |
+| Votar leis                                                                         | Aprovar ou rejeitar projetos em tramitação                     | Constituição Federal |
+| Propor emendas à Constituição                                                      | Participar de mudanças no texto constitucional                 | Constituição Federal |
+| Fiscalizar o Poder Executivo                                                       | Solicitar informações e participar de atividades de controle   | Constituição Federal |
+| Aprovar autoridades indicadas em casos previstos na Constituição                   | Participar de sabatinas e votações de determinadas autoridades | Constituição Federal |
+| Julgar determinadas autoridades em processos específicos previstos na Constituição | Atuar em competências exclusivas do Senado                     | Constituição Federal |
+
+---
+
+# 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho            | Por quê                                     | Quem ou o que também participa                               |
+| ----------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| Criar uma lei federal               | A aprovação depende do processo legislativo | Câmara dos Deputados, Senado e, em muitos casos, Presidência |
+| Alterar a Constituição              | Exige votação qualificada e etapas formais  | Câmara e Senado                                              |
+| Gastar recursos públicos livremente | O orçamento segue regras legais             | Congresso Nacional e Poder Executivo                         |
+| Nomear autoridades federais         | A nomeação normalmente cabe ao Executivo    | Presidência da República                                     |
+| Governar estados ou municípios      | Não faz parte da função legislativa federal | Governadores e prefeitos                                     |
+
+---
+
+# 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação de um senador depende de:
+
+* Constituição Federal;
+* Regimento Interno do Senado;
+* votações colegiadas;
+* participação da Câmara dos Deputados em diversas matérias;
+* sanção ou veto presidencial quando aplicável;
+* regras orçamentárias;
+* decisões do próprio Senado em matérias de competência exclusiva.
+
+Em linguagem simples: um senador possui poderes relevantes, mas grande parte das decisões depende de votação conjunta ou de procedimentos previstos na Constituição.
+
+---
+
+# 6. TRADUÇÃO PRÁTICA
+
+Na prática, isso significa que:
+
+* um senador pode influenciar a criação de leis;
+* um senador pode votar propostas importantes para o país;
+* muitas decisões dependem da aprovação de outros parlamentares;
+* raramente um senador consegue produzir sozinho um resultado político ou administrativo.
+
+Para saber se uma pessoa era responsável por determinado tema, é necessário verificar se o Senado possuía competência formal sobre aquele assunto.
+
+---
+
+# 7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+
+| Tipo de relação                | O que significa                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando a Constituição atribui ao Senado poder formal de decidir ou votar        |
+| Responsabilidade compartilhada | Quando a decisão depende de outros parlamentares, da Câmara ou de outros órgãos |
+| Influência política            | Quando o ocupante do cargo articula apoio ou oposição sem decidir sozinho       |
+| Ausência de competência direta | Quando o tema pertence a outro Poder ou esfera de governo                       |
+
+Em linguagem simples: possuir influência política não significa possuir poder legal para decidir sozinho.
+
+---
+
+# 8. FONTES
+
+## A) Fontes para confirmar vínculo pessoa-cargo
+
+### Fonte 1
+
+* **Nome da fonte:** Jornal do Senado – Resultado das eleições de 2018
+* **Classificação:** OFICIAL
+* **Tipo:** Órgão do Senado Federal
+* **Data:** 08/10/2018
+* **Informação confirmada:** Fernando Haddad disputou a eleição presidencial de 2018 e foi ao segundo turno contra Jair Bolsonaro. ([Senado][1])
+
+### Fonte 2
+
+* **Nome da fonte:** Texto fornecido pelo usuário 
+* **Classificação:** Documento de instruções
+* **Tipo:** Arquivo enviado pelo usuário
+* **Informação confirmada:** Solicitação de validação prévia do vínculo pessoa-cargo.
+
+---
+
+## B) Fontes para explicar competências do cargo
+
+### Fonte 1
+
+* **Nome da fonte:** Constituição da República Federativa do Brasil de 1988
+* **Classificação:** OFICIAL
+* **Tipo:** Norma constitucional
+* **Data:** vigente
+* **Competência ou limite explicado:** atribuições do Senado Federal, processo legislativo e competências exclusivas do Senado.
+
+### Fonte 2
+
+* **Nome da fonte:** Senado Federal
+* **Classificação:** OFICIAL
+* **Tipo:** Instituição do Poder Legislativo Federal
+* **Data:** vigente
+* **Competência ou limite explicado:** funcionamento e atribuições institucionais dos senadores.
+
+---
+
+# 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não diz se Fernando Haddad foi bom ou ruim.
+
+Esta camada também não permite concluir responsabilidades sobre fatos específicos.
+
+Ela mostra apenas:
+
+* que o vínculo "Fernando Haddad → Senador → 2018" não foi confirmado;
+* quais são, em termos gerais, as competências formais de um senador.
+
+Para avaliar atuação, será necessário consultar atos, votos, decisões, projetos ou resultados em outras camadas.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**
+
+---
+
+# 10. SE QUISER IR MAIS FUNDO
+
+**Sobre o cargo**
+
+* “Explique melhor as atribuições desse cargo”
+* “Compare esse cargo com outro cargo parecido”
+
+**Sobre dependências**
+
+* “Quais decisões dependem de outros órgãos?”
+* “Quem mais participa dessas decisões?”
+
+**Sobre responsabilidade**
+
+* “Como saber se a responsabilidade era direta ou compartilhada?”
+* “Como diferenciar poder formal de influência política?”
+
+**Sobre exemplos práticos**
+
+* “Dê exemplos simples de decisões que esse cargo pode tomar”
+* “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”
+
+[1]: https://www2.senado.leg.br/bdsf/bitstream/handle/id/548757/2018-10-08.pdf?isAllowed=y&sequence=1&utm_source=chatgpt.com "Resultado das urnas traz novos nomes ao Senado"

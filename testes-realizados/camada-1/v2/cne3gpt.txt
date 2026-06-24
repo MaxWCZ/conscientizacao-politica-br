@@ -1,0 +1,101 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Cargo de Natureza Especial — CNE
+* **Pessoa, se houver:** não informado
+* **Período, se houver:** 2024
+* **Contexto informado ou identificado:** Gabinete do deputado federal Kim Kataguiri, na Câmara dos Deputados; a página oficial “Pessoal de gabinete - 2024” lista ocupantes do grupo funcional “Cargo de Natureza Especial”, como CNE10 e CNE13, no pessoal de gabinete. ([Portal da Câmara dos Deputados][1])
+* **A pessoa exerceu esse cargo no período indicado?** não informado
+* **Houve exercício interino, substituto ou provisório?** não informado
+* **Esfera:** federal
+* **Poder ou estrutura:** Poder Legislativo / Câmara dos Deputados
+* **Tipo de cargo:** cargo em comissão de natureza especial, voltado a assessoramento e apoio institucional
+
+Em frase simples: **um CNE na Câmara é um servidor ocupante de cargo comissionado de assessoramento, sem mandato próprio e sem poder de decisão parlamentar.**
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+Na Câmara dos Deputados, os Cargos em Comissão de Natureza Especial — CNE — existem para prestar **serviços de assessoramento** a estruturas internas da Casa, como Mesa, Lideranças, Comissões e órgãos administrativos, conforme a Resolução da Câmara nº 1/2007. ([Portal da Câmara dos Deputados][2])
+
+No contexto informado, a fonte oficial confirma a presença de CNEs no pessoal do gabinete de Kim Kataguiri em 2024, mas isso **não transforma o ocupante do CNE em parlamentar, chefe político ou autoridade decisória**. ([Portal da Câmara dos Deputados][1])
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                                           | O que isso significa na prática                                                                                                         | Fonte                                                                         |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Prestar assessoramento                                                                 | Apoiar atividades técnicas, administrativas ou parlamentares da estrutura em que atua, conforme sua designação.                         | Resolução da Câmara nº 1/2007, art. 1º. ([Portal da Câmara dos Deputados][2]) |
+| Exercer função vinculada à Câmara dos Deputados                                        | O CNE pertence ao quadro de pessoal da Câmara, não a uma estrutura privada ou partidária externa.                                       | Resolução da Câmara nº 1/2007. ([Portal da Câmara dos Deputados][2])          |
+| Ser indicado para nomeação conforme regras internas                                    | A nomeação de CNE ocorre por indicação dos titulares dos órgãos competentes, não por eleição popular.                                   | Resolução da Câmara nº 1/2007, art. 8º.                                       |
+| Ter dados funcionais publicados no Portal da Câmara                                    | Nome, cargo e lotação de ocupantes de CNE devem ser disponibilizados no portal oficial.                                                 | Resolução da Câmara nº 1/2007, art. 4º.                                       |
+| Atuar temporariamente à disposição de parlamentar ou órgão distinto da lotação oficial | A norma permite essa situação, com responsabilidade de controle da jornada pelo parlamentar ou titular do órgão onde exerce as funções. | Resolução da Câmara nº 1/2007, art. 2º, §4º.                                  |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                     | Por quê                                                                                                                           | Quem ou o que também participa                                                     |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Votar projetos, emendas ou requerimentos como deputado       | O CNE é cargo de assessoramento, não mandato eletivo.                                                                             | Deputado federal, Plenário, comissões e demais instâncias legislativas.            |
+| Apresentar proposições em nome próprio como parlamentar      | A fonte oficial define o CNE como cargo de assessoramento, não como titular de mandato. ([Portal da Câmara dos Deputados][2])     | Parlamentar, liderança, comissão ou órgão com competência regimental.              |
+| Decidir sozinho a posição política do gabinete               | O ocupante pode apoiar, assessorar ou preparar informações, mas a decisão política é do parlamentar ou da autoridade responsável. | Deputado, liderança, partido, Mesa ou órgão competente.                            |
+| Nomear ou exonerar outros servidores por conta própria       | A nomeação de CNE é tratada como ato formal vinculado às regras da Câmara e à indicação dos titulares competentes.                | Titulares dos órgãos, Administração da Câmara e atos formais de pessoal.           |
+| Criar despesa, cargo, estrutura ou obrigação pública sozinho | Cargo comissionado de assessoramento não equivale a autoridade administrativa máxima.                                             | Mesa Diretora, Diretoria-Geral, normas internas, orçamento e atos administrativos. |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação de um CNE depende das **normas internas da Câmara**, da **estrutura onde exerce suas atividades**, da **autoridade responsável pelo órgão ou gabinete**, das regras de **nomeação, frequência e controle funcional**, e dos limites próprios de um cargo de assessoramento. A Resolução nº 1/2007 prevê que os CNEs prestam assessoramento e que seus dados funcionais devem ser disponibilizados no Portal da Câmara; também prevê regras de jornada, controle e possibilidade de atuação temporária à disposição de parlamentar ou órgão distinto da lotação oficial. 
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, isso significa: **um CNE no gabinete ajuda o trabalho parlamentar ou administrativo, mas não é quem decide como deputado**. Pode organizar, assessorar, acompanhar temas, preparar informações e apoiar a rotina do gabinete, mas não vota leis, não substitui o parlamentar e não possui autoridade política própria.
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                                                                |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o ocupante do cargo tinha poder formal para executar tarefa administrativa ou funcional dentro de suas atribuições de assessoramento.   |
+| Responsabilidade compartilhada | Quando a atuação dependia do deputado, da chefia, da Mesa, de órgão administrativo, de orçamento, de ato formal ou de decisão colegiada.       |
+| Influência política            | Quando podia ajudar a articular, preparar material, orientar tecnicamente ou defender uma posição internamente, mas sem decidir sozinho.       |
+| Ausência de competência direta | Quando o tema dependia de voto parlamentar, ato da Mesa, decisão de comissão, autoridade administrativa ou outro órgão formalmente competente. |
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+* **Nome:** Pessoal de gabinete do deputado Kim Kataguiri — 2024, Portal da Câmara dos Deputados
+* **Classificação:** OFICIAL
+* **Tipo:** portal oficial da Câmara / transparência de pessoal de gabinete
+* **Data:** ano de referência 2024
+* **Informação confirmada:** confirma que, no pessoal de gabinete de Kim Kataguiri em 2024, havia registros de ocupantes do grupo funcional “Cargo de Natureza Especial”, com níveis como CNE10 e CNE13. Como nenhuma pessoa específica foi informada pelo usuário, não há vínculo individual pessoa-cargo a validar. ([Portal da Câmara dos Deputados][1])
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+* **Nome:** Resolução da Câmara dos Deputados nº 1, de 2007
+
+* **Classificação:** OFICIAL
+
+* **Tipo:** norma da Câmara dos Deputados
+
+* **Data:** 07/02/2007; texto com alterações posteriores
+
+* **Informação confirmada:** dispõe sobre os Cargos em Comissão de Natureza Especial do Quadro de Pessoal da Câmara dos Deputados e define sua finalidade como assessoramento. ([Portal da Câmara dos Deputados][2])
+
+* **Nome:** Resolução da Câmara dos Deputados nº 1, de 2007 — texto atualizado
+
+* **Classificação:** OFICIAL
+
+* **Tipo:** norma da Câmara dos Deputados
+
+* **Data:** 07/02/2007, com alterações posteriores
+
+* **Informação confirmada:** trata de jornada, controle de frequência, responsabilidade do parlamentar ou titular do órgão quando o servidor estiver à disposição, publicação de dados funcionais e indicação para nomeação de CNE. 
+
+Não usei imprensa, Wikipedia, redes sociais, blogs, vídeos, agregadores ou terceiros como base da resposta.
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada **não avalia desempenho, ideologia, intenção, caráter ou atuação política concreta**. Ela apenas mostra o que o cargo permite ou não permite fazer, com base em fontes oficiais compatíveis.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://www.camara.leg.br/deputados/204536/pessoal-gabinete?ano=2024 "
+      Pessoal de gabinete do Deputado(a) Federal Kim Kataguiri - Portal da Câmara dos Deputados
+  "
+[2]: https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-publicacaooriginal-68191-pl.html "Portal da Câmara dos Deputados"

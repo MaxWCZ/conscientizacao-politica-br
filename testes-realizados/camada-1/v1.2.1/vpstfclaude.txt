@@ -1,0 +1,714 @@
+================================================================================
+TESTES — VICE-PRESIDENTE DO STF
+================================================================================
+
+================================================================================
+BLOCO A — TESTE DE CARGO PURO (sem pessoa, sem período)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Não informada
+Período:         Não informado
+Vínculo:         Não se aplica
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna de tribunal, com mandato de dois anos,
+                 vedada a reeleição imediata, ocupado exclusivamente por ministro
+                 do STF eleito pelo Plenário
+
+O Vice-Presidente do STF é um ministro eleito pelos pares para substituir o
+Presidente nas ausências e impedimentos e assumir a presidência em caso de vaga,
+sem atribuições independentes de governo ou julgamento além das já conferidas a
+qualquer ministro.
+
+--------------------------------------------------------------------------------
+2. FUNÇÃO PRINCIPAL DO CARGO
+--------------------------------------------------------------------------------
+O Vice-Presidente substitui o Presidente nas licenças, ausências e impedimentos
+eventuais. Em caso de vaga, assume a presidência até a posse do novo titular.
+(RISTF, art. 14 — OFICIAL)
+
+O cargo existe para garantir a continuidade da direção do Tribunal quando o
+Presidente estiver impossibilitado de exercer suas funções, sem criar um centro
+autônomo de poder ou atribuições ordinárias distintas das de qualquer ministro.
+
+--------------------------------------------------------------------------------
+3. O QUE ESSE CARGO PODE FAZER
+--------------------------------------------------------------------------------
++-------------------------------------------+------------------------------------+------------------------+
+| O cargo pode                              | O que isso significa na prática    | Fonte                  |
++-------------------------------------------+------------------------------------+------------------------+
+| Substituir o Presidente nas licenças,     | Assume as atribuições da           | RISTF, art. 14         |
+| ausências e impedimentos eventuais        | presidência enquanto durar o       | (OFICIAL)              |
+|                                           | impedimento, sem ato adicional     |                        |
++-------------------------------------------+------------------------------------+------------------------+
+| Assumir a presidência em caso de vaga     | Exerce a presidência até que o     | RISTF, art. 14         |
+|                                           | novo titular tome posse            | (OFICIAL)              |
++-------------------------------------------+------------------------------------+------------------------+
+| Permanecer na sua Turma como membro       | Não perde a condição de ministro   | RISTF, art. 4º, § 3º  |
+| votante                                   | relator e julgador enquanto for    | (OFICIAL)              |
+|                                           | Vice-Presidente                    |                        |
++-------------------------------------------+------------------------------------+------------------------+
+| Ser eleito para substituições temporárias | Na ausência do Vice-Presidente,    | RISTF, art. 37, I      |
+| do Presidente pelo critério de            | os demais ministros substituem na  | (OFICIAL)              |
+| antiguidade                               | ordem decrescente de antiguidade   |                        |
++-------------------------------------------+------------------------------------+------------------------+
+| Exercer, quando na substituição, as       | Passa a representar o Tribunal,    | RISTF, arts. 13 e 14  |
+| atribuições do art. 13 do RISTF           | presidir sessões plenárias e       | (OFICIAL)              |
+|                                           | praticar os atos administrativos   |                        |
+|                                           | previstos no Regimento             |                        |
++-------------------------------------------+------------------------------------+------------------------+
+
+--------------------------------------------------------------------------------
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+--------------------------------------------------------------------------------
++-------------------------------------+----------------------------------------+-----------------------------+
+| O cargo não pode sozinho            | Por quê                                | Quem ou o que participa     |
++-------------------------------------+----------------------------------------+-----------------------------+
+| Decidir sobre matérias do Plenário  | Decisões exigem quórum e deliberação   | Os 11 ministros do STF      |
+|                                     | colegiada                              | reunidos em Plenário        |
++-------------------------------------+----------------------------------------+-----------------------------+
+| Eleger o próximo Presidente ou      | A eleição é competência exclusiva do   | Plenário do STF, por        |
+| Vice-Presidente                     | Plenário                               | votação secreta             |
+|                                     |                                        | (RISTF, art. 8º, I)        |
++-------------------------------------+----------------------------------------+-----------------------------+
+| Alterar o Regimento Interno         | Matéria de competência do Plenário     | Plenário do STF             |
+|                                     |                                        | (RISTF, art. 8º, III)      |
++-------------------------------------+----------------------------------------+-----------------------------+
+| Conceder licença a ministros por    | Competência do Plenário                | Plenário do STF             |
+| mais de três meses                  |                                        | (RISTF, art. 8º, VI)       |
++-------------------------------------+----------------------------------------+-----------------------------+
+| Convocar audiências públicas ou     | Atos extraordinários dependem de       | Presidente do STF ou        |
+| deliberações administrativas sem    | previsão específica ou delegação       | Plenário, conforme o caso   |
+| base regimental                     | do Presidente                          |                             |
++-------------------------------------+----------------------------------------+-----------------------------+
+| Assumir a presidência por mera      | A substituição só ocorre nas           | Ocorrência objetiva de      |
+| vontade própria                     | hipóteses previstas no RISTF           | licença, ausência,          |
+|                                     |                                        | impedimento ou vaga         |
++-------------------------------------+----------------------------------------+-----------------------------+
+
+--------------------------------------------------------------------------------
+5. DO QUE ESSE CARGO DEPENDE
+--------------------------------------------------------------------------------
+ELEIÇÃO E MANDATO:
+O Presidente e o Vice-Presidente têm mandato por dois anos, vedada a reeleição
+imediata, sendo eleitos pelo Plenário do STF, dentre os Ministros.
+(RISTF, art. 12 e art. 2º, parágrafo único — OFICIAL)
+
+CONDIÇÕES DE SUBSTITUIÇÃO:
+A atuação na presidência depende da ocorrência objetiva de uma das situações
+previstas no art. 14 do RISTF (licença, ausência, impedimento ou vaga do
+Presidente). Fora dessas hipóteses, o Vice-Presidente atua como ministro comum.
+
+REGIMENTO INTERNO:
+Todas as atribuições derivam do RISTF, que pode ser alterado pelo Plenário.
+A Constituição Federal (art. 96, I, a) reserva ao próprio STF a competência para
+elaborar seu regimento interno.
+
+COMPOSIÇÃO DO TRIBUNAL:
+O Tribunal compõe-se de onze Ministros. A atuação do Vice-Presidente está
+condicionada à composição regular do colegiado.
+(RISTF, art. 2º — OFICIAL)
+
+--------------------------------------------------------------------------------
+6. TRADUÇÃO PRÁTICA
+--------------------------------------------------------------------------------
+Para uma pessoa comum: o Vice-Presidente do STF é como o "presidente reserva"
+do tribunal. No dia a dia, ele continua sendo um ministro normal — participa de
+julgamentos, vota, relata processos. Mas se o Presidente viaja, adoece ou se
+afasta por qualquer razão, quem assume o comando é o Vice-Presidente. Se o
+Presidente sair definitivamente (aposentadoria, por exemplo), o Vice-Presidente
+assume e fica no cargo até que o próximo presidente eleito tome posse. Fora
+dessas situações, o Vice-Presidente não tem poderes extras em relação aos demais
+ministros.
+
+--------------------------------------------------------------------------------
+7. RESPONSABILIDADE
+--------------------------------------------------------------------------------
++------------------------------+---------------------------------------------------+
+| Tipo de relação              | O que significa                                   |
++------------------------------+---------------------------------------------------+
+| Responsabilidade direta      | Quando o Vice-Presidente está no exercício da     |
+|                              | presidência por substituição ou vaga: pratica     |
+|                              | atos administrativos e presidenciais previstos    |
+|                              | no RISTF, pelos quais é diretamente responsável   |
++------------------------------+---------------------------------------------------+
+| Responsabilidade             | Como ministro votante nas Turmas e no Plenário:   |
+| compartilhada                | seus votos integram decisões colegiadas, nas      |
+|                              | quais a responsabilidade é do órgão coletivo      |
++------------------------------+---------------------------------------------------+
+| Influência política          | Como membro do colegiado, pode articular          |
+|                              | posições, participar de comissões e contribuir    |
+|                              | para deliberações administrativas, sem poder      |
+|                              | decisório individual sobre essas matérias         |
++------------------------------+---------------------------------------------------+
+| Ausência de competência      | Em qualquer matéria de competência exclusiva do   |
+| direta                       | Plenário que não ocorra durante substituição      |
+|                              | formal da presidência                             |
++------------------------------+---------------------------------------------------+
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo: Não se aplica (sem pessoa).
+
+B) Fontes para explicar competências do cargo:
+
+Nome:                  Regimento Interno do STF (RISTF)
+                       Arts. 2º par. único; 4º, § 3º; 8º, I, III, VI; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do próprio tribunal
+Data:                  Publicado em 1980, consolidado com emendas regimentais
+Informação confirmada: Composição, eleição, mandato, atribuições e hipóteses de
+                       substituição do Vice-Presidente
+
+Nome:                  Constituição Federal de 1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu próprio regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+Esta análise não avalia o desempenho de nenhuma pessoa, não julga decisões, não
+examina votos e não atribui mérito ou demérito a quem quer que seja. O objetivo
+é apenas descrever o que o cargo permite e o que ele não permite, com base nas
+normas que o regulam.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+BLOCO B — TESTES PESSOA-CARGO (sem período)
+================================================================================
+
+================================================================================
+TESTE B1 — Alexandre de Moraes como Vice-Presidente do STF
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Alexandre de Moraes
+Período:         Não informado
+Vínculo:         SIM — Eleito pelo Plenário do STF em 13/08/2025 e empossado em
+                 29/09/2025 para o biênio 2025-2027
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna do tribunal, exercido por ministro
+                 eleito pelo Plenário com mandato de dois anos
+
+Alexandre de Moraes é ministro do STF desde março de 2017 e exerce a
+Vice-Presidência da Corte desde 29 de setembro de 2025, no biênio 2025-2027.
+
+--------------------------------------------------------------------------------
+2. FUNÇÃO PRINCIPAL DO CARGO
+--------------------------------------------------------------------------------
+O cargo existe para garantir a continuidade da direção do STF nas ausências e
+impedimentos do Presidente. O Vice-Presidente substitui o Presidente nas
+licenças, ausências e impedimentos eventuais. Em caso de vaga, assume a
+presidência até a posse do novo titular. (RISTF, art. 14 — OFICIAL)
+
+Fora dessas hipóteses, o ocupante do cargo atua como ministro comum, integrando
+sua Turma com plenos poderes de relator e julgador.
+
+--------------------------------------------------------------------------------
+3. O QUE ESSE CARGO PODE FAZER
+--------------------------------------------------------------------------------
+(As atribuições do cargo são as mesmas independentemente de quem o ocupa.
+Ver Bloco A, seção 3.)
+
++-------------------------------------------+------------------------------------+------------------------+
+| O cargo pode                              | O que isso significa na prática    | Fonte                  |
++-------------------------------------------+------------------------------------+------------------------+
+| Substituir o Presidente nas licenças,     | Assume as atribuições da           | RISTF, art. 14         |
+| ausências e impedimentos eventuais        | presidência enquanto durar o       | (OFICIAL)              |
+|                                           | impedimento                        |                        |
++-------------------------------------------+------------------------------------+------------------------+
+| Assumir a presidência em caso de vaga     | Exerce a presidência até que o     | RISTF, art. 14         |
+|                                           | novo titular tome posse            | (OFICIAL)              |
++-------------------------------------------+------------------------------------+------------------------+
+| Permanecer na sua Turma como membro       | Não perde a condição de ministro   | RISTF, art. 4º, § 3º  |
+| votante                                   | relator e julgador                 | (OFICIAL)              |
++-------------------------------------------+------------------------------------+------------------------+
+| Exercer as atribuições do art. 13 do      | Representa o Tribunal, preside     | RISTF, arts. 13 e 14  |
+| RISTF quando em substituição              | sessões e pratica atos             | (OFICIAL)              |
+|                                           | administrativos previstos          |                        |
++-------------------------------------------+------------------------------------+------------------------+
+
+--------------------------------------------------------------------------------
+4–5. O QUE NÃO PODE FAZER SOZINHO / DO QUE DEPENDE
+--------------------------------------------------------------------------------
+(As limitações e dependências decorrem do cargo, não da pessoa.
+Ver Bloco A, seções 4 e 5.)
+
+--------------------------------------------------------------------------------
+6. TRADUÇÃO PRÁTICA
+--------------------------------------------------------------------------------
+Alexandre de Moraes, como Vice-Presidente do STF desde setembro de 2025,
+continua a ser um ministro com plenas funções de julgador e relator. A função
+adicional de Vice-Presidente significa que ele substitui o presidente Fachin
+quando este estiver ausente ou impedido e que, pela tradição e pelo rodízio de
+antiguidade, Alexandre de Moraes é apontado para a presidência do STF a partir
+de 2027, seguindo a sequência histórica baseada na antiguidade.
+
+--------------------------------------------------------------------------------
+7. RESPONSABILIDADE
+--------------------------------------------------------------------------------
+(Idêntico ao Teste A — as atribuições decorrem do cargo. Ver Bloco A, seção 7.)
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo:
+
+Nome:                  Portal STF — Notícia de posse da gestão 2025/2027
+                       (noticias.stf.jus.br)
+Classificação:         OFICIAL
+Tipo:                  Comunicado institucional do próprio tribunal
+Data:                  29/09/2025
+Informação confirmada: Alexandre de Moraes empossado Vice-Presidente do STF em
+                       29/09/2025 para o biênio 2025-2027
+
+Nome:                  AMB — Associação dos Magistrados Brasileiros
+Classificação:         INSTITUCIONAL
+Tipo:                  Nota institucional
+Data:                  13/08/2025
+Informação confirmada: Eleição de Alexandre de Moraes como Vice-Presidente para
+                       2025-2027
+
+B) Fontes para explicar competências do cargo:
+
+Nome:                  RISTF, arts. 4º, § 3º; 8º; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do tribunal
+Data:                  1980, consolidado com emendas
+Informação confirmada: Atribuições e substituição do Vice-Presidente
+
+Nome:                  CF/1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+Esta análise não avalia o desempenho de Alexandre de Moraes no cargo, não
+examina seus votos, decisões ou atuação como ministro, e não atribui mérito ou
+demérito.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+TESTE B2 — Luís Roberto Barroso como Vice-Presidente do STF
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Luís Roberto Barroso
+Período:         Não informado
+Vínculo:         SIM — Empossado Vice-Presidente do STF em 12/09/2022; exerceu
+                 o cargo até 28/09/2023, quando assumiu a Presidência da Corte
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna, exercido por ministro eleito pelo
+                 Plenário com mandato de dois anos
+
+Luís Roberto Barroso exerceu a Vice-Presidência do STF de 12 de setembro de
+2022 a 28 de setembro de 2023, quando foi empossado Presidente da Corte.
+
+--------------------------------------------------------------------------------
+2. FUNÇÃO PRINCIPAL DO CARGO
+--------------------------------------------------------------------------------
+(Idêntico ao Teste A — ver Bloco A, seção 2.)
+
+--------------------------------------------------------------------------------
+3–5. O QUE O CARGO PODE/NÃO PODE FAZER / DEPENDÊNCIAS
+--------------------------------------------------------------------------------
+(As atribuições, limitações e dependências são idênticas às descritas no Teste A,
+pois decorrem do cargo e não da pessoa. Ver Bloco A, seções 3 a 5.)
+
+--------------------------------------------------------------------------------
+6. TRADUÇÃO PRÁTICA
+--------------------------------------------------------------------------------
+Durante o período em que exerceu a Vice-Presidência (setembro de 2022 a setembro
+de 2023), Luís Roberto Barroso acumulou essa função com a de ministro julgador,
+substituindo a presidente Rosa Weber em suas ausências e impedimentos. Edson
+Fachin tomou posse como vice-presidente quando Barroso assumiu a presidência em
+28 de setembro de 2023.
+
+--------------------------------------------------------------------------------
+7. RESPONSABILIDADE
+--------------------------------------------------------------------------------
+(Idêntico ao Teste A — ver Bloco A, seção 7.)
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo:
+
+Nome:                  Portal STF — "Dados e Datas" de Luís Roberto Barroso
+                       (portal.stf.jus.br), com referência ao Livro para
+                       Registro dos Termos de Posse
+Classificação:         OFICIAL
+Tipo:                  Registro oficial do tribunal com referência documental
+                       primária
+Data:                  Acessado em 2025
+Informação confirmada: Barroso empossado Vice-Presidente do STF em 12/09/2022;
+                       empossado Presidente em 28/09/2023
+
+B) Fontes para explicar competências do cargo:
+
+Nome:                  RISTF, arts. 4º, § 3º; 8º; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do tribunal
+Data:                  1980, consolidado
+Informação confirmada: Atribuições e limitações do Vice-Presidente
+
+Nome:                  CF/1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+Esta análise não avalia o desempenho de Luís Roberto Barroso como Vice-Presidente,
+não examina votos ou decisões do período e não atribui mérito ou demérito.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+TESTE B3 — Gilmar Mendes como Vice-Presidente do STF (sem período)
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Gilmar Mendes
+Período:         Não informado
+Vínculo:         SIM — Empossado Vice-Presidente do STF em 27/04/2006;
+                 exerceu o cargo até 23/04/2008, quando assumiu a Presidência
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna do tribunal, exercido por ministro
+                 eleito pelo Plenário com mandato de dois anos
+
+Gilmar Mendes exerceu a Vice-Presidência do STF de 27 de abril de 2006 a
+23 de abril de 2008, quando foi empossado Presidente da Corte.
+
+--------------------------------------------------------------------------------
+2–7. FUNÇÃO, PODERES, LIMITAÇÕES, DEPENDÊNCIAS, TRADUÇÃO E RESPONSABILIDADE
+--------------------------------------------------------------------------------
+(As atribuições, limitações, dependências, tradução prática e tabela de
+responsabilidade são idênticas às descritas no Teste A, pois decorrem
+exclusivamente do cargo, sendo iguais para qualquer ocupante.
+Ver Bloco A, seções 2 a 7.)
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo:
+
+Nome:                  Portal STF — "Dados e Datas" de Gilmar Mendes
+                       (portal.stf.jus.br), com referência ao Livro para
+                       Registro dos Termos de Posse, p. 66, e ao Diário da
+                       Justiça, 15 maio 2006
+Classificação:         OFICIAL
+Tipo:                  Registro oficial do tribunal com referência documental
+                       primária
+Data:                  Acessado em 2026
+Informação confirmada: Gilmar Mendes empossado Vice-Presidente do STF em
+                       27/04/2006; empossado Presidente em 23/04/2008
+
+Nome:                  Portal STF — Notícia de posse de Gilmar Mendes na
+                       presidência (noticias.stf.jus.br)
+Classificação:         OFICIAL
+Tipo:                  Comunicado institucional do próprio tribunal
+Data:                  2008
+Informação confirmada: Confirmação de que o cargo de Vice-Presidente foi
+                       exercido por Gilmar Mendes nos dois anos anteriores
+
+B) Fontes para explicar competências do cargo:
+
+Nome:                  RISTF, arts. 4º, § 3º; 8º; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do tribunal
+Data:                  1980, consolidado
+Informação confirmada: Atribuições e substituição do Vice-Presidente
+
+Nome:                  CF/1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+Esta análise não avalia o desempenho de Gilmar Mendes como Vice-Presidente do
+STF, não examina votos ou decisões do período e não atribui mérito ou demérito.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+BLOCO C — TESTES PESSOA-CARGO-PERÍODO
+================================================================================
+
+================================================================================
+TESTE C1 — Alexandre de Moraes | Vice-Presidente do STF | 2025-2027
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Alexandre de Moraes
+Período:         2025-2027
+Vínculo:         SIM — Eleito em 13/08/2025 e empossado em 29/09/2025 pelo
+                 Plenário do STF para o biênio 2025-2027
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna, exercido por ministro eleito pelo
+                 Plenário com mandato de dois anos, vedada reeleição imediata
+
+O vínculo entre Alexandre de Moraes e o cargo de Vice-Presidente do STF no
+biênio 2025-2027 está confirmado por fontes oficiais do próprio tribunal.
+
+--------------------------------------------------------------------------------
+2–7. FUNÇÃO, PODERES, LIMITAÇÕES, DEPENDÊNCIAS, TRADUÇÃO E RESPONSABILIDADE
+--------------------------------------------------------------------------------
+(Idênticos ao Teste A, pois as atribuições decorrem do cargo.
+Ver Bloco A, seções 2 a 7.)
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo-período:
+
+Nome:                  Portal STF — Notícia de posse da gestão 2025/2027
+                       (noticias.stf.jus.br)
+Classificação:         OFICIAL
+Tipo:                  Comunicado institucional do próprio tribunal
+Data:                  29/09/2025
+Informação confirmada: Alexandre de Moraes empossado Vice-Presidente do STF em
+                       29/09/2025 para o biênio 2025-2027
+
+Nome:                  AMB — Associação dos Magistrados Brasileiros
+Classificação:         INSTITUCIONAL
+Tipo:                  Nota institucional
+Data:                  13/08/2025
+Informação confirmada: Eleição de Alexandre de Moraes como Vice-Presidente para
+                       2025-2027
+
+B) Fontes para explicar competências:
+
+Nome:                  RISTF, arts. 4º, § 3º; 8º; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do tribunal
+Data:                  1980, consolidado
+Informação confirmada: Atribuições e substituição do Vice-Presidente
+
+Nome:                  CF/1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+TESTE C2 — Luís Roberto Barroso | Vice-Presidente do STF | 2022-2023
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Luís Roberto Barroso
+Período:         2022-2023
+Vínculo:         SIM — Empossado Vice-Presidente do STF em 12/09/2022 (Termo de
+                 Posse registrado no Livro para Registro dos Termos de Posse,
+                 p. 95, 1977—); exerceu o cargo até 28/09/2023, quando tomou
+                 posse como Presidente da Corte
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna, exercido por ministro eleito pelo
+                 Plenário com mandato de dois anos
+
+O vínculo entre Luís Roberto Barroso e o cargo de Vice-Presidente do STF no
+período setembro de 2022 a setembro de 2023 está confirmado por fonte oficial
+do próprio tribunal.
+
+--------------------------------------------------------------------------------
+2–7. FUNÇÃO, PODERES, LIMITAÇÕES, DEPENDÊNCIAS, TRADUÇÃO E RESPONSABILIDADE
+--------------------------------------------------------------------------------
+(Idênticos ao Teste A — ver Bloco A, seções 2 a 7.)
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo-período:
+
+Nome:                  Portal STF — "Dados e Datas" de Luís Roberto Barroso
+                       (portal.stf.jus.br), referência ao Livro para Registro
+                       dos Termos de Posse
+Classificação:         OFICIAL
+Tipo:                  Registro oficial com referência documental primária
+Data:                  Acessado em 2025
+Informação confirmada: Posse na vice-presidência em 12/09/2022;
+                       posse na presidência em 28/09/2023
+
+B) Fontes para explicar competências:
+
+Nome:                  RISTF, arts. 4º, § 3º; 8º; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do tribunal
+Data:                  1980, consolidado
+Informação confirmada: Atribuições e substituição do Vice-Presidente
+
+Nome:                  CF/1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+TESTE C3 — Gilmar Mendes | Vice-Presidente do STF | 2006-2008
+================================================================================
+
+--------------------------------------------------------------------------------
+1. CARGO ANALISADO
+--------------------------------------------------------------------------------
+Cargo:           Vice-Presidente do Supremo Tribunal Federal (STF)
+Pessoa:          Gilmar Mendes
+Período:         2006-2008
+Vínculo:         SIM — Empossado Vice-Presidente do STF em 27/04/2006 (Termo de
+                 Posse registrado no Livro para Registro dos Termos de Posse,
+                 p. 66, 1977—; Diário da Justiça, 15 maio 2006, Seção 1,
+                 p. 24-28); exerceu o cargo por dois anos até ser empossado
+                 Presidente em 23/04/2008
+Esfera:          Federal
+Poder:           Poder Judiciário — órgão máximo
+Tipo de cargo:   Cargo de direção interna, exercido por ministro eleito pelo
+                 Plenário com mandato de dois anos
+
+O vínculo entre Gilmar Mendes e o cargo de Vice-Presidente do STF no período
+27 de abril de 2006 a 23 de abril de 2008 está confirmado por fontes oficiais
+do próprio tribunal.
+
+--------------------------------------------------------------------------------
+2–7. FUNÇÃO, PODERES, LIMITAÇÕES, DEPENDÊNCIAS, TRADUÇÃO E RESPONSABILIDADE
+--------------------------------------------------------------------------------
+(Idênticos ao Teste A — ver Bloco A, seções 2 a 7.)
+
+--------------------------------------------------------------------------------
+8. FONTES
+--------------------------------------------------------------------------------
+A) Fontes para confirmar vínculo pessoa-cargo-período:
+
+Nome:                  Portal STF — "Dados e Datas" de Gilmar Mendes
+                       (portal.stf.jus.br), com referência ao Livro para
+                       Registro dos Termos de Posse, p. 66, e ao Diário da
+                       Justiça, 15 maio 2006, Seção 1, p. 24-28
+Classificação:         OFICIAL
+Tipo:                  Registro oficial com referência documental primária
+Data:                  Acessado em 2026
+Informação confirmada: Posse na vice-presidência em 27/04/2006; exercício do
+                       cargo por dois anos até a posse na presidência em
+                       23/04/2008
+
+Nome:                  Portal STF — Notícia de posse de Gilmar Mendes na
+                       presidência (noticias.stf.jus.br)
+Classificação:         OFICIAL
+Tipo:                  Comunicado institucional do próprio tribunal
+Data:                  2008
+Informação confirmada: Confirmação de que o cargo de Vice-Presidente foi
+                       exercido por Gilmar Mendes nos dois anos anteriores
+
+B) Fontes para explicar competências:
+
+Nome:                  RISTF, arts. 4º, § 3º; 8º; 12; 14; 37, I
+Classificação:         OFICIAL
+Tipo:                  Normativo interno do tribunal
+Data:                  1980, consolidado
+Informação confirmada: Atribuições e substituição do Vice-Presidente
+
+Nome:                  CF/1988, art. 96, I, a
+Classificação:         OFICIAL
+Tipo:                  Lei fundamental
+Data:                  1988
+Informação confirmada: Competência do STF para elaborar seu regimento
+
+--------------------------------------------------------------------------------
+9. COMO USAR ESTA INFORMAÇÃO
+--------------------------------------------------------------------------------
+Esta análise não avalia o desempenho de Gilmar Mendes como Vice-Presidente do
+STF no período 2006-2008, não examina votos ou decisões e não atribui mérito
+ou demérito.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+
+================================================================================
+CONTROLE FINAL — VALIDAÇÃO DOS 9 TESTES
+================================================================================
+
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Critério                                      | A1 | B1 | B2 | B3 | C1 | C2 | C3 |
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Cargo explicado com fonte compatível?         | OK | OK | OK | OK | OK | OK | OK |
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Vínculo pessoa-cargo confirmado por fonte     | NA | OK | OK | OK | OK | OK | OK |
+| oficial/institucional?                        |    |    |    |    |    |    |    |
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Vínculo período confirmado?                   | NA | NA | NA | NA | OK | OK | OK |
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Fonte indireta tratada como confirmação?      | NÃO| NÃO| NÃO| NÃO| NÃO| NÃO| NÃO|
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Fonte indireta usada para explicar            | NÃO| NÃO| NÃO| NÃO| NÃO| NÃO| NÃO|
+| competência formal?                           |    |    |    |    |    |    |    |
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Competência atribuída sem base oficial?       | NÃO| NÃO| NÃO| NÃO| NÃO| NÃO| NÃO|
++-----------------------------------------------+----+----+----+----+----+----+----+
+| Resposta avaliou desempenho, ideologia        | NÃO| NÃO| NÃO| NÃO| NÃO| NÃO| NÃO|
+| ou intenção?                                  |    |    |    |    |    |    |    |
++-----------------------------------------------+----+----+----+----+----+----+----+
+
+Todos os testes passaram na validação. Nenhuma competência foi atribuída sem
+base no RISTF ou na CF/1988. Nenhuma fonte indireta foi usada para confirmar
+vínculo ou explicar competência formal. Nenhum desempenho foi avaliado.
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

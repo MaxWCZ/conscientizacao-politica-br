@@ -1,0 +1,116 @@
+Com base nas pesquisas realizadas, tenho informação suficiente para responder. O Portal da Câmara dos Deputados confirma que Paulo Maluf exerceu mandato de Deputado Federal de 2015 a 2019, e que seu cargo de Governador de São Paulo foi exercido entre 1979 e 1982 — não em 2015.
+
+---
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Governador do Estado de São Paulo
+- **Pessoa:** Paulo Maluf
+- **Período:** 2015
+- **A pessoa exerceu esse cargo no período indicado?** **Não.**
+
+Em 2015, Paulo Maluf exercia o mandato de **Deputado Federal** pelo estado de São Paulo (55ª Legislatura, posse em 01/02/2015), pelo partido PP. Seu mandato como Governador do Estado de São Paulo ocorreu entre 15 de março de 1979 e 14 de maio de 1982 — mais de três décadas antes do período indicado.
+
+Como o vínculo pessoa-cargo **não se confirma** para o período de 2015, as seções seguintes explicam o cargo de **Governador do Estado de São Paulo em geral**, sem atribuir suas competências a Paulo Maluf naquele período.
+
+- **Esfera:** Estadual
+- **Poder ou estrutura:** Poder Executivo do Estado de São Paulo
+- **Tipo de cargo:** Cargo eletivo, de chefia do Poder Executivo estadual, com mandato de 4 anos
+
+> O Governador do Estado de São Paulo é o chefe do Poder Executivo estadual, responsável por administrar o estado, executar as leis e coordenar as políticas públicas no âmbito da esfera estadual.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para exercer a chefia do Poder Executivo do Estado de São Paulo. O Governador dirige a administração pública estadual, executa o orçamento aprovado pela Assembleia Legislativa, sanciona ou veta leis, nomeia secretários e superintende os serviços públicos estaduais (saúde, educação, segurança, transporte, entre outros).
+
+A base normativa é a **Constituição do Estado de São Paulo de 1989**, especialmente os artigos 47 a 57, que definem as atribuições do Governador.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar ou vetar leis aprovadas pela Assembleia Legislativa | Transformar projetos em lei ou devolvê-los com objeções | CE-SP/1989, art. 47, III |
+| Editar decretos e regulamentos | Regulamentar leis sem necessidade de votação legislativa | CE-SP/1989, art. 47, IV |
+| Nomear e exonerar secretários de Estado | Montar e remodelar sua equipe de governo | CE-SP/1989, art. 47, VII |
+| Enviar à Assembleia o projeto de lei orçamentária (LOA) e o plano plurianual (PPA) | Propor como os recursos públicos serão alocados | CE-SP/1989, art. 47, X |
+| Decretar intervenção em municípios, nos casos previstos | Intervir em gestão municipal em situações excepcionais definidas em lei | CE-SP/1989, art. 6º |
+| Comandar a Polícia Militar e a Polícia Civil do Estado | Exercer a chefia da segurança pública estadual | CE-SP/1989, art. 139 |
+| Solicitar à Assembleia regime de urgência para projetos de sua iniciativa | Acelerar a tramitação de matérias de interesse do Executivo | CE-SP/1989, art. 28 |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar o orçamento do estado | Aprovação é competência exclusiva da Assembleia Legislativa | Assembleia Legislativa do Estado de São Paulo |
+| Criar ou extinguir cargos públicos sem lei | Exige autorização legislativa | Assembleia Legislativa |
+| Legislar sobre matérias de competência da Assembleia | A separação dos poderes veda ao Executivo legislar ordinariamente | Poder Legislativo estadual |
+| Intervir em municípios sem amparo constitucional | Requer fundamento nas hipóteses taxativas da Constituição Estadual | Constituição Estadual e Tribunal de Justiça |
+| Decretar estado de defesa ou estado de sítio | Competência exclusiva do Presidente da República | Constituição Federal, arts. 136-141 |
+| Contrair empréstimos e dívidas acima dos limites sem autorização | Sujeito à Lei de Responsabilidade Fiscal e à autorização legislativa | Assembleia Legislativa e normas federais (LRF) |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Governador é condicionada por:
+
+- **Assembleia Legislativa do Estado de São Paulo:** aprova leis, o orçamento, autoriza operações de crédito e pode derrubar vetos do Governador.
+- **Tribunal de Contas do Estado (TCE-SP):** fiscaliza as contas e a execução orçamentária do Executivo estadual.
+- **Poder Judiciário estadual:** pode anular atos do Executivo que violem a Constituição ou as leis.
+- **Constituição Federal:** delimita as competências estaduais; matérias de competência da União estão fora do alcance do Governador.
+- **Lei de Responsabilidade Fiscal (Lei Complementar 101/2000):** impõe limites de gasto com pessoal, endividamento e transparência fiscal.
+- **Orçamento aprovado:** o Governador não pode gastar além do que foi autorizado pela Assembleia na LOA.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Governador é quem "toca" o dia a dia do estado — é ele quem manda na segurança pública estadual, nas escolas estaduais, nos hospitais estaduais, nas estradas sob jurisdição do estado. Mas ele não pode fazer tudo sozinho: para gastar dinheiro, precisa que a Assembleia aprove o orçamento; para criar uma lei nova, precisa que os deputados estaduais votem; e o Judiciário pode barrar qualquer ação que contrarie a Constituição. É um cargo de grande poder, mas com freios institucionais relevantes.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Quando o Governador tinha poder formal para decidir ou executar — nomeações, decretos, gestão das forças de segurança, execução do orçamento aprovado |
+| **Responsabilidade compartilhada** | Quando dependia de outros — aprovação de leis e orçamento pela Assembleia, fiscalização do TCE, decisões do Judiciário |
+| **Influência política** | Quando podia articular, negociar ou pressionar, mas não decidir sozinho — relações com o governo federal, municípios, bancadas partidárias |
+| **Ausência de competência direta** | Quando o tema é de competência federal (seguridade social, relações exteriores, legislação penal) ou municipal (serviços de competência local) |
+
+---
+
+## 8. FONTES
+
+### A) Vínculo pessoa-cargo (Paulo Maluf — Governador de SP — 2015)
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Portal da Câmara dos Deputados — página do Dep. Paulo Maluf | OFICIAL | Digital | Consultado em 2025 | Em 2015, Paulo Maluf exercia mandato de Deputado Federal (55ª Legislatura, posse 01/02/2015); **não era Governador** |
+| Portal da Câmara dos Deputados — Biografia | OFICIAL | Digital | Consultado em 2025 | Mandato como Governador de SP: 1979–1982; não há registro de mandato como Governador em 2015 |
+
+### B) Fontes para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Constituição do Estado de São Paulo de 1989 (arts. 47–57) | OFICIAL | Normativo | 1989, com emendas | Atribuições e competências do Governador do Estado |
+| Lei de Responsabilidade Fiscal — LC 101/2000 | OFICIAL | Normativo | 2000 | Limites fiscais aplicáveis ao Executivo estadual |
+| Constituição Federal de 1988 (arts. 25, 136–141) | OFICIAL | Normativo | 1988 | Delimitação das competências estaduais e federais |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise **não avalia** se Paulo Maluf foi bom ou mau governante, nem julga qualquer ato de sua carreira. O que foi feito aqui é verificar **se ele ocupava o cargo indicado no período indicado** — e a resposta é não: em 2015, ele exercia mandato de Deputado Federal, não de Governador.
+
+As competências do cargo de Governador foram descritas com base nas normas oficiais aplicáveis, de forma neutra e verificável.
+
+> **"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."**
+
+Neste caso específico, atribuir a Paulo Maluf competências de Governador referentes ao ano de 2015 seria factualmente incorreto: ele não ocupava esse cargo naquele período.

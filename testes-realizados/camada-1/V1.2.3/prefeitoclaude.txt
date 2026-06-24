@@ -1,0 +1,116 @@
+# Análise do Cargo: Prefeito
+
+---
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Prefeito
+- **Pessoa, se houver:** Não informada
+- **Período, se houver:** Não informado
+- **A pessoa exerceu esse cargo no período indicado?** Não aplicável
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Executivo Municipal
+- **Tipo de cargo:** Cargo eletivo, mandato de 4 anos, reelegível uma vez
+
+O Prefeito é o chefe do Poder Executivo municipal, eleito diretamente pela população para administrar o município.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para dirigir a administração pública do município, executar as leis municipais, gerir os serviços públicos locais e representar o município perante outras esferas de governo e instituições. Quem ocupa essa função é o responsável pela gestão do dia a dia da cidade, dentro dos limites estabelecidos pela Constituição Federal, pela Constituição Estadual e pela Lei Orgânica do Município.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Chefiar o Executivo municipal | Dirigir toda a administração direta e indireta do município | CF/88, art. 29; Lei Orgânica Municipal |
+| Sancionar, promulgar ou vetar leis municipais | Dar validade ou recusar projetos aprovados pela Câmara | CF/88, art. 66 (aplicado ao município via Lei Orgânica) |
+| Propor o orçamento municipal (LOA, LDO, PPA) | Apresentar à Câmara as prioridades e a previsão de receitas e despesas | CF/88, art. 165; Lei de Responsabilidade Fiscal |
+| Nomear e exonerar secretários e servidores comissionados | Compor o governo com pessoas de sua confiança nos cargos de livre nomeação | CF/88, art. 37; legislação municipal |
+| Expedir decretos e regulamentos | Regulamentar leis e organizar a administração sem precisar de aprovação da Câmara | CF/88, art. 84 (aplicado analogicamente via Lei Orgânica) |
+| Administrar os serviços públicos municipais | Gerir saúde básica, educação fundamental, transporte coletivo, saneamento, limpeza urbana, entre outros de competência local | CF/88, art. 30 |
+| Celebrar contratos e convênios | Firmar acordos com fornecedores, outros municípios, estados ou União | Lei 8.666/1993 (substituída pela Lei 14.133/2021); legislação local |
+| Representar o município | Atuar em nome do município em relações institucionais, judiciais e administrativas | Lei Orgânica Municipal |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar ou aumentar tributos municipais | Exige lei aprovada pela Câmara Municipal | Câmara Municipal; CF/88, art. 150, I |
+| Aprovar o orçamento municipal | A LOA, a LDO e o PPA precisam ser votados e aprovados pela Câmara | Câmara Municipal; CF/88, art. 165 |
+| Legislar sobre matérias de competência municipal | A função legislativa cabe à Câmara Municipal | Câmara Municipal; CF/88, art. 29 |
+| Contrair empréstimos ou dívidas acima de limites legais | Depende de autorização legislativa e cumprimento de regras fiscais | Câmara Municipal; Senado Federal; Lei de Responsabilidade Fiscal |
+| Afastar-se do cargo por mais de 15 dias sem autorização | Requer aprovação da Câmara Municipal | Câmara Municipal; Lei Orgânica Municipal |
+| Criar cargos públicos efetivos | Depende de lei aprovada pela Câmara | Câmara Municipal |
+| Alterar a Lei Orgânica do Município | A Lei Orgânica só pode ser modificada pela Câmara, com quórum qualificado | Câmara Municipal; CF/88, art. 29 |
+| Responder por crimes de responsabilidade sem processo formal | A cassação do mandato exige processo na Câmara ou no Tribunal de Justiça | Câmara Municipal; Tribunal de Justiça Estadual; Lei 1.079/1950; DL 201/1967 |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O exercício do cargo de Prefeito está condicionado por diversas instâncias e normas:
+
+**Câmara Municipal:** aprova o orçamento, as leis, os tributos, autoriza operações de crédito e pode iniciar processo de cassação do mandato.
+
+**Tribunal de Contas (TCE ou TCM, conforme o estado):** fiscaliza as contas do município, emite pareceres sobre a gestão fiscal e pode recomendar ou determinar correções.
+
+**Ministério Público:** pode investigar e acionar judicialmente o Prefeito por atos de improbidade administrativa ou crimes.
+
+**Poder Judiciário:** pode anular atos administrativos, determinar obrigações ao município e julgar ações contra o Prefeito.
+
+**Lei de Responsabilidade Fiscal (LC 101/2000):** impõe limites de gasto com pessoal, endividamento e transferências, com sanções em caso de descumprimento.
+
+**Constituição Federal e Estadual:** definem as competências municipais e os limites de atuação do Executivo local.
+
+**Lei Orgânica do Município:** regramento local que detalha as atribuições, os procedimentos e os limites do cargo.
+
+**Repasses federais e estaduais:** parte significativa do orçamento municipal depende de transferências constitucionais (FPM, FUNDEB, SUS) e de convênios sujeitos a regras federais e estaduais.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Prefeito é quem gerencia a "máquina" da cidade — contrata serviços, organiza a coleta de lixo, a saúde básica, as escolas municipais, o transporte e as obras. Mas ele não pode fazer tudo sozinho: precisa que a Câmara aprove leis e o orçamento, deve seguir limites financeiros rígidos e está sujeito à fiscalização de tribunais e do Ministério Público. Se tomar decisões erradas ou ilegais, pode ser responsabilizado civil, criminal e politicamente.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Quando o Prefeito tinha poder formal para decidir ou executar: gestão dos serviços municipais, nomeação de secretários, expedição de decretos, execução do orçamento aprovado, celebração de contratos |
+| **Responsabilidade compartilhada** | Quando dependia de outros: aprovação do orçamento pela Câmara, criação de tributos, autorização para contrair dívidas, aprovação de leis |
+| **Influência política** | Quando podia articular ou defender algo, mas não decidir sozinho: negociação de repasses com estados e União, articulação com a Câmara para aprovação de projetos, participação em consórcios intermunicipais |
+| **Ausência de competência direta** | Quando o cargo não tinha poder formal sobre o tema: segurança pública estadual (polícia civil e militar), justiça, legislação federal e estadual, serviços públicos de competência do estado ou da União |
+
+---
+
+## 8. FONTES
+
+**A) Fontes para confirmar vínculo pessoa-cargo:** Não aplicável (nenhuma pessoa foi informada).
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo:**
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Constituição Federal de 1988, arts. 29, 30, 37, 150, 165 | OFICIAL | Norma constitucional | 1988, com emendas | Organização do município, competências municipais, orçamento, tributação, administração pública |
+| Decreto-Lei nº 201/1967 | OFICIAL | Decreto-Lei federal | 1967 | Responsabilidade de Prefeitos e Vereadores, crimes de responsabilidade |
+| Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal) | OFICIAL | Lei complementar federal | 2000 | Limites fiscais aplicáveis ao município |
+| Lei nº 14.133/2021 (Lei de Licitações e Contratos) | OFICIAL | Lei federal | 2021 | Regras para contratos e licitações municipais |
+| Lei Orgânica Municipal | OFICIAL | Norma municipal | Varia por município | Atribuições detalhadas do Prefeito no âmbito local |
+
+> **Nota:** A Lei Orgânica varia por município. Para análise de um município específico, deve-se consultar a Lei Orgânica daquele ente, disponível na Câmara Municipal ou no portal da Prefeitura correspondente.
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia o desempenho de nenhuma pessoa, não emite julgamento sobre gestões específicas e não interpreta intenções ou ideologia. O objetivo é exclusivamente descrever o que o cargo de Prefeito formalmente permite ou não permite fazer, com base em fontes oficiais e institucionais.
+
+> **"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."**

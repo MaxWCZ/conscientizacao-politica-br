@@ -1,0 +1,68 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Prefeito
+* Pessoa, se houver: Não informada
+* Período, se houver: Não informado
+* A pessoa exerceu esse cargo no período indicado? Não informado
+* Esfera: Municipal
+* Poder ou estrutura: Poder Executivo
+* Tipo de cargo: Eletivo (Mandato político)
+
+O Prefeito é o chefe do Poder Executivo municipal, responsável pela administração e pela prestação de serviços públicos de interesse local na respectiva cidade.
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de Prefeito existe para chefiar a administração pública do município, planejar e executar políticas públicas locais (como saneamento básico, transporte coletivo, educação infantil e atenção básica à saúde), gerenciar o orçamento da cidade e aplicar as leis municipais.
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar, promulgar e publicar leis | Aprovar formalmente as leis que foram votadas e aprovadas pelos vereadores. | Constituição Federal, Art. 29 |
+| Vetar projetos de lei | Rejeitar, total ou parcialmente, projetos de lei aprovados pelos vereadores que considerar inconstitucionais ou contrários ao interesse público. | Constituição Federal, Art. 29 |
+| Expedir decretos e regulamentos | Assinar normas para organizar o funcionamento interno da prefeitura e detalhar a aplicação das leis municipais. | Constituição Federal, Art. 30 |
+| Dispor sobre a administração dos bens municipais | Gerir os imóveis, terrenos, frotas de veículos e demais patrimônios pertencentes ao município. | Constituição Federal, Art. 30 |
+| Prestar serviços de interesse local | Organizar e executar, de forma direta ou por concessão/permissão, serviços como o transporte coletivo municipal. | Constituição Federal, Art. 30, V |
+| Propor o orçamento municipal | Elaborar as metas, as diretrizes e o orçamento anual detalhando como o dinheiro dos impostos municipais será gasto. | Constituição Federal, Art. 29 e Art. 165 |
+| Arrecadar tributos municipais | Cobrar e gerenciar os impostos da competência do município, tais como o IPTU, o ISS e o ITBI. | Constituição Federal, Art. 30, III |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar ou aumentar impostos | Exige a aprovação de uma lei municipal que estipule a criação ou a alteração do tributo. | Câmara Municipal (Vereadores) |
+| Gastar recursos públicos livremente | O Prefeito deve seguir estritamente as dotações aprovadas nas leis orçamentárias e as regras de licitação. | Câmara Municipal (aprovação) e Tribunal de Contas (fiscalização) |
+| Aprovar o próprio orçamento municipal | O plano de gastos elaborado pelo Prefeito precisa passar por votação e aprovação do Poder Legislativo municipal. | Câmara Municipal (Vereadores) |
+| Alienar ou doar bens imóveis do município | A venda ou a doação de patrimônio imobiliário público necessita de autorização legislativa prévia. | Câmara Municipal (Vereadores) |
+| Legislar sobre matérias penais ou civis | A competência para criar leis sobre direito penal, civil, do trabalho, entre outros, pertence exclusivamente à União. | Congresso Nacional |
+| Fixar o subsídio (salário) dos vereadores e o seu próprio | Os valores de remuneração política do município são determinados por lei de iniciativa da própria casa legislativa. | Câmara Municipal (Vereadores) |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do Prefeito depende diretamente da harmonia e da aprovação da Câmara Municipal, que detém o poder de votar o orçamento, criar leis locais e fiscalizar as contas do município. Depende também do cumprimento estrito de normas federais e estaduais, como a Constituição Federal, a Lei de Responsabilidade Fiscal (LRF) e a Lei de Licitações. Ademais, a execução de grandes projetos de infraestrutura ou saúde frequentemente depende de repasses e convênios vinculados com o Governo Estadual e o Governo Federal, visto que a arrecadação direta do município (IPTU e ISS) pode não cobrir todas as demandas estruturais locais.
+## 6. TRADUÇÃO PRÁTICA
+Para um cidadão comum, o Prefeito atua como o diretor-geral ou o gestor dos serviços cotidianos da cidade. É o Prefeito quem gerencia as creches municipais, os postos de saúde de atenção básica (UBS), a coleta de lixo, a iluminação das ruas, o asfalto das vias urbanas e o transporte de ônibus municipais. Ele escolhe os secretários municipais (como os de Saúde e Educação) para executar essas tarefas, mas ele não dita as leis sozinho e precisa prestar contas de cada centavo gasto à Câmara de Vereadores e aos órgãos de fiscalização do Estado.
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o prefeito decide a nomeação de secretários, a assinatura de decretos organizacionais e a execução dos serviços municipais públicos de interesse estritamente local. |
+| Responsabilidade compartilhada | Quando a aplicação do dinheiro público necessita obedecer ao orçamento aprovado pelos vereadores, ou quando ações de saúde e segurança pública dependem de programas e repasses conjuntos com o Estado e a União. |
+| Influência política | Quando o prefeito dialoga com deputados, governadores ou ministros em busca de emendas parlamentares ou investimentos externos para obras na cidade. |
+| Ausência de competência direta | Quando o tema envolve policiamento ostensivo e civil (competência estadual), emissão de documentos federais (como passaporte) ou legislação sobre crimes e leis trabalhistas. |
+
+## 8. FONTES
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:
+
+* Não aplicável, pois nenhuma pessoa foi informada.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+* Tipo: Norma Constitucional / Legislação Federal
+* Data: 05 de outubro de 1988
+* Informação confirmada: Competências dos Municípios (Art. 30), disposições gerais sobre a organização municipal, prefeitos e vereadores (Art. 29) e diretrizes orçamentárias (Art. 165).
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise técnica detalha estritamente as prerrogativas, os limites e as atribuições constitucionais inerentes ao cargo de Prefeito, não realizando qualquer julgamento de mérito sobre administrações passadas ou presentes.
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.
+------------------------------
+Se desejar analisar a atuação de uma liderança municipal específica, por favor forneça o nome da pessoa e o período correspondente para que o vínculo histórico possa ser devidamente verificado nas fontes oficiais.
+

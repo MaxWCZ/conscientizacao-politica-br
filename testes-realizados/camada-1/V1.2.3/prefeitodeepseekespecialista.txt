@@ -1,0 +1,74 @@
+1. CARGO ANALISADO
+- Cargo: Prefeito
+- Pessoa, se houver: não informada
+- Período, se houver: não informado
+- A pessoa exerceu esse cargo no período indicado? não informado
+- Esfera: Municipal
+- Poder ou estrutura: Poder Executivo Municipal
+- Tipo de cargo: cargo eletivo
+
+O Prefeito é o chefe do Poder Executivo municipal e conduz a administração da cidade.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de Prefeito existe para governar o município, executar as leis locais e administrar os serviços públicos de interesse local, zelando pelo bem-estar da população e pelo desenvolvimento urbano e social da cidade.
+
+3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|----------------------------------|-------|
+| Sancionar, vetar ou promulgar leis municipais | Aprovar projetos de lei da Câmara, vetá-los total ou parcialmente, ou promulgá-los caso o veto seja derrubado. | Constituição Federal, art. 29, XI (remete à Lei Orgânica, que estabelece o processo legislativo com participação do Prefeito). |
+| Nomear e exonerar secretários municipais e ocupantes de cargos em comissão | Escolher livremente a equipe de auxiliares diretos (secretários) e preencher funções de direção e assessoramento, respeitadas as regras legais. | Constituição Federal, art. 37, II e V; Lei Orgânica do Município (define cargos e estrutura). |
+| Enviar à Câmara os projetos de lei orçamentária (PPA, LDO e LOA) | Elaborar e apresentar o planejamento financeiro e os orçamentos anuais do município. | Constituição Federal, art. 165, § 9º, I (atribuição do Chefe do Executivo, aplicável a todas as esferas). |
+| Executar o orçamento aprovado e ordenar despesas | Autorizar pagamentos, contratar obras e serviços e movimentar os recursos municipais dentro dos limites da lei orçamentária. | Constituição Federal, art. 30, I (competência para administrar bens e serviços locais), combinado com Lei nº 4.320/1964. |
+| Representar o município em juízo e em atos oficiais | Assinar contratos, convênios e representar a cidade em ações judiciais e relações institucionais. | Constituição Federal, art. 30, I; Lei Orgânica do Município (usualmente designa o Prefeito como representante legal). |
+| Prestar contas anualmente à Câmara e ao Tribunal de Contas | Apresentar relatórios financeiros e de execução orçamentária, submetendo-se à fiscalização. | Constituição Federal, art. 31, caput e § 1º. |
+| Expedir decretos e regulamentos para a correta execução das leis | Detalhar, por decreto, como as leis municipais devem ser aplicadas pela administração. | Constituição Federal, art. 84, IV (poder regulamentar, por simetria, aplicado ao Prefeito conforme Lei Orgânica). |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---------------------------|----------|---------------------------------|
+| Criar leis ou alterar leis permanentes | Cabe à Câmara Municipal legislar; o Prefeito pode propor projetos, mas não os aprova sozinho. | Câmara Municipal (vereadores) aprova os projetos; o Prefeito sanciona ou veta. |
+| Aprovar o próprio orçamento | O orçamento precisa ser autorizado pelo Legislativo, que pode modificá-lo. | Câmara Municipal vota e aprova o orçamento. |
+| Aprovar suas próprias contas | A fiscalização financeira é externa, evitando autojulgamento. | Câmara Municipal, com auxílio do Tribunal de Contas do Estado ou do Município (onde houver). |
+| Criar ou aumentar tributos sem lei | A Constituição exige que tributos sejam instituídos por lei aprovada pelo Legislativo. | Câmara Municipal deve aprovar lei específica. |
+| Exonerar servidores estáveis sem processo legal | Servidores concursados têm estabilidade e só perdem o cargo em casos previstos com ampla defesa. | Procedimento administrativo disciplinar, decisão judicial ou sentença transitada em julgado. |
+
+5. DO QUE ESSE CARGO DEPENDE
+O Prefeito depende:
+- Da Câmara Municipal para aprovar leis, o orçamento e projetos de empréstimos ou parcerias;
+- Do Tribunal de Contas (estadual ou municipal) e do Ministério Público, que fiscalizam a legalidade e a probidade dos atos administrativos;
+- Das leis federais e estaduais, que impõem limites (ex.: Lei de Responsabilidade Fiscal limita gastos com pessoal e endividamento);
+- Do repasse de recursos federais e estaduais e do Fundo de Participação dos Municípios, que condicionam a execução de políticas;
+- Da participação popular e de conselhos municipais, exigidos para áreas como saúde, educação e assistência social, que influenciam as decisões.
+
+6. TRADUÇÃO PRÁTICA
+Na prática, o Prefeito funciona como o gestor principal da cidade: é ele quem toca o dia a dia da administração, como cuidar da coleta de lixo, das escolas municipais e dos postos de saúde. Mas, para aprovar grandes mudanças, como uma nova lei de zoneamento ou decidir quanto será gasto no asfalto, precisa negociar com os vereadores. A população pode cobrar diretamente do Prefeito os serviços ruins, mas ele não age sozinho – precisa de autorizações, dinheiro aprovado e regras que nem sempre dependem só dele.
+
+7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|-----------------|-----------------|
+| Responsabilidade direta | O Prefeito tem poder formal para decidir sobre a execução de serviços públicos municipais, nomear a equipe, ordenar despesas dentro do orçamento e aplicar leis existentes. |
+| Responsabilidade compartilhada | Depende da aprovação da Câmara para criar leis, fixar tributos, aprovar o orçamento e contratar grandes empréstimos. |
+| Influência política | Pode articular e negociar com vereadores, deputados, governador e ministérios para viabilizar projetos, obter recursos e formar maiorias, mas não impor decisões a esses atores. |
+| Ausência de competência direta | Não tem poder formal sobre serviços de responsabilidade estadual ou federal (ex.: polícia militar, universidades federais) e não pode legislar sobre temas que a Constituição reserva à União ou aos Estados. |
+
+8. FONTES
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+- Nome: Constituição da República Federativa do Brasil de 1988
+  Classificação: OFICIAL
+  Tipo: Constituição Federal
+  Data: 05/10/1988 (com atualizações posteriores)
+  Informação confirmada: Artigos 29, 30, 31, 37, 165 e outros definem a organização dos municípios, competências, processo orçamentário e princípios da administração pública aplicáveis ao Prefeito.
+
+- Nome: Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal)
+  Classificação: OFICIAL
+  Tipo: Lei Complementar Federal
+  Data: 04/05/2000
+  Informação confirmada: Estabelece limites de gastos, endividamento e obrigações de transparência fiscal que condicionam a atuação do Prefeito.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada descreve exclusivamente as competências formais do cargo, sem avaliar desempenho, intenção ou caráter de quem o ocupou. A explicação mostra o que o cargo permite ou impede de fazer, permitindo uma análise objetiva da atuação possível. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

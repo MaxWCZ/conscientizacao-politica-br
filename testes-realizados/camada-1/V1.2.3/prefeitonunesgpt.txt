@@ -1,0 +1,138 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Prefeito municipal
+* **Pessoa, se houver:** Ricardo Nunes
+* **Período, se houver:** 2015
+* **A pessoa exerceu esse cargo no período indicado?** **Não.**
+* **Exercício interino/substituto/provisório em 2015:** **não confirmado** nas fontes oficiais/institucionais consultadas.
+* **Esfera:** Municipal
+* **Poder ou estrutura:** Poder Executivo municipal
+* **Tipo de cargo:** Cargo político eletivo do Executivo municipal
+
+A análise do vínculo foi feita para a **Prefeitura de São Paulo**, porque as fontes oficiais/institucionais encontradas sobre Ricardo Nunes tratam desse município. A lista oficial da Câmara Municipal de São Paulo indica que **Fernando Haddad** ocupou a Prefeitura de São Paulo de **01/01/2013 a 31/12/2016**, enquanto **Ricardo Nunes** aparece como prefeito apenas a partir de **16/05/2021**, por linha sucessória, e novamente desde **01/01/2025**, por eleição direta. ([Portal da Câmara Municipal de São Paulo][1])
+
+**Frase simples:** em 2015, Ricardo Nunes **não era prefeito de São Paulo**; portanto, as competências abaixo explicam o cargo de prefeito em geral, não uma atuação dele nesse período.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O prefeito é o chefe do Poder Executivo municipal: ele dirige a administração da cidade, executa políticas públicas municipais, administra recursos e serviços locais, propõe leis e orçamento à Câmara Municipal, sanciona ou veta projetos aprovados e responde juridicamente e politicamente pelos atos praticados no exercício do cargo. No caso de São Paulo, essas atribuições aparecem principalmente nos arts. 69 e 70 da Lei Orgânica do Município. ([Prefeitura de São Paulo][2])
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                                                        | O que isso significa na prática                                                                                                      | Fonte                                                                               |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Dirigir a administração municipal                                                                   | Coordenar a máquina pública municipal com secretários, subprefeitos e auxiliares.                                                    | Lei Orgânica do Município de São Paulo, art. 69, II. ([Prefeitura de São Paulo][2]) |
+| Iniciar projetos de lei nos casos previstos                                                         | Enviar propostas à Câmara Municipal quando a Lei Orgânica permite ou exige iniciativa do prefeito.                                   | Lei Orgânica, art. 69, I. ([Prefeitura de São Paulo][2])                            |
+| Sancionar, promulgar, publicar leis e expedir decretos                                              | Depois de uma lei aprovada, o prefeito pode sancioná-la e editar decretos/regulamentos para sua execução, dentro dos limites legais. | Lei Orgânica, art. 69, III. ([Prefeitura de São Paulo][2])                          |
+| Vetar projetos de lei                                                                               | Recusar total ou parcialmente projeto aprovado pela Câmara, na forma prevista pela legislação.                                       | Lei Orgânica, art. 69, IV. ([Prefeitura de São Paulo][2])                           |
+| Nomear e exonerar secretários e auxiliares                                                          | Escolher e substituir integrantes da administração municipal.                                                                        | Lei Orgânica, art. 69, V. ([Prefeitura de São Paulo][2])                            |
+| Propor orçamento, diretrizes orçamentárias, plano plurianual, dívida pública e operações de crédito | Enviar à Câmara os principais projetos financeiros e de planejamento do município.                                                   | Lei Orgânica, art. 69, X. ([Prefeitura de São Paulo][2])                            |
+| Administrar bens, receitas e rendas municipais                                                      | Gerir patrimônio, arrecadação, tributos e pagamentos, dentro do orçamento e dos créditos aprovados.                                  | Lei Orgânica, art. 70, VI. ([Prefeitura de São Paulo][2])                           |
+| Propor Plano Diretor e mudanças em uso e ocupação do solo                                           | Encaminhar propostas urbanísticas, mas sem excluir a participação do Legislativo.                                                    | Lei Orgânica, art. 70, VIII, X e parágrafo único. ([Prefeitura de São Paulo][2])    |
+| Expedir decretos, portarias e atos administrativos                                                  | Editar atos administrativos necessários ao funcionamento do Executivo municipal.                                                     | Lei Orgânica, art. 70, XIII. ([Prefeitura de São Paulo][2])                         |
+| Delegar funções administrativas não exclusivas                                                      | Passar a auxiliares determinadas funções administrativas, desde que não sejam exclusivas do prefeito.                                | Lei Orgânica, art. 71. ([Prefeitura de São Paulo][2])                               |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                                                | Por quê                                                                                                                                                       | Quem ou o que também participa                                                                                   |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Aprovar leis municipais sozinho                                                         | O prefeito pode propor, sancionar ou vetar, mas a aprovação legislativa cabe à Câmara Municipal.                                                              | Câmara Municipal; processo legislativo local.                                                                    |
+| Criar e executar despesas sem base orçamentária                                         | A Lei Orgânica vincula pagamentos aos recursos orçamentários e créditos aprovados pela Câmara.                                                                | Câmara Municipal, lei orçamentária, créditos aprovados. ([Prefeitura de São Paulo][2])                           |
+| Alterar Plano Diretor ou regras urbanísticas sozinho                                    | A própria Lei Orgânica diz que competências sobre uso do solo, Plano Diretor e denominação de vias não excluem a competência do Legislativo.                  | Câmara Municipal e legislação urbanística. ([Prefeitura de São Paulo][2])                                        |
+| Dispor livremente de ações ou capital de empresas públicas/sociedades de economia mista | A Lei Orgânica exige autorização expressa da Câmara Municipal em determinados casos.                                                                          | Câmara Municipal. ([Prefeitura de São Paulo][2])                                                                 |
+| Afastar-se do município ou do cargo por mais de 15 dias sem licença                     | A Lei Orgânica exige licença da Câmara para afastamento superior a esse limite.                                                                               | Câmara Municipal. ([Prefeitura de São Paulo][2])                                                                 |
+| Evitar fiscalização institucional                                                       | A fiscalização financeira, orçamentária, operacional e patrimonial é exercida pela Câmara, com controle externo e auxílio do Tribunal de Contas do Município. | Câmara Municipal, Tribunal de Contas do Município e sistemas de controle interno. ([Prefeitura de São Paulo][2]) |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O prefeito depende da **Lei Orgânica**, da **Constituição**, da **legislação municipal**, do **orçamento aprovado**, da **Câmara Municipal**, dos **secretários e subprefeitos**, dos **órgãos de controle interno**, do **Tribunal de Contas do Município** e, em certos casos, do **Judiciário**. A atuação do prefeito também é limitada por regras de responsabilidade: em São Paulo, a Lei Orgânica prevê julgamento pelo Tribunal de Justiça em crimes comuns e de responsabilidade, e pela Câmara Municipal em infrações político-administrativas. ([Prefeitura de São Paulo][2])
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, isso significa que o prefeito é uma figura central na gestão da cidade, mas **não governa sozinho**. Ele pode comandar serviços municipais, organizar a administração, propor orçamento e executar políticas públicas, mas muitas decisões precisam de lei, votação, orçamento, controle técnico ou fiscalização. No caso informado, como Ricardo Nunes **não era prefeito em 2015**, não se deve atribuir a ele os poderes formais de prefeito naquele ano. ([Portal da Câmara Municipal de São Paulo][1])
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                                                                                              |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o cargo tinha poder formal para decidir ou executar, como administrar bens, receitas e rendas municipais dentro do orçamento aprovado. ([Prefeitura de São Paulo][2]) |
+| Responsabilidade compartilhada | Quando a decisão dependia de Câmara Municipal, orçamento, lei, Tribunal de Contas, secretarias, subprefeituras ou outros órgãos.                                             |
+| Influência política            | Quando o prefeito podia articular, propor, defender, vetar ou negociar algo, mas não decidir sozinho.                                                                        |
+| Ausência de competência direta | Quando o cargo não tinha poder formal sobre o tema, ou quando a pessoa analisada não ocupava o cargo no período informado.                                                   |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+**Fonte 1**
+
+* **Nome:** Câmara Municipal de São Paulo — *Prefeitos da Cidade de São Paulo / Dossie-PrefeitosLista2025*
+* **Classificação:** OFICIAL
+* **Tipo:** lista/documento institucional da Câmara Municipal de São Paulo
+* **Data:** atualizado até 08/05/2025
+* **Informação confirmada:** Fernando Haddad ocupou a Prefeitura de São Paulo de 01/01/2013 a 31/12/2016; Ricardo Nunes ocupou a Prefeitura de 16/05/2021 a 31/12/2024 por linha sucessória e desde 01/01/2025 por eleição direta. ([Portal da Câmara Municipal de São Paulo][1])
+
+**Fonte 2**
+
+* **Nome:** Câmara Municipal de São Paulo — Centro de Memória, “Ricardo Nunes”
+* **Classificação:** OFICIAL / INSTITUCIONAL
+* **Tipo:** página institucional da Câmara Municipal
+* **Data:** página com copyright 2021
+* **Informação confirmada:** Ricardo Nunes é descrito como vereador de 2012 a 2020 e prefeito de São Paulo. ([Portal da Câmara Municipal de São Paulo][3])
+
+**Fonte 3**
+
+* **Nome:** Prefeitura de São Paulo — “Perfil do prefeito Ricardo Nunes”
+* **Classificação:** OFICIAL
+* **Tipo:** página institucional da Prefeitura
+* **Data:** 15/07/2021
+* **Informação confirmada:** Ricardo Nunes foi eleito vereador em 2012 e reeleito em 2016. ([Prefeitura de São Paulo][4])
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+**Fonte 1**
+
+* **Nome:** Lei Orgânica do Município de São Paulo — Prefeitura de São Paulo
+* **Classificação:** OFICIAL
+* **Tipo:** lei orgânica municipal
+* **Data:** texto consolidado consultado; data específica de consolidação não identificada no trecho consultado
+* **Informação confirmada:** atribuições do prefeito, incluindo direção da administração municipal, sanção, promulgação, veto, nomeação de auxiliares, proposta orçamentária, prestação de contas, administração de bens e receitas, atos administrativos e limites de responsabilidade. ([Prefeitura de São Paulo][2])
+
+**Fonte 2**
+
+* **Nome:** Câmara Municipal de São Paulo — Apostila de artigos da Lei Orgânica do Município de São Paulo
+* **Classificação:** OFICIAL / INSTITUCIONAL
+* **Tipo:** material institucional da Câmara com dispositivos da Lei Orgânica
+* **Data:** arquivo hospedado em 2019
+* **Informação confirmada:** reforça os arts. 69, 70, 71 e 72 da Lei Orgânica sobre atribuições, delegação e responsabilidade do prefeito. 
+
+Não foram usadas imprensa, Wikipedia, redes sociais, blogs, vídeos, agregadores ou terceiros como base da resposta.
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, qualidade de gestão, ideologia, intenção, caráter ou impacto político. Ela apenas mostra o que o cargo permite ou não permite fazer e verifica se a pessoa ocupava formalmente o cargo no período indicado.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+**Controle final aplicado:** o vínculo pessoa–cargo–período foi respondido como **não**; as competências foram explicadas com fonte compatível municipal; não foi usada fonte indireta como confirmação; e nenhuma competência de prefeito foi atribuída a Ricardo Nunes em 2015.
+
+[1]: https://www.saopaulo.sp.leg.br/documentacao/wp-content/uploads/sites/34/2025/01/Dossie-PrefeitosLista2025.pdf "Dossie-PrefeitosLista2025"
+[2]: https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/LOM.pdf "Lei orgânica para Internet"
+[3]: https://www.saopaulo.sp.leg.br/memoria/video/ricardo-nunes/ "Centro de Memória - Câmara Municipal de São Paulo"
+[4]: https://prefeitura.sp.gov.br/web/comunicacao/w/acesso_a_informacao/315214 "Perfil do prefeito Ricardo Nunes - Secretaria Especial de Comunicação - Prefeitura"

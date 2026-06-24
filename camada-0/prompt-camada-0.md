@@ -18,7 +18,7 @@ Você deve fornecer informações verificáveis, organizadas e acessíveis sobre
 
 Pessoa: [COLE AQUI O NOME]
 
-⚠️ REGRAS GERAIS (obrigatório seguir):
+REGRAS GERAIS (obrigatório seguir):
 
 * Não emitir opiniões
 * Não interpretar caráter, intenção ou posicionamento ideológico
@@ -31,7 +31,7 @@ Se uma informação não puder ser confirmada com clareza:
 
 ---
 
-🔒 VALIDAÇÃO OBRIGATÓRIA
+VALIDAÇÃO OBRIGATÓRIA
 
 Antes de apresentar qualquer informação factual:
 
@@ -41,7 +41,7 @@ Antes de apresentar qualquer informação factual:
 
 ---
 
-🔹 CLASSIFICAÇÃO DE FONTES (obrigatório aplicar)
+CLASSIFICAÇÃO DE FONTES (obrigatório aplicar)
 
 Sempre classifique cada fonte usada como:
 
@@ -49,14 +49,14 @@ Sempre classifique cada fonte usada como:
 * **INSTITUCIONAL** → registros formais (biografias oficiais, partidos, organismos)
 * **INDIRETA** → imprensa, Wikipedia ou terceiros que citam, compilam ou reproduzem outra fonte
 
-⚠️ Regra crítica:
+Regra crítica:
 
 * Fonte INDIRETA NÃO confirma dado
 * Pode apenas complementar
 
 ---
 
-🔹 1. IDENTIFICAÇÃO BÁSICA
+ 1. IDENTIFICAÇÃO BÁSICA
 
 * Nome completo:
 * Data de nascimento:
@@ -67,7 +67,7 @@ Explique em 1 frase simples.
 
 ---
 
-🔹 2. VÍNCULO POLÍTICO ATUAL
+ 2. VÍNCULO POLÍTICO ATUAL
 
 * Partido:
 * Data de filiação:
@@ -83,13 +83,13 @@ Explique termos quando aparecerem:
 
 ---
 
-🔹 3. HISTÓRICO PARTIDÁRIO
+ 3. HISTÓRICO PARTIDÁRIO
 
 Liste:
 
 * Partido → período
 
-⚠️ Regras:
+ Regras:
 
 * Priorize fontes OFICIAIS
 * Se usar fonte INDIRETA, deixe explícito
@@ -99,14 +99,14 @@ Liste:
 
 ---
 
-🔹 4. EXPLICAÇÃO CONTEXTUAL (limitada)
+ 4. EXPLICAÇÃO CONTEXTUAL (limitada)
 
 Explique:
 
 * Por que o partido (ou ausência) é relevante
 * O que isso influencia (recursos, alianças, decisões)
 
-⚠️ NÃO incluir:
+ NÃO incluir:
 
 * eventos históricos específicos
 * julgamentos
@@ -114,7 +114,7 @@ Explique:
 
 ---
 
-🔹 5. FONTES (estrutura obrigatória)
+ 5. FONTES (estrutura obrigatória)
 
 Para cada informação:
 
@@ -123,7 +123,7 @@ Para cada informação:
 * Tipo
 * Data (se disponível)
 
-⚠️ Regras:
+ Regras:
 
 * Priorizar fontes OFICIAIS
 * Não usar Wikipedia como base principal
@@ -132,7 +132,7 @@ Para cada informação:
   deixar explícito que são INDIRETAS
 * Fontes indiretas podem complementar, mas não confirmar o dado principal
 
-🔎 Orientação (não restritiva):
+ Orientação (não restritiva):
 Priorize, sempre que possível, fontes oficiais como:
 
 * Tribunal Superior Eleitoral (TSE)
@@ -145,13 +145,13 @@ Esta lista é orientadora, não exclusiva.
 
 ---
 
-🔹 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)
+ 6. OBSERVAÇÃO DE TRANSPARÊNCIA (fixo)
 
 “As informações acima são baseadas em registros públicos. A forma de apresentação pode variar entre ferramentas, mas os dados podem ser verificados nas fontes indicadas.”
 
 ---
 
-🔹 7. COMO USAR ESTA INFORMAÇÃO (fixo)
+ 7. COMO USAR ESTA INFORMAÇÃO (fixo)
 
 Você não precisa entender tudo de uma vez.
 Se algo parecer difícil, foque no que faz sentido agora.
@@ -161,7 +161,7 @@ Se diferentes fontes apresentarem versões diferentes, considere verificar diret
 
 ---
 
-🔹 8. SE QUISER IR MAIS FUNDO (organizado por tipo)
+ 8. SE QUISER IR MAIS FUNDO (organizado por tipo)
 
 Use apenas as categorias e exemplos abaixo.
 Não adicione novas perguntas ou sugestões fora deste padrão.
@@ -188,7 +188,7 @@ Não adicione novas perguntas ou sugestões fora deste padrão.
 
 ---
 
-🔹 9. CONTROLE DE SAÍDA
+ 9. CONTROLE DE SAÍDA
 
 Antes de finalizar:
 
@@ -210,8 +210,4 @@ Regras finais:
 
 ## Navegação
 
-- [Metodologia](metodologia.md)
-- [Objetivos](objetivos.md)
-- [Estrutura](estrutura.md)
-- [Limitações](limitacoes.md)
-- [Prompt da Camada 0](prompt-camada-0.md)
+- [Instruções](README.md)

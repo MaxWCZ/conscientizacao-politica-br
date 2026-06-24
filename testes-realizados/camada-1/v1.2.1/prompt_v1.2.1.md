@@ -1,0 +1,113 @@
+Você deve explicar, de forma neutra, verificável e acessível, a função real de um cargo público, político ou institucional no Brasil.
+
+Cargo/função a analisar: [COLE AQUI O CARGO]
+Pessoa, se houver: [OPCIONAL]
+Período, se souber: [OPCIONAL]
+
+REGRAS:
+- Não emitir opinião.
+- Não avaliar se a pessoa foi boa ou ruim.
+- Não interpretar ideologia, intenção ou caráter.
+- Não incluir polêmicas, investigações, votos, atos ou impactos concretos não solicitados.
+- Não completar lacunas com suposições.
+- Priorizar precisão sobre completude.
+
+Se não houver confirmação clara, diga:
+“Não há registro público claro sobre essa informação.”
+
+VALIDAÇÃO:
+- O foco principal é o cargo.
+- Se uma pessoa for informada, verifique antes se ela exerceu esse cargo.
+- Se um período for informado, verifique também se ela exerceu esse cargo naquele período.
+- Se o vínculo pessoa-cargo não for confirmado por fonte oficial ou institucional, não atribua as competências do cargo à pessoa.
+- Nesse caso, diga claramente que não há registro público claro de que a pessoa tenha exercido esse cargo/função no período informado e explique apenas o cargo em geral.
+
+FONTES:
+Classifique as fontes usadas como:
+- OFICIAL: Constituição, leis, decretos, diários oficiais, tribunais, casas legislativas, órgãos públicos e portais governamentais.
+- INSTITUCIONAL: páginas formais de instituições, partidos, biografias oficiais, estatutos e registros institucionais.
+- INDIRETA: imprensa, Wikipedia ou terceiros que citam, compilam ou reproduzem outra fonte.
+
+Regras de fonte:
+- Para explicar competências formais do cargo, use apenas fontes OFICIAIS ou INSTITUCIONAIS diretamente ligadas ao cargo, órgão, Poder ou esfera analisada.
+- Não use imprensa, Wikipedia, redes sociais ou fontes de terceiros para explicar o que o cargo pode ou não pode fazer.
+- Fonte INDIRETA pode complementar contexto, mas não confirmar dado principal.
+- Se o vínculo pessoa-cargo aparecer apenas em fonte indireta, trate como não confirmado por fonte oficial/institucional.
+- Use fontes compatíveis com o cargo analisado.
+
+Orientação de fontes por cargo:
+- Executivo federal: Constituição, leis, decretos, Planalto/Gov.br e ministério correspondente.
+- Legislativo federal: Constituição, Câmara ou Senado e regimento interno da Casa.
+- Estadual ou municipal: Constituição Estadual, Lei Orgânica, legislação local, assembleia, câmara, governo ou prefeitura.
+- Judiciário: Constituição, tribunal correspondente, regimento interno e legislação aplicável.
+- Agência, autarquia ou órgão técnico: lei de criação, decreto, regimento e site oficial do órgão.
+- Partido ou candidatura: estatuto partidário, TSE, DivulgaCand e legislação eleitoral.
+
+Não use fonte de outro Poder, esfera ou órgão para explicar competências que não correspondem ao cargo analisado.
+
+RESPONDA NA ESTRUTURA ABAIXO:
+
+1. CARGO ANALISADO
+- Cargo:
+- Pessoa, se houver:
+- Período, se houver:
+- A pessoa exerceu esse cargo no período indicado? [sim / não / não informado / não confirmado]
+- Esfera:
+- Poder ou estrutura:
+- Tipo de cargo:
+
+Explique em 1 frase simples.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+Explique para que o cargo existe e qual é o papel geral de quem ocupa essa função.
+
+3. O QUE ESSE CARGO PODE FAZER
+Use tabela:
+| O cargo pode | O que isso significa na prática | Fonte |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+Use tabela:
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+
+5. DO QUE ESSE CARGO DEPENDE
+Explique quais órgãos, leis, regras, orçamento, votações, decisões colegiadas ou outras instituições podem limitar ou condicionar a atuação do cargo.
+
+6. TRADUÇÃO PRÁTICA
+Explique em linguagem simples o que isso significa para uma pessoa comum.
+
+7. RESPONSABILIDADE
+Use tabela:
+| Tipo de relação | O que significa |
+| Responsabilidade direta | quando o cargo tinha poder formal para decidir ou executar |
+| Responsabilidade compartilhada | quando dependia de outros órgãos, votação, colegiado ou orçamento |
+| Influência política | quando podia articular ou defender algo, mas não decidir sozinho |
+| Ausência de competência direta | quando o cargo não tinha poder formal sobre o tema |
+
+8. FONTES
+Separe:
+A) Fontes para confirmar vínculo pessoa-cargo, se houver pessoa informada.
+B) Fontes para explicar competências do cargo.
+
+Para cada fonte, informe:
+- Nome:
+- Classificação:
+- Tipo:
+- Data:
+- Informação confirmada:
+
+9. COMO USAR ESTA INFORMAÇÃO
+Explique que esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer.
+
+Inclua a frase:
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+CONTROLE FINAL:
+Antes de finalizar, verifique:
+- O cargo foi explicado com fonte compatível?
+- Se houve pessoa informada, o vínculo foi confirmado por fonte oficial ou institucional?
+- Alguma fonte indireta foi tratada como confirmação?
+- Alguma fonte indireta foi usada para explicar competência formal?
+- Alguma competência foi atribuída sem base oficial ou institucional?
+- A resposta avaliou desempenho, ideologia ou intenção?
+
+Se houver erro, corrija antes de responder.

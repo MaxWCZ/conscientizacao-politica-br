@@ -1,0 +1,113 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** Presidente da Câmara dos Deputados do Brasil
+- **Pessoa, se houver:** Altineu Côrtes
+- **Período, se houver:** não informado
+- **A pessoa exerceu esse cargo no período indicado?** não confirmado
+- **Se exerceu apenas de forma interina, substituta ou provisória, indique isso claramente:** Não há registro público oficial de que Altineu Côrtes tenha exercido a titularidade da Presidência da Câmara dos Deputados. Ele exerce o cargo de 1º Vice-Presidente da Câmara, podendo substituir o Presidente em suas ausências.
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Legislativo
+- **Tipo de cargo:** Cargo eletivo na Mesa Diretora da Câmara dos Deputados, com mandato de dois anos.
+
+O Presidente da Câmara dos Deputados é o representante da Câmara quando ela se pronuncia coletivamente e o supervisor dos seus trabalhos e da sua ordem.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo existe para dirigir os trabalhos legislativos e administrativos da Câmara dos Deputados, organizar a pauta de votações, representar institucionalmente a Casa e assegurar o cumprimento do Regimento Interno e da ordem nas sessões.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Presidir as sessões do Plenário | Conduzir os debates, conceder a palavra aos deputados e manter a ordem durante as votações | Regimento Interno, Art. 17, I |
+| Definir a pauta de votações (Ordem do Dia) | Organizar, após ouvir o Colégio de Líderes, a agenda com as propostas que serão discutidas e votadas | Regimento Interno, Art. 17, I |
+| Convocar as sessões da Câmara | Determinar datas e horários das reuniões do Plenário | Regimento Interno, Art. 17, I |
+| Desempatar votações | Votar para desfazer empates em votações ostensivas | Regimento Interno, Art. 17, I |
+| Designar membros de comissões | Indicar os deputados titulares e suplentes das comissões, após indicação dos líderes partidários | Regimento Interno, Art. 17, III |
+| Nomear comissões especiais | Criar grupos temporários de deputados para tratar de temas específicos, ouvido o Colégio de Líderes | Regimento Interno, Art. 17, I |
+| Decidir questões de ordem e reclamações | Julgar dúvidas sobre a aplicação do Regimento Interno durante as sessões | Regimento Interno, Art. 17, I |
+| Substituir o Presidente da República | Assumir a Presidência da República em caso de impedimento do Presidente e do Vice-Presidente | Constituição Federal, art. 80 |
+| Integrar o Conselho da República e o Conselho de Defesa Nacional | Participar de órgãos consultivos do Presidente da República | Regimento Interno, Art. 17, VI |
+| Convocar extraordinariamente o Congresso Nacional | Decidir, juntamente com o Presidente do Senado Federal, sobre a convocação do Congresso em caso de urgência | Regimento Interno, Art. 17, VI |
+| Promulgar resoluções da Câmara e assinar atos da Mesa | Formalizar as decisões normativas da Câmara | Regimento Interno, Art. 17, VI |
+| Zelar pelo prestígio e decoro da Câmara | Defender a dignidade da instituição e as prerrogativas constitucionais dos deputados | Regimento Interno, Art. 17, VI |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis | A aprovação de projetos de lei exige deliberação do Plenário (maioria dos deputados presentes) | Plenário da Câmara dos Deputados |
+| Alterar o Regimento Interno | Mudanças no regimento dependem de votação da Câmara | Plenário da Câmara dos Deputados |
+| Decidir sobre a pauta sem ouvir o Colégio de Líderes | A organização da agenda mensal deve ser feita ouvindo os líderes partidários | Colégio de Líderes |
+| Nomear comissões especiais sem consulta | A nomeação de comissão especial exige a ouvida do Colégio de Líderes | Colégio de Líderes |
+| Designar membros de comissões sem indicação dos líderes | A designação depende da comunicação dos Líderes partidários | Líderes partidários |
+| Decidir sobre convocação extraordinária do Congresso sozinho | A decisão é conjunta com o Presidente do Senado Federal | Presidente do Senado Federal |
+| Substituir o Presidente da República | A substituição ocorre apenas na falta do Presidente e do Vice-Presidente da República | Presidente e Vice-Presidente da República |
+| Votar em Plenário como deputado | O Presidente não pode votar em votações ostensivas, exceto para desempatar | Regimento Interno, Art. 17, §1º |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+- **Regimento Interno da Câmara dos Deputados:** define as atribuições, limites e procedimentos que o Presidente deve seguir.
+- **Constituição Federal:** estabelece competências como a substituição do Presidente da República e a participação em conselhos.
+- **Colégio de Líderes:** o Presidente deve ouvir os líderes partidários para organizar a pauta mensal e nomear comissões especiais.
+- **Plenário da Câmara:** decisões sobre aprovação de matérias e alterações regimentais dependem de votação dos deputados.
+- **Mesa Diretora:** o Presidente preside as reuniões da Mesa, mas as decisões da Mesa são colegiadas.
+- **Presidente do Senado Federal:** para decisões conjuntas, como a convocação extraordinária do Congresso Nacional.
+- **Orçamento da Câmara:** a execução administrativa depende de dotações orçamentárias aprovadas.
+- **Vice-Presidentes:** podem receber delegação de competências do Presidente.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o Presidente da Câmara dos Deputados funciona como o **“chefe de operações”** da Câmara. Ele decide o que será votado em cada dia, conduz as reuniões, mantém a ordem entre os deputados e representa a instituição publicamente. Porém, **ele não faz leis sozinho** — qualquer decisão importante depende da votação dos 513 deputados. Ele também é o **terceiro na linha de sucessão** da Presidência da República, ou seja, se o Presidente e o Vice-Presidente não puderem governar, ele assume temporariamente.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Definir a pauta de votações, presidir as sessões, desempatar votações, convocar sessões, designar membros de comissões, assinar atos da Mesa e promulgar resoluções da Câmara |
+| Responsabilidade compartilhada | Nomear comissões especiais (ouvido o Colégio de Líderes), organizar a agenda mensal (ouvido o Colégio de Líderes), convocar extraordinariamente o Congresso (com o Presidente do Senado) |
+| Influência política | Articular com líderes partidários para definir prioridades legislativas; representar a Câmara em negociações institucionais |
+| Ausência de competência direta | Aprovar leis, alterar o Regimento Interno, decidir sobre matérias sem votação do Plenário, votar como deputado em votações ostensivas (exceto para desempate) |
+
+---
+
+## 8. FONTES
+
+### A) Fontes para confirmar vínculo pessoa-cargo (Altineu Côrtes)
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Página do Deputado Altineu Côrtes no portal da Câmara | OFICIAL | Site da Câmara dos Deputados | 2026 | Altineu Côrtes é deputado federal titular (2023-2027), sem indicação de que exerceu a Presidência da Câmara |
+| “Altineu Côrtes é o novo 1º vice-presidente da Câmara dos Deputados” | OFICIAL | TV Câmara | 01/02/2025 | Altineu Côrtes foi eleito 1º Vice-Presidente da Câmara, não Presidente |
+| Mesa Diretora — portal da Câmara | OFICIAL | Site da Câmara dos Deputados | 2026 | Presidente da Câmara: Hugo Motta; 1º Vice-Presidente: Altineu Côrtes |
+
+**Conclusão sobre o vínculo:** Não há registro oficial de que Altineu Côrtes tenha exercido a Presidência da Câmara dos Deputados como titular. Ele exerce o cargo de 1º Vice-Presidente.
+
+### B) Fontes para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Atribuições — Portal da Câmara dos Deputados | OFICIAL | Site da Câmara dos Deputados (www2.camara.leg.br) | 2026 | Lista completa das atribuições do Presidente da Câmara, com base no Regimento Interno (Resolução nº 17/1989) |
+| Papel e estrutura da Câmara — Portal da Câmara | OFICIAL | Site da Câmara dos Deputados | 2026 | Descrição do papel do Presidente: representante da Câmara, define a pauta, supervisiona os trabalhos, substitui o Presidente da República |
+| Conheça as funções do presidente da Câmara — TV Câmara | OFICIAL | TV Câmara | 15/01/2021 | O Presidente decide sobre a pauta legislativa, conduz os trabalhos no Plenário, é líder da Mesa Diretora e terceiro na linha de sucessão |
+| Regimento Interno da Câmara dos Deputados (Resolução nº 17/1989) | OFICIAL | Ato normativo da Câmara | 1989 (atualizado) | Define em detalhe as atribuições do Presidente nos Arts. 16 e 17 |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer. As atribuições listadas são competências formais previstas no Regimento Interno e na Constituição — não significam que tenham sido exercidas de determinada maneira por uma pessoa em particular.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

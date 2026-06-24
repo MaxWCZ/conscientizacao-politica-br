@@ -1,0 +1,159 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Vereador
+* **Pessoa, se houver:** não informada
+* **Período, se houver:** não informado
+* **Contexto informado ou identificado:** não informado; análise geral do cargo, sem município específico
+* **A pessoa exerceu esse cargo no período indicado?** não informado
+* **Houve exercício interino, substituto ou provisório?** não informado
+* **Esfera:** municipal
+* **Poder ou estrutura:** Poder Legislativo municipal / Câmara Municipal
+* **Tipo de cargo:** mandato eletivo parlamentar municipal
+
+**Em 1 frase simples:** vereador é o representante eleito para atuar na Câmara Municipal, criando, discutindo e votando leis municipais e fiscalizando a Prefeitura dentro dos limites legais do município. ([Legislação Senado][1])
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+A função principal do vereador é **representar a população no Legislativo municipal**, participando da elaboração de leis locais, da votação de matérias da Câmara Municipal e da fiscalização do Poder Executivo municipal, especialmente da Prefeitura, dos programas públicos e do uso do dinheiro público. A Constituição estabelece que a fiscalização do Município é exercida pelo Poder Legislativo municipal, com auxílio dos Tribunais ou Conselhos de Contas onde houver. ([Legislação Senado][1])
+
+Como não foi informado um município específico, esta resposta não usa lei orgânica municipal, regimento interno de uma Câmara Municipal específica nem regras locais.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                                                               | O que isso significa na prática                                                                                                                                             | Fonte                                                     |
+| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Propor projetos de lei municipal                                                                           | Um vereador pode apresentar propostas para virar lei, desde que o assunto seja de competência municipal e respeite a Constituição, a lei orgânica e o regimento local.      | Constituição Federal, arts. 29 e 30; Câmara dos Deputados |
+| Discutir, alterar e votar projetos de lei na Câmara Municipal                                              | O vereador participa das sessões, debates, emendas e votações sobre leis municipais. A aprovação depende da Câmara, não de um vereador sozinho.                             | Constituição Federal, art. 29; Câmara dos Deputados       |
+| Fiscalizar a Prefeitura e a administração municipal                                                        | Pode acompanhar programas, ações, despesas e cumprimento da lei pela Prefeitura. A fiscalização formal do Município é atribuída ao Poder Legislativo municipal.             | Constituição Federal, art. 31; Câmara dos Deputados       |
+| Participar da votação do orçamento municipal                                                               | A lei orçamentária anual é proposta pelo prefeito, mas é analisada e votada pela Câmara Municipal, podendo receber alterações conforme as regras aplicáveis.                | Câmara dos Deputados; Senado Federal                      |
+| Representar demandas da população                                                                          | Pode ouvir moradores, levar temas ao debate legislativo, formular indicações, requerimentos ou propostas, conforme as regras da Câmara local.                               | TSE; Câmara dos Deputados                                 |
+| Atuar sobre assuntos de interesse local                                                                    | Pode participar da produção de normas sobre temas municipais, como ordenamento urbano, serviços locais e regras de interesse da cidade, dentro da competência do Município. | Constituição Federal, art. 30; Senado Federal             |
+| Ter inviolabilidade por opiniões, palavras e votos no exercício do mandato e na circunscrição do município | A Constituição protege o vereador por manifestações ligadas ao mandato, dentro do município, nos termos constitucionais.                                                    | Constituição Federal, art. 29, VIII                       |
+
+Fontes principais: Constituição Federal nos arts. 29, 30 e 31; página institucional da Câmara dos Deputados sobre funções de prefeitos e vereadores; página institucional do Senado sobre funções de vereadores. ([Legislação Senado][1])
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                                       | Por quê                                                                                                                                              | Quem ou o que também participa                                                  |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Aprovar uma lei sozinho                                                        | Projeto de lei precisa passar pelo processo legislativo da Câmara Municipal e, em muitos casos, por sanção ou veto do prefeito.                      | Câmara Municipal; prefeito; lei orgânica; regimento interno                     |
+| Executar obras públicas diretamente                                            | Obras e serviços públicos são, em regra, funções administrativas do Poder Executivo municipal.                                                       | Prefeitura; secretarias municipais; orçamento; licitação ou contratação pública |
+| Administrar escolas, postos de saúde, transporte ou limpeza urbana diretamente | O vereador fiscaliza e legisla, mas a execução cotidiana dos serviços municipais cabe à administração municipal.                                     | Prefeitura; secretarias; servidores; contratos; orçamento                       |
+| Mandar o prefeito fazer determinada obra apenas por vontade própria            | O vereador pode propor, cobrar, fiscalizar e articular, mas a execução depende de competência administrativa, orçamento e decisão do Executivo.      | Prefeitura; Câmara; orçamento; legislação aplicável                             |
+| Criar despesa pública sem base legal e orçamentária                            | A criação de gasto depende de regras orçamentárias, competência de iniciativa e aprovação legislativa quando exigida.                                | Orçamento municipal; prefeito; Câmara; leis financeiras                         |
+| Julgar contas do prefeito sozinho                                              | A fiscalização é do Poder Legislativo municipal, e o controle externo da Câmara é exercido com auxílio do Tribunal ou Conselho de Contas competente. | Câmara Municipal; Tribunal de Contas ou Conselho de Contas                      |
+| Criar tribunal de contas municipal novo                                        | A Constituição veda a criação de novos tribunais, conselhos ou órgãos de contas municipais.                                                          | Constituição Federal, art. 31, § 4º                                             |
+| Legislar sobre qualquer assunto do país                                        | A atuação municipal se limita a assuntos de interesse local e à suplementação da legislação federal e estadual no que couber.                        | Constituição Federal; União; Estado; Município                                  |
+
+Base constitucional: arts. 30 e 31 da Constituição Federal, especialmente as competências municipais e a fiscalização do Município pelo Legislativo municipal com auxílio dos órgãos de contas. ([Legislação Senado][1])
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+O vereador depende, principalmente, de:
+
+* **Constituição Federal:** define princípios gerais do município, composição da Câmara, competências municipais e fiscalização.
+* **Lei orgânica do município:** funciona como a norma básica municipal, mas só pode ser usada concretamente quando o município é identificado.
+* **Regimento interno da Câmara Municipal:** define regras de sessões, votações, comissões, requerimentos, tramitação de projetos e funcionamento interno.
+* **Votação colegiada:** um vereador individualmente pode propor e defender medidas, mas decisões legislativas dependem da Câmara.
+* **Prefeito:** muitos projetos aprovados pela Câmara dependem de sanção ou veto do prefeito.
+* **Orçamento municipal:** sem previsão orçamentária e regras financeiras adequadas, propostas podem não ser executáveis.
+* **Tribunal ou Conselho de Contas competente:** auxilia o controle externo das contas municipais.
+* **Competências da União e do Estado:** o município não pode invadir matérias que não sejam de sua competência.
+
+A Constituição prevê que o Município se rege por lei orgânica aprovada pela Câmara Municipal e que compete aos Municípios legislar sobre interesse local e suplementar a legislação federal e estadual no que couber. Também prevê que a fiscalização do Município é exercida pelo Poder Legislativo municipal, com auxílio dos órgãos de contas competentes. ([Legislação Senado][1])
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Na prática, o vereador **não é o “chefe da cidade”**. Quem administra a cidade é o prefeito.
+
+O vereador pode:
+
+* propor leis;
+* votar leis;
+* fiscalizar a Prefeitura;
+* discutir o orçamento;
+* cobrar explicações;
+* representar demandas de moradores;
+* participar das decisões da Câmara Municipal.
+
+Mas o vereador, sozinho, normalmente **não manda construir uma praça, contratar médicos, trocar iluminação, abrir escola, tapar buraco ou comprar equipamentos**. Ele pode cobrar, propor, fiscalizar e votar medidas relacionadas a esses temas, mas a execução geralmente depende da Prefeitura, do orçamento, da lei e de procedimentos administrativos.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                                                                       |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | quando o cargo tinha poder formal para propor, votar, fiscalizar ou praticar ato legislativo dentro da Câmara Municipal                               |
+| Responsabilidade compartilhada | quando dependia de outros vereadores, votação da Câmara, sanção ou veto do prefeito, orçamento, Tribunal de Contas, lei orgânica ou regimento interno |
+| Influência política            | quando podia articular, cobrar, defender uma pauta, pressionar politicamente ou representar uma demanda, mas não decidir sozinho                      |
+| Ausência de competência direta | quando o tema era de execução administrativa da Prefeitura, de competência estadual, federal, judicial, técnica ou de outro órgão                     |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+Não há pessoa informada. Portanto, não foi feita validação de vínculo pessoa-cargo-período.
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+**Fonte 1**
+
+* **Nome:** Constituição Federal de 1988 — arts. 29, 29-A, 30 e 31, conforme portal de Legislação Federal do Senado
+* **Classificação:** OFICIAL
+* **Tipo:** texto constitucional / legislação federal
+* **Data:** 5 de outubro de 1988, com alterações posteriores
+* **Informação confirmada:** organização municipal; eleição de vereadores; composição da Câmara Municipal; inviolabilidade por opiniões, palavras e votos no exercício do mandato; competência municipal para legislar sobre interesse local; fiscalização do Município pelo Legislativo municipal com auxílio dos órgãos de contas. ([Legislação Senado][1])
+
+**Fonte 2**
+
+* **Nome:** Câmara dos Deputados — “Conheça as funções de prefeitos e vereadores e como fiscalizá-los”
+* **Classificação:** OFICIAL
+* **Tipo:** página institucional explicativa de casa legislativa
+* **Data:** 26 de setembro de 2024
+* **Informação confirmada:** vereador como representante do Poder Legislativo municipal; elaboração de projetos de lei; fiscalização de programas e ações da Prefeitura; participação na discussão e votação de leis municipais e do orçamento. ([Portal da Câmara dos Deputados][2])
+
+**Fonte 3**
+
+* **Nome:** Senado Federal — “Eleições 2024: você conhece as funções do prefeito e dos vereadores?”
+* **Classificação:** OFICIAL
+* **Tipo:** página institucional explicativa de casa legislativa
+* **Data:** 2 de outubro de 2024
+* **Informação confirmada:** vereador como representante nas câmaras municipais; fiscalização do prefeito; votação do orçamento público municipal; criação e modificação de leis sobre temas locais. ([Senado Federal][3])
+
+**Fonte 4**
+
+* **Nome:** Tribunal Superior Eleitoral — “Eleições 2024: conheça as atribuições do vereador de seu município”
+* **Classificação:** OFICIAL
+* **Tipo:** página institucional explicativa da Justiça Eleitoral
+* **Data:** 7 de fevereiro de 2024
+* **Informação confirmada:** vereador como integrante do Legislativo municipal e representante da sociedade, com papel ligado à atuação legislativa e acompanhamento pela população. ([Justiça Eleitoral][4])
+
+Não foram usadas imprensa, Wikipedia, redes sociais, blogs, vídeos, agregadores ou terceiros como base da resposta.
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia se um vereador foi bom ou ruim. Ela apenas mostra **o que o cargo permite fazer, o que não permite fazer sozinho e do que depende**.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://legis.senado.leg.br/norma/579494/publicacao/16434817 "Legislação Federal - Senado Federal"
+[2]: https://www.camara.leg.br/noticias/1098891-conheca-as-funcoes-de-prefeitos-e-vereadores-e-como-fiscaliza-los/ "
+      Conheça as funções de prefeitos e vereadores e como fiscalizá-los - Notícias - Portal da Câmara dos Deputados
+  "
+[3]: https://www12.senado.leg.br/noticias/materias/2024/10/02/eleicoes-2024-voce-conhece-as-funcoes-do-prefeito-e-dos-vereadores "Eleições 2024: você conhece as funções do prefeito e dos vereadores? — Senado Notícias"
+[4]: https://www.tse.jus.br/comunicacao/noticias/2024/Fevereiro/eleicoes-2024-conheca-as-atribuicoes-do-vereador-de-seu-municipio?utm_source=chatgpt.com "Eleições 2024: conheça as atribuições do vereador de seu ..."

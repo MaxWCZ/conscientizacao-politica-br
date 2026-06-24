@@ -1,0 +1,142 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Deputado — no contexto informado, a referência mais provável é **deputado federal**, pois “Boulos” remete ao deputado federal Guilherme Boulos na Câmara dos Deputados.
+* **Pessoa, se houver:** Alinne Ferraz Bandeira Martins.
+* **Período, se houver:** não informado.
+* **Contexto informado ou identificado:** gabinete do deputado federal Guilherme Boulos. A Câmara registra Alinne Ferraz Bandeira Martins como **secretário parlamentar**, não como deputada, no pessoal de gabinete de Guilherme Boulos em 2025, com período de exercício de **22/03/2023 a 28/10/2025**. ([Portal da Câmara dos Deputados][1])
+* **A pessoa exerceu esse cargo no período indicado?** **Não confirmado** como deputada. Há registro oficial de outra função: secretário parlamentar. ([Portal da Câmara dos Deputados][1])
+* **Houve exercício interino, substituto ou provisório?** Não confirmado.
+* **Esfera:** federal, se o cargo analisado for deputado federal.
+* **Poder ou estrutura:** Poder Legislativo / Câmara dos Deputados.
+* **Tipo de cargo:** mandato eletivo parlamentar, quando se trata de deputado federal.
+
+**Em 1 frase:** deputado federal é o parlamentar eleito para representar o povo na Câmara dos Deputados, participar da criação de leis, votar matérias legislativas e fiscalizar o Poder Executivo.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+A função principal de um **deputado federal** é representar a população na Câmara dos Deputados, participando do processo legislativo e da fiscalização do governo federal. A Constituição define a Câmara como composta por representantes do povo, eleitos pelo sistema proporcional, e a própria Câmara resume as atribuições centrais do deputado federal como **legislar e fiscalizar**. 
+
+Como o vínculo de **Alinne Ferraz Bandeira Martins** com o cargo de deputada **não foi confirmado**, as competências abaixo explicam o cargo em geral, não poderes atribuídos a ela.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                         | O que isso significa na prática                                                                                                                            | Fonte                                                                      |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Representar a população                              | O deputado federal atua como representante do povo na Câmara dos Deputados.                                                                                | Constituição, art. 45.                                                     |
+| Apresentar projetos de lei e outras proposições      | Pode propor matérias legislativas, respeitando limites constitucionais e regimentais.                                                                      | Constituição, art. 61; Regimento Interno da Câmara, arts. 100, 101 e 108.  |
+| Votar projetos, propostas e requerimentos            | Participa das decisões da Câmara, em plenário ou comissões, conforme a matéria e o rito.                                                                   | Constituição, arts. 48 e 58; Regimento Interno, art. 24.                   |
+| Fiscalizar o governo federal                         | Pode atuar na fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União, dentro dos mecanismos do Congresso e da Câmara.         | Constituição, arts. 70 e 71.                                               |
+| Atuar em comissões                                   | Pode discutir, votar propostas, realizar audiências públicas, convocar ministros e receber reclamações ou petições, conforme regras das comissões.         | Constituição, art. 58.                                                     |
+| Participar da definição do Orçamento federal         | Deputados participam da tramitação do orçamento e podem apresentar emendas dentro dos limites constitucionais.                                             | Constituição, arts. 48, 165 e 166.                                         |
+| Assinar ou apoiar pedidos coletivos, como CPI ou PEC | Algumas iniciativas exigem número mínimo de parlamentares; por exemplo, CPI e proposta de emenda constitucional exigem apoio de fração mínima dos membros. | Constituição, arts. 58, §3º, e 60.                                         |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                     | Por quê                                                                                                                                     | Quem ou o que também participa                                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Aprovar uma lei sozinho                                      | Projeto precisa tramitar e ser aprovado conforme o processo legislativo; em muitos casos também depende do Senado e de sanção presidencial. | Câmara, Senado e, conforme o caso, Presidente da República.                                             |
+| Governar ou executar políticas públicas federais diretamente | A direção superior da administração federal é competência do Presidente da República, com auxílio dos ministros.                            | Poder Executivo federal.                                                                                |
+| Alterar a Constituição sozinho                               | PEC exige apoio mínimo para apresentação e aprovação em dois turnos por três quintos dos votos em cada Casa do Congresso.                   | Câmara, Senado e quóruns constitucionais.                                                               |
+| Criar despesas livremente em qualquer projeto                | A Constituição limita aumento de despesa em certos projetos e reserva algumas iniciativas ao Presidente da República.                       | Constituição, iniciativa privativa, regras orçamentárias e processo legislativo.                        |
+| Instalar CPI sozinho                                         | CPI exige requerimento de um terço dos membros da Casa, além de fato determinado e prazo certo.                                             | Outros parlamentares e regras regimentais/constitucionais.                                              |
+| Decidir sozinho a pauta do Plenário                          | A organização dos trabalhos da Câmara depende da Presidência, da Mesa, do Colégio de Líderes e das regras regimentais.                      | Presidente da Câmara, Mesa Diretora, líderes e Regimento Interno. ([Portal da Câmara dos Deputados][2]) |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação de um deputado federal depende da Constituição, do Regimento Interno da Câmara, das votações em plenário, das comissões, da Mesa Diretora, da Presidência da Câmara, dos líderes partidários, do Senado Federal, do Presidente da República em matérias sujeitas à sanção ou veto, do Orçamento da União e de órgãos de controle, como o Tribunal de Contas da União no controle externo. A Constituição estabelece que o Legislativo federal é exercido pelo Congresso Nacional, composto pela Câmara dos Deputados e pelo Senado Federal, e que o controle externo do Congresso conta com auxílio do TCU. 
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, isso significa que um deputado federal **não é um “chefe do governo”**. Ele pode propor leis, votar, fiscalizar, pressionar politicamente, participar de comissões e discutir orçamento. Mas, sozinho, ele não constrói obra, não executa programa público, não manda diretamente em ministério, prefeitura, polícia, escola, hospital ou secretaria.
+
+No caso informado, não há confirmação oficial de que **Alinne Ferraz Bandeira Martins** tenha sido deputada. A fonte oficial localizada a vincula ao gabinete de Guilherme Boulos como **secretário parlamentar**, não como ocupante do mandato parlamentar. ([Portal da Câmara dos Deputados][1])
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                                                                                                 |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o deputado tinha poder formal para propor, votar, assinar, requerer, relatar ou atuar dentro de sua competência parlamentar.             |
+| Responsabilidade compartilhada | Quando a decisão dependia de votação, comissão, plenário, Senado, sanção presidencial, orçamento, Mesa Diretora, líderes ou outros órgãos.      |
+| Influência política            | Quando o deputado podia defender uma posição, articular apoio, pressionar politicamente ou dar visibilidade a um tema, mas não decidir sozinho. |
+| Ausência de competência direta | Quando o tema cabia formalmente ao Executivo, Judiciário, tribunal, órgão administrativo, governo estadual, prefeitura ou outra autoridade.     |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+* **Nome:** Pessoal de gabinete do Deputado Federal Guilherme Boulos — Câmara dos Deputados
+  **Classificação:** OFICIAL
+  **Tipo:** página oficial de pessoal de gabinete
+  **Data:** ano de referência 2025; consulta em 19/06/2026
+  **Informação confirmada:** Alinne Ferraz Bandeira Martins aparece como **secretário parlamentar**, cargo SP17, no gabinete de Guilherme Boulos, de 22/03/2023 a 28/10/2025; não aparece nessa fonte como deputada. ([Portal da Câmara dos Deputados][1])
+
+* **Nome:** Página oficial do Deputado Federal Guilherme Boulos — Câmara dos Deputados
+  **Classificação:** OFICIAL
+  **Tipo:** página parlamentar oficial
+  **Data:** consulta em 19/06/2026
+  **Informação confirmada:** Guilherme Boulos consta como deputado federal, mas “não está em exercício” em 2026. ([Portal da Câmara dos Deputados][3])
+
+* **Nome:** Biografia oficial de Guilherme Boulos — Câmara dos Deputados
+  **Classificação:** OFICIAL
+  **Tipo:** biografia parlamentar oficial
+  **Data:** informação registra licença a partir de 29/10/2025
+  **Informação confirmada:** Boulos licenciou-se do mandato de deputado federal na legislatura 2023–2027 a partir de 29/10/2025. ([Portal da Câmara dos Deputados][4])
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+* **Nome:** Constituição da República Federativa do Brasil de 1988 — Câmara dos Deputados
+  **Classificação:** OFICIAL
+  **Tipo:** norma constitucional
+  **Data:** 1988, texto atualizado
+  **Informação confirmada:** estrutura do Congresso, composição da Câmara, competências legislativas, comissões, fiscalização, iniciativa legislativa e orçamento. 
+
+* **Nome:** Regimento Interno da Câmara dos Deputados
+  **Classificação:** OFICIAL
+  **Tipo:** regimento interno
+  **Data:** atualizado até a Resolução nº 34, de 2026
+  **Informação confirmada:** regras internas da Câmara, tipos de proposições, funcionamento das comissões e tramitação legislativa. ([Portal da Câmara dos Deputados][5])
+
+* **Nome:** “Saiba quais são as atribuições do deputado federal” — Câmara dos Deputados
+  **Classificação:** INSTITUCIONAL
+  **Tipo:** página explicativa institucional
+  **Data:** 22/08/2022
+  **Informação confirmada:** a Câmara resume as atribuições principais do deputado federal como legislar e fiscalizar. ([Portal da Câmara dos Deputados][6])
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, qualidade, ideologia, intenção ou caráter. Ela apenas separa o que o cargo formalmente permite fazer, o que depende de outras instituições e o que não pode ser atribuído diretamente a uma pessoa sem confirmação oficial.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://www.camara.leg.br/deputados/220639/pessoal-gabinete?ano=2025 "
+      Pessoal de gabinete do Deputado(a) Federal Guilherme Boulos - Portal da Câmara dos Deputados
+  "
+[2]: https://www.camara.leg.br/papel-e-estrutura/ "
+      Papel e estrutura da Câmara dos Deputados - Portal da Câmara dos Deputados
+  "
+[3]: https://www.camara.leg.br/deputados/220639 "
+      Deputado Federal Guilherme Boulos - Portal da Câmara dos Deputados
+  "
+[4]: https://www.camara.leg.br/deputados/220639/biografia "
+      Biografia do(a) Deputado(a) Federal Guilherme Boulos - Portal da Câmara dos Deputados
+  "
+[5]: https://www2.camara.leg.br/atividade-legislativa/legislacao/regimento-interno-da-camara-dos-deputados "Regimento Interno da Câmara dos Deputados — Portal da Câmara dos Deputados"
+[6]: https://www.camara.leg.br/noticias/903471-SAIBA-QUAIS-SAO-AS-ATRIBUICOES-DO-DEPUTADO-FEDERAL/ "
+      Saiba quais são as atribuições do deputado federal - Notícias - Portal da Câmara dos Deputados
+  "

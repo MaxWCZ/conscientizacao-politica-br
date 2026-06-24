@@ -1,0 +1,73 @@
+1. CARGO ANALISADO
+- Cargo: Vereador
+- Pessoa, se houver: Não informada
+- Período, se houver: Não informado
+- Contexto informado ou identificado: Nenhum contexto adicional (órgão, esfera, localidade) foi informado. A análise será feita em termos gerais, aplicáveis a qualquer município brasileiro.
+- A pessoa exerceu esse cargo no período indicado? Não informado (não há pessoa indicada)
+- Houve exercício interino, substituto ou provisório? Não informado
+- Esfera: Municipal
+- Poder ou estrutura: Legislativo (Câmara Municipal)
+- Tipo de cargo: Mandato eletivo (cargo político)
+
+O vereador é um representante eleito para a Câmara Municipal, com a função de legislar sobre assuntos de interesse local e fiscalizar o Poder Executivo do município.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de vereador existe para que a população do município tenha representantes diretos no processo de criação de leis locais e no controle dos atos do prefeito. Sua função central é participar da elaboração e votação de leis municipais (inclusive o orçamento), além de acompanhar, fiscalizar e avaliar a gestão municipal, assegurando que os recursos públicos sejam aplicados conforme a lei e o interesse da comunidade.
+
+3. O QUE ESSE CARGO PODE FAZER
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|----------------------------------|-------|
+| Propor projetos de lei municipal | Apresentar propostas para criar, alterar ou revogar leis dentro das competências do município (ex.: nomes de ruas, regras de zoneamento, programas locais). | Constituição Federal, art. 29; Lei Orgânica de cada município (norma geral) |
+| Votar projetos de lei | Participar das deliberações da Câmara para aprovar ou rejeitar projetos, inclusive o Plano Plurianual, a Lei de Diretrizes Orçamentárias e o Orçamento Anual. | Constituição Federal, arts. 29 e 165; Lei Orgânica do município |
+| Fiscalizar o Executivo Municipal | Convocar secretários municipais para prestar informações, realizar pedidos de informação ao prefeito, examinar contratos e acompanhar a execução orçamentária. | Constituição Federal, art. 31 e 49, X (simétrico); Lei Orgânica municipal |
+| Criar Comissões Parlamentares de Inquérito (CPI) | Investigar fato determinado de interesse municipal, com poderes de investigação próprios das autoridades judiciais, respeitados os limites constitucionais. | Constituição Federal, art. 58, § 3º, c/c art. 29 (princípio da simetria) e Lei Orgânica |
+| Participar da aprovação de contas do prefeito | Julgar as contas anuais do chefe do Executivo, após parecer prévio do Tribunal de Contas competente. | Constituição Federal, art. 31, § 2º |
+| Sugerir indicações ao Executivo | Apresentar indicações para que o prefeito adote medidas de interesse público, como obras, serviços ou políticas. | Regimento Interno da Câmara Municipal (norma geral) |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---------------------------|---------|--------------------------------|
+| Aprovar uma lei | O vereador é um voto entre os demais; a aprovação depende de maioria simples, absoluta ou qualificada, conforme a matéria. | Demais vereadores da Câmara Municipal (colegiado) |
+| Executar obras ou serviços públicos | A função executiva é do prefeito; o vereador não administra a máquina pública municipal. | Prefeito e secretarias municipais |
+| Criar despesas sem previsão orçamentária | Qualquer proposição que gere gasto deve indicar a fonte de recurso e ser compatível com o orçamento. | Lei Orçamentária Anual, prefeito e Câmara como um todo |
+| Julgar as contas do prefeito sem o Tribunal de Contas | A decisão da Câmara depende de parecer prévio do Tribunal de Contas do Estado ou do Município, que só pode ser rejeitado por dois terços dos vereadores. | Constituição Federal, art. 31, § 2º; Tribunal de Contas |
+| Modificar a Lei Orgânica do Município isoladamente | A alteração da Lei Orgânica exige quórum qualificado (geralmente dois terços) e obedece a processo legislativo especial. | Lei Orgânica e Regimento Interno da Câmara |
+| Nomear ou exonerar servidores do Executivo | Essa é prerrogativa privativa do prefeito. | Constituição Federal, art. 84 (simétrico) e Lei Orgânica |
+
+5. DO QUE ESSE CARGO DEPENDE
+A atuação do vereador é condicionada por diversos fatores. Ele depende da **Câmara Municipal** como colegiado (maioria de votos), do **prefeito** (para sanção ou veto de projetos de lei), do **orçamento público** (para qualquer proposição com impacto financeiro) e do **Tribunal de Contas** (para o julgamento técnico das contas do Executivo). Também depende do que estabelece a **Lei Orgânica do Município** e o **Regimento Interno da Câmara**, que definem limites e procedimentos específicos para seu mandato. Além disso, sua capacidade de aprovar leis está subordinada à Constituição Federal e à legislação superior.
+
+6. TRADUÇÃO PRÁTICA
+O vereador é a pessoa que você elege para representar seu bairro e sua cidade na Câmara Municipal. Ele não governa a cidade (quem faz isso é o prefeito), mas pode criar leis locais e, principalmente, fiscalizar se o dinheiro público está sendo bem usado. Sozinho, um vereador não consegue aprovar nada — ele precisa do apoio de outros vereadores. Para o cidadão comum, é o canal mais próximo para levar demandas (como uma praça mal cuidada ou um problema no posto de saúde) e o responsável por cobrar explicações da prefeitura.
+
+7. RESPONSABILIDADE
+| Tipo de relação | O que significa |
+|-----------------|-----------------|
+| Responsabilidade direta | O vereador tem poder formal para apresentar projetos, votar leis, requerer informações do Executivo e propor CPIs. |
+| Responsabilidade compartilhada | A aprovação de leis, o julgamento das contas do prefeito e a alteração da Lei Orgânica dependem do voto do conjunto de vereadores. |
+| Influência política | Pode articular demandas da população junto ao Executivo, indicar prioridades e negociar emendas ao orçamento, mas não tem poder de decisão sobre a execução. |
+| Ausência de competência direta | Não pode executar obras, gerir serviços públicos nem decidir sozinho a aplicação de recursos do orçamento. |
+
+8. FONTES
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo**
+Não se aplica, pois não há pessoa informada.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo**
+- Nome: Constituição da República Federativa do Brasil de 1988
+  - Classificação: OFICIAL
+  - Tipo: Texto constitucional
+  - Data: 5 de outubro de 1988 (com atualizações posteriores)
+  - Informação confirmada: Arts. 29, 29-A, 31 e 58 definem a estrutura do Poder Legislativo municipal, suas competências legislativas e fiscalizatórias, inclusive o julgamento de contas do prefeito e a possibilidade de criação de CPIs.
+- Nome: Lei Orgânica do Município (norma geral, sem especificação de localidade)
+  - Classificação: INSTITUCIONAL (cada município possui a sua)
+  - Tipo: Lei orgânica municipal
+  - Data: Variável por município
+  - Informação confirmada: As competências específicas, o processo legislativo local e os limites de atuação do vereador são detalhados na respectiva Lei Orgânica, conforme determina a Constituição Federal.
+- Nome: Regimento Interno da Câmara Municipal (norma geral, sem especificação)
+  - Classificação: INSTITUCIONAL
+  - Tipo: Resolução legislativa municipal
+  - Data: Variável por município
+  - Informação confirmada: Disciplina o funcionamento da Câmara, os tipos de proposições (indicações, requerimentos) e o processo de votação.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta descrição apresenta as funções, poderes e limites formais do cargo de vereador, com base nas regras gerais que se aplicam a todo o Brasil. Ela não avalia se um vereador específico foi bom ou ruim, nem analisa seu desempenho, ideologia ou intenções. Serve apenas como um mapa do que o cargo permite ou não fazer, independentemente de quem o ocupa. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

@@ -1,0 +1,323 @@
+================================================================================
+  ANÁLISE DE CARGO PÚBLICO — FUNÇÃO REAL E COMPETÊNCIAS FORMAIS
+================================================================================
+  Pessoa: Luiz Inácio Lula da Silva
+  Cargo:  Presidente da República
+  Período: 2023 – atual (3º mandato)
+  Esfera: Federal | Poder: Executivo | Tipo: Eleito
+================================================================================
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 1 — VALIDAÇÃO DO CARGO ANALISADO
+────────────────────────────────────────────────────────────────────────────────
+
+  Pessoa analisada ........ Luiz Inácio Lula da Silva
+  Cargo/função ............ Presidente da República
+  Período ................. 1º de janeiro de 2023 – atual (3º mandato)
+  Exerceu o cargo? ........ SIM — confirmado por fontes OFICIAIS
+  Fonte do vínculo ........ TSE (resultado eleitoral, out./2022) +
+                            Portal Gov.br / Planalto (posse em 1/1/2023)
+  Classificação da fonte .. OFICIAL
+  Esfera .................. Federal
+  Poder ................... Executivo
+  Tipo de cargo ........... Eleito (sufrágio universal, 2 turnos)
+
+  Em uma frase:
+  O Presidente da República é o chefe do Poder Executivo federal, eleito
+  diretamente pelo povo para mandato de 4 anos, responsável por governar
+  o país, executar as leis e representar o Estado brasileiro.
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 2 — FUNÇÃO PRINCIPAL DO CARGO
+────────────────────────────────────────────────────────────────────────────────
+
+  O cargo de Presidente da República existe para chefiar o Poder Executivo
+  federal e garantir que as leis sejam cumpridas e as políticas públicas
+  nacionais sejam executadas.
+
+  É a mais alta autoridade do Executivo brasileiro. A pessoa que ocupa essa
+  posição governa o país, dirige a máquina pública federal, representa o
+  Estado nas relações internacionais e responde politicamente pelas decisões
+  do governo perante a sociedade e o Congresso.
+
+  O cargo não governa sozinho: está submetido à Constituição Federal, às
+  leis aprovadas pelo Congresso e ao controle do Judiciário.
+
+  Fonte: Constituição Federal de 1988, Art. 76, 84 e seguintes [OFICIAL].
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 3 — O QUE ESSE CARGO PODE FAZER
+────────────────────────────────────────────────────────────────────────────────
+
+  ┌─────────────────────────────────┬─────────────────────────────────────────┬──────────────┐
+  │ O cargo pode                    │ O que isso significa na prática         │ Fonte        │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Sancionar ou vetar leis         │ Após aprovação pelo Congresso, aprova   │ CF/88, Art.  │
+  │                                 │ ou rejeita projeto de lei. O veto pode  │ 66           │
+  │                                 │ ser derrubado pelo Congresso.           │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Editar medidas provisórias      │ Normas com força de lei, de vigência    │ CF/88, Art.  │
+  │                                 │ imediata, que precisam de aprovação do  │ 62           │
+  │                                 │ Congresso em até 120 dias.              │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Nomear e exonerar ministros     │ Escolhe livremente os titulares dos     │ CF/88, Art.  │
+  │ de Estado                       │ ministérios, que respondem perante ele. │ 84, I        │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Nomear cargos com aprovação     │ Ministros do STF, AGU, PGR, dirigentes  │ CF/88, Art.  │
+  │ do Senado                       │ de bancos públicos e outros cargos      │ 84, III e XIV│
+  │                                 │ exigem aprovação do Senado Federal.     │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Comandar as Forças Armadas      │ É o Comandante Supremo das Forças       │ CF/88, Art.  │
+  │                                 │ Armadas, com atribuições definidas na   │ 84, XIII     │
+  │                                 │ Constituição.                           │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Celebrar tratados internacionais│ Assina acordos com outros países, que   │ CF/88, Art.  │
+  │                                 │ depois precisam de aprovação do         │ 84, VIII     │
+  │                                 │ Congresso para entrar em vigor.         │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Enviar projetos de lei ao       │ Propõe legislação, inclusive com        │ CF/88, Art.  │
+  │ Congresso                       │ urgência em alguns casos, mas não       │ 84, III e 61 │
+  │                                 │ aprova leis sozinho.                    │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Elaborar e enviar o orçamento   │ Prepara e encaminha ao Congresso os     │ CF/88, Art.  │
+  │ federal                         │ projetos de LOA, LDO e PPA.             │ 84, XXIII    │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Expedir decretos e regulamentos │ Regulamenta leis, organiza a            │ CF/88, Art.  │
+  │                                 │ administração federal e executa         │ 84, IV e VI  │
+  │                                 │ atribuições constitucionais via decreto.│              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Declarar estado de defesa       │ Em situações excepcionais previstas na  │ CF/88, Art.  │
+  │ ou sítio                        │ Constituição, com controle e            │ 84, IX e X   │
+  │                                 │ autorização do Congresso.               │              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Representar o Brasil no exterior│ Atua como chefe de Estado nas relações  │ CF/88, Art.  │
+  │                                 │ diplomáticas e internacionais.          │ 84, VII      │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────┤
+  │ Conceder indulto e comutar      │ Ato de graça individual, previsto na    │ CF/88, Art.  │
+  │ penas                           │ Constituição, sem necessidade de        │ 84, XII      │
+  │                                 │ aprovação de outro Poder.               │              │
+  └─────────────────────────────────┴─────────────────────────────────────────┴──────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 4 — O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+────────────────────────────────────────────────────────────────────────────────
+
+  ┌─────────────────────────────────┬─────────────────────────────────────────┬──────────────────────────────┐
+  │ O cargo não pode sozinho        │ Por quê                                 │ Quem ou o que também         │
+  │                                 │                                         │ participa                    │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Criar leis definitivas          │ Leis dependem de aprovação do           │ Câmara dos Deputados e       │
+  │                                 │ Legislativo. Medidas provisórias têm    │ Senado Federal               │
+  │                                 │ prazo e exigem aprovação.               │                              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Aprovar o orçamento federal     │ O Executivo propõe, mas quem autoriza   │ Congresso Nacional           │
+  │                                 │ os gastos é o Congresso via lei         │                              │
+  │                                 │ orçamentária.                           │                              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Alterar a Constituição          │ Emendas constitucionais exigem quórum   │ Câmara e Senado              │
+  │                                 │ qualificado no Congresso. O Presidente  │ (3/5 em 2 turnos)            │
+  │                                 │ pode propor, não pode alterar.          │                              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Definir taxa de juros básica    │ A taxa Selic é definida pelo Copom,     │ Banco Central do Brasil      │
+  │                                 │ órgão colegiado do Banco Central,       │ (LC 179/2021)                │
+  │                                 │ que tem autonomia legal.                │                              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Prender, condenar ou absolver   │ Esse poder pertence ao Judiciário,      │ Poder Judiciário,            │
+  │ pessoas                         │ mediante processo legal.                │ Ministério Público           │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Obrigar o Judiciário a decidir  │ Há separação constitucional entre os    │ Poder Judiciário             │
+  │ de certa forma                  │ Poderes e independência do Judiciário.  │ (STF e demais tribunais)     │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Executar políticas que pertencem│ O Brasil é uma federação. Saúde,        │ Governos estaduais e         │
+  │ a estados e municípios          │ educação e segurança pública têm        │ municipais                   │
+  │                                 │ competências divididas.                 │                              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Nomear ministros do STF sem     │ A Constituição exige aprovação pelo     │ Senado Federal               │
+  │ sabatina                        │ Senado Federal.                         │                              │
+  ├─────────────────────────────────┼─────────────────────────────────────────┼──────────────────────────────┤
+  │ Gastar recursos sem dotação     │ O gasto público depende de previsão     │ Congresso Nacional;          │
+  │ orçamentária                    │ na LOA aprovada pelo Congresso.         │ lei orçamentária vigente     │
+  └─────────────────────────────────┴─────────────────────────────────────────┴──────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 5 — DO QUE ESSE CARGO DEPENDE
+────────────────────────────────────────────────────────────────────────────────
+
+  Congresso Nacional
+    Aprova leis, o orçamento, medidas provisórias, tratados internacionais
+    e cargos que exigem sabatina. Pode rejeitar vetos presidenciais e
+    iniciar processos de impeachment.
+
+  Poder Judiciário (especialmente o STF)
+    Pode anular atos presidenciais considerados inconstitucionais. O STF
+    é o guardião da Constituição.
+
+  Banco Central
+    Desde a Lei Complementar 179/2021, tem autonomia formal para definir
+    política monetária (taxa Selic, inflação). O Presidente nomeia o
+    presidente e diretores, com aprovação do Senado, mas não controla as
+    decisões do Copom.
+
+  Agências reguladoras e autarquias
+    Têm autonomia administrativa e regulatória dentro de suas áreas.
+    Seus dirigentes têm mandato fixo.
+
+  Estados e municípios
+    O Brasil é uma federação. Diversas políticas públicas dependem de
+    cooperação ou são de competência exclusiva dos entes subnacionais.
+
+  Orçamento aprovado
+    Qualquer gasto federal depende de previsão na Lei Orçamentária Anual
+    (LOA), aprovada pelo Congresso.
+
+  Constituição Federal
+    É a norma máxima. Todos os atos presidenciais estão submetidos a ela.
+
+  Fontes: CF/88, Arts. 1º, 2º, 18, 60, 66, 84, 85, 86, 102;
+          Lei Complementar 179/2021 [OFICIAL].
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 6 — TRADUÇÃO PRÁTICA
+────────────────────────────────────────────────────────────────────────────────
+
+  Na prática, isso significa que o Presidente da República tem grande poder
+  de iniciativa e de direção do governo federal, mas não decide sozinho
+  sobre temas que dependem do Congresso, do Judiciário ou de entes
+  federativos autônomos.
+
+  Uma decisão pública pode depender de proposta do Executivo, aprovação do
+  Legislativo, controle do Judiciário e execução compartilhada com estados
+  e municípios. Nem sempre quem propõe é quem decide, e nem sempre quem
+  decide é quem executa.
+
+  Para saber se o Presidente era responsável por algo específico, é preciso
+  verificar se o cargo tinha competência direta sobre aquele tema — ou se a
+  decisão dependia de outros órgãos, aprovações ou etapas.
+
+  O mesmo cargo pode ter poder direto sobre uma área e nenhuma competência
+  formal sobre outra.
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 7 — RESPONSABILIDADE: COMO INTERPRETAR
+────────────────────────────────────────────────────────────────────────────────
+
+  ┌────────────────────────────────┬─────────────────────────────────────────────────────────┐
+  │ Tipo de relação                │ O que significa                                         │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────┤
+  │ Responsabilidade direta        │ Quando o cargo tinha poder formal para decidir ou        │
+  │                                │ executar — como nomear ministros, editar decretos,       │
+  │                                │ sancionar ou vetar leis, expedir medidas provisórias.    │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────┤
+  │ Responsabilidade compartilhada │ Quando a decisão dependia de outros órgãos, votação,    │
+  │                                │ colegiado ou autorização — como aprovar o orçamento,     │
+  │                                │ criar leis, celebrar tratados.                           │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────┤
+  │ Influência política            │ Quando a pessoa podia articular, apoiar, pressionar ou   │
+  │                                │ defender algo, mas não decidia sozinha — como            │
+  │                                │ negociações no Congresso ou composição de bancadas.      │
+  ├────────────────────────────────┼─────────────────────────────────────────────────────────┤
+  │ Ausência de competência direta │ Quando o cargo não tinha poder formal sobre aquele       │
+  │                                │ tema — como definir a taxa de juros, condenar pessoas,   │
+  │                                │ ou gerir serviços municipais.                            │
+  └────────────────────────────────┴─────────────────────────────────────────────────────────┘
+
+  Nota: Esses tipos de relação ajudam a separar o que a pessoa podia fazer
+  pelo cargo do que dependia de outros fatores. A análise de atos concretos
+  requer consulta a outras fontes.
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 8 — FONTES
+────────────────────────────────────────────────────────────────────────────────
+
+  A) FONTES PARA CONFIRMAR VÍNCULO PESSOA-CARGO
+  ─────────────────────────────────────────────
+
+  [1] TSE — resultado oficial da eleição presidencial de 2022
+      Classificação: OFICIAL
+      Tipo: registro eleitoral oficial
+      Data: outubro–dezembro/2022
+      Informação confirmada: Lula foi eleito Presidente da República no
+      2º turno de 30/10/2022.
+
+  [2] Portal Gov.br / Planalto — posse presidencial
+      Classificação: OFICIAL
+      Tipo: registro institucional oficial
+      Data: 1/1/2023
+      Informação confirmada: Lula tomou posse como Presidente da República
+      em 1º de janeiro de 2023 para mandato de 4 anos (2023–2026).
+
+  B) FONTES PARA EXPLICAR COMPETÊNCIAS DO CARGO
+  ──────────────────────────────────────────────
+
+  [3] Constituição Federal de 1988 — Capítulo II (Do Poder Executivo),
+      Arts. 76–91
+      Classificação: OFICIAL
+      Tipo: norma constitucional
+      Competências explicadas: todas as atribuições listadas nas seções
+      3, 4 e 5 desta análise.
+
+  [4] Lei Complementar 179/2021 — Autonomia do Banco Central
+      Classificação: OFICIAL
+      Tipo: lei complementar federal
+      Competências explicadas: autonomia do Banco Central na definição da
+      política monetária; limite do Presidente sobre a taxa Selic.
+
+  Nota: Nenhuma fonte indireta (imprensa, Wikipedia) foi usada como base
+  principal nesta análise.
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 9 — COMO USAR ESTA INFORMAÇÃO
+────────────────────────────────────────────────────────────────────────────────
+
+  Esta análise não diz se a pessoa foi boa ou ruim no cargo. Ela mostra o
+  que o cargo permitia ou não permitia fazer formalmente.
+
+  Para avaliar atuação concreta, é necessário consultar atos, decretos,
+  medidas provisórias, projetos de lei enviados, nomeações realizadas e
+  resultados de políticas públicas — em outras etapas de análise.
+
+  Antes de atribuir culpa ou mérito a uma decisão específica, verifique se
+  o cargo tinha poder direto sobre aquele tema ou se a responsabilidade era
+  compartilhada com outros órgãos.
+
+  "Entender a função real do cargo ajuda a evitar atribuir a uma pessoa
+   poderes que ela não tinha, ou ignorar responsabilidades que ela
+   realmente tinha."
+
+
+────────────────────────────────────────────────────────────────────────────────
+ SEÇÃO 10 — SE QUISER IR MAIS FUNDO
+────────────────────────────────────────────────────────────────────────────────
+
+  Sobre o cargo:
+  · "Explique melhor as atribuições desse cargo"
+  · "Compare esse cargo com outro cargo parecido"
+
+  Sobre dependências:
+  · "Quais decisões dependem de outros órgãos?"
+  · "Quem mais participa dessas decisões?"
+
+  Sobre responsabilidade:
+  · "Como saber se a responsabilidade era direta ou compartilhada?"
+  · "Como diferenciar poder formal de influência política?"
+
+  Sobre exemplos práticos:
+  · "Dê exemplos simples de decisões que esse cargo pode tomar"
+  · "Mostre um exemplo de algo que parece responsabilidade desse cargo,
+     mas depende de outros fatores"
+
+
+================================================================================
+  FIM DO DOCUMENTO
+  Análise baseada exclusivamente em fontes OFICIAIS.
+  Nenhuma avaliação de desempenho, ideologia ou intenção foi realizada.
+================================================================================

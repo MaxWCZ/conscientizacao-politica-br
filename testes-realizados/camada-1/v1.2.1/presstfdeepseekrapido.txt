@@ -1,0 +1,125 @@
+**1. CARGO ANALISADO**
+
+- **Cargo:** Presidente do Supremo Tribunal Federal (STF)
+- **Pessoa, se houver:** Alexandre de Moraes
+- **Período, se houve:** não informado
+- **A pessoa exerceu esse cargo no período indicado?** não confirmado
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Judiciário – Supremo Tribunal Federal
+- **Tipo de cargo:** Chefia do Poder Judiciário, cargo de direção do tribunal, com mandato de dois anos, vedada a reeleição para o período imediato.
+
+**Não há registro público claro de que Alexandre de Moraes tenha exercido a Presidência do Supremo Tribunal Federal.** As fontes oficiais consultadas indicam que ele é Ministro do STF desde 22 de março de 2017 e foi eleito Vice-Presidente para o biênio 2025–2027. A Presidência do Tribunal no período mais recente é ocupada por outros ministros: Luís Roberto Barroso (2023–2025) e Edson Fachin (2025–2027). As informações disponíveis indicam que Alexandre de Moraes **não** exerceu a Presidência do STF até o momento desta consulta.
+
+A análise a seguir refere-se, portanto, às **competências gerais do cargo** de Presidente do STF, conforme previsto na Constituição Federal e no Regimento Interno do Tribunal.
+
+---
+
+**2. FUNÇÃO PRINCIPAL DO CARGO**
+
+O Presidente do Supremo Tribunal Federal é o chefe do Poder Judiciário brasileiro e tem como função principal dirigir administrativamente o tribunal, representá-lo institucionalmente perante os demais Poderes e autoridades, e presidir as sessões do Plenário, garantindo o cumprimento da Constituição e das decisões da Corte.
+
+---
+
+**3. O QUE ESSE CARGO PODE FAZER**
+
+| **O cargo pode** | **O que isso significa na prática** | **Fonte** |
+|---|---|---|
+| Velar pelas prerrogativas do Tribunal | Defender a autonomia e as atribuições constitucionais do STF perante outros órgãos e Poderes. |  |
+| Representar o Tribunal perante os demais Poderes e autoridades | Atuar como porta-voz institucional do STF em relações com o Executivo, o Legislativo e outras entidades. |  |
+| Dirigir os trabalhos e presidir as sessões plenárias | Conduzir as reuniões do Plenário, ordenar os debates e garantir o cumprimento do regimento. |  |
+| Executar e fazer executar as ordens e decisões do Tribunal | Dar cumprimento às deliberações colegiadas, expedindo os atos necessários para sua efetivação. |  |
+| Decidir questões urgentes durante recesso ou férias | Tomar decisões monocráticas em casos de urgência quando o Tribunal não está em funcionamento pleno. |  |
+| Dar posse aos Ministros | Conduzir a cerimônia de posse dos novos ministros nomeados pelo Presidente da República e aprovados pelo Senado Federal. |  |
+| Propor projetos de lei sobre criação e extinção de cargos, remuneração dos membros, alteração da organização judiciária | Exercer a competência privativa do STF para iniciar no Congresso Nacional projetos de lei sobre essas matérias (art. 96, I, “d”, e II, da CF). |  |
+| Propor projeto de lei complementar sobre o Estatuto da Magistratura | Iniciar o processo legislativo para alteração da Lei Orgânica da Magistratura Nacional (art. 93 da CF). |  |
+| Administrar o Tribunal | Supervisionar as secretarias subordinadas à Presidência (Secretaria do Tribunal, Secretaria-Geral da Presidência, Secretaria de Segurança, Secretaria de Controle Interno). |  |
+
+---
+
+**4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO**
+
+| **O cargo não pode sozinho** | **Por quê** | **Quem ou o que também participa** |
+|---|---|---|
+| Julgar processos ou decidir o mérito de ações | A competência para julgar é do Plenário ou das Turmas, órgãos colegiados. O Presidente pode decidir monocraticamente apenas em situações de urgência durante recesso, mas o mérito final é colegiado. | Plenário (todos os 11 ministros) ou Turmas (5 ministros cada). |
+| Alterar o Regimento Interno | A competência para elaborar e modificar o regimento é do Tribunal como um todo. | O Plenário do STF, por votação da maioria dos ministros. |
+| Nomear ou exonerar ministros | A nomeação é privativa do Presidente da República, com aprovação do Senado Federal. | Presidente da República e Senado Federal (art. 101 da CF). |
+| Propor leis sobre qualquer assunto | A iniciativa legislativa do STF é restrita às matérias previstas no art. 96 da Constituição. | Congresso Nacional (para aprovação das leis). |
+| Representar o Brasil em atos internacionais sem anuência do Executivo | A representação externa do Judiciário em matérias de política externa depende de coordenação com o Poder Executivo. | Presidente da República e Ministério das Relações Exteriores. |
+
+---
+
+**5. DO QUE ESSE CARGO DEPENDE**
+
+A atuação do Presidente do STF depende de:
+
+- **Constituição Federal:** Define as competências do STF, os requisitos para ministros, a linha sucessória e a competência privativa para propor leis.
+- **Regimento Interno do STF:** Estabelece as atribuições específicas do Presidente, o processo de eleição, o mandato de dois anos e as regras de funcionamento do Tribunal.
+- **Decisões colegiadas:** O Presidente não pode sobrepor-se à vontade do Plenário ou das Turmas; deve executar as decisões do colegiado.
+- **Orçamento:** A gestão administrativa do Tribunal depende do orçamento aprovado pelo Congresso Nacional e executado pelo Poder Executivo.
+- **Senado Federal:** Para aprovação de projetos de lei de iniciativa do STF e para sabatina de novos ministros.
+- **Presidente da República:** Para nomeação dos ministros indicados.
+
+---
+
+**6. TRADUÇÃO PRÁTICA**
+
+Para uma pessoa comum, o Presidente do STF é como o **diretor administrativo e cerimonial do tribunal**. Ele organiza o trabalho, representa a Corte em eventos oficiais, dá posse aos novos juízes e resolve problemas urgentes quando o tribunal está de férias. Porém, ele **não decide sozinho** os grandes casos – isso é feito pelo conjunto de todos os ministros (Plenário) ou por grupos menores (Turmas). O Presidente também pode propor leis sobre a organização da Justiça, mas quem aprova é o Congresso.
+
+---
+
+**7. RESPONSABILIDADE**
+
+| **Tipo de relação** | **O que significa** |
+|---|---|
+| **Responsabilidade direta** | Decisões monocráticas em regime de urgência (recesso/férias); execução de ordens do Tribunal; administração do Tribunal; representação institucional; propositura de projetos de lei nas matérias previstas no art. 96 da CF. |
+| **Responsabilidade compartilhada** | Qualquer decisão de mérito em processos – depende do voto do colegiado (Plenário ou Turmas). Alterações regimentais – dependem de aprovação do Plenário. |
+| **Influência política** | O Presidente pode articular e defender posições institucionais perante os demais Poderes, mas não pode decidir sozinho sobre políticas públicas ou leis. |
+| **Ausência de competência direta** | Nomeação de ministros, aprovação de leis em geral, definição de políticas externas do Estado, julgamento de processos que não estão sob sua relatoria ou que não são de urgência em recesso. |
+
+---
+
+**8. FONTES**
+
+**A) Fontes para confirmar vínculo pessoa-cargo (Alexandre de Moraes como Presidente do STF)**
+
+- **Nome:** Página oficial do STF – Ministro Alexandre de Moraes
+  - **Classificação:** OFICIAL
+  - **Tipo:** Site institucional do STF
+  - **Data:** Acesso em 2026
+  - **Informação confirmada:** Alexandre de Moraes é Ministro do STF desde 22 de março de 2017. Não há menção à Presidência do STF.
+- **Nome:** Notícia do STF sobre posse de presidente e vice-presidente (2025)
+  - **Classificação:** OFICIAL
+  - **Tipo:** Notícia institucional
+  - **Data:** 17 de setembro de 2025
+  - **Informação confirmada:** Edson Fachin foi empossado Presidente e Alexandre de Moraes Vice-Presidente para o biênio 2025/2027.
+- **Nome:** Notícia do STF sobre eleição de presidente (2025)
+  - **Classificação:** OFICIAL
+  - **Tipo:** Notícia institucional
+  - **Data:** 13 de agosto de 2025
+  - **Informação confirmada:** Edson Fachin eleito Presidente e Alexandre de Moraes Vice-Presidente.
+
+**B) Fontes para explicar competências do cargo**
+
+- **Nome:** Constituição da República Federativa do Brasil de 1988
+  - **Classificação:** OFICIAL
+  - **Tipo:** Lei fundamental
+  - **Data:** 5 de outubro de 1988
+  - **Informação confirmada:** Art. 96 (competência privativa dos tribunais para propor leis sobre organização judiciária, cargos e remuneração); Art. 102 (competência do STF como guardião da Constituição); Art. 79 (linha sucessória presidencial, com o Presidente do STF no 4º lugar).
+- **Nome:** Regimento Interno do Supremo Tribunal Federal (RISTF) – atualizado até a Emenda Regimental n. 58/2022
+  - **Classificação:** OFICIAL
+  - **Tipo:** Norma interna do STF
+  - **Data:** 2023
+  - **Informação confirmada:** Art. 12 – mandato de dois anos do Presidente, vedada a reeleição imediata; Art. 3º – o Presidente é um dos órgãos do Tribunal.
+- **Nome:** Documento “Supremo Tribunal Federal da República Federativa do Brasil – Estrutura e atribuições” (PDF)
+  - **Classificação:** OFICIAL
+  - **Tipo:** Publicação institucional do STF
+  - **Data:** sem data específica
+  - **Informação confirmada:** Atribuições do Presidente: velar pelas prerrogativas, representar o Tribunal, dirigir trabalhos, presidir sessões, executar decisões, decidir em urgência durante recesso, dar posse, propor leis nas matérias do art. 96 da CF, administrar o Tribunal.
+
+---
+
+**9. COMO USAR ESTA INFORMAÇÃO**
+
+Esta análise não avalia desempenho, ideologia, caráter ou qualquer ato concreto de qualquer pessoa. Ela apenas descreve o que o cargo de Presidente do Supremo Tribunal Federal pode ou não pode fazer, com base na Constituição e no Regimento Interno do Tribunal, sem qualquer juízo sobre a atuação de seus ocupantes.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

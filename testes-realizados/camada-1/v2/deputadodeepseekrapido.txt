@@ -1,0 +1,111 @@
+**1. CARGO ANALISADO**
+
+- **Cargo:** Deputado (Deputado Federal)
+- **Pessoa, se houver:** ALINNE FERRAZ BANDEIRA MARTINS
+- **Período, se houver:** [não informado]
+- **Contexto informado ou identificado:** Boulos — identificou-se que Alinne Ferraz Bandeira Martins exerceu o cargo de **SECRETÁRIO PARLAMENTAR** no gabinete do Deputado Federal Guilherme Boulos.
+- **A pessoa exerceu esse cargo no período indicado?** **Não.** Alinne Ferraz Bandeira Martins não exerceu o cargo de Deputado Federal. Conforme fonte oficial da Câmara dos Deputados, ela ocupou o cargo em comissão de Secretário Parlamentar no gabinete do Deputado Federal Guilherme Boulos no período de 22/03/2023 a 28/10/2025.
+- **Houve exercício interino, substituto ou provisório?** **Não informado / não confirmado.** Não há registro de que tenha exercido o cargo de Deputado em caráter interino, substituto ou provisório.
+- **Esfera:** Federal
+- **Poder ou estrutura:** Poder Legislativo — Câmara dos Deputados
+- **Tipo de cargo:** Cargo eletivo (Deputado Federal); a pessoa analisada ocupou cargo comissionado (Secretário Parlamentar).
+
+---
+
+**2. FUNÇÃO PRINCIPAL DO CARGO**
+
+O Deputado Federal é o representante do povo eleito para a Câmara dos Deputados, uma das duas casas do Poder Legislativo federal, com mandato de quatro anos. Suas duas atribuições principais, estabelecidas na Constituição Federal, são **legislar** (criar, modificar ou revogar leis) e **fiscalizar** (controlar os atos do Poder Executivo e a aplicação dos recursos públicos).
+
+---
+
+**3. O QUE ESSE CARGO PODE FAZER**
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| **Legislar** | Propor, emendar, discutir e votar projetos de lei, emendas constitucionais, leis complementares e outros atos normativos com força de lei sobre matérias de competência da União. | Constituição Federal, art. 48; Câmara dos Deputados |
+| **Fiscalizar o Poder Executivo** | Acompanhar e controlar a aplicação dos recursos públicos, convocar ministros de Estado para prestar informações e fiscalizar a execução orçamentária, com auxílio do Tribunal de Contas da União. | Constituição Federal, art. 70 |
+| **Participar do processo orçamentário** | Discutir, modificar e votar o Orçamento da União, definindo prioridades para a aplicação de recursos públicos. | Câmara dos Deputados |
+| **Instalar comissões parlamentares de inquérito (CPIs)** | Investigar, em conjunto com outros deputados, fatos determinados por prazo certo, com poderes de investigação próprios de autoridade judicial. | Congresso Nacional |
+| **Representar a população** | Atuar como canal entre a sociedade e o Poder Público, recebendo demandas e propostas da população. | Constituição Federal, art. 44 |
+
+---
+
+**4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO**
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| **Aprovar leis** | A aprovação de leis exige votação no plenário da Câmara, e na maioria dos casos também no Senado Federal, além da sanção ou promulgação pelo Presidente da República. | Plenário da Câmara, Senado Federal, Presidente da República |
+| **Aprovar o Orçamento** | O Orçamento da União é discutido e votado pelo Congresso Nacional (Câmara e Senado), com participação de comissões mistas. | Congresso Nacional (Câmara e Senado em conjunto) |
+| **Fiscalizar de forma isolada** | A fiscalização contábil, financeira e orçamentária é exercida pelo Congresso com o auxílio do Tribunal de Contas da União. | Tribunal de Contas da União |
+| **Convocar ministros individualmente** | A convocação de ministros para prestar informações é uma decisão da Câmara ou do Senado, não de um deputado isolado. | Plenário da Câmara ou do Senado |
+| **Criar ou extinguir cargos públicos** | A criação ou extinção de cargos públicos é matéria de lei, que depende do processo legislativo completo. | Congresso Nacional e Presidente da República |
+
+---
+
+**5. DO QUE ESSE CARGO DEPENDE**
+
+A atuação do Deputado Federal depende de:
+
+- **Constituição Federal de 1988** — define as competências e limites do Poder Legislativo.
+- **Regimento Interno da Câmara dos Deputados** — estabelece as regras de funcionamento, prazos e procedimentos para a atuação parlamentar.
+- **Processo legislativo** — a tramitação de projetos depende de comissões, prazos, quórum de votação e, em muitos casos, da apreciação pelo Senado Federal e sanção presidencial.
+- **Orçamento da União** — as ações e propostas do deputado dependem da disponibilidade de recursos orçamentários para serem implementadas.
+- **Colegiados e votações** — a maioria das decisões relevantes exige deliberação em comissões ou no plenário, com votação coletiva.
+- **Tribunal de Contas da União (TCU)** — auxilia o Congresso na fiscalização contábil, financeira e orçamentária.
+
+---
+
+**6. TRADUÇÃO PRÁTICA**
+
+Para uma pessoa comum, o Deputado Federal é o representante eleito para atuar em Brasília, na Câmara dos Deputados. Ele ajuda a criar as leis que valem para todo o país e fiscaliza se o governo está usando o dinheiro público corretamente. Mas ele não faz isso sozinho: as leis precisam ser votadas por muitos deputados e, na maioria das vezes, também pelo Senado e pelo Presidente. A função dele é debater, propor e votar, sempre em conjunto com os outros parlamentares.
+
+---
+
+**7. RESPONSABILIDADE**
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | O Deputado tem poder formal para apresentar projetos de lei, emendar proposições, votar em plenário e em comissões, e participar de processos de fiscalização. |
+| **Responsabilidade compartilhada** | A aprovação de leis, emendas constitucionais, o Orçamento e a maioria das decisões relevantes dependem de votação coletiva no plenário ou em comissões, e muitas vezes da participação do Senado e do Presidente da República. |
+| **Influência política** | O Deputado pode articular, defender pautas e negociar com outros parlamentares e com o Executivo, mas não tem poder para decidir sozinho sobre a aprovação de matérias. |
+| **Ausência de competência direta** | O Deputado não tem poder para executar políticas públicas, nomear ou exonerar servidores públicos federais (exceto sua própria equipe de gabinete), ou determinar a aplicação de recursos públicos fora do processo orçamentário. |
+
+---
+
+**8. FONTES**
+
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo**
+
+- **Nome:** Pessoal de gabinete do Deputado(a) Federal Guilherme Boulos — Câmara dos Deputados
+- **Classificação:** OFICIAL
+- **Tipo:** Portal da Câmara dos Deputados — Transparência
+- **Data:** 2023
+- **Informação confirmada:** ALINNE FERRAZ BANDEIRA MARTINS consta como **SECRETÁRIO PARLAMENTAR** no gabinete do Deputado Federal Guilherme Boulos, com período de exercício de 22/03/2023 a 28/10/2025. Não há registro de que tenha exercido o cargo de Deputado Federal.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo**
+
+- **Nome:** "Saiba quais são as atribuições do deputado federal" — Agência Câmara Notícias
+- **Classificação:** OFICIAL
+- **Tipo:** Notícia institucional da Câmara dos Deputados
+- **Data:** 22/08/2022
+- **Informação confirmada:** As duas atribuições principais do Deputado Federal, estabelecidas na Constituição, são legislar e fiscalizar.
+
+- **Nome:** "Atribuições" — Portal do Congresso Nacional
+- **Classificação:** OFICIAL
+- **Tipo:** Página institucional do Congresso Nacional
+- **Data:** [sem data]
+- **Informação confirmada:** O Poder Legislativo é exercido pelo Congresso Nacional (Câmara dos Deputados e Senado Federal). Compete ao Congresso exercer atribuições legislativas e de fiscalização e controle.
+
+- **Nome:** "Informações gerais sobre o cargo em comissão de secretário parlamentar" — Câmara dos Deputados
+- **Classificação:** OFICIAL
+- **Tipo:** Portal da Câmara dos Deputados
+- **Data:** [sem data]
+- **Informação confirmada:** O Deputado no efetivo exercício do mandato pode indicar de 5 a 25 pessoas de sua confiança para exercer o cargo em comissão de secretário parlamentar, com a finalidade de prestação de serviços de secretaria, assistência e assessoramento direto e exclusivo.
+
+---
+
+**9. COMO USAR ESTA INFORMAÇÃO**
+
+Esta análise não avalia o desempenho, a ideologia, a intenção ou o caráter de qualquer pessoa. Ela apenas descreve o que o cargo de Deputado Federal permite ou não permite fazer, com base em fontes oficiais, e esclarece o vínculo real da pessoa mencionada com esse cargo.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**

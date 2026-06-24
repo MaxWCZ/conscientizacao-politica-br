@@ -21,7 +21,7 @@ No processo, foram utilizados os seguintes modelos:
 - DeepSeek
 - ChatGPT
 
-Se encontram em arquivos **.txt** dentro de um arquivo **.rar** separados em páginas de acordo com a respectiva camada para melhor organização.
+Se encontram em arquivos **.txt** separados em páginas de acordo com a respectiva camada para melhor organização.
 
 ## Metodologia
 
@@ -70,4 +70,10 @@ Por exemplo: a maioria do eleitorado brasileiro não saberia quem é o prefeito 
 ## Estrutura
 
 - `camada-0/`: versões de prompts e resultados de testes relacionados à camada 0.
-- `arquivos-originais/`: resultados brutos compactados preservados como referência.
+- `camada-1/`: versões de prompts e resultados de testes relacionados à camada 1.
+
+---
+## Navegação
+- [Testes Camada 0](/testes-realizados/camada-0)
+- [Testes Camada 1](/testes-realizados/camada-1)
+- [Voltar ao Projeto](../README.md)

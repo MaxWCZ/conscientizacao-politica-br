@@ -1,0 +1,196 @@
+**Observação inicial:** o cargo formal exercido por Geraldo Alckmin entre 2023 e parte de 2026 não é "Ministro do Desenvolvimento" de forma genérica, mas sim **Ministro do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)**. Há confirmação oficial de que exerceu esse cargo no período analisado. 
+
+# 1. VALIDAÇÃO DO CARGO ANALISADO
+
+* **Pessoa analisada:** Geraldo Alckmin
+* **Cargo/função analisado:** Ministro do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)
+* **Período analisado:** 2023–2026
+* **Confirmação de que a pessoa exerceu o cargo/função:** Sim
+* **Fonte usada para confirmar o vínculo pessoa-cargo:** Portal do Governo Federal e Portal do MDIC ([Serviços e Informações do Brasil][1])
+* **Esfera:** Federal
+* **Poder ou estrutura:** Executivo Federal
+* **Tipo de cargo:** Nomeado e político
+
+**Explicação simples:** Geraldo Alckmin foi nomeado ministro do MDIC no início do governo federal iniciado em 2023, acumulando o cargo com a Vice-Presidência da República. ([Serviços e Informações do Brasil][1])
+
+---
+
+# 2. FUNÇÃO PRINCIPAL DO CARGO
+
+A função principal do Ministro do Desenvolvimento, Indústria, Comércio e Serviços é **dirigir o ministério responsável pelas políticas federais relacionadas à indústria, comércio, serviços e comércio exterior**.
+
+O cargo existe para coordenar, planejar e executar políticas públicas nessas áreas, além de representar o governo federal em assuntos ligados ao desenvolvimento industrial e comercial do país. ([Planalto][2])
+
+O ministro não atua sozinho: ele chefia um ministério integrante da estrutura do Poder Executivo Federal e responde ao Presidente da República. ([Planalto][2])
+
+---
+
+# 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                                                           | O que isso significa na prática                                                       | Fonte                           |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------- |
+| Formular políticas para indústria, comércio e serviços                                                 | Coordenar programas e diretrizes nessas áreas                                         | Lei 14.600/2023 ([Planalto][2]) |
+| Atuar em comércio exterior                                                                             | Participar da formulação e execução das políticas de comércio internacional           | ([Planalto][2])                 |
+| Participar de negociações internacionais de comércio                                                   | Representar o governo em negociações relacionadas ao comércio exterior                | ([Planalto][2])                 |
+| Aplicar mecanismos de defesa comercial                                                                 | Atuar em medidas previstas pela legislação comercial brasileira                       | ([Planalto][2])                 |
+| Coordenar ações ligadas à propriedade intelectual e transferência de tecnologia                        | Supervisionar políticas e estruturas relacionadas a esses temas                       | ([Planalto][2])                 |
+| Supervisionar áreas de metrologia, qualidade e normalização industrial                                 | Coordenar políticas relacionadas a padrões técnicos e qualidade industrial            | ([Planalto][2])                 |
+| Coordenar políticas de economia verde e descarbonização ligadas à indústria e comércio                 | Desenvolver políticas relacionadas à transição produtiva e sustentabilidade econômica | ([Planalto][2])                 |
+| Nomear e dirigir equipes subordinadas dentro da estrutura ministerial, conforme a legislação aplicável | Administrar a estrutura interna do ministério                                         | ([Planalto][3])                 |
+
+---
+
+# 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                           | Por quê                                                         | Quem ou o que também participa                                   |
+| -------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Criar leis federais                                | Leis dependem do processo legislativo                           | Congresso Nacional e Presidência                                 |
+| Alterar a Constituição                             | Exige procedimento constitucional específico                    | Câmara dos Deputados e Senado Federal                            |
+| Criar impostos por decisão individual              | Depende de previsão legal                                       | Congresso Nacional e Presidência                                 |
+| Aprovar sozinho acordos internacionais             | Existem etapas constitucionais e legais                         | Presidência, Congresso Nacional e outros órgãos competentes      |
+| Controlar sozinho inflação, juros ou câmbio        | Essas competências pertencem a outras estruturas institucionais | Banco Central do Brasil e demais órgãos competentes              |
+| Executar despesas sem orçamento público autorizado | Gastos públicos dependem de autorização orçamentária            | Congresso Nacional, Ministério da Fazenda e sistema orçamentário |
+| Determinar decisões do Judiciário                  | Os Poderes são independentes                                    | Poder Judiciário                                                 |
+
+---
+
+# 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do ministro depende de diversos fatores institucionais:
+
+* Presidente da República
+* Orçamento público aprovado
+* Leis federais vigentes
+* Congresso Nacional
+* Estrutura administrativa do ministério
+* Órgãos vinculados ao MDIC
+* Regras constitucionais
+* Tratados e acordos internacionais aplicáveis
+* Decisões judiciais quando houver impacto legal
+
+Além disso, muitas políticas dependem da cooperação com outros ministérios e órgãos federais. ([Planalto][2])
+
+---
+
+# 6. TRADUÇÃO PRÁTICA
+
+Na prática, isso significa que o ministro é o responsável político e administrativo pela área federal de desenvolvimento industrial, comércio e serviços.
+
+Isso não significa que ele possa decidir tudo sozinho.
+
+Uma política pública nessa área normalmente depende de:
+
+1. elaboração técnica;
+2. recursos orçamentários;
+3. coordenação com outros órgãos;
+4. aprovação legal quando necessária;
+5. execução pela administração pública.
+
+Portanto, o cargo pode influenciar fortemente determinadas decisões, mas muitas delas dependem de outras instituições e etapas formais.
+
+---
+
+# 7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+
+| Tipo de relação                | O que significa                                                                                 |
+| ------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o ministério possui competência formal para administrar ou executar determinada política |
+| Responsabilidade compartilhada | Quando a decisão depende também da Presidência, Congresso, orçamento ou outros órgãos           |
+| Influência política            | Quando o ocupante do cargo pode articular, negociar ou defender determinada medida              |
+| Ausência de competência direta | Quando o tema pertence formalmente a outro órgão ou Poder                                       |
+
+**Em linguagem simples:** antes de atribuir mérito ou responsabilidade a alguém que ocupa esse cargo, é necessário verificar se o assunto realmente estava dentro das competências formais do ministério ou se dependia de outras instituições.
+
+---
+
+# 8. FONTES
+
+## A) Fontes para confirmar vínculo pessoa-cargo
+
+### Fonte 1
+
+* Nome da fonte: Portal do MDIC – Ministro
+* Classificação: OFICIAL
+* Tipo: Portal governamental
+* Data: consulta realizada em 2026
+* Informação confirmada: Geraldo Alckmin é apresentado como vice-presidente e ministro do MDIC. ([Serviços e Informações do Brasil][4])
+
+### Fonte 2
+
+* Nome da fonte: Presidência da República – Posse como ministro
+* Classificação: OFICIAL
+* Tipo: Portal governamental
+* Data: 04/01/2023
+* Informação confirmada: posse de Geraldo Alckmin no cargo de Ministro do Desenvolvimento, Indústria, Comércio e Serviços. ([Serviços e Informações do Brasil][1])
+
+---
+
+## B) Fontes para explicar competências do cargo
+
+### Fonte 1
+
+* Nome da fonte: Lei nº 14.600/2023
+* Classificação: OFICIAL
+* Tipo: Lei federal
+* Data: 19/06/2023
+* Competência ou limite explicado: áreas de competência do MDIC. ([Planalto][2])
+
+### Fonte 2
+
+* Nome da fonte: Portal de Competências do MDIC
+* Classificação: OFICIAL
+* Tipo: Portal institucional do ministério
+* Data: 14/07/2023
+* Competência ou limite explicado: detalhamento das atribuições ministeriais. ([Serviços e Informações do Brasil][5])
+
+### Fonte 3
+
+* Nome da fonte: Decreto nº 11.427/2023
+* Classificação: OFICIAL
+* Tipo: Decreto presidencial
+* Data: 02/03/2023
+* Competência ou limite explicado: estrutura regimental do MDIC. ([Planalto][3])
+
+---
+
+# 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não diz se Geraldo Alckmin foi bom ou ruim no cargo.
+
+Esta camada mostra apenas o que o cargo de Ministro do Desenvolvimento, Indústria, Comércio e Serviços permitia ou não permitia fazer formalmente.
+
+Para avaliar atuação concreta, seria necessário analisar atos administrativos, decisões, programas, resultados, políticas públicas ou medidas específicas adotadas durante o período.
+
+Antes de atribuir culpa ou mérito por qualquer tema, é importante verificar se o cargo possuía competência direta sobre aquele assunto.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**
+
+---
+
+# 10. SE QUISER IR MAIS FUNDO
+
+**Sobre o cargo**
+
+* “Explique melhor as atribuições desse cargo”
+* “Compare esse cargo com outro cargo parecido”
+
+**Sobre dependências**
+
+* “Quais decisões dependem de outros órgãos?”
+* “Quem mais participa dessas decisões?”
+
+**Sobre responsabilidade**
+
+* “Como saber se a responsabilidade era direta ou compartilhada?”
+* “Como diferenciar poder formal de influência política?”
+
+**Sobre exemplos práticos**
+
+* “Dê exemplos simples de decisões que esse cargo pode tomar”
+* “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”
+
+[1]: https://www.gov.br/planalto/pt-br/vice-presidencia/assuntos/noticias/2023/vice-presidente-da-republica-toma-posse-como-ministro-do-desenvolvimento-industria-comercio-e-servicos?utm_source=chatgpt.com "Vice-presidente da República toma posse como ministro do ..."
+[2]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14600.htm?utm_source=chatgpt.com "L14600 - Planalto"
+[3]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11427compilado.htm?utm_source=chatgpt.com "D11427compilado - Planalto"
+[4]: https://www.gov.br/mdic/pt-br/composicao/ministro/geraldo-alckmin?utm_source=chatgpt.com "Geraldo José Rodrigues Alckmin Filho - Governo Federal"
+[5]: https://www.gov.br/mdic/pt-br/acesso-a-informacao/institucional/competencias?utm_source=chatgpt.com "Competências - Portal Gov.br"

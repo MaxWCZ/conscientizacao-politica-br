@@ -1,0 +1,71 @@
+# Estrutura
+
+O projeto está organizado em camadas de informação.
+
+A proposta dessa estrutura é separar:
+- fundamentos;
+- explicações institucionais;
+- funcionamento político;
+- contextualizações históricas;
+- análises interpretativas.
+
+Isso busca reduzir:
+- mistura excessiva de assuntos;
+- confusão entre fato e interpretação;
+- sobrecarga informacional;
+- fragmentação do conteúdo.
+
+---
+
+## [Camada 0 — Quem é esta pessoa?](../camada-0)
+
+Responsável por:
+- apresentar informações sobre pessoa em cargo público de relevância ou atuação política no Brasil.
+
+---
+
+## [Camada 1 - Sobre o cargo e seu ocupante](../camada-1)
+
+Responsável por:
+- verificar as reais funções de um cargo público, político ou institucional no Brasil;
+- verificar se uma pessoa específica ocupa ou ocupou cargo público, político ou institucional no Brasil;
+
+---
+
+## Camada 2
+
+Em desenvolvimento.
+
+---
+
+## Camada 3
+
+Em desenvolvimento.
+
+---
+
+## Camada 4
+
+Em desenvolvimento.
+
+---
+
+## Diretórios Complementares
+
+### [Fundamentos](../_fundamentos)
+
+### [Rascunhos](../rascunhos)
+Conteúdos em desenvolvimento ou reorganização.
+
+### [Testes realizados](../testes-realizados)
+Prompts em todas as suas versões com seus respectivos testes.
+
+---
+
+## Navegação
+
+- [Metodologia](metodologia.md)
+- [Objetivos](objetivos.md)
+- [Estrutura](estrutura.md)
+- [Limitações](limitacoes.md)
+- [Voltar ao Projeto](../README.md)

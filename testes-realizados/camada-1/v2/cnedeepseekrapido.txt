@@ -1,0 +1,89 @@
+**1. CARGO ANALISADO**
+
+- **Cargo:** Cargo de Natureza Especial (CNE)
+- **Pessoa, se houver:** Kim Kataguiri
+- **Período, se houver:** 2020
+- **Contexto informado ou identificado:** Brasília
+- **A pessoa exerceu esse cargo no período indicado?** Não confirmado
+- **Houve exercício interino, substituto ou provisório?** Não informado
+- **Esfera:** Federal (com base no contexto de Brasília e nas fontes consultadas)
+- **Poder ou estrutura:** Poder Legislativo (Câmara dos Deputados) — com base na Resolução nº 1/2007 da Câmara dos Deputados, que regulamenta os CNE naquela Casa.
+- **Tipo de cargo:** Cargo em comissão, de provimento em confiança, sem necessidade de concurso público.
+
+Kim Kataguiri exerceu o mandato de Deputado Federal por São Paulo entre 2019 e 2023. Não há registro público oficial que confirme sua ocupação de um Cargo de Natureza Especial em 2020. As informações disponíveis indicam que ele nomeou assessores para esse tipo de cargo, mas não que ele próprio o tenha exercido.
+
+**2. FUNÇÃO PRINCIPAL DO CARGO**
+
+O Cargo de Natureza Especial (CNE) é um cargo de confiança criado para permitir que autoridades (como parlamentares) contratem assessores especializados sem a exigência de concurso público. Na Câmara dos Deputados, sua finalidade é **prestar serviços de assessoramento** a órgãos como a Mesa, Lideranças, Comissões e outros setores da Casa.
+
+**3. O QUE ESSE CARGO PODE FAZER**
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Prestar assessoramento técnico e político. | Ocupantes auxiliam parlamentares e órgãos da Câmara na análise de projetos, na formulação de estratégias e na comunicação. | Resolução nº 1/2007 da Câmara dos Deputados |
+| Ser ocupado por pessoa sem vínculo efetivo com o serviço público. | A nomeação é de livre escolha da autoridade, não exigindo concurso público. | Definição legal do cargo |
+| Ter jornada de 40 horas semanais com registro de frequência. | O ocupante deve cumprir horário e registrar ponto, salvo exceções previstas em lei. | Resolução nº 1/2007 da Câmara dos Deputados |
+
+**4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO**
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Decidir sobre a aprovação de leis ou políticas públicas. | É um cargo de assessoramento, não de decisão final. | Deputados, comissões, Plenário da Câmara. |
+| Nomear ou exonerar seus ocupantes. | A nomeação e exoneração são atos da autoridade a que o cargo está vinculado. | Mesa da Câmara, parlamentar ou órgão responsável pela lotação. |
+| Alterar sua própria remuneração ou estrutura. | A definição de cargos e salários é feita por lei ou resolução. | Congresso Nacional, por meio de leis e atos normativos. |
+
+**5. DO QUE ESSE CARGO DEPENDE**
+
+- **De lei ou resolução** que crie o cargo e defina suas atribuições e remuneração.
+- **Da autoridade nomeante** (parlamentar, Mesa, Comissão etc.), que tem poder discricionário para escolher o ocupante.
+- **Do orçamento do órgão** (Câmara dos Deputados) para pagamento da remuneração.
+- **Do regimento interno** e das normas da Casa Legislativa, que estabelecem limites e procedimentos.
+
+**6. TRADUÇÃO PRÁTICA**
+
+Para uma pessoa comum, o Cargo de Natureza Especial é um tipo de **cargo de confiança**, geralmente ocupado por assessores de parlamentares ou de órgãos do Legislativo. Quem ocupa esse cargo é contratado sem concurso público para ajudar no trabalho político e técnico, mas **não tem poder de decisão final** sobre as leis ou o orçamento. É uma função de apoio especializado.
+
+**7. RESPONSABILIDADE**
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | O ocupante é responsável pelas tarefas de assessoramento que lhe forem atribuídas, como elaborar pareceres, organizar reuniões e prestar informações técnicas. |
+| Responsabilidade compartilhada | As decisões políticas e legislativas dependem de outros atores (parlamentares, comissões, Plenário). O assessor atua como suporte, não como decisor. |
+| Influência política | O ocupante pode influenciar, por meio de suas análises e recomendações, as decisões da autoridade a que está vinculado. |
+| Ausência de competência direta | O cargo não tem poder para aprovar leis, fixar políticas públicas ou gerir recursos públicos de forma autônoma. |
+
+**8. FONTES**
+
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo**
+
+- **Nome:** Biografia do Deputado Federal Kim Kataguiri — Câmara dos Deputados
+  - **Classificação:** OFICIAL
+  - **Tipo:** Página institucional da Câmara dos Deputados
+  - **Data:** Acesso em [data da consulta]
+  - **Informação confirmada:** Kim Kataguiri exerceu mandato de Deputado Federal entre 2019 e 2023. Não há menção a ocupação de Cargo de Natureza Especial.
+
+- **Nome:** Pessoal de gabinete do Deputado(a) Federal Kim Kataguiri — Câmara dos Deputados
+  - **Classificação:** OFICIAL
+  - **Tipo:** Portal da Transparência da Câmara dos Deputados
+  - **Data:** Acesso em [data da consulta]
+  - **Informação confirmada:** O gabinete do deputado contou com ocupantes de Cargo de Natureza Especial, mas não o próprio deputado.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo**
+
+- **Nome:** Resolução nº 1, de 2007, da Câmara dos Deputados
+  - **Classificação:** OFICIAL
+  - **Tipo:** Ato normativo da Câmara dos Deputados
+  - **Data:** 7 de janeiro de 2007
+  - **Informação confirmada:** Define os Cargos em Comissão de Natureza Especial (CNE) na Câmara dos Deputados, sua finalidade de assessoramento e regras de trabalho.
+
+- **Nome:** Lei nº 8.112, de 11 de dezembro de 1990
+  - **Classificação:** OFICIAL
+  - **Tipo:** Lei federal
+  - **Data:** 11 de dezembro de 1990
+  - **Informação confirmada:** Dispõe sobre o regime jurídico dos servidores públicos civis da União, incluindo regras para ocupantes de cargo de Natureza Especial.
+
+**9. COMO USAR ESTA INFORMAÇÃO**
+
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

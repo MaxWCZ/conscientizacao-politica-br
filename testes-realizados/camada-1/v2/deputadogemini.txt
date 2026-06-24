@@ -1,0 +1,87 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Deputado Federal
+* Pessoa, se houver: Alinne Ferraz Bandeira Martins
+* Período, se houver: Não informado na consulta (identificado nos registros de 2023 a 2025)
+* Contexto informado ou identificado: Gabinete do Deputado Federal Guilherme Boulos
+* A pessoa exerceu esse cargo no período indicado? Não. (A pessoa indicada não exerceu o cargo de Deputado Federal, mas atuou como secretária parlamentar/assessora no gabinete de um deputado).
+* Houve exercício interino, substituto ou provisório? Não.
+* Esfera: Federal
+* Poder ou estrutura: Poder Legislativo (Câmara dos Deputados)
+* Tipo de cargo: Político / Eletivo (Voto proporcional) [1, 2, 3] 
+
+O Deputado Federal é um representante eleito pelos cidadãos para integrar a Câmara dos Deputados, atuando na elaboração de leis e na fiscalização das ações do Poder Executivo Federal.
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para representar o povo brasileiro no Parlamento Federal, legislar sobre matérias de competência da União e fiscalizar a aplicação dos recursos públicos e os atos do Presidente da República e de seus ministros.
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Apresentar projetos de lei | Propor novas normas jurídicas, emendas, revogações de leis federais ou alterações na Constituição. | Constituição Federal, art. 61 |
+| Fiscalizar atos do Executivo | Requerer informações por escrito a ministros de Estado e convocar autoridades para prestar esclarecimentos. | Constituição Federal, art. 50 |
+| Votar o Orçamento da União | Analisar, modificar e aprovar a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA). | Constituição Federal, art. 166 |
+| Destinar emendas parlamentares | Indicar repasses financeiros do orçamento federal para obras, saúde ou projetos em seus estados de origem. | Constituição Federal, art. 166, § 9º |
+| Integrar comissões temáticas | Debater e emitir pareceres sobre projetos específicos (ex: educação, economia, segurança) antes da votação em plenário. | Regimento Interno da Câmara, art. 22 |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar e promulgar uma lei | Um deputado propõe, mas a aprovação exige votação majoritária de seus pares e análise do Senado. | Plenário da Câmara dos Deputados, Senado Federal e Sanção do Presidente da República. |
+| Executar obras públicas | O Poder Legislativo cria leis e destina verbas, mas a execução física de infraestrutura cabe ao Executivo. | Ministérios, Governos Estaduais ou Prefeituras Municipais. |
+| Nomear ministros ou secretários | A escolha, provimento e destituição de cargos do Executivo Federal são prerrogativas exclusivas do Presidente. | Presidente da República. |
+| Prender ou condenar indivíduos | O deputado investiga por meio de CPIs, mas o poder de julgar, absolver ou punir crimes pertence ao Judiciário. | Juízes federais e Tribunais de Justiça. |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação de um Deputado Federal é limitada e condicionada pelas diretrizes da [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) e pelas normas do Regimento Interno da Câmara dos Deputados. Politicamente, suas propostas dependem do apoio da maioria dos demais membros do parlamento (257 votos para leis ordinárias e 308 votos para propostas de emenda constitucional) e da decisão do Presidente da Câmara para serem pautadas e votadas. Além disso, a execução de suas emendas orçamentárias se submete aos limites e regras fiscais estabelecidos pelas leis de responsabilidade financeira do país.
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para um cidadão comum, o Deputado Federal funciona como a sua voz na criação das regras que valem para todo o Brasil. Ele não tem o poder de asfaltar uma rua, construir um hospital ou contratar policiais por conta própria. O que ele faz é debater e votar os impostos que você paga, fiscalizar se o Governo Federal está usando o dinheiro corretamente e enviar verbas federais para que os prefeitos e governadores realizem melhorias locais.
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Apresentação de propostas legislativas individuais, fiscalização oficial de órgãos governamentais e indicação de suas emendas parlamentares individuais regulamentadas por lei. |
+| Responsabilidade compartilhada | Aprovação de leis, reformas constitucionais e votação do orçamento federal, onde o voto individual soma-se ao colegiado para gerar efeitos jurídicos. |
+| Influência política | Articulação junto a ministérios para a liberação de recursos, participação em debates públicos, defesa de pautas setoriais e intermediação entre municípios e o governo central. |
+| Ausência de competência direta | Ordenamento direto de despesas do Poder Executivo, administração de serviços públicos cotidianos e aplicação direta de sentenças ou sanções penais. |
+
+------------------------------
+## 8. FONTES
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:
+
+* Nome: Portal da Câmara dos Deputados — Pessoal de Gabinete de Guilherme Boulos
+* Classificação: OFICIAL
+* Tipo: Portal de Transparência Legislativa
+* Data: Acessado em 2026 (Registros referentes ao período de 22/03/2023 a 28/10/2025)
+* Informação confirmada: Alinne Ferraz Bandeira Martins constou como Secretária Parlamentar (assessora de gabinete) no gabinete do Deputado Federal Guilherme Boulos, não tendo exercido o cargo eletivo de Deputada Federal. [2, 4, 5] 
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+* Tipo: Texto Constitucional
+* Data: Promulgada em 05/10/1988 (com atualizações vigentes)
+* Informação confirmada: Competências do Poder Legislativo, atribuições da Câmara dos Deputados, processo legislativo e limites orçamentários (Artigos 44 a 75 e Artigo 166).
+* Nome: Regimento Interno da Câmara dos Deputados
+* Classificação: OFICIAL
+* Tipo: Resolução Normativa (Resolução nº 17 de 1989)
+* Data: Vigente com modificações posteriores
+* Informação confirmada: Funcionamento das comissões, tramitação de projetos e regras de votação parlamentar.
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise técnica detalha as competências e limites legais definidos pela estrutura jurídica brasileira para o cargo em questão. Ela não emite juízos de valor sobre a atuação, eficiência ou escolhas políticas de mandatos e de seus servidores.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+Se você desejar, posso detalhar como funciona a estrutura de remuneração e verbas de gabinete dos parlamentares ou explicar os diferentes tipos de maioria necessários para aprovar uma lei. Como gostaria de prosseguir?
+
+[1] [https://www.gov.br](https://www.gov.br/secretariageral/pt-br/composicao/adm/ascom/coordenacao-geral-de-comunicacao-social/alinne-ferraz-bandeira-martins/@@download)
+[2] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/220639/pessoal-gabinete?ano=2025)
+[3] [https://www.escavador.com](https://www.escavador.com/nomes/alinne-ferraz-bandeira-martins-0bd7b9b774)
+[4] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/220639/pessoal-gabinete?ano=2025)
+[5] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/220639/pessoal-gabinete?ano=2024)

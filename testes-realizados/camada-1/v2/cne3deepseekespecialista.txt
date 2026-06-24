@@ -1,0 +1,76 @@
+1. CARGO ANALISADO
+- Cargo: Cargo de Natureza Especial (CNE)
+- Pessoa, se houver: não informada
+- Período, se houver: 2024 (referencial para o contexto, sem pessoa a validar)
+- Contexto informado ou identificado: Gabinete do Deputado Federal Kim Kataguiri, Câmara dos Deputados
+- A pessoa exerceu esse cargo no período indicado? não informado (não há pessoa indicada)
+- Houve exercício interino, substituto ou provisório? não informado
+- Esfera: federal
+- Poder ou estrutura: Legislativo – Câmara dos Deputados, gabinete parlamentar
+- Tipo de cargo: comissionado, de livre nomeação e exoneração, destinado a assessoramento especial
+
+Trata-se de cargo comissionado de natureza especial lotado no gabinete do Deputado Federal Kim Kataguiri, voltado ao assessoramento superior no âmbito da Câmara dos Deputados.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O Cargo de Natureza Especial no gabinete parlamentar existe para prestar assessoria técnica e política de alto nível ao deputado, auxiliando diretamente na formulação de proposições legislativas, na articulação política e no suporte estratégico ao exercício do mandato. É um cargo de estrita confiança, sem vínculo efetivo com a administração pública.
+
+3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|----------------------------------|-------|
+| Assessorar o deputado em assuntos legislativos, políticos e administrativos | Analisar projetos de lei, preparar minutas, discursos e documentos para subsidiar as decisões do parlamentar | Ato da Mesa n. 14/2017, art. 4º (atribuições gerais dos cargos de gabinete); Ato da Mesa n. 85/2020 |
+| Representar o deputado em reuniões e eventos, quando autorizado | Comparecer a encontros com entidades, órgãos públicos ou lideranças para levar a posição do gabinete, sem poder decisório próprio | Portal da Transparência da Câmara – descrição de Cargos de Natureza Especial |
+| Coordenar a equipe e a agenda do gabinete, sob supervisão do parlamentar | Organizar o fluxo de trabalho interno, distribuir tarefas e alinhar as prioridades do mandato com a equipe | Ato da Mesa n. 14/2017, art. 1º, § 2º (atribuições delegáveis pelo deputado) |
+| Elaborar pareceres e notas técnicas para subsidiar a atuação do mandato | Produzir análises temáticas que ajudam o deputado a formar posições sobre projetos e temas em debate | Ato da Mesa n. 14/2017 (assessoramento inerente ao cargo) |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|--------------------------|---------|-------------------------------|
+| Votar, apresentar proposições ou subscrever projetos de lei | A iniciativa e o exercício do voto são prerrogativas exclusivas do deputado titular do mandato | Constituição Federal, arts. 48 e 55; Regimento Interno da Câmara dos Deputados |
+| Assinar atos oficiais da Câmara ou do gabinete que gerem obrigação jurídica | Somente o parlamentar ou servidor com delegação específica pode representar o Poder Público formalmente | Ato da Mesa n. 14/2017; normas de delegação de competência na Câmara |
+| Nomear, exonerar ou aplicar sanções a servidores | A gestão de pessoal é competência do deputado e, administrativamente, da Diretoria-Geral da Câmara | Regimento Interno, arts. 20 e 22; Ato da Mesa n. 14/2017 |
+| Movimentar recursos financeiros ou autorizar despesas do gabinete | A execução orçamentária depende de autorização do deputado e segue os limites da cota parlamentar | Ato da Mesa n. 14/2017; regulamentação da cota para exercício da atividade parlamentar |
+
+5. DO QUE ESSE CARGO DEPENDE
+O exercício do cargo depende integralmente da confiança do deputado que o nomeou – pode ser exonerado a qualquer momento. A atuação concreta está condicionada às diretrizes do parlamentar, aos recursos da cota de gabinete (cada gabinete tem um número fixo de vagas e orçamento próprio) e às normas internas da Câmara dos Deputados. Decisões de mérito, posicionamentos políticos finais e a apresentação formal de qualquer proposta ao Legislativo dependem exclusivamente do titular do mandato.
+
+6. TRADUÇÃO PRÁTICA
+Na prática, quem ocupa esse cargo é um assessor de alta confiança do deputado, uma espécie de braço direito que auxilia a pensar, organizar e executar as ações do mandato. Essa pessoa tem acesso direto ao parlamentar e pode influenciar suas escolhas, mas não decide sozinha – a palavra final sempre é do deputado.
+
+7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|-----------------|-----------------|
+| Responsabilidade direta | Pode elaborar minutas, análises e recomendações, mas não assina nem decide formalmente; responde pelo assessoramento prestado. |
+| Responsabilidade compartilhada | As ações do cargo sempre são vinculadas às instruções e à aprovação do deputado, que divide a responsabilidade sobre o resultado final. |
+| Influência política | Pode articular com outros gabinetes, atores políticos e entidades, contribuindo para a construção de posições e alianças, sempre na condição de representante do parlamentar. |
+| Ausência de competência direta | Não vota, não propõe leis em nome próprio e não exerce poderes típicos de mandatário eletivo ou de autoridade administrativa da Câmara. |
+
+8. FONTES
+
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo, se houver pessoa informada.  
+Não se aplica – não foi informada pessoa a ser vinculada ao cargo.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo.  
+
+- Nome: Ato da Mesa n. 14, de 21 de fevereiro de 2017 (com alterações posteriores)  
+  Classificação: OFICIAL  
+  Tipo: Ato normativo da Câmara dos Deputados  
+  Data: 21/02/2017  
+  Informação confirmada: Estrutura e funcionamento dos gabinetes parlamentares, atribuições gerais de assessoramento.
+
+- Nome: Ato da Mesa n. 85, de 22 de abril de 2020  
+  Classificação: OFICIAL  
+  Tipo: Ato normativo da Câmara dos Deputados  
+  Data: 22/04/2020  
+  Informação confirmada: Criação de Cargos de Natureza Especial (CNE) para gabinetes parlamentares, caracterizando-os como cargos comissionados de assessoramento direto.
+
+- Nome: Portal da Transparência da Câmara dos Deputados – seção “Cargos e Funções”  
+  Classificação: OFICIAL (portal gov.br/camara)  
+  Tipo: Página institucional  
+  Data: Acesso à versão disponível em 2024  
+  Informação confirmada: Descrição do Cargo de Natureza Especial como cargo de livre provimento destinado a assessorar o parlamentar nas atividades do gabinete.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta análise descreve apenas os contornos institucionais do cargo, sem avaliar o desempenho de qualquer pessoa que o tenha ocupado. Ela mostra o que o cargo permite ou não permite fazer dentro das regras da Câmara dos Deputados. Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

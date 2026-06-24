@@ -1,0 +1,109 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** presidente do Senado Federal do Brasil
+- **Pessoa, se houver:** Davi Alcolumbre
+- **Período, se houver:** 2009–2010
+- **A pessoa exerceu esse cargo no período indicado?** **não**
+- **Esfera:** federal
+- **Poder ou estrutura:** Poder Legislativo – Senado Federal (câmara alta do Congresso Nacional)
+- **Tipo de cargo:** cargo eletivo na Mesa Diretora do Senado, com mandato de dois anos
+
+Davi Alcolumbre não exerceu a presidência do Senado Federal entre 2009 e 2010. Nesse período, ele era deputado federal e, em 2009, licenciou-se para assumir o cargo de secretário municipal de Obras e Serviços Públicos de Macapá. O presidente do Senado Federal no biênio 2009–2010 foi o senador José Sarney (PMDB-AP), eleito em fevereiro de 2009. Davi Alcolumbre tornou-se presidente do Senado apenas em 2019 (biênio 2019–2020).
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O presidente do Senado Federal é o representante máximo da Casa, responsável por dirigir os trabalhos legislativos, administrar o Senado e presidir as sessões do Plenário, além de presidir as sessões conjuntas do Congresso Nacional (Câmara dos Deputados e Senado reunidos). Ocupa a terceira posição na linha sucessória da Presidência da República.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Convocar e comandar as sessões do Senado e as sessões conjuntas do Congresso Nacional | O presidente define quando e como as reuniões legislativas ocorrem, dirigindo os debates e votações | Regimento Interno do Senado Federal |
+| Definir a pauta de votações | O presidente escolhe quais propostas serão levadas ao Plenário para deliberação dos senadores | Portal do Senado |
+| Distribuir propostas para análise das comissões | O presidente encaminha os projetos de lei e outras proposições às comissões temáticas, onde serão estudados e votados inicialmente | Portal do Senado |
+| Impugnar proposições que considere contrárias à Constituição, às leis ou ao Regimento Interno | O presidente pode recusar propostas que, em sua avaliação, violam normas legais ou regimentais | Regimento Interno do Senado Federal |
+| Dar posse aos senadores e convocar suplentes | O presidente formaliza a entrada de novos senadores e chama suplentes quando necessário | Regimento Interno do Senado Federal |
+| Promulgar resoluções do Senado e decretos legislativos | O presidente oficializa a publicação das normas aprovadas pela Casa | Regimento Interno do Senado Federal |
+| Presidir as reuniões da Mesa Diretora e da Comissão Diretora | O presidente coordena os órgãos colegiados que administram o Senado | Regimento Interno do Senado Federal |
+| Velar pelo respeito às prerrogativas do Senado e às imunidades dos senadores | O presidente atua como guardião da autonomia da Casa e das garantias legais dos parlamentares | Regimento Interno do Senado Federal |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar ou rejeitar projetos de lei | A aprovação de projetos exige deliberação e votação do Plenário do Senado | Plenário do Senado (81 senadores) |
+| Alterar a Constituição | Emendas constitucionais exigem quórum qualificado e votação em dois turnos em ambas as Casas | Plenário do Senado, Câmara dos Deputados e aprovação em dois turnos |
+| Vetar ou sancionar projetos de lei | Essa competência é privativa do presidente da República | Presidente da República |
+| Decidir sobre o orçamento da União | O orçamento é aprovado pelo Congresso Nacional e sancionado pelo presidente da República | Congresso Nacional (Câmara + Senado) e presidente da República |
+| Indicar ou exonerar ministros de Estado | A nomeação e exoneração de ministros é competência do presidente da República | Presidente da República |
+| Processar ou julgar autoridades | O julgamento de autoridades como o presidente da República é competência privativa do Senado em Plenário, não do presidente da Casa isoladamente | Plenário do Senado Federal |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do presidente do Senado está condicionada por:
+
+- **Constituição Federal de 1988**: define as competências gerais do Senado e os limites da atuação de seus órgãos.
+- **Regimento Interno do Senado Federal**: detalha as 35 atribuições específicas do presidente e regula todos os procedimentos da Casa.
+- **Deliberação do Plenário**: o presidente não aprova leis sozinho; toda decisão legislativa final depende de votação dos senadores.
+- **Mesa Diretora e Comissão Diretora**: o presidente integra colegiados que administram o Senado, e muitas decisões passam por esses órgãos.
+- **Orçamento do Senado**: a gestão administrativa depende de recursos aprovados no orçamento da União.
+- **Presidente da República**: projetos aprovados pelo Senado dependem de sanção presidencial para se tornarem lei.
+- **Câmara dos Deputados**: projetos que tramitam no Senado podem precisar de revisão pela Câmara; sessões conjuntas são presididas pelo presidente do Senado, mas dependem da participação de ambas as Casas.
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o presidente do Senado é como o "gerente" da Casa: organiza a agenda, decide o que vai ser votado, comanda as reuniões e representa o Senado perante a sociedade e os demais Poderes. Mas ele não manda sozinho — as decisões importantes, como aprovar leis ou mudar a Constituição, precisam do voto da maioria dos senadores. Ele também não pode sancionar leis (isso é papel do presidente da República) nem julgar autoridades sozinho (isso é feito pelo Plenário do Senado). O presidente do Senado é o terceiro na linha de sucessão da Presidência da República, ou seja, se o presidente e o vice-presidente não puderem assumir, ele pode ocupar o cargo.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | Decidir a pauta de votações, convocar sessões, distribuir propostas às comissões, promulgar resoluções e decretos legislativos, dar posse a senadores, presidir reuniões da Mesa |
+| **Responsabilidade compartilhada** | Aprovação de leis (depende do Plenário), aprovação de emendas constitucionais (depende de quórum qualificado no Plenário), administração do Senado (compartilhada com a Mesa Diretora) |
+| **Influência política** | Articular com líderes partidários para construir consenso em torno de pautas, definir prioridades legislativas, representar o Senado em negociações com outros Poderes |
+| **Ausência de competência direta** | Sancionar ou vetar leis (privativo do presidente da República), julgar autoridades (privativo do Plenário do Senado), nomear ministros de Estado (privativo do presidente da República) |
+
+---
+
+## 8. FONTES
+
+### A) Fontes para confirmar vínculo pessoa-cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Biografia de Davi Alcolumbre — Tainacan do Senado Federal | OFICIAL | Site institucional do Senado | — | Davi Alcolumbre foi deputado federal em 2009–2010, licenciou-se para ser secretário municipal; tornou-se senador em 2015 e presidente do Senado em 2019 |
+| Agência Senado — “Amapá renova o mandato de Davi Alcolumbre” | OFICIAL | Site do Senado Federal | 02/10/2022 | Em 2009 licenciou-se do mandato de deputado; presidiu a Casa no biênio 2019/2020 |
+| Agência Câmara — “Davi Alcolumbre é eleito presidente do Senado” | OFICIAL | Site da Câmara dos Deputados | 01/02/2025 | Em 2009 licenciou-se para assumir Secretaria de Obras de Macapá; presidente do Senado pela primeira vez em 2019 |
+| Diário Oficial — Atos do Presidente do Senado Federal (2009) | OFICIAL | Diário Oficial / Legis.Senado | 31/03/2009 | Documentos assinados por “Senador JOSÉ SARNEY — Presidente do Senado Federal” em 2009 |
+| Imprensa — “Sarney é eleito novo Presidente do Senado Federal” | INDIRETA | Diário do Sertão | 02/02/2009 | José Sarney eleito presidente do Senado em 2009 |
+
+### B) Fontes para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Regimento Interno do Senado Federal — matéria da Agência Senado | OFICIAL | Site do Senado Federal | 01/02/2003 | Atribuições do presidente: convocar e comandar sessões, impugnar proposições, dar posse a senadores, promulgar resoluções, presidir a Mesa |
+| Portal do Senado — “Saiba quais são as funções do presidente do Senado” | OFICIAL | Site do Senado Federal | 31/01/2025 | Atribuições definidas na Constituição e no Regimento Interno; terceiro na linha sucessória; define pauta, comanda votações e distribui propostas |
+| Constituição Federal — artigo 52 | OFICIAL | Planalto.gov.br | — | Competências privativas do Senado Federal, incluindo processar e julgar autoridades |
+| Agência Senado — “Constituição e Regimento Interno organizam os trabalhos” | OFICIAL | Site do Senado Federal | 02/10/2006 | Papel do presidente da República na sanção e veto de projetos |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise não avalia o desempenho de Davi Alcolumbre nem de qualquer outra pessoa no cargo. Apenas descreve, com base em fontes oficiais, o que o cargo de presidente do Senado Federal pode e não pode fazer segundo a Constituição e o Regimento Interno da Casa.
+
+A análise confirma que Davi Alcolumbre **não exerceu** a presidência do Senado Federal entre 2009 e 2010 — o ocupante do cargo naquele biênio foi José Sarney. As competências descritas referem-se ao cargo em si, não à atuação de qualquer pessoa específica.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**

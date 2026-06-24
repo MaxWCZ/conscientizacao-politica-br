@@ -1,0 +1,91 @@
+1. CARGO ANALISADO
+- Cargo: Presidente da Câmara dos Deputados do Brasil
+- Pessoa, se houver: Não informado
+- Período, se houver: Não informado
+- A pessoa exerceu esse cargo no período indicado? Não se aplica
+- Esfera: Federal
+- Poder ou estrutura: Poder Legislativo
+- Tipo de cargo: Cargo eletivo, integrante da Mesa Diretora da Câmara dos Deputados
+
+O Presidente da Câmara dos Deputados é o deputado federal eleito pelos pares para representar a Casa, supervisionar seus trabalhos e manter a ordem no Plenário.
+
+---
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para dirigir os trabalhos legislativos da Câmara dos Deputados, representar a Casa em pronunciamentos oficiais e assegurar o cumprimento do Regimento Interno.
+
+---
+
+3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|--------------|----------------------------------|-------|
+| Presidir as sessões do Plenário | Conduzir as reuniões de votação e debate, concedendo a palavra e mantendo a ordem | |
+| Definir a pauta legislativa | Organizar a agenda de votações, após ouvir o Colégio de Líderes | |
+| Desempatar votações | Exercer voto de minerva quando houver empate em votação no Plenário | |
+| Nomear comissões especiais | Designar grupos de deputados para analisar temas específicos, ouvido o Colégio de Líderes | |
+| Designar membros de comissões | Indicar os deputados titulares e suplentes das comissões permanentes, após indicação dos líderes | |
+| Julgar recursos em questões de ordem | Decidir sobre reclamações contra decisões de presidentes de comissão | |
+| Presidir reuniões da Mesa Diretora | Comandar as reuniões do colegiado que administra a Câmara | |
+| Convocar sessões extraordinárias | Convocar os deputados para reuniões fora do calendário regular | |
+| Suspender ou levantar sessão | Interromper ou encerrar uma sessão plenária quando necessário | |
+
+---
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---------------------------|---------|--------------------------------|
+| Aprovar leis | A aprovação de leis exige votação da maioria dos deputados presentes | Plenário da Câmara dos Deputados |
+| Alterar o Regimento Interno | Mudanças no regimento precisam de deliberação da Câmara | Plenário da Câmara dos Deputados |
+| Decidir sobre a pauta sem consulta | A definição da pauta deve ser feita após ouvir o Colégio de Líderes | Colégio de Líderes dos partidos |
+| Nomear comissões sem indicação | A designação de membros de comissões depende da indicação dos líderes partidários | Líderes partidários |
+
+---
+
+5. DO QUE ESSE CARGO DEPENDE
+O Presidente da Câmara dos Deputados depende:
+- Do **Regimento Interno da Câmara dos Deputados**, que define suas atribuições e limites.
+- Da **Mesa Diretora**, colegiado do qual faz parte e que auxilia na administração da Casa.
+- Do **Colégio de Líderes**, que deve ser ouvido para definição da pauta.
+- Do **Plenário**, que decide por votação a aprovação de matérias.
+- Da **Constituição Federal**, que estabelece as competências da Câmara e do Congresso Nacional.
+- Do **orçamento da Câmara**, aprovado pela Mesa Diretora e pelo Plenário.
+
+---
+
+6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o Presidente da Câmara dos Deputados funciona como o “diretor de debates” da Câmara. Ele decide o que será votado, organiza a ordem das discussões, garante que as regras sejam cumpridas e representa a Câmara em atos oficiais. No entanto, ele não aprova leis sozinho — toda decisão importante depende da votação dos 513 deputados.
+
+---
+
+7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|------------------|-----------------|
+| Responsabilidade direta | O Presidente tem poder formal para conduzir sessões, definir a pauta (após consulta), desempatar votações e nomear comissões. |
+| Responsabilidade compartilhada | A definição da pauta depende da consulta ao Colégio de Líderes; a nomeação de comissões depende de indicações dos líderes. |
+| Influência política | O Presidente pode articular, defender ou priorizar determinadas pautas, mas não pode aprová-las sem o Plenário. |
+| Ausência de competência direta | O Presidente não pode aprovar leis, emendar a Constituição ou alterar o Regimento Interno sem deliberação do Plenário. |
+
+---
+
+8. FONTES
+
+**A) Fontes para confirmar vínculo pessoa-cargo**
+Não há pessoa informada.
+
+**B) Fontes para explicar competências do cargo**
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|------|---------------|------|------|------------------------|
+| Portal da Câmara dos Deputados – “Atribuições” | OFICIAL | Página institucional | Não informada | Atribuições do Presidente da Câmara, definidas no Regimento Interno |
+| TV Câmara – “Conheça as funções do presidente da Câmara” | OFICIAL | Conteúdo institucional | 15/01/2021 | Funções gerais do Presidente |
+| Regimento Interno da Câmara dos Deputados (Resolução nº 17, de 1989) | OFICIAL | Norma interna | 1989 (atualizado até 2026) | Atribuições detalhadas do Presidente |
+
+---
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

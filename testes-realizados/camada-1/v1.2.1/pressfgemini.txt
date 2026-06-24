@@ -1,0 +1,96 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Presidente do Senado Federal do Brasil
+* Pessoa, se houver: Davi Alcolumbre
+* Período, se houver: 2009-2010
+* A pessoa exerceu esse cargo no período indicado?: Não
+* Esfera: Federal
+* Poder ou estrutura: Poder Legislativo (Senado Federal / Congresso Nacional)
+* Tipo de cargo: Cargo público eletivo (parlamentar) de direção da Mesa Diretora [1, 2, 3, 4, 5] 
+
+O presidente do Senado Federal é o integrante da Mesa Diretora responsável por dirigir os trabalhos legislativos, administrar a Casa e exercer a presidência do Congresso Nacional. [2] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para gerenciar as atividades administrativas, orçamentárias e legislativas do Senado Federal, além de atuar na coordenação das sessões conjuntas do Congresso Nacional (Senado e Câmara dos Deputados reunidos), garantindo o cumprimento do regimento interno e da ordem constitucional. [2] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Definir a pauta de votações | Selecionar quais projetos, propostas de emenda à Constituição (PECs) ou medidas provisórias serão discutidos e votados no Plenário. | Art. 48, inciso XI, do Regimento Interno do Senado Federal (RISF) |
+| Presidir o Congresso Nacional | Dirigir sessões conjuntas de deputados e senadores para examinar vetos presidenciais, votar a Lei de Diretrizes Orçamentárias (LDO) e o Orçamento. | Art. 57, § 1º, da Constituição Federal (CF) |
+| Substituir o Presidente da República | Integrar a linha sucessória imediata do Poder Executivo em caso de impedimento ou vacância do Presidente, após o Vice-Presidente e o Presidente da Câmara. | Art. 80 da Constituição Federal (CF) |
+| Decidir sobre processos de impeachment | Analisar o recebimento ou arquivamento de denúncias por crime de responsabilidade contra ministros do Supremo Tribunal Federal e outras autoridades sob jurisdição do Senado. | Art. 52, inciso I, da Constituição Federal (CF) |
+| Convocar sessões deliberativas | Abrir, presidir, suspender e encerrar as sessões ordinárias, extraordinárias e solenes da Casa. | Art. 48, inciso I, do Regimento Interno do Senado Federal (RISF) |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis ou emendas | A Presidência apenas conduz os ritos legislativos; a aprovação exige votação nominal e votação da maioria. | Plenário do Senado, Comissões e a Câmara dos Deputados |
+| Definir o Orçamento da União | O plano orçamentário é uma prerrogativa mista que demanda aprovação conjunta do parlamento e sanção presidencial. | Poder Executivo, Comissão Mista de Orçamento (CMO) e deputados federais |
+| Modificar o Regimento Interno | Quaisquer alterações nas normas de funcionamento administrativo e legislativo precisam de deliberação coletiva. | Mesa Diretora e aprovação dos senadores em votação de Plenário |
+| Declarar a cassação de mandatos | Casos de perda de mandato por quebra de decoro ou condenação exigem ritos em comissão específica e votação secreta/aberta dos membros. | Conselho de Ética e Decoro Parlamentar e o voto dos demais senadores |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do presidente do Senado é rigidamente condicionada pela [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) e pelo Regimento Interno do Senado Federal. Suas decisões de pauta e condução política dependem do diálogo com o colegiado de líderes partidários, das deliberações das comissões temáticas (como a Comissão de Constituição, Justiça e Cidadania) e, fundamentalmente, do voto majoritário dos demais 80 senadores no Plenário. [6, 7] 
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para um cidadão comum, o presidente do Senado funciona como o "síndico" e o "árbitro" daquela assembleia. Ele escolhe quais assuntos econômicos e sociais serão debatidos na semana e dita o ritmo das leis do país, mas não dita as regras finais sozinho, pois cada senador mantém um voto com o mesmo peso que o dele.
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Assinar atos internos de gestão administrativa, deferir ou indeferir requerimentos processuais de acordo com o regimento e abrir os prazos das comissões. |
+| Responsabilidade compartilhada | Deliberação de leis, reformas constitucionais, indicação de autoridades públicas e autorizações de empréstimos internacionais (atividades coletivas). |
+| Influência política | Articular prioridades legislativas com o Palácio do Planalto, negociar consenso entre blocos partidários rivais e acelerar relatórios. |
+| Ausência de competência direta | Julgar crimes comuns, executar obras estruturais públicas em estados, conceder benefícios sociais diretos ou decretar sanção automática de leis sem o rito legislativo. |
+
+------------------------------
+## 8. FONTES## A) Fontes para confirmar vínculo pessoa-cargo
+
+* Nome: Perfil do Presidente — Portal Institucional do Senado Federal
+* Classificação: INSTITUCIONAL
+   * Tipo: Site Governamental / Página oficial
+   * Data: Acessado em junho de 2026
+   * Informação confirmada: Davi Alcolumbre foi eleito deputado federal consecutivamente de 2003 a 2015. No período de 2009-2010, ele exercia mandato na Câmara dos Deputados e licenciou-se para ser secretário municipal no Amapá. Ele assumiu a Presidência do Senado pela primeira vez em 2019 e, posteriormente, em 2025. [1, 2, 6, 8, 9] 
+* Nome: Lista de presidentes do Senado Federal do Brasil
+* Classificação: INDIRETA
+   * Tipo: Enciclopédia livre (Wikipedia)
+   * Data: Acessado em junho de 2026
+   * Informação confirmada: Indica que no biênio 2009-2010 o presidente do Senado Federal foi José Sarney. (Usada apenas para contraprova de contexto, sem basear as competências). [3, 10] 
+
+## B) Fontes para explicar competências do cargo
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+   * Tipo: Texto Constitucional / Portal da Legislação do Planalto
+   * Data: Promulgada em 05/10/1988 (texto vigente em 2026)
+   * Informação confirmada: Competências do Congresso Nacional, atribuições privativas do Senado (Art. 52) e linha sucessória presidencial (Art. 80). [11] 
+* Nome: Regimento Interno do Senado Federal (RISF)
+* Classificação: OFICIAL
+   * Tipo: Resolução Legislativa (Resolução nº 93 de 1970 e atualizações)
+   * Data: Texto consolidado disponível no Portal do Senado
+   * Informação confirmada: Atribuições formais da Mesa Diretora e competências específicas conferidas ao Presidente da Casa (Art. 48).
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise técnica não avalia a qualidade do trabalho de qualquer parlamentar, nem julga preferências político-ideológicas. O objetivo é discriminar estritamente as prerrogativas legais que o desenho institucional brasileiro outorga a quem lidera o Senado.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+------------------------------
+Se desejar detalhar o funcionamento de outras estruturas do Congresso Nacional, você pode solicitar uma análise dos papéis exercidos pelas lideranças partidárias ou pela Mesa Diretora.
+
+[1] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/73924/biografia)
+[2] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Davi_Alcolumbre)
+[3] [https://pt.wikipedia.org](https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Senado_Federal_do_Brasil)
+[4] [https://www25.senado.leg.br](https://www25.senado.leg.br/web/senadores/senador/-/perfil/3830)
+[5] [https://www.youtube.com](https://www.youtube.com/watch?v=SorOmKJvK14)
+[6] [https://valor.globo.com](https://valor.globo.com/politica/artigo/quem-e-davi-alcolumbre.ghtml)
+[7] [https://www.camara.leg.br](https://www.camara.leg.br/noticias/1129553-davi-alcolumbre-e-eleito-presidente-do-senado/)
+[8] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/73924/biografia)
+[9] [https://www12.senado.leg.br](https://www12.senado.leg.br/institucional/presidencia/perfil-do-presidente)
+[10] [https://graficos.poder360.com.br](https://graficos.poder360.com.br/nUeVy/7/)
+[11] [https://www.gov.br](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/notas-oficiais/notas-oficiais/eleicao-de-davi-alcolumbre-para-a-presidencia-do-senado-e-do-congresso-nacional)

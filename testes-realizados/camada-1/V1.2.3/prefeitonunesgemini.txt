@@ -1,0 +1,105 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Prefeito
+* Pessoa, se houver: Ricardo Nunes
+* Período, se houver: 2015
+* A pessoa exerceu esse cargo no período indicado? Não
+* Esfera: Municipal
+* Poder ou estrutura: Poder Executivo
+* Tipo de cargo: Eletivo (Chefe do Executivo Municipal) [1, 2] 
+
+O prefeito é o chefe do Poder Executivo municipal, responsável pela direção superior, administração dos serviços públicos locais e execução das leis aprovadas no município. [2, 3] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo de prefeito existe para exercer a chefia da administração pública municipal, planejar as políticas urbanas, gerir o orçamento público da cidade e aplicar os recursos em serviços e obras locais. Seu papel geral baseia-se em garantir o funcionamento dos serviços públicos essenciais de interesse local (como transporte coletivo, educação infantil e saúde básica) e chefiar os auxiliares diretos e secretários municipais. [2, 3, 4, 5] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode [3, 4, 6] | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar e promulgar leis | O prefeito valida e oficializa as leis que foram aprovadas pela Câmara Municipal. | Lei Orgânica do Município de SP (Art. 69) / Lei nº 9.842/1967 |
+| Iniciar o processo legislativo | Pode redigir e propor projetos de lei específicos para votação na Câmara Municipal. | Lei Orgânica do Município de SP (Art. 69, I) |
+| Exercer a direção da administração | Coordena e comanda as secretarias municipais, subprefeituras e demais auxiliares para gerir a cidade. | Lei Orgânica do Município de SP (Art. 69, II) |
+| Decretar desapropriações | Tem o poder de declarar a utilidade pública de bens imóveis particulares para fins de desapropriação por necessidade urbana. | Lei nº 9.842/1967 (Art. 25, IV) |
+| Prover os cargos públicos | Nomeia, exonera e define a situação funcional dos servidores da administração direta e indireta municipal. | Lei nº 9.842/1967 (Art. 25, VIII) |
+| Expedir decretos e regulamentos | Emite atos normativos internos para garantir a fiel execução das leis vigentes. | Lei nº 9.842/1967 (Art. 25, II e V) |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho [4, 5, 7, 8, 9] | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar o Orçamento Anual e o PPA | Embora o prefeito proponha as leis orçamentárias, a destinação dos recursos precisa de validação legislativa. | Câmara Municipal (que vota, emenda e aprova as leis orçamentárias). |
+| Criar cargos públicos permanentes | O prefeito não pode criar cargos ou fixar aumentos de salários por decreto simples, exigindo lei em sentido estrito. | Câmara Municipal (necessidade de aprovação de projeto de lei). |
+| Instituir ou aumentar impostos | Qualquer alteração tributária municipal precisa passar por rito legislativo próprio, respeitando o princípio da legalidade. | Câmara Municipal e os limites impostos pelo Código Tributário e Constituição. |
+| Alienar ou doar bens imóveis municipais | Vender ou transferir a propriedade de patrimônio municipal exige autorização prévia por lei. | Câmara Municipal (autorização prévia). |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação do cargo de prefeito está estritamente vinculada às balizas impostas pela Constituição Federal, pela Constituição Estadual correspondente e pela Lei Orgânica do Município. Administrativamente, depende do crivo orçamentário e da aprovação de matérias legislativas pela Câmara Municipal. Suas contas anuais, contratos públicos e atos de gestão fiscal sofrem a análise e fiscalização técnica do Tribunal de Contas, além do controle externo exercido pelo Poder Legislativo local. [7, 9, 10, 11] 
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o prefeito atua como o "diretor-geral" ou administrador principal do município. É ele quem escolhe as equipes que cuidarão do asfalto, das creches municipais e dos postos de saúde da prefeitura. No entanto, ele não manda de forma absoluta: se quiser construir uma grande obra ou alterar um imposto, precisa mandar um projeto e convencer os vereadores da cidade a votarem a favor. [2, 3, 5, 7, 8] 
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação [2, 3, 4, 7, 8, 12] | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o prefeito possui a competência formal privativa para assinar decretos, regulamentar leis aprovadas, organizar o funcionalismo municipal e gerir diretamente as secretarias. |
+| Responsabilidade compartilhada | Quando a destinação de verbas públicas, a criação de planos urbanos estruturais (como Plano Diretor) e as diretrizes orçamentárias dependem do envio da proposta pelo Executivo e da efetiva aprovação pela Câmara. |
+| Influência política | Quando o chefe do Executivo articula e propõe prioridades locais junto ao Legislativo, governos estaduais ou governo federal para a obtenção de repasses voluntários e convênios. |
+| Ausência de competência direta | O prefeito não tem poder formal para julgar processos (atribuição do Judiciário), criar leis penais ou de trânsito (competência federal) ou comandar diretamente forças de segurança pública militar ou civil (atribuição estadual). |
+
+------------------------------
+## 8. FONTES## A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+* Nome: Portal da Câmara Municipal de São Paulo
+* Classificação: OFICIAL
+   * Tipo: Portal institucional/legislativo municipal
+   * Data: Acesso em 2026 (dados biográficos mantidos pelo órgão)
+   * Informação confirmada: Ricardo Nunes atuou como vereador municipal na cidade de São Paulo, não exercendo o cargo de prefeito municipal no ano de 2015. [13, 14] 
+* Nome: Secretaria Especial de Comunicação - Prefeitura de São Paulo
+* Classificação: OFICIAL
+   * Tipo: Portal do Poder Executivo Municipal
+   * Data: Publicação original em 15/07/2021
+   * Informação confirmada: Registro de que Ricardo Nunes foi eleito vereador em 2012 (assumindo o mandato legislativo no período indicado de 2013-2016, que engloba o ano de 2015) e assumiu o cargo de prefeito em maio de 2021. [13] 
+
+## B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+* Nome: Lei Orgânica do Município de São Paulo
+* Classificação: OFICIAL
+   * Tipo: Legislação municipal fundamental
+   * Data: Texto vigente (compilado pela Câmara Municipal de São Paulo)
+   * Informação confirmada: Atribuições privativas do cargo de prefeito, competências de processo legislativo e regras de administração municipal (Artigos 69 e seguintes). [3, 6] 
+* Nome: Lei nº 9.842, de 19 de setembro de 1967
+* Classificação: OFICIAL
+   * Tipo: Lei estadual/municipal compilada da Assembleia Legislativa do Estado de São Paulo
+   * Data: Publicada originalmente em 1967 (base histórica de competências executivas)
+   * Informação confirmada: Elenca competências administrativas do prefeito em julgar, vetar, sancionar, desapropriar e prover cargos públicos. [4] 
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise técnica delimita estritamente o escopo institucional e as balizas legais da função pública avaliada. Ela serve exclusivamente como ferramenta de verificação de fatos e competências normativas, sem realizar qualquer avaliação de mérito da gestão ou do histórico político do cidadão citado.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+------------------------------
+Se desejar, informe:
+
+* Se quer analisar as atribuições do cargo de vereador exercido no período.
+* Se deseja verificar a Lei Orgânica do Município para outra cidade brasileira.
+* Outro período específico da trajetória administrativa de São Paulo.
+
+
+[1] [https://www.cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/entenda-por-que-vereador-assumiu-a-prefeitura-de-sp-durante-viagem-de-ricardo-nunes/)
+[2] [https://camarapilar.go.gov.br](https://camarapilar.go.gov.br/entenda-o-que-faz-o-vereador-o-prefeito-e-o-vice-prefeito/)
+[3] [https://www.sinpeem.com.br](https://www.sinpeem.com.br/sites/arquivos/downloads/lom.pdf)
+[4] [https://www.al.sp.gov.br](https://www.al.sp.gov.br/repositorio/legislacao/lei/1967/lei-9842-19.09.1967.html)
+[5] [https://saobras.al.gov.br](https://saobras.al.gov.br/entenda-a-prefeitura)
+[6] [https://www.saopaulo.sp.leg.br](https://www.saopaulo.sp.leg.br/escoladoparlamento/wp-content/uploads/sites/5/2019/10/Apostila_Artigos-da-Lei-Organica-do-Municipio-de-S%C3%A3o-Paulo.pdf)
+[7] [https://www.estrategiaconcursos.com.br](https://www.estrategiaconcursos.com.br/blog/lei-organica-sao-paulo-planoplurianual/)
+[8] [https://www.camarapoa.rs.gov.br](https://www.camarapoa.rs.gov.br/draco/processos/133844/234-18A_-_27NOV_-_CCJ_-_PROC._0239-18_-_PLL_015_-_MR.pdf)
+[9] [https://www.youtube.com](https://www.youtube.com/watch?v=grsakCIfC8k)
+[10] [https://www.camaramunicipaldemarco.ce.gov.br](https://www.camaramunicipaldemarco.ce.gov.br/papelvereador.php)
+[11] [https://www.youtube.com](https://www.youtube.com/watch?v=VM88WwGyplM)
+[12] [https://www.tse.jus.br](https://www.tse.jus.br/comunicacao/noticias/2016/Setembro/conheca-as-principais-atribuicoes-do-prefeito)
+[13] [https://prefeitura.sp.gov.br](https://prefeitura.sp.gov.br/web/comunicacao/w/acesso_a_informacao/315214)
+[14] [https://www.saopaulo.sp.leg.br](https://www.saopaulo.sp.leg.br/vereador/ricardo-nunes/)

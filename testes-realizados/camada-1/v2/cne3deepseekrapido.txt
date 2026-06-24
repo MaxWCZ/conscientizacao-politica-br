@@ -1,0 +1,103 @@
+**1. CARGO ANALISADO**
+
+- **Cargo:** Cargo de Natureza Especial (CNE)
+- **Pessoa, se houver:** Não informado (o contexto menciona “Gabinete Kim Kataguiri”, mas não especifica qual pessoa ocupou o cargo)
+- **Período, se houver:** 2024
+- **Contexto informado ou identificado:** Gabinete Kim Kataguiri — Deputado Federal por São Paulo (União, posteriormente Missão)
+- **A pessoa exerceu esse cargo no período indicado?** Não informado — não há identificação de pessoa específica na consulta.
+- **Houve exercício interino, substituto ou provisório?** Não informado.
+- **Esfera:** Federal
+- **Poder ou estrutura:** Legislativo — Câmara dos Deputados
+- **Tipo de cargo:** Comissionado (de livre nomeação e exoneração), sem necessidade de concurso público
+
+Explique em 1 frase simples: O Cargo de Natureza Especial (CNE) na Câmara dos Deputados é um cargo em comissão destinado a atividades de assessoramento em órgãos da Casa, como Mesas, Lideranças e Comissões, sendo ocupado por nomeação direta sem concurso.
+
+---
+
+**2. FUNÇÃO PRINCIPAL DO CARGO**
+
+O Cargo de Natureza Especial (CNE) existe para prestar serviços de **assessoramento** a órgãos da Câmara dos Deputados, como a Mesa Diretora e suas Suplências, as Lideranças partidárias, as Comissões permanentes e temporárias, a Procuradoria Parlamentar, a Ouvidoria Parlamentar, a Corregedoria Parlamentar, o Conselho de Ética e Decoro Parlamentar, o Centro de Estudos e Debates Estratégicos, as Secretarias temáticas (Mulher, Primeira Infância, Transparência, Empreendedorismo Legislativo, Inovação Legislativa, Defesa das Prerrogativas Parlamentares) e órgãos administrativos da Casa. O ocupante exerce funções de apoio técnico ou administrativo conforme a lotação definida.
+
+---
+
+**3. O QUE ESSE CARGO PODE FAZER**
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Prestar assessoramento técnico ou administrativo | Auxiliar o órgão ao qual está lotado (ex.: uma Comissão, a Mesa ou uma Liderança) com análises, pareceres, informações e apoio à tomada de decisão | Resolução nº 1/2007, art. 1º |
+| Ser ocupado por nomeação direta, sem concurso | A pessoa é escolhida e nomeada pela autoridade competente, sem necessidade de aprovação em concurso público | Legislação sobre cargos em comissão |
+| Ter jornada de 40 horas semanais com registro de frequência | O ocupante deve cumprir carga horária regular, com controle de ponto, salvo exceções previstas em norma | Resolução nº 1/2007, art. 2º |
+
+---
+
+**4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO**
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Decidir sobre matérias legislativas | O CNE é um cargo de assessoramento, não de deliberação. Não vota, não relata projetos, não decide o conteúdo de leis. | Deputados, Comissões, Plenário |
+| Ser lotado em Gabinete Parlamentar (regra geral) | A finalidade do CNE é assessorar órgãos coletivos ou administrativos, não gabinetes individuais de deputados | Ato da Mesa nº 86/2006 |
+| Exercer fora das dependências da Câmara | O cargo é vinculado à estrutura física e funcional da Câmara dos Deputados | Ato da Mesa nº 86/2006 |
+| Ficar à disposição de parlamentar ou órgão diverso da lotação oficial | A lotação define o órgão a ser assessorado; não pode ser desviado dessa finalidade sem previsão normativa | Ato da Mesa nº 86/2006 |
+
+---
+
+**5. DO QUE ESSE CARGO DEPENDE**
+
+- **Nomeação e exoneração:** depende de ato da autoridade competente (Mesa Diretora, Liderança, Comissão etc.), conforme a lotação.
+- **Lotação:** a atuação concreta do ocupante depende do órgão ao qual está vinculado (ex.: uma Comissão específica, a Mesa etc.).
+- **Orçamento e remuneração:** depende da dotação orçamentária da Câmara e das tabelas de remuneração previstas em lei.
+- **Regras internas:** está sujeito ao Regimento Interno da Câmara, à Resolução nº 1/2007 e demais normas aplicáveis.
+- **Controle de frequência:** a jornada e o registro de ponto são condicionados pelas regras estabelecidas.
+
+---
+
+**6. TRADUÇÃO PRÁTICA**
+
+Para uma pessoa comum: o Cargo de Natureza Especial é um posto de trabalho na Câmara dos Deputados ocupado por alguém escolhido diretamente (sem concurso) para ajudar tecnicamente órgãos da Casa, como comissões ou lideranças partidárias. Essa pessoa não decide leis nem vota — sua função é dar suporte, analisar informações e auxiliar quem tem poder de decisão.
+
+---
+
+**7. RESPONSABILIDADE**
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | O ocupante é diretamente responsável pelo cumprimento das atividades de assessoramento que lhe forem atribuídas dentro da sua lotação, bem como pela observância da jornada e das regras de frequência. |
+| Responsabilidade compartilhada | A qualidade e o conteúdo do assessoramento prestado podem ser compartilhados com outros servidores ou com o titular do órgão lotado, dependendo da organização interna. |
+| Influência política | O ocupante pode articular, defender ou sugerir posições, mas não decide sozinho — sua influência é indireta, por meio do assessoramento a quem detém poder deliberativo. |
+| Ausência de competência direta | O CNE não tem competência para votar, relatar projetos, editar atos normativos ou representar a Câmara em negociações políticas. |
+
+---
+
+**8. FONTES**
+
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo, se houver pessoa informada:**
+
+Não há pessoa informada na consulta. O contexto “Gabinete Kim Kataguiri” foi verificado na página oficial da Câmara dos Deputados, que lista ocupantes de CNE no gabinete do deputado, mas não foi indicado qual pessoa específica seria analisada.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo:**
+
+- **Nome:** Resolução nº 1, de 2007 — Câmara dos Deputados
+  - **Classificação:** OFICIAL
+  - **Tipo:** Resolução da Câmara dos Deputados
+  - **Data:** 7 de janeiro de 2007
+  - **Informação confirmada:** Define a finalidade dos Cargos de Natureza Especial (CNE) como prestação de serviços de assessoramento à Mesa, Suplências, Lideranças, Comissões, Procuradoria Parlamentar, Ouvidoria Parlamentar, Corregedoria, Conselho de Ética, Centro de Estudos e Debates Estratégicos, Secretarias temáticas e órgãos administrativos.
+
+- **Nome:** Ato da Mesa nº 86, de 2006 — Câmara dos Deputados
+  - **Classificação:** OFICIAL
+  - **Tipo:** Ato da Mesa
+  - **Data:** 12 de setembro de 2006
+  - **Informação confirmada:** Estabelece que os CNE não podem ser lotados em Gabinete Parlamentar, nem ter exercício fora da Câmara, nem ficar à disposição de parlamentar ou órgão diverso da lotação oficial.
+
+- **Nome:** Página “Pessoal de gabinete do Deputado(a) Federal Kim Kataguiri” — Câmara dos Deputados
+  - **Classificação:** OFICIAL
+  - **Tipo:** Portal da Transparência da Câmara dos Deputados
+  - **Data:** Dados referentes a 2024
+  - **Informação confirmada:** Registra a existência de ocupantes de Cargo de Natureza Especial (CNE10 e CNE13) no gabinete do deputado Kim Kataguiri no período de 2024.
+
+---
+
+**9. COMO USAR ESTA INFORMAÇÃO**
+
+Esta camada não avalia desempenho, ideologia, intenção ou caráter de qualquer ocupante. Apenas mostra o que o cargo permite ou não permite fazer com base em normas oficiais.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

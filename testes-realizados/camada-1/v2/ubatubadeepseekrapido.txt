@@ -1,0 +1,114 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** Prefeito
+- **Pessoa, se houver:** Custódio Alves Barreto Neto
+- **Período, se houver:** Não informado
+- **Contexto informado ou identificado:** Ubatuba (SP)
+- **A pessoa exerceu esse cargo no período indicado?** Não confirmado. As fontes oficiais disponíveis indicam que Custódio Alves Barreto Neto exerce o cargo de **Vice-Prefeito** de Ubatuba para o mandato 2025-2028. Não há registro público oficial de que tenha exercido o cargo de Prefeito.
+- **Houve exercício interino, substituto ou provisório?** Não informado / não confirmado.
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Executivo
+- **Tipo de cargo:** Cargo eletivo (chefe do Poder Executivo municipal)
+
+A análise abaixo refere-se às competências formais do cargo de **Prefeito** em geral, conforme a Constituição Federal e a legislação aplicável, e não à atuação específica da pessoa mencionada, uma vez que seu vínculo com o cargo de Prefeito não foi confirmado por fonte oficial.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O Prefeito é o chefe do Poder Executivo municipal, responsável por administrar o município, executar as leis e políticas públicas aprovadas pela Câmara Municipal, e representar o município nas relações com outras esferas de governo e com a sociedade.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| **Administrar o município** | Gerir os serviços públicos locais (saúde, educação, transporte, limpeza urbana, etc.) e a máquina administrativa da prefeitura. | Constituição Federal, art. 29, inciso X; Lei Orgânica Municipal |
+| **Editar decretos e regulamentos** | Publicar normas para organizar o funcionamento da administração municipal e detalhar a aplicação de leis. | Constituição Federal, art. 84, incisos IV e VI (aplicável por simetria aos municípios) |
+| **Sancionar ou vetar projetos de lei** | Aprovar ou rejeitar, total ou parcialmente, as leis propostas pela Câmara Municipal. | Constituição Federal, art. 29, inciso X; Lei Orgânica Municipal |
+| **Propor o orçamento municipal** | Enviar à Câmara Municipal a proposta de Lei Orçamentária Anual (LOA), que estima receitas e fixa despesas do município. | Constituição Federal, art. 165; Lei de Responsabilidade Fiscal (LC 101/2000) |
+| **Nomear e exonerar secretários municipais** | Escolher e dispensar os titulares das pastas municipais (Saúde, Educação, Obras, etc.), que são cargos de livre nomeação e exoneração. | Constituição Federal, art. 84, inciso XXV (aplicável por simetria) |
+| **Representar o município** | Atuar em nome do município em relações com outros entes federativos, órgãos públicos e instituições. | Constituição Federal, art. 29, inciso X |
+| **Exercer o poder de polícia administrativa** | Fiscalizar o cumprimento de normas municipais (posturas, zoneamento, vigilância sanitária, etc.) e aplicar sanções administrativas. | Lei Orgânica Municipal; Código de Posturas do Município |
+| **Contratar e licitar** | Autorizar a realização de licitações e a contratação de obras, serviços e compras pela administração municipal. | Lei 14.133/2021 (Lei de Licitações e Contratos Administrativos) |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| **Aprovar leis** | A competência para legislar é do Poder Legislativo municipal (Câmara de Vereadores). O Prefeito pode propor leis e sancioná-las, mas não as aprova. | Câmara Municipal (vereadores) |
+| **Aprovar o orçamento** | A lei orçamentária precisa ser votada e aprovada pela Câmara Municipal. | Câmara Municipal |
+| **Criar ou extinguir cargos públicos** | A criação e extinção de cargos, empregos e funções públicas depende de lei aprovada pela Câmara. | Câmara Municipal |
+| **Tributar ou fixar alíquotas de impostos** | A instituição e alteração de tributos municipais depende de lei aprovada pela Câmara. | Câmara Municipal |
+| **Decidir sobre a estrutura administrativa do município** | A estrutura organizacional da prefeitura (número de secretarias, cargos comissionados etc.) pode depender de lei municipal. | Câmara Municipal |
+| **Realizar despesas sem previsão orçamentária** | A execução de despesas deve respeitar o orçamento aprovado e a Lei de Responsabilidade Fiscal. | Orçamento municipal; Câmara Municipal (controle) |
+| **Julgar contas municipais** | O julgamento das contas do Prefeito é feito pela Câmara Municipal, com parecer prévio do Tribunal de Contas. | Câmara Municipal; Tribunal de Contas do Estado |
+| **Exercer funções judiciais** | O Prefeito não tem poder para julgar processos ou aplicar penas judiciais. | Poder Judiciário |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Prefeito é condicionada por diversos fatores institucionais e legais:
+
+- **Constituição Federal e Constituição Estadual:** definem os limites gerais da atuação municipal e os direitos e deveres dos cidadãos.
+- **Lei Orgânica Municipal:** a "Constituição" do município, que estabelece as regras de organização e funcionamento da administração local.
+- **Câmara Municipal:** o Prefeito depende da Câmara para aprovação de leis, do orçamento e para o controle externo de sua gestão.
+- **Orçamento municipal:** as ações do Prefeito estão limitadas às dotações orçamentárias aprovadas anualmente.
+- **Lei de Responsabilidade Fiscal (LC 101/2000):** impõe limites para gastos com pessoal, endividamento e gestão fiscal.
+- **Tribunal de Contas do Estado (TCE):** fiscaliza a legalidade e regularidade das contas municipais e emite parecer prévio sobre as contas do Prefeito.
+- **Ministério Público:** pode fiscalizar e, se necessário, acionar judicialmente o Prefeito por atos ilegais ou irregulares.
+- **Poder Judiciário:** revisa a legalidade dos atos administrativos e pode anulá-los se forem ilegais.
+- **Legislação federal e estadual:** o Prefeito deve executar políticas e programas que são definidos em lei pelas esferas federal e estadual (ex.: repasses do SUS, FUNDEB, etc.).
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, o Prefeito é a principal autoridade da cidade. Ele é como o "gerente" do município: cuida dos serviços que a prefeitura oferece (postos de saúde, escolas, coleta de lixo, transporte, obras etc.), representa a cidade em eventos e negociações com os governos estadual e federal, e propõe projetos de lei para a Câmara de Vereadores. No entanto, ele não governa sozinho: as leis e o orçamento precisam ser aprovados pelos vereadores, e suas contas são fiscalizadas pelo Tribunal de Contas e pela própria Câmara. Além disso, seus atos estão sujeitos à revisão do Poder Judiciário.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | O Prefeito tem poder formal para decidir e executar atos de gestão administrativa (nomear secretários, editar decretos, celebrar contratos, administrar serviços públicos) e para representar o município. |
+| **Responsabilidade compartilhada** | Depende da Câmara Municipal para aprovação de leis, do orçamento e para o julgamento de suas contas; depende do Tribunal de Contas para fiscalização; depende do Judiciário para revisão de legalidade de seus atos. |
+| **Influência política** | O Prefeito pode articular, negociar e defender projetos e políticas junto à Câmara, ao governo estadual, ao governo federal e à sociedade, mas não tem poder de decisão unilateral sobre esses temas quando a decisão cabe a outro órgão. |
+| **Ausência de competência direta** | O Prefeito não tem poder para julgar processos, legislar (no sentido de aprovar leis), tributar ou fixar alíquotas de impostos, criar ou extinguir cargos públicos sem lei, ou realizar despesas sem previsão orçamentária. |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Portal da Prefeitura Municipal de Ubatuba – página "Vice-Prefeito" | OFICIAL | Portal governamental | Acesso em junho de 2026 | Confirma que Custódio Alves Barreto Neto é **Vice-Prefeito** de Ubatuba. Não há confirmação de que tenha exercido o cargo de Prefeito. |
+| Portal da Prefeitura Municipal de Ubatuba – notícia "Prefeita reeleita de Ubatuba, Flavia Pascoal, é empossada ..." | OFICIAL | Portal governamental | 1º de janeiro de 2025 | Refere-se a Custódio Barreto como **vice-prefeito**. |
+
+**Conclusão sobre o vínculo:** As fontes oficiais disponíveis confirmam que Custódio Alves Barreto Neto é **Vice-Prefeito** de Ubatuba. **Não há fonte oficial ou institucional que confirme que ele exerceu ou exerce o cargo de Prefeito.** Portanto, o vínculo com o cargo analisado (Prefeito) não é confirmado.
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+| Nome | Classificação | Tipo | Data | Informação confirmada |
+|---|---|---|---|---|
+| Constituição da República Federativa do Brasil de 1988 | OFICIAL | Lei federal | 1988 (com emendas) | Define as competências dos municípios, do Poder Executivo municipal e os limites da atuação do Prefeito (arts. 29, 30, 84 por simetria, 165 etc.). |
+| Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal) | OFICIAL | Lei federal | 2000 | Estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal, aplicáveis a todos os entes federativos, incluindo municípios. |
+| Lei nº 14.133/2021 (Lei de Licitações e Contratos Administrativos) | OFICIAL | Lei federal | 2021 | Regula as licitações e contratos administrativos, disciplinando a atuação do Prefeito nessa matéria. |
+| Lei Orgânica do Município de Ubatuba | OFICIAL | Lei municipal | Depende da data de promulgação | Estabelece a organização e o funcionamento do município, definindo as atribuições do Prefeito e sua relação com a Câmara Municipal. |
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise descreve as competências formais do cargo de Prefeito com base na legislação e em fontes oficiais. Ela **não avalia** o desempenho, a ideologia, a intenção ou o caráter de qualquer pessoa que tenha ocupado ou ocupe o cargo. Também **não trata** de polêmicas, investigações, votos, atos, escândalos ou impactos concretos não solicitados.
+
+A análise limita-se a explicar **o que o cargo permite ou não permite fazer** em tese, segundo as regras institucionais. No caso específico da pessoa mencionada, as fontes oficiais disponíveis confirmam que ela exerce o cargo de **Vice-Prefeito** de Ubatuba, e não o de Prefeito. Portanto, as competências descritas acima não devem ser atribuídas a ela como se fossem suas, a menos que haja confirmação oficial de que tenha exercido o cargo de Prefeito em algum momento.
+
+**Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.**

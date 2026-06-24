@@ -1,0 +1,118 @@
+## 1. CARGO ANALISADO
+
+- **Cargo:** Prefeito
+- **Pessoa, se houver:** Ricardo Luís Reis Nunes
+- **Período, se houver:** 2015
+- **A pessoa exerceu esse cargo no período indicado?** **Não.**
+- **Se exerceu apenas de forma interina, substituta ou provisória, indique isso claramente:** Não se aplica. Não há registro de que tenha exercido o cargo de Prefeito, nem de forma interina, substituta ou provisória, em 2015.
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Executivo
+- **Tipo de cargo:** Chefe do Poder Executivo municipal, eletivo
+
+Ricardo Nunes exerceu mandato como vereador na Câmara Municipal de São Paulo entre 2013 e 2020, tendo assumido o cargo de Prefeito de São Paulo apenas em 2021.
+
+---
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O Prefeito é o chefe do Poder Executivo municipal e tem como função principal administrar o município, executar as leis e políticas públicas aprovadas pela Câmara Municipal, e representar o município nas relações com outras esferas de governo e com a sociedade.
+
+A Constituição Federal estabelece que o Município rege-se por lei orgânica e que compete aos Municípios legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual no que couber. O Prefeito é o responsável pela condução da administração municipal dentro dessas competências.
+
+---
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+Com base na Constituição Federal, na Lei Orgânica do Município e na legislação aplicável:
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Iniciar projetos de lei sobre matéria financeira, criação de cargos, funções ou empregos públicos | O Prefeito tem iniciativa exclusiva para propor à Câmara Municipal leis que tratem de orçamento, tributos, criação de cargos públicos e organização da administração municipal | Constituição Federal, art. 30, I e II; Lei Orgânica Municipal |
+| Sancionar ou vetar leis aprovadas pela Câmara Municipal | Após a Câmara aprovar um projeto de lei, o Prefeito pode concordar (sancionar) ou discordar (vetar), total ou parcialmente | Lei Orgânica Municipal |
+| Editar decretos e regulamentos para executar as leis | O Prefeito pode baixar normas infralegais para organizar a aplicação das leis municipais no dia a dia da administração | Constituição Federal; Lei Orgânica Municipal |
+| Administrar o orçamento municipal e executar as despesas autorizadas | O Prefeito gerencia os recursos do município, autoriza pagamentos, contrata serviços e realiza obras dentro do que foi aprovado no orçamento | Lei de Responsabilidade Fiscal; Lei Orgânica Municipal |
+| Nomear e exonerar secretários municipais e outros cargos de confiança | O Prefeito escolhe os titulares das secretarias municipais e demais ocupantes de cargos em comissão, que o auxiliam na administração | Lei Orgânica Municipal |
+| Representar o município em relações com outros entes | O Prefeito é o representante legal do município perante a União, o Estado, outros municípios e organismos | Constituição Federal; Lei Orgânica Municipal |
+| Legislar sobre assuntos de interesse local | O Prefeito pode propor leis sobre temas que afetam diretamente a vida da cidade, como transporte, uso do solo, saneamento, etc. | Constituição Federal, art. 30, I |
+
+---
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis | O Prefeito pode propor leis, mas a aprovação é competência da Câmara Municipal | Câmara Municipal (vereadores) |
+| Criar ou aumentar tributos | A instituição de tributos municipais depende de lei aprovada pela Câmara Municipal | Câmara Municipal |
+| Alterar o orçamento municipal | O orçamento é aprovado pela Câmara Municipal, embora o Prefeito tenha iniciativa para propô-lo | Câmara Municipal |
+| Alienar ou onerar bens públicos sem autorização | A venda ou doação de bens municipais geralmente depende de autorização legislativa | Câmara Municipal |
+| Contrair empréstimos ou operações de crédito | Endividamento municipal depende de autorização legislativa e obediência a limites legais | Câmara Municipal; Lei de Responsabilidade Fiscal |
+| Exercer função jurisdicional | O Prefeito não julga processos nem aplica penas; isso é função do Poder Judiciário | Poder Judiciário |
+| Decidir sobre matérias de competência exclusiva da Câmara | Algumas matérias, como a fixação dos próprios subsídios dos vereadores, são de iniciativa exclusiva da Câmara | Câmara Municipal |
+
+---
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Prefeito é condicionada e limitada por diversos fatores institucionais:
+
+- **Constituição Federal:** estabelece as bases da organização municipal e os limites da atuação do Prefeito
+- **Lei Orgânica do Município:** funciona como a "Constituição" do município, definindo as regras de funcionamento do Executivo e do Legislativo municipais
+- **Câmara Municipal:** o Prefeito depende da Câmara para aprovação de leis, autorização de despesas e fiscalização de seus atos
+- **Orçamento municipal:** o Prefeito só pode gastar dentro dos limites aprovados pela Câmara
+- **Lei de Responsabilidade Fiscal:** impõe limites para gastos com pessoal, endividamento e outras despesas
+- **Tribunais de Contas:** o Tribunal de Contas do Município (ou do Estado) fiscaliza a legalidade dos gastos públicos
+- **Legislação federal e estadual:** o Prefeito deve respeitar as normas editadas pelas outras esferas de governo, suplementando-as apenas no que couber
+- **Ministério Público:** pode investigar e questionar atos do Prefeito perante o Judiciário
+
+---
+
+## 6. TRADUÇÃO PRÁTICA
+
+Em termos simples: o Prefeito é o "gerente" da cidade. Ele cuida do dia a dia da administração municipal — como a coleta de lixo, o funcionamento das escolas municipais, a manutenção de ruas e praças, o transporte público e o atendimento nos postos de saúde. Ele também propõe projetos de lei para a Câmara dos Vereadores, que são os responsáveis por aprovar ou não essas propostas. O Prefeito não pode fazer tudo sozinho: precisa da aprovação da Câmara para criar leis, aumentar impostos ou fazer grandes obras, e precisa seguir as regras da Constituição e das leis federais e estaduais.
+
+---
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| **Responsabilidade direta** | O Prefeito tem poder formal para: sancionar ou vetar leis; editar decretos; nomear e exonerar secretários; administrar o orçamento dentro dos limites aprovados; representar o município |
+| **Responsabilidade compartilhada** | O Prefeito depende da Câmara Municipal para: aprovar leis; autorizar despesas e endividamento; aprovar o orçamento; autorizar alienação de bens |
+| **Influência política** | O Prefeito pode articular com vereadores para obter apoio a seus projetos; pode negociar com outros entes federativos; pode defender publicamente determinadas políticas, mas não pode implementá-las sem base legal ou orçamentária |
+| **Ausência de competência direta** | O Prefeito não tem poder sobre: julgamento de processos (Poder Judiciário); legislação federal ou estadual; aprovação de leis (competência da Câmara); tributos estaduais ou federais |
+
+---
+
+## 8. FONTES
+
+### A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo
+
+- **Nome:** Perfil do prefeito Ricardo Nunes — Prefeitura de São Paulo
+- **Classificação:** OFICIAL
+- **Tipo:** Página institucional do órgão público
+- **Data:** 15 de julho de 2021
+- **Informação confirmada:** Ricardo Luís Reis Nunes é prefeito da cidade de São Paulo. Foi eleito vereador em 2012 e reeleito em 2016. Não há informação de que tenha exercido o cargo de Prefeito em 2015
+
+### B) Fontes oficiais ou institucionais para explicar competências do cargo
+
+- **Nome:** Constituição da República Federativa do Brasil de 1988, art. 29 e art. 30
+- **Classificação:** OFICIAL
+- **Tipo:** Lei fundamental
+- **Data:** 1988
+- **Informação confirmada:** Os Municípios regem-se por lei orgânica; compete aos Municípios legislar sobre assuntos de interesse local e suplementar a legislação federal e estadual
+
+- **Nome:** Lei Orgânica do Município de São Paulo
+- **Classificação:** OFICIAL
+- **Tipo:** Lei orgânica municipal
+- **Data:** (conforme versão consultada)
+- **Informação confirmada:** A Câmara Municipal tem iniciativa exclusiva para certas leis; o Prefeito tem iniciativa exclusiva para leis sobre criação de cargos, funções ou empregos públicos; compete à Câmara, com sanção do Prefeito, dispor sobre matérias de competência do Município
+
+---
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta análise descreve exclusivamente as competências formais do cargo de Prefeito, com base em fontes oficiais (Constituição Federal e Lei Orgânica Municipal). **Não avalia** o desempenho, a ideologia, a intenção ou o caráter de qualquer pessoa que tenha ocupado ou venha a ocupar o cargo.
+
+As informações aqui apresentadas servem para estabelecer o que o cargo **permite** e o que **não permite** fazer, independentemente de quem o ocupe. Não são analisados atos concretos, políticas públicas implementadas, votações, investigações ou impactos reais da gestão.
+
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.

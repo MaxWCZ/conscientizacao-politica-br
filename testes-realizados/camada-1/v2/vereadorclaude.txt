@@ -1,0 +1,80 @@
+Vou montar essa explicação seguindo a estrutura solicitada, focando no cargo de **Vereador** de forma geral (sem pessoa ou contexto específicos informados).
+
+## 1. CARGO ANALISADO
+
+- **Cargo:** Vereador
+- **Pessoa, se houver:** Não informado
+- **Período, se houver:** Não informado
+- **Contexto informado ou identificado:** Não informado (nenhum município específico)
+- **A pessoa exerceu esse cargo no período indicado?** Não informado
+- **Houve exercício interino, substituto ou provisório?** Não informado
+- **Esfera:** Municipal
+- **Poder ou estrutura:** Poder Legislativo (Câmara Municipal)
+- **Tipo de cargo:** Eletivo
+
+Vereador é o membro eleito do Poder Legislativo municipal, responsável por integrar a Câmara de Vereadores do município.
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo de Vereador existe para exercer a representação política da população em nível municipal dentro do Poder Legislativo local. Sua função geral envolve participar da elaboração de leis municipais, fiscalizar os atos do Poder Executivo municipal (Prefeitura) e atuar na definição de políticas públicas locais, sempre de forma colegiada, isto é, em conjunto com os demais vereadores que compõem a Câmara Municipal.
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Propor projetos de lei municipal | Pode apresentar propostas de leis que tratem de assuntos de interesse local | Constituição Federal, art. 29 |
+| Fiscalizar o Poder Executivo municipal | Pode pedir informações, convocar secretários e acompanhar a execução orçamentária da Prefeitura | Constituição Federal, art. 31 |
+| Votar projetos de lei e o orçamento municipal | Participa, junto aos demais vereadores, da aprovação ou rejeição de leis e do orçamento | Constituição Federal, art. 29 |
+| Apresentar emendas a projetos de lei | Pode sugerir alterações em propostas legislativas, inclusive no orçamento | Lei Orgânica Municipal (genérica, sem município identificado) |
+| Integrar comissões legislativas | Pode participar de comissões permanentes ou temporárias dentro da Câmara | Regimento Interno (genérico, sem município identificado) |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar uma lei | A aprovação depende do voto da maioria dos vereadores | Plenário da Câmara Municipal (colegiado) |
+| Executar políticas públicas | O Vereador legisla e fiscaliza, mas não administra diretamente | Prefeito e Poder Executivo municipal |
+| Nomear ou exonerar servidores do Executivo | Essa competência é do Poder Executivo | Prefeito |
+| Sancionar ou vetar leis | A sanção/veto cabe ao chefe do Executivo municipal | Prefeito |
+| Definir sozinho o orçamento municipal | O orçamento é proposto pelo Executivo e aprovado pelo colegiado legislativo | Prefeito (propõe) e Câmara Municipal (aprova) |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Vereador depende: do quórum e da votação em plenário para aprovar qualquer matéria; do Regimento Interno da Câmara Municipal de seu município, que define procedimentos e prazos; da Lei Orgânica do município, que estabelece regras específicas locais; da relação institucional com o Poder Executivo municipal, especialmente em temas orçamentários e de fiscalização; e da composição político-partidária da Câmara, já que decisões colegiadas dependem de articulação entre os vereadores.
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum, isso significa que um vereador, sozinho, não tem poder para criar uma lei, gastar dinheiro público ou mandar fazer obras. Ele participa de decisões que só se concretizam quando aprovadas pela maioria da Câmara, e muitas dessas decisões ainda dependem da concordância (sanção) do Prefeito.
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Apresentar projetos de lei, requerimentos e votar matérias em plenário |
+| Responsabilidade compartilhada | Aprovação de leis e do orçamento municipal, que depende do voto da maioria da Câmara |
+| Influência política | Defender publicamente pautas, articular apoio a projetos, pressionar o Executivo |
+| Ausência de competência direta | Execução de obras, contratação de servidores e gestão administrativa municipal, que são atribuições do Executivo |
+
+## 8. FONTES
+
+**A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:** Não aplicável — nenhuma pessoa foi informada.
+
+**B) Fontes oficiais ou institucionais para explicar competências do cargo:**
+
+- **Nome:** Constituição Federal de 1988, artigos 29 e 31
+- **Classificação:** OFICIAL
+- **Tipo:** Norma constitucional
+- **Data:** Promulgada em 05/10/1988 (vigente, com emendas posteriores)
+- **Informação confirmada:** Sim — competências gerais do Poder Legislativo municipal e regras de fiscalização do Executivo municipal
+
+*Observação:* Não foi possível citar Lei Orgânica Municipal ou Regimento Interno específicos como fonte concreta, pois nenhum município foi identificado. As referências a esses instrumentos no item 3 são genéricas e descrevem o que normalmente esse tipo de norma local regula, sem afirmar conteúdo específico de um município determinado.
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não avalia desempenho, conduta ou ideologia de nenhum vereador específico; ela apenas mostra, de forma geral, o que o cargo permite ou não permite fazer dentro da estrutura institucional brasileira.
+
+"Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+---
+
+**Nota:** Se você quiser uma análise vinculada a um vereador específico, um município determinado ou um período de mandato, posso refazer essa explicação incorporando esse contexto e buscando as fontes oficiais correspondentes (Lei Orgânica do município, Regimento Interno da Câmara local, TSE/DivulgaCand, etc.).

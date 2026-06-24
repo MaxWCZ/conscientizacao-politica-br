@@ -1,0 +1,93 @@
+## 1. CARGO ANALISADO
+
+* **Cargo:** Presidente da Câmara dos Deputados do Brasil
+* **Pessoa:** não informada
+* **Período:** não informado
+* **A pessoa exerceu esse cargo no período indicado?** não informado
+* **Esfera:** federal
+* **Poder ou estrutura:** Poder Legislativo
+* **Tipo de cargo:** cargo de direção interna da Câmara dos Deputados, dentro da Mesa Diretora
+
+Em frase simples: **é o deputado que preside, organiza e representa institucionalmente a Câmara dos Deputados quando ela atua como Casa legislativa.**
+
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O Presidente da Câmara existe para **conduzir os trabalhos legislativos e administrativos da Câmara**, presidir sessões, organizar a pauta do Plenário conforme o Regimento Interno, representar a Câmara institucionalmente e supervisionar a ordem dos trabalhos. A própria Câmara define o cargo como o representante da Casa quando ela se pronuncia coletivamente e supervisor de seus trabalhos e de sua ordem. ([Portal da Câmara dos Deputados][1])
+
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                                  | O que isso significa na prática                                                                    | Fonte                                                                  |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Presidir sessões do Plenário                                  | Conduz os debates e votações da Câmara                                                             | Câmara / Regimento Interno ([Portal da Câmara dos Deputados][1])       |
+| Manter a ordem nas sessões                                    | Pode advertir, interromper fala fora das regras e suspender sessão quando necessário               | Câmara / Regimento Interno ([Portal da Câmara dos Deputados][1])       |
+| Definir a Ordem do Dia                                        | Indica quais matérias serão discutidas e votadas no Plenário, conforme agenda e regras regimentais | Câmara / Regimento Interno ([Portal da Câmara dos Deputados][1])       |
+| Convocar sessões da Câmara                                    | Pode chamar sessões da Casa nos termos regimentais                                                 | Câmara / Regimento Interno ([Portal da Câmara dos Deputados][1])       |
+| Desempatar votações ostensivas                                | Em determinadas votações abertas, pode votar para desempatar                                       | Câmara / Regimento Interno ([Portal da Câmara dos Deputados][1])       |
+| Distribuir proposições às comissões                           | Encaminha projetos e matérias para análise das comissões competentes                               | Câmara / Regimento Interno ([Portal da Câmara dos Deputados][1])       |
+| Presidir reuniões da Mesa Diretora                            | Coordena a Mesa, que organiza trabalhos legislativos e administração da Câmara                     | Câmara ([Portal da Câmara dos Deputados][2])                           |
+| Substituir o Presidente da República em casos constitucionais | Entra na linha de substituição prevista na Constituição, conforme citado no Regimento              | Regimento Interno / Constituição ([Portal da Câmara dos Deputados][3]) |
+
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                                 | Por quê                                                                                        | Quem ou o que também participa                        |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Aprovar leis sozinho                                     | Leis dependem de votação, processo legislativo e, em muitos casos, sanção ou veto presidencial | Plenário, comissões, Senado, Presidência da República |
+| Alterar a Constituição sozinho                           | Emendas constitucionais dependem de rito próprio e votação qualificada                         | Câmara, Senado e regras constitucionais               |
+| Decidir o conteúdo final de uma política pública federal | A Câmara participa do processo legislativo, mas execução cabe ao Executivo                     | Congresso, Executivo, orçamento e órgãos responsáveis |
+| Punir deputado livremente sem regra                      | Medidas disciplinares seguem Constituição, Regimento e órgãos internos competentes             | Mesa, Conselho de Ética, Plenário, conforme o caso    |
+| Controlar sozinho todas as pautas do país                | Ele organiza a pauta da Câmara, não a pauta do Senado, do Executivo ou do Judiciário           | Outras instituições e seus próprios regimentos        |
+
+## 5. DO QUE ESSE CARGO DEPENDE
+
+Depende da **Constituição**, do **Regimento Interno da Câmara**, das decisões do **Plenário**, das **comissões**, da **Mesa Diretora**, do **Colégio de Líderes**, dos partidos e blocos parlamentares, além do processo legislativo bicameral quando a matéria também precisa passar pelo Senado. A Mesa Diretora é composta por presidente, dois vice-presidentes e quatro secretários, eleitos pelos deputados para mandato de dois anos. ([Portal da Câmara dos Deputados][2])
+
+## 6. TRADUÇÃO PRÁTICA
+
+Para uma pessoa comum: o Presidente da Câmara **não é “chefe do Brasil” nem decide leis sozinho**. Ele tem muito poder sobre o funcionamento interno da Câmara: pauta, sessões, organização dos trabalhos, condução de votações e representação institucional. Mas transformar uma proposta em lei depende de votação, regras regimentais, outras etapas legislativas e, muitas vezes, outros Poderes.
+
+## 7. RESPONSABILIDADE
+
+| Tipo de relação                | O que significa                                                   |
+| ------------------------------ | ----------------------------------------------------------------- |
+| Responsabilidade direta        | quando o cargo tinha poder formal para decidir ou executar        |
+| Responsabilidade compartilhada | quando dependia de outros órgãos, votação, colegiado ou orçamento |
+| Influência política            | quando podia articular ou defender algo, mas não decidir sozinho  |
+| Ausência de competência direta | quando o cargo não tinha poder formal sobre o tema                |
+
+## 8. FONTES
+
+### A) Fontes para confirmar vínculo pessoa-cargo
+
+Não aplicável, pois nenhuma pessoa foi informada.
+
+### B) Fontes para explicar competências do cargo
+
+* **Nome:** Portal da Câmara dos Deputados — Presidência / Atribuições
+  **Classificação:** OFICIAL
+  **Tipo:** página institucional do órgão
+  **Data:** página consultada em 16/06/2026
+  **Informação confirmada:** atribuições gerais do Presidente da Câmara, como presidir sessões, manter ordem, organizar agenda e definir Ordem do Dia. ([Portal da Câmara dos Deputados][1])
+
+* **Nome:** Regimento Interno da Câmara dos Deputados — Resolução nº 17/1989
+  **Classificação:** OFICIAL
+  **Tipo:** norma interna da Câmara
+  **Data:** texto atualizado consultado em 16/06/2026
+  **Informação confirmada:** competências formais do Presidente, inclusive presidência da Mesa, encaminhamentos, substituições e limites de atuação. ([Portal da Câmara dos Deputados][3])
+
+* **Nome:** Portal da Câmara dos Deputados — Mesa Diretora
+  **Classificação:** OFICIAL
+  **Tipo:** página institucional do órgão
+  **Data:** página consultada em 16/06/2026
+  **Informação confirmada:** composição e função geral da Mesa Diretora. ([Portal da Câmara dos Deputados][2])
+
+## 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada **não avalia desempenho**, não julga intenção, ideologia ou qualidade da atuação. Ela apenas mostra o que o cargo permite, limita ou condiciona.
+
+**“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”**
+
+[1]: https://www2.camara.leg.br/a-camara/presidencia/atribuicoes "Atribuições — Portal da Câmara dos Deputados"
+[2]: https://www.camara.leg.br/deputados/mesa-diretora "
+      Mesa Diretora - Portal da Câmara dos Deputados
+  "
+[3]: https://www2.camara.leg.br/legin/fed/rescad/1989/resolucaodacamaradosdeputados-17-21-setembro-1989-320110-normaatualizada-pl.html "REGIMENTO INTERNO DA CÂMARA DOS DEPUTADOS"

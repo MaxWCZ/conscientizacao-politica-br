@@ -1,4 +1,4 @@
-# Projeto de Informação e Conscientização Política Brasileira
+# Sobre o Brasil — Projeto de Informação e Conscientização Política
 
 Projeto independente voltado à organização, análise e disseminação de informações relacionadas à estrutura política, institucional e administrativa brasileira.
 
@@ -43,14 +43,11 @@ Este projeto surge como tentativa de reduzir parte desse ruído informacional.
 
 O projeto está organizado em camadas de informação.
 
-### [Fundamentos do Projeto](_fundamentos/)
-Sobre Estrutura, Limitações, Metodologia e Objetivos.
+### Camada 0 — Estrutura e Fundamentos
+Objetivos, metodologia, limitações e organização conceitual do projeto.
 
-### [Camada 0 — Quem é esta pessoa?](camada-0/)
-Permite identificar e contextualizar uma pessoa com atuação política relevante.
-
-### [Camada 1 - Sobre o cargo e seu ocupante](camada-1/)
-Permite compreender as funções e responsabilidades de um cargo público e verificar seus ocupantes.
+### Camada 1  
+em desenvolvimento
 
 ### Camada 2  
 em desenvolvimento
@@ -61,20 +58,18 @@ em desenvolvimento
 ### Camada 4 
 em desenvolvimento
 
-### [Testes realizados](testes-realizados/)
-Prompts em todas as suas versões com seus respectivos testes.
-
 ---
 
 ## Estrutura Inicial de Diretórios
 
 ```text
-_fundamentos/
 camada-0/
 camada-1/
 camada-2/
 camada-3/
 camada-4/
 
+referencias/
+imagens/
 rascunhos/
-testes-realizados/
+documentos/

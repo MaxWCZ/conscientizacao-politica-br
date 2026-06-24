@@ -1,0 +1,82 @@
+## 1. CARGO ANALISADO
+
+* Cargo: Cargo de Natureza Especial (CNE).
+* Pessoa, se houver: Não informada.
+* Período, se houver: 2024.
+* Contexto informado ou identificado: Gabinete do Deputado Federal Kim Kataguiri na Câmara dos Deputados.
+* A pessoa exerceu esse cargo no período indicado?: não informado (não houve indicação de nome).
+* Houve exercício interino, substituto ou provisório?: não informado.
+* Esfera: Federal.
+* Poder ou estrutura: Poder Legislativo / Câmara dos Deputados.
+* Tipo de cargo: Em comissão (livre nomeação e exoneração). [1, 2, 3, 4, 5] 
+
+O Cargo de Natureza Especial (CNE) no âmbito do Gabinete Parlamentar da Câmara dos Deputados é uma função pública de assessoramento de livre nomeação e exoneração, destinada a prestar apoio técnico, político ou administrativo às atividades institucionais desenvolvidas pelo deputado. [1, 6] 
+------------------------------
+## 2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para prover assessoramento estratégico de alto nível às estruturas da Câmara dos Deputados. No contexto de um gabinete parlamentar, o profissional que o ocupa tem como papel geral subsidiar a atuação do deputado por meio de análises técnicas, redação de notas, gestão interna, atendimento de demandas políticas ou acompanhamento de processos legislativos externos e internos à Casa. [1, 6] 
+------------------------------
+## 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode [1, 6] | O que isso significa na prática | Fonte |
+|---|---|---|
+| Prestar assessoramento parlamentar | Redigir notas técnicas, propostas, minutas de projetos e discursos para subsidiar o deputado. | Resolução da Câmara nº 1/2007 (Art. 1º)[](https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-publicacaooriginal-68191-pl.html) |
+| Exercer funções administrativas internas | Coordenar equipes do gabinete, organizar agendas e gerir rotinas de trabalho internas. | Resolução da Câmara nº 1/2007 (Art. 1º) |
+| Trabalhar fora das dependências físicas | Exercer as atividades do cargo no estado de representação do parlamentar ou em locais externos à Câmara. | Projeto de Resolução nº 57/2015 / Atos da Mesa da Câmara[](https://www.congressoemfoco.com.br/noticia/57143/camara-regulamenta-trabalho-de-ocupantes-de-cargo-de-natureza-especial) |
+
+------------------------------
+## 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Protocolar projetos ou discursos | O assessor não detém mandato representativo, o qual é uma prerrogativa constitucional do parlamentar eleito. | Constituição Federal de 1988 e Regimento Interno da Câmara. |
+| Aprovar ou rejeitar relatórios | O poder de voto e manifestação oficial em comissões é restrito e intransferível aos parlamentares. | Deputados Federais integrantes das respectivas Comissões. |
+| Alterar a sua própria remuneração | Os vencimentos e estruturas dos CNEs são definidos e alterados exclusivamente por leis e resoluções específicas da Casa. | Mesa Diretora da Câmara dos Deputados e Plenário. |
+
+------------------------------
+## 5. DO QUE ESSE CARGO DEPENDE
+A atuação e a permanência do ocupante do cargo dependem estritamente da vontade e da indicação do Deputado Federal titular do gabinete, dada a natureza de livre nomeação e exoneração (ad nutum). Do ponto de vista institucional, o cargo depende do orçamento da verba de gabinete disponibilizada mensalmente pela Câmara dos Deputados e do cumprimento das normas internas fixadas pela Mesa Diretora sobre o controle de frequência e conduta funcional. [3, 6, 7] 
+------------------------------
+## 6. TRADUÇÃO PRÁTICA
+Para um cidadão comum, o ocupante do Cargo de Natureza Especial (CNE) funciona como um auxiliar técnico ou político especializado do deputado. Ele não cria leis sozinho e nem possui poder de voto, agindo apenas nos bastidores para fornecer informações, organizar o trabalho do gabinete e preparar materiais que o deputado utilizará no dia a dia da Câmara.
+------------------------------
+## 7. RESPONSABILIDADE
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Limitada às atribuições internas de chefia de equipe, emissão de relatórios específicos solicitados e cumprimento da jornada de trabalho estabelecida. |
+| Responsabilidade compartilhada | No auxílio à construção de propostas, discursos e relatórios legislativos formulados coletivamente pelo corpo técnico do gabinete. |
+| Influência política | Na interlocução institucional com prefeituras, órgãos do Executivo e entidades civis para receber e triar demandas destinadas ao deputado. |
+| Ausência de competência direta | Não possui competência administrativa nem parlamentar externa; não assina atos normativos, não vota e não assume compromissos oficiais em nome da instituição Câmara dos Deputados. |
+
+------------------------------
+## 8. FONTES
+A) Fontes oficiais ou institucionais para confirmar vínculo pessoa-cargo:
+
+* Não aplicável nesta resposta, pois nenhuma pessoa específica foi informada para verificação de vínculo.
+
+B) Fontes oficiais ou institucionais para explicar competências do cargo:
+
+* Nome: [Resolução da Câmara dos Deputados nº 1, de 2007 (Texto Atualizado)](https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-normaatualizada-pl.html)
+* Classificação: OFICIAL
+   * Tipo: Ato Administrativo Normativo da Câmara dos Deputados.
+   * Data: 07 de janeiro de 2007.
+   * Informação confirmada: Finalidades, vedações, destinação e composição das estruturas de Cargos de Natureza Especial (CNE) no âmbito do Poder Legislativo Federal. [1, 8] 
+* Nome: [Portal da Transparência - Pessoal de Gabinete do Deputado Kim Kataguiri](https://www.camara.leg.br/deputados/204536/pessoal-gabinete?ano=2024)
+* Classificação: OFICIAL
+   * Tipo: Portal Governamental de Transparência Humana.
+   * Data: Consulta referente ao histórico de 2024.
+   * Informação confirmada: Confirmação da lotação regular de servidores sob a categoria funcional de "Cargo de Natureza Especial" (CNE) na estrutura do gabinete do parlamentar indicado no ano de 2024. [2] 
+
+------------------------------
+## 9. COMO USAR ESTA INFORMAÇÃO
+Esta análise foca unicamente na estrutura normativa que rege o cargo, sem emitir juízos de valor sobre o desempenho ou as escolhas políticas da gestão do gabinete.
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+[1] [https://www2.camara.leg.br](https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-publicacaooriginal-68191-pl.html)
+[2] [https://www.camara.leg.br](https://www.camara.leg.br/deputados/204536/pessoal-gabinete?ano=2024)
+[3] [https://paraibaonline.com.br](https://paraibaonline.com.br/brasil/2025/07/21/camara-federal-gasta-r-1-bi-por-ano-com-funcionarios-sem-controle-de-presenca/)
+[4] [https://www.al.sp.gov.br](https://www.al.sp.gov.br/institucional/assembleia/)
+[5] [https://www2.camara.leg.br](https://www2.camara.leg.br/legin/fed/rescad/1998/resolucaodacamaradosdeputados-28-20-maio-1998-321132-normaatualizada-pl.doc)
+[6] [https://www.congressoemfoco.com.br](https://www.congressoemfoco.com.br/noticia/57143/camara-regulamenta-trabalho-de-ocupantes-de-cargo-de-natureza-especial)
+[7] [https://www2.camara.leg.br](https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa/guia-para-jornalistas/verba-de-gabinete)
+[8] [https://www2.camara.leg.br](https://www2.camara.leg.br/legin/fed/rescad/2007/resolucaodacamaradosdeputados-1-7-janeiro-2007-551641-normaatualizada-pl.html)

@@ -1,0 +1,173 @@
+===============================================================================
+               ANÁLISE INSTITUCIONAL: VICE-PRESIDENTE DO STF
+===============================================================================
+
+1. CARGO ANALISADO
+-------------------------------------------------------------------------------
+* Cargo: Vice-presidente do Supremo Tribunal Federal (STF).
+* Pessoa, se houver: Não informada.
+* Período, se houver: Não informado.
+* A pessoa exerceu esse cargo no período indicado? Não informado.
+* Esfera: Federal.
+* Poder ou estrutura: Poder Judiciário da União.
+* Tipo de cargo: Cargo de direção institucional (eletivo interno).
+
+O Vice-presidente do STF substitui o Presidente do Tribunal em suas ausências,
+licenças ou impedimentos, assumindo a liderança temporária ou definitiva da
+Corte e integrando a linha de substituição da Presidência da República.
+
+-------------------------------------------------------------------------------
+2. FUNÇÃO PRINCIPAL DO CARGO
+-------------------------------------------------------------------------------
+O cargo existe para assegurar a continuidade administrativa e jurisdicional do
+Supremo Tribunal Federal na ausência do titular da Presidência. O papel geral
+de quem ocupa essa função é atuar as como substituto legal do Presidente e 
+assumir a gestão institucional e a condução dos trabalhos plenários quando o 
+titular estiver impossibilitado de fazê-lo.
+
+-------------------------------------------------------------------------------
+3. O QUE ESSE CARGO PODE FAZER
+-------------------------------------------------------------------------------
++------------------------------------+------------------------------------+------------------------------------+
+
+| O cargo pode                       | O que isso significa na prática    | Fonte                              |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Substituir o Presidente do STF     | Assume o comando do Tribunal,      | OFICIAL: Art. 14 do Regimento      |
+|                                    | profere decisões urgentes no       | Interno do STF                     |
+|                                    | recesso e dirige sessões em caso   |                                    |
+|                                    | de licença ou impedimento do       |                                    |
+|                                    | titular.                           |                                    |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Suceder o Presidente em caso de    | Assume definitivamente a           | OFICIAL: Art. 14 do Regimento      |
+| vaga                               | Presidência do STF caso o cargo    | Interno do STF                     |
+|                                    | fique vago, exercendo o mandato    |                                    |
+|                                    | até a posse de um novo titular.    |                                    |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Substituir interinamente o         | Integra a linha de sucessão        | OFICIAL: Art. 80 da Constituição   |
+| Presidente da República            | presidencial da República, podendo | Federal                            |
+|                                    | assumir a Chefia do Poder          |                                    |
+|                                    | Executivo em caráter interino.     |                                    |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Manter funções jurisdicionais      | Continua a atuar como Ministro da  | OFICIAL: Regimento Interno do STF  |
+| ordinárias                         | Corte, relatando e votando nos     |                                    |
+|                                    | processos distribuídos ordinários. |                                    |
++------------------------------------+------------------------------------+------------------------------------+
+
+-------------------------------------------------------------------------------
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+-------------------------------------------------------------------------------
++------------------------------------+------------------------------------+------------------------------------+
+
+| O cargo não pode sozinho           | Por quê                            | Quem ou o que também participa     |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Exercer as atribuições exclusivas  | O Vice-presidente não detém o      | O Presidente do STF, que detém a   |
+| do Presidente                      | poder de representação autônoma    | titularidade originária dessas     |
+|                                    | cotidiana enquanto o titular       | competências regimentais.          |
+|                                    | estiver em exercício regular.      |                                    |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Alterar regras internas ou         | Não possui competência isolada     | O Plenário do STF, por meio de     |
+| regimentais do Tribunal            | para modificar as normas           | votação e aprovação de Emendas     |
+|                                    | procedimentais da Corte.           | Regimentais pelos Ministros.       |
++------------------------------------+------------------------------------+------------------------------------+
+
+| Julgar e decidir ações penais      | O julgamento de crimes comuns de   | O Plenário ou as Turmas do STF, a  |
+| originárias de autoridades         | autoridades sob a jurisdição do    | depender do cargo ocupado pela     |
+|                                    | STF exige deliberação coletiva.    | autoridade processada.             |
++------------------------------------+------------------------------------+------------------------------------+
+
+-------------------------------------------------------------------------------
+5. DO QUE ESSE CARGO DEPENDE
+-------------------------------------------------------------------------------
+A atuação do Vice-presidente do STF é estritamente condicionada e limitada por
+fatores regimentais e constitucionais:
+
+* Afastamento do Titular: O exercício das funções diretivas principais depende
+  diretamente da ocorrência formal de licença, ausência, impedimento ou
+  vacância do Presidente do STF.
+* Constituição Federal e Regimento Interno: Toda e qualquer decisão tomada no
+  exercício da substituição deve seguir as balizas fixadas pela Constituição
+  Federal e pelo Regimento Interno do STF.
+* Decisões Colegiadas: Em matérias de mérito jurisdicional do tribunal, o
+  Vice-presidente submete-se ao entendimento majoritário do Plenário ou das
+  Turmas do STF.
+
+-------------------------------------------------------------------------------
+6. TRADUÇÃO PRÁTICA
+-------------------------------------------------------------------------------
+Para o cidadão comum, o Vice-presidente do STF funciona como um "reserva
+imediato". Ele possui as atribuições normais de um Ministro do tribunal, mas,
+caso o Presidente da Corte precise se afastar ou viajar, o Vice-presidente
+assume o controle para garantir que o tribunal não pare e continue proferindo
+decisões urgentes. Além disso, ele é a quarta pessoa na linha para assumir
+temporariamente a Presidência do Brasil em uma eventual falta de todos os
+outros substitutos políticos anteriores.
+
+-------------------------------------------------------------------------------
+7. RESPONSABILIDADE
+-------------------------------------------------------------------------------
++------------------------------------+-------------------------------------------------------------------------+
+
+| Tipo de relação                    | O que significa                                                         |
++------------------------------------+-------------------------------------------------------------------------+
+
+| Responsabilidade direta            | Quando assume formalmente a Presidência nas ausências do titular,       |
+|                                    | respondendo pelos atos de gestão administrativa urgentes e condução.    |
++------------------------------------+-------------------------------------------------------------------------+
+
+| Responsabilidade compartilhada     | Na atividade comum de julgar ações no tribunal, onde seus votos somam-  |
+|                                    | se aos dos demais ministros para formar as decisões colegiadas do STF.  |
++------------------------------------+-------------------------------------------------------------------------+
+
+| Influência política                | Na interlocução interna com os demais Ministros e na representação      |
+|                                    | institucional pontual delegada decorrente da substituição.              |
++------------------------------------+-------------------------------------------------------------------------+
+
+| Ausência de competência direta     | Não possui competência administrativa ordinária sobre a gestão do       |
+|                                    | Tribunal enquanto o Presidente estiver no exercício regular das funções.  |
++------------------------------------+-------------------------------------------------------------------------+
+
+-------------------------------------------------------------------------------
+8. FONTES
+-------------------------------------------------------------------------------
+B) Fontes para explicar competências do cargo:
+
+* Nome: Constituição da República Federativa do Brasil de 1988
+  - Classificação: OFICIAL
+  - Tipo: Normativa constitucional
+
+
+* Data: 05 de outubro de 1988 (com atualizações)
+* Informação confirmada: Regras sobre a linha de substituição interina do
+Presidente da República (Artigo 80).
+
+
+* Nome: Regimento Interno do Supremo Tribunal Federal (RISTF)
+* Classificação: OFICIAL
+   * Tipo: Regimento interno de Tribunal
+   * Data: Publicação original e compilação de Emendas Regimentais
+   * Informação confirmada: Competência do Vice-presidente para substituir e
+   suceder o Presidente do Tribunal (Artigo 14) e organização interna das
+   atribuições de comando da Corte.
+
+------------------------------
+
+   1. COMO USAR ESTA INFORMAÇÃO
+
+------------------------------
+Esta análise técnica não avalia o desempenho pessoal, político ou judicial de
+nenhum ocupante histórico ou atual do cargo, restringindo-se a detalhar o
+desenho institucional desenhado pelas leis brasileiras.
+## “Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes
+que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+
+---
+Caso decida analisar outros cargos da estrutura institucional, informe se prefere detalhar a função do **Presidente da Câmara dos Deputados** ou do **Presidente do Senado Federal**.
+
+

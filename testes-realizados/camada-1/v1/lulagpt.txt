@@ -1,0 +1,210 @@
+**Fonte do texto analisado:** 
+
+# 1. VALIDAÇÃO DO CARGO ANALISADO
+
+| Item                                              | Informação                                                                                                                                |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Pessoa analisada                                  | Luiz Inácio Lula da Silva                                                                                                                 |
+| Cargo/função analisado                            | Presidente da República                                                                                                                   |
+| Período analisado                                 | 2023–atual                                                                                                                                |
+| Confirmação de que exerceu o cargo                | Sim                                                                                                                                       |
+| Fonte usada para confirmar o vínculo pessoa-cargo | Portal da Presidência da República (Planalto) e página institucional "Quem é Quem" da Presidência ([Serviços e Informações do Brasil][1]) |
+| Esfera                                            | Federal                                                                                                                                   |
+| Poder ou estrutura                                | Poder Executivo                                                                                                                           |
+| Tipo de cargo                                     | Eleito                                                                                                                                    |
+
+**Explicação simples:**
+Há registro oficial de que Luiz Inácio Lula da Silva exerce o cargo de Presidente da República desde 1º de janeiro de 2023. ([Serviços e Informações do Brasil][1])
+
+---
+
+# 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O Presidente da República é o chefe do Poder Executivo Federal.
+
+A função principal do cargo é:
+
+* dirigir a administração federal;
+* executar as leis aprovadas pelo Poder Legislativo;
+* representar o Brasil institucionalmente;
+* coordenar a atuação dos ministérios;
+* exercer competências previstas na Constituição Federal.
+
+O cargo existe para conduzir a administração do governo federal dentro dos limites definidos pela Constituição. ([Normas][2])
+
+---
+
+# 3. O QUE ESSE CARGO PODE FAZER
+
+| O cargo pode                                         | O que isso significa na prática                                                  | Fonte                                             |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Nomear e exonerar Ministros de Estado                | Escolher e substituir ministros que comandam os ministérios                      | Constituição Federal, art. 84, I ([Normas][2])    |
+| Exercer a direção superior da administração federal  | Coordenar a atuação do governo federal                                           | Constituição Federal, art. 84, II ([Normas][2])   |
+| Sancionar ou vetar projetos de lei                   | Aprovar ou rejeitar total ou parcialmente leis aprovadas pelo Congresso          | Constituição Federal, art. 84, IV ([Normas][2])   |
+| Editar decretos e regulamentos                       | Regulamentar a execução de leis já existentes                                    | Constituição Federal, art. 84, IV ([Normas][2])   |
+| Encaminhar projetos de lei ao Congresso              | Propor mudanças legislativas dentro de suas competências                         | Constituição Federal ([Planalto][3])              |
+| Nomear autoridades previstas em lei                  | Realizar nomeações para diversos cargos federais conforme regras constitucionais | Constituição Federal, art. 84 ([Normas][2])       |
+| Celebrar tratados e acordos internacionais           | Firmar acordos em nome do Brasil, observadas as exigências constitucionais       | Constituição Federal, art. 84, VIII ([Normas][2]) |
+| Comandar as Forças Armadas                           | Exercer a chefia suprema das Forças Armadas                                      | Constituição Federal, art. 84, XIII ([Normas][2]) |
+| Conceder indulto e comutar penas nos casos previstos | Exercício de competência constitucional específica                               | Constituição Federal, art. 84, XII ([Normas][2])  |
+
+---
+
+# 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+| O cargo não pode sozinho                               | Por quê                                      | Quem ou o que também participa |
+| ------------------------------------------------------ | -------------------------------------------- | ------------------------------ |
+| Criar leis                                             | Leis dependem de processo legislativo        | Congresso Nacional             |
+| Alterar a Constituição                                 | Exige procedimento constitucional específico | Câmara dos Deputados e Senado  |
+| Aprovar o orçamento federal sozinho                    | O orçamento depende de aprovação legislativa | Congresso Nacional             |
+| Criar ou aumentar impostos livremente                  | Necessita base legal e processo legislativo  | Congresso Nacional             |
+| Escolher certas autoridades sem controle institucional | Algumas nomeações exigem aprovação           | Senado Federal                 |
+| Julgar processos judiciais                             | Julgamento é função do Judiciário            | Tribunais                      |
+| Declarar alguém culpado ou inocente                    | Competência jurisdicional                    | Poder Judiciário               |
+| Determinar decisões do STF                             | Há separação de Poderes                      | Supremo Tribunal Federal       |
+
+([Planalto][3])
+
+---
+
+# 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Presidente da República é condicionada por diversos fatores institucionais:
+
+| Dependência          | Como influencia                                                    |
+| -------------------- | ------------------------------------------------------------------ |
+| Congresso Nacional   | Aprovação de leis, orçamento e diversas medidas                    |
+| Câmara dos Deputados | Participa do processo legislativo                                  |
+| Senado Federal       | Participa do processo legislativo e aprova determinadas indicações |
+| Constituição Federal | Define limites e competências                                      |
+| Poder Judiciário     | Pode controlar a constitucionalidade de atos                       |
+| Tribunais de Contas  | Fiscalizam aspectos legais e financeiros                           |
+| Ministérios          | Executam políticas públicas federais                               |
+| Orçamento aprovado   | Limita gastos e programas                                          |
+| Leis já existentes   | Vinculam a atuação administrativa                                  |
+
+([Planalto][3])
+
+---
+
+# 6. TRADUÇÃO PRÁTICA
+
+Na prática, isso significa que:
+
+* O Presidente possui poderes relevantes dentro do governo federal.
+* Nem toda decisão pública depende apenas dele.
+* Muitas medidas exigem aprovação do Congresso.
+* Algumas decisões dependem do Judiciário.
+* A execução de políticas públicas normalmente envolve ministérios, servidores públicos, orçamento e legislação.
+
+Por isso, quando alguém atribui mérito ou responsabilidade a um Presidente, é importante verificar se aquele assunto era efetivamente competência direta do cargo ou se dependia de outras instituições.
+
+---
+
+# 7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+
+| Tipo de relação                | O que significa                                                                                 |
+| ------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Responsabilidade direta        | Quando o Presidente possui competência formal para decidir ou executar                          |
+| Responsabilidade compartilhada | Quando a decisão depende também do Congresso, tribunais, orçamento ou outros órgãos             |
+| Influência política            | Quando o Presidente pode articular, negociar ou defender determinada medida sem decidir sozinho |
+| Ausência de competência direta | Quando o tema pertence legalmente a outro órgão ou ente federativo                              |
+
+**Explicação simples:**
+A existência de influência política não significa necessariamente existência de competência formal. Da mesma forma, possuir competência formal não significa que a decisão possa ser tomada sem observar limites legais e institucionais.
+
+---
+
+# 8. FONTES
+
+## A) Fontes para confirmar vínculo pessoa-cargo
+
+### Fonte 1
+
+* Nome da fonte: Presidência da República – Quem é Quem
+* Classificação: OFICIAL
+* Tipo: Portal governamental
+* Data: consulta realizada em 2026
+* Informação confirmada: Luiz Inácio Lula da Silva ocupa o cargo de Presidente da República. ([Serviços e Informações do Brasil][1])
+
+### Fonte 2
+
+* Nome da fonte: Biografia do Presidente da República
+* Classificação: OFICIAL
+* Tipo: Portal governamental
+* Data: consulta realizada em 2026
+* Informação confirmada: identifica Lula como Presidente da República. ([Serviços e Informações do Brasil][4])
+
+---
+
+## B) Fontes para explicar competências do cargo
+
+### Fonte 1
+
+* Nome da fonte: Constituição da República Federativa do Brasil de 1988
+* Classificação: OFICIAL
+* Tipo: Constituição Federal
+* Data: vigente
+* Competência ou limite explicado: atribuições constitucionais do Presidente da República. ([Planalto][3])
+
+### Fonte 2
+
+* Nome da fonte: Supremo Tribunal Federal – Artigo 84 da Constituição
+* Classificação: OFICIAL
+* Tipo: Portal institucional do STF
+* Data: consulta realizada em 2026
+* Competência ou limite explicado: competências privativas do Presidente da República. ([STF Portal][5])
+
+### Fonte 3
+
+* Nome da fonte: Constituição Federal – Artigo 84
+* Classificação: OFICIAL
+* Tipo: Texto constitucional
+* Data: vigente
+* Competência ou limite explicado: nomeações, sanção e veto, decretos, tratados, Forças Armadas e demais atribuições presidenciais. ([Normas][2])
+
+---
+
+# 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada **não diz se a pessoa foi boa ou ruim no cargo**.
+
+Esta camada **mostra o que o cargo permitia ou não permitia fazer**.
+
+Para avaliar a atuação da pessoa, será necessário analisar atos concretos, decisões, projetos, vetos, decretos, nomeações, resultados administrativos ou outras informações específicas.
+
+Antes de atribuir mérito, culpa ou responsabilidade por qualquer tema, é importante verificar se o cargo possuía competência direta sobre aquele assunto ou se a decisão dependia de outras instituições.
+
+**Texto fixo:**
+
+> “Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+---
+
+# 10. SE QUISER IR MAIS FUNDO
+
+**Sobre o cargo**
+
+* “Explique melhor as atribuições desse cargo”
+* “Compare esse cargo com outro cargo parecido”
+
+**Sobre dependências**
+
+* “Quais decisões dependem de outros órgãos?”
+* “Quem mais participa dessas decisões?”
+
+**Sobre responsabilidade**
+
+* “Como saber se a responsabilidade era direta ou compartilhada?”
+* “Como diferenciar poder formal de influência política?”
+
+**Sobre exemplos práticos**
+
+* “Dê exemplos simples de decisões que esse cargo pode tomar”
+* “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”
+
+[1]: https://www.gov.br/planalto/pt-br/acesso-a-informacao/institucional/principais-cargos-e-respectivos-ocupantes-201cquem-e-quem201d?utm_source=chatgpt.com "QUEM É QUEM | Principais cargos e respectivos ocupantes ..."
+[2]: https://normas.leg.br/?urn=urn%3Alex%3Abr%3Afederal%3Aconstituicao%3A1988-10-05%3B1988%401988-10-05%21art84&utm_source=chatgpt.com "Art. 84. da Constituição da República Federativa do Brasil"
+[3]: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm?utm_source=chatgpt.com "Constituição - Planalto"
+[4]: https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente?utm_source=chatgpt.com "Biografia do Presidente da República — Planalto - Portal Gov.br"
+[5]: https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirArtigo=84&abrirBase=CF&utm_source=chatgpt.com "Das Atribuições do Presidente da República (art. 84)"

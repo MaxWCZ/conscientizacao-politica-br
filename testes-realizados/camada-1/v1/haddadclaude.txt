@@ -1,0 +1,93 @@
+Vou seguir o protocolo detalhado do documento para analisar o cargo de Senador atribuído a Fernando Haddad em 2018.
+
+---
+
+## 🔒 VALIDAÇÃO INICIAL OBRIGATÓRIA
+
+Antes de qualquer análise, é necessário verificar se Fernando Haddad exerceu o cargo de Senador em 2018.
+
+**Fernando Haddad não exerceu o cargo de Senador em 2018.**
+
+Em 2018, Fernando Haddad foi candidato à Presidência da República pelo PT, após substituir Luiz Inácio Lula da Silva na disputa eleitoral. Ele não foi senador nesse período nem em nenhum outro.
+
+> ⚠️ **Não há registro público de que Fernando Haddad tenha exercido o cargo de Senador em qualquer período, incluindo 2018.**
+
+---
+
+## 🔹 1. VALIDAÇÃO DO CARGO ANALISADO
+
+| Campo | Informação |
+|---|---|
+| **Pessoa analisada** | Fernando Haddad |
+| **Cargo/função informado** | Senador |
+| **Período informado** | 2018 |
+| **Confirmação do vínculo pessoa-cargo** | ❌ Não confirmado |
+| **Fonte usada para tentativa de confirmação** | Senado Federal (senado.leg.br) — OFICIAL; TSE (tse.jus.br) — OFICIAL |
+| **Esfera** | Federal |
+| **Poder ou estrutura** | Legislativo |
+| **Tipo de cargo** | Eleito |
+
+**Resultado da validação:** O cargo de Senador **não pode ser atribuído** a Fernando Haddad no período informado. Não há registro de que ele tenha sido eleito ou exercido mandato no Senado Federal.
+
+---
+
+## ⚠️ O que fazer a partir daqui
+
+Como o vínculo pessoa-cargo **não foi confirmado**, as regras do protocolo determinam:
+
+- As competências do cargo de Senador **não devem ser vinculadas a Fernando Haddad**
+- A função do cargo pode ser descrita apenas de forma geral, sem associá-la à pessoa
+
+---
+
+## 🔹 Orientação ao usuário
+
+Pode ter ocorrido uma **confusão entre cargos ou períodos**. Alguns cargos que Fernando Haddad de fato exerceu:
+
+| Cargo | Período | Esfera |
+|---|---|---|
+| Ministro da Educação | 2005–2012 | Federal / Executivo |
+| Prefeito de São Paulo | 2013–2016 | Municipal / Executivo |
+| Candidato à Presidência da República | 2018 | — (candidatura) |
+| Ministro da Fazenda | 2023–atual | Federal / Executivo |
+
+Se desejar, você pode:
+- **Revisar o cargo** → indicar um dos cargos acima para análise
+- **Revisar o período** → verificar se há outro cargo em 2018
+
+---
+
+## 🔹 8. FONTES
+
+### A) Fontes para tentativa de confirmação do vínculo pessoa-cargo
+
+- **Nome:** Portal do Senado Federal (senado.leg.br)
+- **Classificação:** OFICIAL
+- **Tipo:** Portal institucional da Casa Legislativa
+- **Informação verificada:** Não há registro de Fernando Haddad como senador
+
+---
+
+- **Nome:** TSE — Tribunal Superior Eleitoral (tse.jus.br / DivulgaCand)
+- **Classificação:** OFICIAL
+- **Tipo:** Sistema de candidaturas e mandatos eleitorais
+- **Informação verificada:** Em 2018, Fernando Haddad consta como candidato à Presidência da República, não ao Senado
+
+---
+
+## 🔹 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não diz se a pessoa foi boa ou ruim. Ela verifica se o cargo informado corresponde ao que a pessoa realmente exerceu. Neste caso, **a correspondência não foi confirmada**, o que impede a análise das competências do cargo vinculada à pessoa.
+
+> "Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha."
+
+---
+
+## 🔹 10. SE QUISER IR MAIS FUNDO
+
+**Sobre o cargo**
+- "Explique melhor as atribuições do cargo de Senador"
+- "Compare o cargo de Senador com o de Deputado Federal"
+
+**Sobre a pessoa**
+- Caso queira analisar um cargo que Fernando Haddad realmente exerceu, indique qual cargo e período — e a análise completa será feita com base nas fontes adequadas.

@@ -1,0 +1,129 @@
+## 🔹 1. VALIDAÇÃO DO CARGO ANALISADO
+
+* **Pessoa analisada:** Fernando Haddad
+* **Cargo/função analisado:** Senador
+* **Período analisado:** 2018
+* **Confirmação de que a pessoa exerceu o cargo/função:** Não há confirmação.
+* **Fonte usada para confirmar o vínculo pessoa-cargo:** Dados do Tribunal Superior Eleitoral (TSE) e o histórico do Ministério da Educação.
+* **Esfera:** Federal.
+* **Poder ou estrutura:** Legislativo.
+* **Tipo de cargo:** Eleito.
+
+Não há registro público claro de que essa pessoa tenha exercido esse cargo/função no período informado. Em 2018, Fernando Haddad atuou como candidato à Presidência da República, não possuindo mandato de Senador. Conforme as regras de validação institucionais, a análise das competências do cargo a seguir é feita de forma puramente teórica e genérica, sem qualquer vínculo com a atuação da pessoa citada.
+
+---
+
+## 🔹 2. FUNÇÃO PRINCIPAL DO CARGO
+
+O cargo de Senador existe para representar os estados e o Distrito Federal de forma igualitária na esfera federal. A sua função principal é propor, debater, revisar e votar as leis que regem o país. Também atua diretamente na fiscalização das ações administrativas do Poder Executivo.
+
+---
+
+## 🔹 3. O QUE ESSE CARGO PODE FAZER
+
+
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Propor e votar leis | Participar da criação e alteração de normas nacionais válidas em todo o território. | Constituição Federal (Art. 48) |
+| Julgar crimes de responsabilidade | Votar no processo de cassação ou impeachment do Presidente da República e Ministros do STF. | Constituição Federal (Art. 52, I) |
+| Sabatinar autoridades | Aprovar ou rejeitar indicações do Executivo para cargos como embaixadores e diretores do Banco Central. | Constituição Federal (Art. 52, III) |
+| Fiscalizar atos do governo | Monitorar a aplicação de recursos e o cumprimento das leis pela gestão pública federal. | Constituição Federal (Art. 74) |
+
+---
+
+## 🔹 4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+
+
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Aprovar leis federais | O sistema brasileiro é bicameral e necessita do aval de ambas as Casas legislativas e do Executivo. | Câmara dos Deputados e Presidência da República. |
+| Executar obras e serviços | A gestão direta e a aplicação prática de políticas públicas pertencem à função administrativa do Executivo. | Presidência da República e Ministérios. |
+| Validar o orçamento da União | O planejamento financeiro depende de proposta do governo e votação conjunta no parlamento. | Congresso Nacional e Poder Executivo. |
+| Punir cidadãos comuns | A aplicação de penas por crimes civis ou penais comuns é uma prerrogativa do Judiciário. | Tribunais e juízes de Direito. |
+
+---
+
+## 🔹 5. DO QUE ESSE CARGO DEPENDE
+
+A atuação do Senador é delimitada pelo rito coletivo e pelas normas constitucionais:
+* **Câmara dos Deputados:** Necessária para revisar ou validar os projetos iniciados no Senado.
+* **Presidência da República:** Detém o poder de sancionar ou vetar projetos de lei convertidos pelo Legislativo.
+* **Regimento Interno do Senado:** Conjunto de regras que define prazos, trâmites e ordens de votação.
+* **Orçamento Aprovado:** Condiciona os limites financeiros e as emendas parlamentares viáveis.
+* **Decisão Colegiada:** Toda deliberação relevante exige maioria de votos em comissões ou no plenário.
+
+---
+
+## 🔹 6. TRADUÇÃO PRÁTICA
+
+Na prática, isso significa que um Senador possui papel decisivo nas escolhas institucionais e regulatórias do país, mas não governa de forma isolada. Esse cargo pode influenciar os rumos de uma política pública criando regras, mas a execução prática e a liberação de verbas dependem do Poder Executivo. Para avaliar a atuação legislativa, deve-se observar se o tema em debate fazia parte de suas funções de propor ou fiscalizar, e não de realizar obras públicas diretamente.
+
+---
+
+## 🔹 7. RESPONSABILIDADE: DIRETA, COMPARTILHADA, INDIRETA OU INEXISTENTE
+
+
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Quando o parlamentar elabora propostas de lei, relata projetos ou realiza votações nominais. |
+| Responsabilidade compartilhada | Quando o resultado final depende do voto coletivo de maiorias no plenário do Congresso. |
+| Influência política | Quando o ocupante articula blocos partidários, negocia emendas ou defende pautas setoriais. |
+| Ausência de competência direta | Quando a demanda envolve ordens de serviço locais, policiamento ou nomeações administrativas do Executivo. |
+
+---
+
+## 🔹 8. FONTES
+
+### ## A) Fontes para confirmar vínculo pessoa-cargo
+* **Nome da fonte:** Relatório 1º Turno Eleições 2018 - TRE-MG
+* **Classificação:** OFICIAL
+* **Tipo:** Portal Eleitoral Oficial
+* **Data:** 2018
+* **Informação confirmada:** Indica que Fernando Haddad disputou a eleição presidencial de 2018, sem registros de candidatura ou posse no cargo de Senador naquele período.
+
+* **Nome da fonte:** Galeria de Ministros - Portal Gov.br
+* **Classificação:** OFICIAL
+* **Tipo:** Página Governamental Institucional
+* **Data:** 19/09/2023
+* **Informação confirmada:** Apresenta a biografia oficial detalhando os cargos exercidos (Prefeito e Ministro), indicando a ausência de mandato no Senado Federal.
+
+### ## B) Fontes para explicar competências do cargo
+* **Nome da fonte:** Constituição da República Federativa do Brasil
+* **Classificação:** OFICIAL
+* **Tipo:** Texto Constitucional Compilado
+* **Data:** 1988
+* **Competência ou limite explicado:** Regula o Poder Legislativo Federal (Artigos 44, 48 e 52), especificando as atribuições exclusivas e limites de atuação do Senado Federal.
+
+* **Nome da fonte:** Regimento Interno do Senado Federal
+* **Classificação:** OFICIAL
+* **Tipo:** Resolução Normativa Interna
+* **Data:** Versão consolidada
+* **Competência ou limite explicado:** Estabelece os ritos formais de tramitação, votação em comissões técnicas e funcionamento das sessões deliberativas.
+
+---
+
+## 🔹 9. COMO USAR ESTA INFORMAÇÃO
+
+Esta camada não diz se a pessoa foi boa ou ruim. Esta camada mostra o que o cargo permitia ou não permitia fazer. Para avaliar atuação, será necessário consultar atos, votos, decisões, projetos ou resultados em outras camadas. Antes de atribuir culpa ou mérito, verifique se o cargo tinha poder direto sobre o tema.
+
+“Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.”
+
+---
+
+## 🔹 10. SE QUISER IR MAIS FUNDO
+
+**Sobre o cargo**
+- “Explique melhor as atribuições desse cargo”
+- “Compare esse cargo com outro cargo parecido”
+
+**Sobre dependências**
+- “Quais decisões dependem de outros órgãos?”
+- “Quem mais participa dessas decisões?”
+
+**Sobre responsabilidade**
+- “Como saber se a responsabilidade era direta ou compartilhada?”
+- “Como diferenciar poder formal de influência política?”
+
+**Sobre examples práticos**
+- “Dê exemplos simples de decisões que esse cargo pode tomar”
+- “Mostre um exemplo de algo que parece responsabilidade desse cargo, mas depende de outros fatores”

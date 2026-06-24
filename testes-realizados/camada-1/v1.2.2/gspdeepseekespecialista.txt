@@ -1,0 +1,64 @@
+1. CARGO ANALISADO
+- Cargo: Governador do Estado de São Paulo
+- Pessoa, se houver: Paulo Maluf
+- Período, se houver: 2015
+- A pessoa exerceu esse cargo no período indicado? Não. Paulo Maluf exerceu o cargo de governador entre 15 de março de 1979 e 14 de maio de 1982. Em 2015, o titular do cargo era Geraldo Alckmin.
+- Esfera: Estadual
+- Poder ou estrutura: Poder Executivo
+- Tipo de cargo: Chefe do Executivo estadual, eleito por voto direto.
+
+Em termos simples: O governador comanda a administração do estado. Paulo Maluf já ocupou esse posto em um período diferente, mas não era governador em 2015.
+
+2. FUNÇÃO PRINCIPAL DO CARGO
+O cargo existe para chefiar a administração pública estadual, representar o estado nas suas relações jurídicas e políticas, e executar as leis e políticas públicas dentro dos limites da Constituição Federal e da Constituição do Estado de São Paulo.
+
+3. O QUE ESSE CARGO PODE FAZER
+| O cargo pode | O que isso significa na prática | Fonte |
+|---|---|---|
+| Sancionar ou vetar projetos de lei | Concordar com uma lei aprovada pelos deputados e colocá-la em vigor, ou barrá-la total ou parcialmente. | Constituição Estadual, art. 28, §1º, e art. 47, III |
+| Expedir decretos e regulamentos | Detalhar como uma lei será aplicada no dia a dia e organizar internamente o funcionamento da máquina pública. | Constituição Estadual, art. 47, III |
+| Nomear e exonerar secretários de estado | Formar a equipe de governo escolhendo os responsáveis por áreas como segurança, saúde e educação. | Constituição Estadual, art. 47, VII e VIII |
+| Representar o estado judicial e extrajudicialmente | Assinar contratos, responder a ações judiciais em nome do estado e negociar com outros governos. | Constituição Estadual, art. 47, I e II |
+| Administrar o orçamento do estado | Executar gastos, autorizar despesas e decidir onde investir os recursos estaduais, respeitando a lei orçamentária aprovada. | Constituição Estadual, art. 47, V, e Lei Orçamentária Anual |
+
+4. O QUE ESSE CARGO NÃO PODE FAZER SOZINHO
+| O cargo não pode sozinho | Por quê | Quem ou o que também participa |
+|---|---|---|
+| Criar leis ou alterar a Constituição Estadual | A função de legislar pertence à Assembleia Legislativa. O governador só pode propor projetos. | Assembleia Legislativa do Estado de São Paulo (ALESP) |
+| Criar ou aumentar tributos estaduais | Exige lei específica aprovada pelos deputados. | ALESP |
+| Aprovar o Orçamento Anual do estado | O governador envia a proposta, mas a palavra final é dos deputados. | ALESP |
+| Contratar empréstimos ou operações de crédito | Depende de autorização legislativa e, em muitos casos, de aval da União. | ALESP e Senado Federal |
+| Ter suas próprias contas anuais aprovadas | O julgamento político das contas do governo é feito pelos deputados, após análise técnica do Tribunal de Contas. | ALESP e Tribunal de Contas do Estado (TCE-SP) |
+
+5. DO QUE ESSE CARGO DEPENDE
+O governador depende da aprovação da Assembleia Legislativa para transformar suas principais propostas em lei e para ter autorização de gastos. Depende da arrecadação de impostos como ICMS e IPVA e de transferências do governo federal para ter dinheiro em caixa. Precisa da estrutura administrativa formada por secretarias, autarquias e servidores públicos para executar obras e serviços. Também está limitado pela Lei de Responsabilidade Fiscal, que impõe teto de gastos com pessoal e regras para endividamento.
+
+6. TRADUÇÃO PRÁTICA
+Para uma pessoa comum, o governador funciona como o “prefeito” de todo o estado. É ele quem responde pela qualidade do asfalto nas rodovias estaduais, pelo funcionamento das escolas de ensino médio, pela segurança feita pelas polícias Militar e Civil e pelos hospitais públicos estaduais. No entanto, ele não governa sozinho: se quiser construir um novo hospital ou aumentar o efetivo da polícia, precisa que os deputados estaduais aprovem a verba. Ele também não pode, por vontade própria, criar uma nova lei ou imposto; precisa negociar com o parlamento.
+
+7. RESPONSABILIDADE
+| Tipo de relação | O que significa |
+|---|---|
+| Responsabilidade direta | Nomear secretários, executar o orçamento aprovado, definir prioridades de gasto dentro do caixa do estado e sancionar ou vetar leis. |
+| Responsabilidade compartilhada | Criar leis, aprovar o orçamento anual, criar novos tributos e autorizar grandes empréstimos (dependem da Assembleia Legislativa). |
+| Influência política | Articular com partidos e deputados para formar maioria e aprovar projetos de seu interesse; representar o estado em reuniões com a União e outros governadores. |
+| Ausência de competência direta | Criar leis (função legislativa), julgar processos (função do Judiciário) e fiscalizar o próprio governo (função externa da Assembleia e do Tribunal de Contas). |
+
+8. FONTES
+**A) Fontes para verificar vínculo pessoa-cargo**
+- Nome: Galeria de Governadores do Estado de São Paulo (Palácio dos Bandeirantes)
+- Classificação: INSTITUCIONAL
+- Tipo: Sítio eletrônico institucional
+- Data: Consulta em 16/06/2026
+- Informação confirmada: Paulo Maluf consta como o 35º governador, com mandato exercido de 15/03/1979 a 14/05/1982. A mesma galeria indica Geraldo Alckmin como governador de 01/01/2015 a 06/04/2018. Não há vínculo de Maluf com o cargo no ano de 2015.
+
+**B) Fontes para explicar competências do cargo**
+- Nome: Constituição do Estado de São Paulo
+- Classificação: OFICIAL
+- Tipo: Texto constitucional
+- Data: Promulgada em 5 de outubro de 1989, atualizada até a Emenda Constitucional nº 51/2023. Artigos 28 e 47, entre outros.
+- Informação confirmada: Atribuições, poderes, limites e responsabilidades do Chefe do Poder Executivo estadual paulista.
+
+9. COMO USAR ESTA INFORMAÇÃO
+Esta camada não avalia desempenho; apenas mostra o que o cargo permite ou não permite fazer. Ela serve para compreender que, em 2015, Paulo Maluf não ocupava o posto de governador e, portanto, não detinha as atribuições descritas neste período específico.
+Entender a função real do cargo ajuda a evitar atribuir a uma pessoa poderes que ela não tinha, ou ignorar responsabilidades que ela realmente tinha.
