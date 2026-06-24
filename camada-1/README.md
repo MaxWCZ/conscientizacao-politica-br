@@ -7,10 +7,12 @@
 - inserir o contexto caso não tenha certeza sobre as informações anteriores;
 
 # Exemplos:
-- Cargo: Prefeito de São Paulo;
-- Cargo: Prefeito; Nome: Haddad;
-- Cargo: Governador; Período: 2015;
-- Cargo: Ministro da Fazenda; Contexto: indicado por Dilma.
+- Cargo: Prefeito de São Paulo
+- Cargo: Vereador; Pessoa, se houver: Joãozinho
+- Cargo: Governador do estado X; Período: 2015
+- Cargo: Ministro da fazenda; Contexto: nomeação pelo Presidente X
+- Cargo: Presidente do STF
+- Cargo: Senador; Contexto: presidência de comissão
 
 ---
 
