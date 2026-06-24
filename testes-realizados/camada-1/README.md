@@ -54,9 +54,9 @@ v2
 
 ---
 A versão oficial vigente encontra-se em:
-- [Prompt da Camada 1](../camada-1/prompt-camada-1.md)
+- [Prompt da Camada 1](/camada-1/prompt-camada-1.md)
 
 ---
 ## Navegação
-- [Testes realizados](/README.md)
-- [Voltar ao Projeto](../README.md)
+- [Testes realizados](../README.md)
+- [Voltar ao Projeto](/README.md)
