@@ -53,6 +53,7 @@ Em desenvolvimento.
 ## Diretórios Complementares
 
 ### [Fundamentos](../_fundamentos)
+Sobre Estrutura, Limitações, Metodologia e Objetivos.
 
 ### [Rascunhos](../rascunhos)
 Conteúdos em desenvolvimento ou reorganização.
