@@ -58,5 +58,5 @@ A versão oficial vigente encontra-se em:
 
 ---
 ## Navegação
-- [Testes realizados](../testes-realizados/README.md)
+- [Testes realizados](/README.md)
 - [Voltar ao Projeto](../README.md)
