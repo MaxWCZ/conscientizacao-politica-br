@@ -22,7 +22,7 @@ v4.4	- ajuste fino em fontes
 
 ---
 A versão oficial vigente encontra-se em:
-- [Prompt da Camada 1](/camada-0/prompt-camada-0.md)
+- [Prompt da Camada 0](/camada-0/prompt-camada-0.md)
 
 ---
 ## Navegação
