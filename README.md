@@ -1,6 +1,6 @@
 # Projeto Conscientização Política Brasileira
 
-Projeto independente voltado à organização, análise e disseminação de informações relacionadas à estrutura política, institucional e administrativa brasileira.
+Projeto independente voltado à organização, análise e disseminação de informações relacionadas à estrutura política, institucional e administrativa brasileira por meio de Ferramentas Generativas.
 
 ---
 
